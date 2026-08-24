@@ -5,7 +5,7 @@
     "name": "ARG D1: Club Atletico Tigre vs CA Central Cordoba SDE - BLV LUCAS",
     "logo": "https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1787611560-0-0-b57f235b62625b4bf3a6c307784a577f",
+    "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1787612160-0-0-d5180b64f00464d2122e12212a45c25c",
     "type": "hls"
   },
   {
@@ -14,7 +14,7 @@
     "name": "ARG D1: Club Atletico Tigre vs CA Central Cordoba SDE - BLV YONE",
     "logo": "https://sta.vnres.co/file/common/20260728/ba06eac3dc3ffeee0de25e8e0deaaceb.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1787611560-0-0-40a9bf3a1e0f1e2a49fee2a2514e362b",
+    "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1787612160-0-0-aeabd54598959db5184121adecd8b698",
     "type": "hls"
   },
   {
@@ -23,7 +23,7 @@
     "name": "MEX WD1: Atlante Women vs Toluca Women - BLV CHIVAS",
     "logo": "https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=04902c3d09325e2a0edd3ccdb6ae81c1\u0026txTime=6a8d0ff8",
+    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=381b5b2b3c0943db9b7972eefe8200ae\u0026txTime=6a8d1250",
     "type": "hls"
   },
   {
@@ -32,7 +32,16 @@
     "name": "ARG D1: Club Atletico Tigre vs CA Central Cordoba SDE - BLV RAMBO",
     "logo": "https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=d725a0d4702cb9caf3682e30d7891395\u0026txTime=6a8d0ff8",
+    "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=294c5195932ee4ff6ef11c0e7cc5d3eb\u0026txTime=6a8d1250",
+    "type": "hls"
+  },
+  {
+    "id": "603914",
+    "tvg_id": "room-603914",
+    "name": "BRA D2: Sport Club do Recife vs America MG - TRÀ ĐÁ",
+    "logo": "https://sta.vnres.co/file/common/20260406/de5933be539e85bbac3c5fdbddfe54b7.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1787612160-0-0-f82a33805c2a410c65e979757db3408a",
     "type": "hls"
   },
   {
@@ -41,7 +50,7 @@
     "name": "ARG D1: Club Atletico Tigre vs CA Central Cordoba SDE - HÀ DUY KIÊN",
     "logo": "https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=56837a098fa91563dab8c909141e83b4\u0026txTime=6a8d0ff8",
+    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=c1070ef55f984aec8d8b1059abde405b\u0026txTime=6a8d1250",
     "type": "hls"
   },
   {
@@ -50,7 +59,7 @@
     "name": "MEX WD1: Atlante Women vs Toluca Women - CƠM NẾP",
     "logo": "https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1787611560-0-0-06089609b7097e011632d60d8b78cd37",
+    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1787612160-0-0-519d4ca3558855b6a15b1e26d0ce843e",
     "type": "hls"
   }
 ]
