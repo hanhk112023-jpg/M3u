@@ -5,7 +5,7 @@
     "name": "ARG D1: Club Atletico Tigre vs CA Central Cordoba SDE - BLV LUCAS",
     "logo": "https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1787611140-0-0-658fa649fa4f0ad676b77087ad01bf61",
+    "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1787611320-0-0-b457c91a1216ed8cb30c9c7e6b78f4ab",
     "type": "hls"
   },
   {
@@ -14,7 +14,7 @@
     "name": "ARG D1: Club Atletico Tigre vs CA Central Cordoba SDE - BLV YONE",
     "logo": "https://sta.vnres.co/file/common/20260728/ba06eac3dc3ffeee0de25e8e0deaaceb.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1787611140-0-0-e62ab5d9c73ce57fd771096842f46ad8",
+    "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1787611320-0-0-1cfeb83ebc1ee8ef0225cce2e24cad0d",
     "type": "hls"
   },
   {
@@ -23,7 +23,7 @@
     "name": "MEX WD1: Atlante Women vs Toluca Women - BLV CHIVAS",
     "logo": "https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=8b274a9dbd0e21d19f2628bec15d8a0a\u0026txTime=6a8d0e54",
+    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=b2da1c2ae898804edd60d236276a2a90\u0026txTime=6a8d0f08",
     "type": "hls"
   },
   {
@@ -32,7 +32,16 @@
     "name": "ARG D1: Club Atletico Tigre vs CA Central Cordoba SDE - BLV RAMBO",
     "logo": "https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=693106219d5f7a8be926f6fc5e04251c\u0026txTime=6a8d0e54",
+    "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=0300b56b21b1ca722e1eb11ce8bd1951\u0026txTime=6a8d0eba",
+    "type": "hls"
+  },
+  {
+    "id": "607400",
+    "tvg_id": "room-607400",
+    "name": "ARG D1: Club Atletico Tigre vs CA Central Cordoba SDE - HÀ DUY KIÊN",
+    "logo": "https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=b165915bca36fd2a7ec819e689c64890\u0026txTime=6a8d0f08",
     "type": "hls"
   },
   {
@@ -41,7 +50,7 @@
     "name": "MEX WD1: Atlante Women vs Toluca Women - CƠM NẾP",
     "logo": "https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1787611140-0-0-4016aa37e4b2243e49eb0a587b9e68aa",
+    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1787611320-0-0-fd0c311a28dd4a595949ee3088e4e7fb",
     "type": "hls"
   }
 ]
