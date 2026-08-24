@@ -5,7 +5,7 @@
     "name": "ARG D1: Club Atletico Tigre vs CA Central Cordoba SDE - BLV LUCAS",
     "logo": "https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1787612640-0-0-7f1acdbb33f7ac0886e8121a4620eded",
+    "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1787612880-0-0-c3acc20e780bbf01c8c0896404587e89",
     "type": "hls"
   },
   {
@@ -14,7 +14,7 @@
     "name": "ARG D1: Club Atletico Tigre vs CA Central Cordoba SDE - BLV YONE",
     "logo": "https://sta.vnres.co/file/common/20260728/ba06eac3dc3ffeee0de25e8e0deaaceb.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1787612640-0-0-c866debba4e65ce7c637385729529af7",
+    "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1787612880-0-0-1e325abb59b182ede8bb199a2ea84d19",
     "type": "hls"
   },
   {
@@ -23,7 +23,7 @@
     "name": "MEX WD1: Atlante Women vs Toluca Women - BLV CHIVAS",
     "logo": "https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=c4d2c0fc2fa84662a03a23c78ea088bc\u0026txTime=6a8d1430",
+    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=2639bdd8f4d8105f1a965f9b30c287ec\u0026txTime=6a8d1520",
     "type": "hls"
   },
   {
@@ -32,7 +32,7 @@
     "name": "ARG D1: Club Atletico Tigre vs CA Central Cordoba SDE - BLV RAMBO",
     "logo": "https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=43adabf6b3017996cda42e10008a4074\u0026txTime=6a8d1430",
+    "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=487c568e665d288a620c204dd0ce606d\u0026txTime=6a8d1520",
     "type": "hls"
   },
   {
@@ -41,7 +41,7 @@
     "name": "BRA D2: Sport Club do Recife vs America MG - TRÀ ĐÁ",
     "logo": "https://sta.vnres.co/file/common/20260406/de5933be539e85bbac3c5fdbddfe54b7.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1787612640-0-0-c8c5ea560edd7c07847595d953a06350",
+    "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1787612880-0-0-493e583b1177f99ac6b631276df8f876",
     "type": "hls"
   },
   {
@@ -50,7 +50,7 @@
     "name": "ARG D1: Club Atletico Tigre vs CA Central Cordoba SDE - HÀ DUY KIÊN",
     "logo": "https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=909d48a73d51efc114429f731f7c8a22\u0026txTime=6a8d1430",
+    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=d904ffcc858ab19088c2b7a8a6277b37\u0026txTime=6a8d1520",
     "type": "hls"
   },
   {
@@ -59,7 +59,16 @@
     "name": "MEX WD1: Atlante Women vs Toluca Women - CƠM NẾP",
     "logo": "https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1787612640-0-0-89b3d38f24d12edc3becea282f6610a6",
+    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1787612880-0-0-1616221820427cab271a2f6d5fbd03c0",
+    "type": "hls"
+  },
+  {
+    "id": "619108",
+    "tvg_id": "room-619108",
+    "name": "BRA D2: Athletic Club vs Gremio Novorizontino - BLV NOVA",
+    "logo": "https://sta.vnres.co/file/common/20260720/9b537b664ce0364f46b19b262f29b1d6.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-619108_lhd.m3u8?auth_key=1787612880-0-0-4ba3a095adcb40692464995e614ecab0",
     "type": "hls"
   },
   {
@@ -68,7 +77,16 @@
     "name": "BRA D2: Sport Club do Recife vs America MG - BLV FOX",
     "logo": "https://sta.vnres.co/file/common/20260709/01ed22d7dd1b21e74094cdea367770a9.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-620003_lhd.m3u8?auth_key=1787612640-0-0-e7cc0131c3abfce4cc5aa583a35f9f70",
+    "url": "https://pull.niues.live/live/stream-620003_lhd.m3u8?auth_key=1787612880-0-0-c33d294d06a572e71ecdb8875f1fe0f0",
+    "type": "hls"
+  },
+  {
+    "id": "9912114",
+    "tvg_id": "room-9912114",
+    "name": "BRA D2: Athletic Club vs Gremio Novorizontino - BLV VOI",
+    "logo": "https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151.png",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1787612880-0-0-fe3f2559ef52dc27ef238932c4bda1bf",
     "type": "hls"
   }
 ]
