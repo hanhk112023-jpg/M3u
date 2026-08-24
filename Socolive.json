@@ -1,11 +1,20 @@
 [
   {
+    "id": "304148",
+    "tvg_id": "room-304148",
+    "name": "ARG D1: Club Atletico Tigre vs CA Central Cordoba SDE - BLV LUCAS",
+    "logo": "https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1787611140-0-0-658fa649fa4f0ad676b77087ad01bf61",
+    "type": "hls"
+  },
+  {
     "id": "372746",
     "tvg_id": "room-372746",
     "name": "ARG D1: Club Atletico Tigre vs CA Central Cordoba SDE - BLV YONE",
     "logo": "https://sta.vnres.co/file/common/20260728/ba06eac3dc3ffeee0de25e8e0deaaceb.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1787610960-0-0-60eff437fa71ad6bdd15e2e2938caa12",
+    "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1787611140-0-0-e62ab5d9c73ce57fd771096842f46ad8",
     "type": "hls"
   },
   {
@@ -14,7 +23,7 @@
     "name": "MEX WD1: Atlante Women vs Toluca Women - BLV CHIVAS",
     "logo": "https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=84d3139bce8a8bc628482d140f4f8106\u0026txTime=6a8d0da0",
+    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=8b274a9dbd0e21d19f2628bec15d8a0a\u0026txTime=6a8d0e54",
     "type": "hls"
   },
   {
@@ -23,7 +32,7 @@
     "name": "ARG D1: Club Atletico Tigre vs CA Central Cordoba SDE - BLV RAMBO",
     "logo": "https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=2ad239ec717bc00b391f7158ad55d5ef\u0026txTime=6a8d0da0",
+    "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=693106219d5f7a8be926f6fc5e04251c\u0026txTime=6a8d0e54",
     "type": "hls"
   },
   {
@@ -32,7 +41,7 @@
     "name": "MEX WD1: Atlante Women vs Toluca Women - CƠM NẾP",
     "logo": "https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1787610960-0-0-5e32b4c4dc4f7fe2b141473d2057ebe6",
+    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1787611140-0-0-4016aa37e4b2243e49eb0a587b9e68aa",
     "type": "hls"
   }
 ]
