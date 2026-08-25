@@ -3,32 +3,36 @@
 # SOCOLIVE LIVE PLAYLIST
 # ======================================
 # Status       : ONLINE
-# Channels     : 12
-# Updated      : 25/08/2026 10:36:08
+# Channels     : 14
+# Updated      : 25/08/2026 10:37:08
 # Player       : OTT Navigator / TiviMate
 # ======================================
 
 #EXTINF:-1 tvg-id="room-152898" tvg-logo="https://raw.githubusercontent.com/hanhk112023-jpg/M3u/main/logo.png" group-logo="https://raw.githubusercontent.com/hanhk112023-jpg/M3u/main/logo.png" group-title="SocoLive",Tường thuật: SPA D1 - Malaga vs RC Deportivo - Thỏ giang hồ
-https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=2f5c2e95ed6d931626a1a25fb081e87e&txTime=6a8d6200
+https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=1f470483e36ced47909433405286292c&txTime=6a8d623c
+#EXTINF:-1 tvg-id="room-179093" tvg-logo="https://raw.githubusercontent.com/hanhk112023-jpg/M3u/main/logo.png" group-logo="https://raw.githubusercontent.com/hanhk112023-jpg/M3u/main/logo.png" group-title="SocoLive",Tường thuật: ITA D1 - Bologna vs Lazio - Hươu đau cổ
+https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=1298fb9589754dc1607f4d075e9fda2b&txTime=6a8d623c
+#EXTINF:-1 tvg-id="room-343500" tvg-logo="https://raw.githubusercontent.com/hanhk112023-jpg/M3u/main/logo.png" group-logo="https://raw.githubusercontent.com/hanhk112023-jpg/M3u/main/logo.png" group-title="SocoLive",Tường thuật: SPA D1 - CA Osasuna vs Levante - Mèo méo meo
+https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=21d6e7d7211ea08163c493da87f4ebb5&txTime=6a8d623c
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://raw.githubusercontent.com/hanhk112023-jpg/M3u/main/logo.png" group-logo="https://raw.githubusercontent.com/hanhk112023-jpg/M3u/main/logo.png" group-title="SocoLive",LNBP: Santos vs Dorados - A CHÈ
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=0080b0efb4239e674ac4ddf8a9b7d25b&txTime=6a8d6200
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=0def43cba289c667667c65be36a1a509&txTime=6a8d623c
 #EXTINF:-1 tvg-id="room-414317" tvg-logo="https://raw.githubusercontent.com/hanhk112023-jpg/M3u/main/logo.png" group-logo="https://raw.githubusercontent.com/hanhk112023-jpg/M3u/main/logo.png" group-title="SocoLive",USA MLSRv: Tacoma Defiance vs Sporting Kansas City Reserves - THOMAS
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=72fece32a2ee497b74954658a0c2c7fe&txTime=6a8d6200
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=edbc1e518d5a47789d893b015a0be675&txTime=6a8d623c
 #EXTINF:-1 tvg-id="room-527383" tvg-logo="https://raw.githubusercontent.com/hanhk112023-jpg/M3u/main/logo.png" group-logo="https://raw.githubusercontent.com/hanhk112023-jpg/M3u/main/logo.png" group-title="SocoLive",USA MLSRv: Tacoma Defiance vs Sporting Kansas City Reserves - BLV ROBBEN
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1787632560-0-0-90bda97162609094f7b5caa75f04700e
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1787632620-0-0-a8e4873514fa33e73abbef33582be171
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://raw.githubusercontent.com/hanhk112023-jpg/M3u/main/logo.png" group-logo="https://raw.githubusercontent.com/hanhk112023-jpg/M3u/main/logo.png" group-title="SocoLive",LNBP: Lobos Plateados vs Fuerza Regia - HUNTER
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=e0ae6e0575f4097a9a31ea86b1ebe42c&txTime=6a8d6200
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=5bf6f0c2c609574faa4c6cab74887c6f&txTime=6a8d623c
 #EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://raw.githubusercontent.com/hanhk112023-jpg/M3u/main/logo.png" group-logo="https://raw.githubusercontent.com/hanhk112023-jpg/M3u/main/logo.png" group-title="SocoLive",USA MLSRv: Tacoma Defiance vs Sporting Kansas City Reserves - BLV TAP
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=30c9742c76e38ee01bcfe18fbc74a429&txTime=6a8d6200
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=874df457a6abfd9df8b6fd621d30bea2&txTime=6a8d623c
 #EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://raw.githubusercontent.com/hanhk112023-jpg/M3u/main/logo.png" group-logo="https://raw.githubusercontent.com/hanhk112023-jpg/M3u/main/logo.png" group-title="SocoLive",USA MLSRv: Tacoma Defiance vs Sporting Kansas City Reserves - BLV Củ Cải
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1787632560-0-0-63a36876b88011d45b412151b351d795
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1787632620-0-0-ac5f4ca5022a8a343e8e053e9756ac9d
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://raw.githubusercontent.com/hanhk112023-jpg/M3u/main/logo.png" group-logo="https://raw.githubusercontent.com/hanhk112023-jpg/M3u/main/logo.png" group-title="SocoLive",WNBA: Los Angeles Sparks W vs Atlanta Dream W - BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787632560-0-0-8b8f9266ca46d790235ab183d48388f1
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787632620-0-0-41c7409d6f82e433760ca10282bc9667
 #EXTINF:-1 tvg-id="room-9912108" tvg-logo="https://raw.githubusercontent.com/hanhk112023-jpg/M3u/main/logo.png" group-logo="https://raw.githubusercontent.com/hanhk112023-jpg/M3u/main/logo.png" group-title="SocoLive",USA MLSRv: Tacoma Defiance vs Sporting Kansas City Reserves - BÁ PHÚ
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1787632560-0-0-ca999ff8504d307aad350ca6c39f6acc
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1787632620-0-0-23a083b307c822b4f3bbf735b07543e2
 #EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://raw.githubusercontent.com/hanhk112023-jpg/M3u/main/logo.png" group-logo="https://raw.githubusercontent.com/hanhk112023-jpg/M3u/main/logo.png" group-title="SocoLive",USA MLSRv: Tacoma Defiance vs Sporting Kansas City Reserves - BLV ZOWIE
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1787632560-0-0-8a61c9c78732165dfcfb449ad8700371
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1787632620-0-0-07707c00f1f234d1249a21d1ac585427
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://raw.githubusercontent.com/hanhk112023-jpg/M3u/main/logo.png" group-logo="https://raw.githubusercontent.com/hanhk112023-jpg/M3u/main/logo.png" group-title="SocoLive",LNBP: Mineros vs Panteras - BLV HENRY
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1787632560-0-0-e93c3052fa27d150ffb1eeada54d7f1a
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1787632620-0-0-753196ae2c5b621d4e697cff81e1bddd
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://raw.githubusercontent.com/hanhk112023-jpg/M3u/main/logo.png" group-logo="https://raw.githubusercontent.com/hanhk112023-jpg/M3u/main/logo.png" group-title="SocoLive",WNBA: Los Angeles Sparks W vs Atlanta Dream W - CHAN SENA
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787632560-0-0-133519aa670a16f82e7ddf4745f1049a
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787632620-0-0-ad943401c7cd2dd47116900c89a414db
