@@ -3,12 +3,16 @@
 # SOCOLIVE LIVE PLAYLIST
 # ======================================
 # Status       : ONLINE
-# Channels     : 2
-# Updated      : 25/08/2026 19:37:18
+# Channels     : 4
+# Updated      : 25/08/2026 19:38:18
 # Player       : OTT Navigator / TiviMate
 # ======================================
 
+#EXTINF:-1 tvg-id="room-133277" tvg-logo="https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg" group-logo="https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg" group-title="SocoLive",Tường thuật: ENG PR - Fulham vs Chelsea - Gà xào sả ớt
+https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=cd108925a1cdea46878c3f7deb2fca11&txTime=6a8de108
 #EXTINF:-1 tvg-id="room-133824" tvg-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg" group-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg" group-title="SocoLive",Tường thuật: ITA D1 - AS Roma vs Fiorentina - Bò leo rào
-https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=d4fa4e75ba32b021a7b03e7dd58ad76a&txTime=6a8de0cc
+https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=56d89b7ea8fb0ef26c1ab83e0eff5156&txTime=6a8de108
 #EXTINF:-1 tvg-id="room-179093" tvg-logo="https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg" group-logo="https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg" group-title="SocoLive",Tường thuật: ITA D1 - Bologna vs Lazio - Hươu đau cổ
-https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=8b75a12c2169b05bee6787706fb224e2&txTime=6a8de0cc
+https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=aea6dc7cb2634ea52ee7ef7026c53bbf&txTime=6a8de10c
+#EXTINF:-1 tvg-id="room-343500" tvg-logo="https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg" group-logo="https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg" group-title="SocoLive",Tường thuật: SPA D1 - CA Osasuna vs Levante - Mèo méo meo
+https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=59f6b182a66b05d8bf8a4f0780e9eda1&txTime=6a8de108
