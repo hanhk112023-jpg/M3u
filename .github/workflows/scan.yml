@@ -1,9 +1,10 @@
 name: socolive-scan
 
 on:
-  # NOTE: cron disabled — json.vnres.co blocks GitHub/Azure datacenter IPs
-  # (HTTP 403), so scheduled runs fail. Kept for manual testing only:
-  # Actions tab -> socolive-scan -> Run workflow
+  # NOTE: cron disabled while json.vnres.co blocks datacenter IPs.
+  # Enable the block below once the API accepts runner traffic:
+  # schedule:
+  #   - cron: '*/5 * * * *'
   workflow_dispatch: {}
 
 permissions:
@@ -20,18 +21,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: actions/setup-go@v5
-        with:
-          go-version: '1.22'
-
-      - name: Scan and publish on change
+      - name: Scan and publish on change (Python)
         env:
           SCANNER_TOKEN: ${{ secrets.SCANNER_TOKEN }}
+          EPG_URLS: "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_AL1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CZ1.xml.gz"
         run: |
-          go run . -once -format json -out Socolive.json \
-            -publish \
-            -user-agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" \
-            -github-token "$SCANNER_TOKEN" \
-            -github-repo hanhk112023-jpg/M3u \
-            -github-path Socolive.json \
-            -epg "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_AL1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CZ1.xml.gz"
+          python3 scanner.py \
+            --out Socolive.json \
+            --m3u-out Socolive.m3u \
+            --publish \
+            --github-token "$SCANNER_TOKEN" \
+            --github-repo hanhk112023-jpg/M3u \
+            --github-path Socolive.json \
+            --epg "$EPG_URLS"
