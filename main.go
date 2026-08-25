@@ -25,6 +25,9 @@ import (
 
 const defaultAPI = "https://json.vnres.co"
 
+// userAgent is set from -user-agent at startup; getJSONP reads it.
+var userAgent = "namhau-iptv-tool/0.1"
+
 type Anchor struct {
 	NickName string `json:"nickName"`
 }
@@ -99,6 +102,7 @@ type Config struct {
 	EPG          string
 	Listen       string
 	ForcePublish time.Duration
+	UserAgent    string
 }
 
 func main() {
@@ -119,6 +123,7 @@ func main() {
 	flag.StringVar(&cfg.EPG, "epg", "", "EPG XMLTV URL(s) for the M3U url-tvg attribute; comma-separated")
 	flag.StringVar(&cfg.Listen, "listen", "", "serve playlist and /play/{room} redirects on host:port")
 	flag.DurationVar(&cfg.ForcePublish, "force-publish", 4*time.Hour, "republish after this idle duration to keep stream tokens fresh; 0 disables")
+	flag.StringVar(&cfg.UserAgent, "user-agent", "namhau-iptv-tool/0.1", "User-Agent header for API requests")
 	flag.Parse()
 
 	if cfg.Workers < 1 {
@@ -127,6 +132,7 @@ func main() {
 	if cfg.Timeout <= 0 {
 		cfg.Timeout = 15 * time.Second
 	}
+	userAgent = cfg.UserAgent
 	cfg.APIBase = strings.TrimRight(cfg.APIBase, "/")
 	cfg.Format = strings.ToLower(strings.TrimSpace(cfg.Format))
 	if cfg.Format != "m3u" && cfg.Format != "json" {
@@ -390,7 +396,7 @@ func getJSONP(ctx context.Context, client *http.Client, endpoint string, out int
 		return err
 	}
 	req.Header.Set("Accept", "application/json")
-	req.Header.Set("User-Agent", "namhau-iptv-tool/0.1")
+	req.Header.Set("User-Agent", userAgent)
 	resp, err := client.Do(req)
 	if err != nil {
 		return err
