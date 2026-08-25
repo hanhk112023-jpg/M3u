@@ -3,72 +3,76 @@
 # SOCOLIVE LIVE PLAYLIST
 # ======================================
 # Status       : ONLINE
-# Channels     : 32
-# Updated      : 26/08/2026 01:34:18
+# Channels     : 34
+# Updated      : 26/08/2026 01:35:18
 # Player       : OTT Navigator / TiviMate
 # ======================================
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260328/01acc641be84c58f2062ca50bf94b25a.jpg" group-logo="https://sta.vnres.co/file/common/20260328/01acc641be84c58f2062ca50bf94b25a.jpg" group-title="SocoLive",ENG LC: Nottingham Forest vs Leeds United - A PÁO
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1787686440-0-0-7dd0f01b4f6c6dcc79c4ab577ad5c0e4
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1787686500-0-0-e76da8872ad1f4ad5f0798aece92631a
+#EXTINF:-1 tvg-id="room-273736" tvg-logo="https://sta.vnres.co/file/common/20260609/b3e04b0f7d210d67052a911512e39f54.jpg" group-logo="https://sta.vnres.co/file/common/20260609/b3e04b0f7d210d67052a911512e39f54.jpg" group-title="SocoLive",UEFA CL: FK Bodo/Glimt vs NEC Nijmegen - CHÍ PHÈO
+https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1787686501-0-0-c0e0d3086ae37e417a21961defa9b76e
 #EXTINF:-1 tvg-id="room-351530" tvg-logo="https://sta.vnres.co/file/common/20250320/efe293015c817dee46ccc81fa5e934d7.jpg" group-logo="https://sta.vnres.co/file/common/20250320/efe293015c817dee46ccc81fa5e934d7.jpg" group-title="SocoLive",UEFA CL: Sabah Baku vs Hapoel Beer Sheva - BLV PIRLO
-https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1787686440-0-0-96c13d70c4288e8cc00e34c045cb71ed
+https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1787686501-0-0-118e5a217f570a7bac9c101f968ab38a
 #EXTINF:-1 tvg-id="room-400722" tvg-logo="https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg" group-logo="https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg" group-title="SocoLive",UEFA CL: Sabah Baku vs Hapoel Beer Sheva - TUẤN CÙI
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1787686441-0-0-8644837bd7bdb5b35382a76e349e3e06
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1787686501-0-0-5455a260feffb13f5fd8ad86f198fa36
 #EXTINF:-1 tvg-id="room-406865" tvg-logo="https://sta.vnres.co/file/common/20241220/6200343fea7ece69d7d92ae718616478.jpg" group-logo="https://sta.vnres.co/file/common/20241220/6200343fea7ece69d7d92ae718616478.jpg" group-title="SocoLive",ENG LC: Southampton vs West Ham United - BLV ANH TÀI
-https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=0db0d34287f339f87841b085535a0267&txTime=6a8e3479
+https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=2f24c9162619ddd08eb1e8d0a7169b74&txTime=6a8e34b5
 #EXTINF:-1 tvg-id="room-459401" tvg-logo="https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4.jpg" group-logo="https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4.jpg" group-title="SocoLive",KSA PR: Al Ettifaq vs Al Nassr - BLV BÉO
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=afeaa9afc63c49a23cc9f6b0e85eddd5&txTime=6a8e3479
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=0c662e9a16cb174559f50280cd5d329b&txTime=6a8e34b5
 #EXTINF:-1 tvg-id="room-462413" tvg-logo="https://sta.vnres.co/file/common/20260807/a76465a880a2789f42e440cf03e9db6b.jpg" group-logo="https://sta.vnres.co/file/common/20260807/a76465a880a2789f42e440cf03e9db6b.jpg" group-title="SocoLive",KSA PR: Al Ettifaq vs Al Nassr - SAO LA
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=71cd7f96f49fcc80fb99ae976370c2d2&txTime=6a8e3479
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=a73bdba7af67865759b56add08217792&txTime=6a8e34b5
 #EXTINF:-1 tvg-id="room-472241" tvg-logo="https://sta.vnres.co/file/common/20260613/cc7eb6fb9d74dfa083a48c861b135ae8.jpg" group-logo="https://sta.vnres.co/file/common/20260613/cc7eb6fb9d74dfa083a48c861b135ae8.jpg" group-title="SocoLive",UEFA CL: FK Bodo/Glimt vs NEC Nijmegen - BLV XO
-https://pull.niur.live/live/stream-472241_lhd.m3u8?txSecret=a5678040d8e7501bb4a96fc0d12f969c&txTime=6a8e3479
+https://pull.niur.live/live/stream-472241_lhd.m3u8?txSecret=72e97cfc5cd5551372e8f0cd8384fa9a&txTime=6a8e34b5
 #EXTINF:-1 tvg-id="room-484845" tvg-logo="https://sta.vnres.co/file/common/20260826/28642eb2070f6af3708bb1e9d3f6fc10.png" group-logo="https://sta.vnres.co/file/common/20260826/28642eb2070f6af3708bb1e9d3f6fc10.png" group-title="SocoLive",ENG LC: Nottingham Forest vs Leeds United - A BỆU
-https://pull.niur.live/live/stream-484845_lhd.m3u8?txSecret=715a093cc0d0872b209807d2d6383cd5&txTime=6a8e3479
+https://pull.niur.live/live/stream-484845_lhd.m3u8?txSecret=6d1333703193797b892701aada8f3226&txTime=6a8e34b5
 #EXTINF:-1 tvg-id="room-494201" tvg-logo="https://sta.vnres.co/file/common/20260824/9579d2a0c143f2633fac665f96906c48.jpg" group-logo="https://sta.vnres.co/file/common/20260824/9579d2a0c143f2633fac665f96906c48.jpg" group-title="SocoLive",KSA PR: Al Ettifaq vs Al Nassr - BLV MESSI
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1787686441-0-0-93a6e62cbbfeb6b28f6b176eb760021a
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1787686501-0-0-c2fc335aebe8a1c82841afde771e365d
 #EXTINF:-1 tvg-id="room-501412" tvg-logo="https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png" group-logo="https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png" group-title="SocoLive",ENG LC: Ipswich Town vs Leicester City - XUÂN SON
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=f2fbbaa0940fe2c7acea01b66d57a017&txTime=6a8e3479
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=5475918660b0817bc61dab52386f66f8&txTime=6a8e34b5
 #EXTINF:-1 tvg-id="room-511367" tvg-logo="https://sta.vnres.co/file/common/20251121/6d691b0b9dfd9eeb599401a2499400f0.png" group-logo="https://sta.vnres.co/file/common/20251121/6d691b0b9dfd9eeb599401a2499400f0.png" group-title="SocoLive",ENG LC: Cardiff City vs Norwich City - BLV WUKONG
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1787686441-0-0-ef81a9131c5664d374dc3c37659005de
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1787686501-0-0-e7ff056dd53f4c0151ad5661048043fd
 #EXTINF:-1 tvg-id="room-527384" tvg-logo="https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg" group-logo="https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg" group-title="SocoLive",UEFA CL: LASK Linz vs Celtic F.C. - LÃO LÂM
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1787686441-0-0-fe7d3fca0c51c0d750a23abea8f987a3
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1787686501-0-0-0505f4a6342761af396995187a80f569
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg" group-logo="https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg" group-title="SocoLive",KSA PR: Al Ettifaq vs Al Nassr - BLV ALEX
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1787686441-0-0-9d34d01e7ef45faa9ff3fce8c3e3d31f
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1787686501-0-0-896c77f13c4fbe54617785081d69d536
 #EXTINF:-1 tvg-id="room-536185" tvg-logo="https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg" group-logo="https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg" group-title="SocoLive",KSA PR: Al Shabab vs Al Riyadh - BLV A WIN
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1787686441-0-0-ba3e0d3c38abc086a42cba2d485ebc4f
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1787686501-0-0-08b5f3c3802c570c31f4409c179e60bb
 #EXTINF:-1 tvg-id="room-589848" tvg-logo="https://sta.vnres.co/file/common/20260411/c1490960e7f4b63fdc78206c576d2da8.png" group-logo="https://sta.vnres.co/file/common/20260411/c1490960e7f4b63fdc78206c576d2da8.png" group-title="SocoLive",UEFA CL: FK Bodo/Glimt vs NEC Nijmegen - LOKA
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1787686441-0-0-15d2e5f1cf6066f812438439b88c49c1
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1787686501-0-0-8770c1373c5125e3452b8744135078a9
 #EXTINF:-1 tvg-id="room-595335" tvg-logo="https://sta.vnres.co/file/common/20260805/c8068dd64589d2890066f1eacc273ab0.png" group-logo="https://sta.vnres.co/file/common/20260805/c8068dd64589d2890066f1eacc273ab0.png" group-title="SocoLive",KSA PR: Al Ettifaq vs Al Nassr - NGƯỜI CÁ
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1787686441-0-0-91640d1b37592a0b98058a91c6e61e99
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1787686501-0-0-cf2b16c1605e9bff806771f083456c6c
 #EXTINF:-1 tvg-id="room-598119" tvg-logo="https://sta.vnres.co/file/common/20260317/5be300857a15349a5324be170237948b.png" group-logo="https://sta.vnres.co/file/common/20260317/5be300857a15349a5324be170237948b.png" group-title="SocoLive",ENG LC: Nottingham Forest vs Leeds United - BLV A TINH
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=ea0bc7378ebc91ee9fe1ec013a0a8e1b&txTime=6a8e3479
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=31ffd1c21e48a7cb5e58a4b4a532f8db&txTime=6a8e34b5
 #EXTINF:-1 tvg-id="room-607552" tvg-logo="https://sta.vnres.co/file/common/20260522/f2b4ef051d1e02300d2d5bf24f3828f0.png" group-logo="https://sta.vnres.co/file/common/20260522/f2b4ef051d1e02300d2d5bf24f3828f0.png" group-title="SocoLive",ENG LC: Cardiff City vs Norwich City - ĐỖ TÚ TÀI
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1787686441-0-0-74f4f983944c57f02e1105234ba70b3e
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1787686501-0-0-41190372b901915132fec1790d279004
 #EXTINF:-1 tvg-id="room-610518" tvg-logo="https://sta.vnres.co/file/common/20260628/336b2e008de11bb26c1d4e0e46bc9f95.jpg" group-logo="https://sta.vnres.co/file/common/20260628/336b2e008de11bb26c1d4e0e46bc9f95.jpg" group-title="SocoLive",ENG LC: Sheffield Wednesday vs Wolverhampton Wanderers - XUÂN TÓC ĐỎ
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=b00221780e8755c50ab8b65fae7dda62&txTime=6a8e3479
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=51f55b73412cf12a749f1f44ed059765&txTime=6a8e34b5
 #EXTINF:-1 tvg-id="room-617313" tvg-logo="https://sta.vnres.co/file/common/20260628/540cb58118f4c3201221b711e9a9cb7b.jpg" group-logo="https://sta.vnres.co/file/common/20260628/540cb58118f4c3201221b711e9a9cb7b.jpg" group-title="SocoLive",ENG LC: Southampton vs West Ham United - VINFAST
-https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1787686441-0-0-e405a30311573aef2145646587b6df2a
+https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1787686501-0-0-3141fc9d99db960a2e2d2ba647952f8c
 #EXTINF:-1 tvg-id="room-618546" tvg-logo="https://sta.vnres.co/file/common/20260715/0e572fd7d0bfc5ce5cf538c09b8cace4.jpg" group-logo="https://sta.vnres.co/file/common/20260715/0e572fd7d0bfc5ce5cf538c09b8cace4.jpg" group-title="SocoLive",UEFA CL: Sabah Baku vs Hapoel Beer Sheva - SEVEN
-https://pull.niur.live/live/stream-618546_lhd.m3u8?txSecret=7fd13ad019668b3d9ac095a24fd17889&txTime=6a8e3479
+https://pull.niur.live/live/stream-618546_lhd.m3u8?txSecret=ca4225000fefab700d6a070196e0dd00&txTime=6a8e34b5
 #EXTINF:-1 tvg-id="room-620504" tvg-logo="https://sta.vnres.co/file/common/20260802/d0b756ac34b8f00d22a6d687f86fe8b2.jpg" group-logo="https://sta.vnres.co/file/common/20260802/d0b756ac34b8f00d22a6d687f86fe8b2.jpg" group-title="SocoLive",KSA PR: Al Shabab vs Al Riyadh - BOSS
-https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=b88de6336ef08553bbfec4ad8c42d025&txTime=6a8e3479
+https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=e4fa45266228d75880e3702f8d0e900d&txTime=6a8e34b5
 #EXTINF:-1 tvg-id="room-620649" tvg-logo="https://sta.vnres.co/file/common/20260725/0eb3315ecb9cf5c7f5f9b102d38e52f9.jpg" group-logo="https://sta.vnres.co/file/common/20260725/0eb3315ecb9cf5c7f5f9b102d38e52f9.jpg" group-title="SocoLive",UEFA CL: Sabah Baku vs Hapoel Beer Sheva - RỒNG ĐẤT
-https://pull.niues.live/live/stream-620649_lhd.m3u8?auth_key=1787686441-0-0-1a8ffb784d8b225789e4b6726569e697
+https://pull.niues.live/live/stream-620649_lhd.m3u8?auth_key=1787686501-0-0-43c222838f788732662476432c2c2e10
 #EXTINF:-1 tvg-id="room-620661" tvg-logo="https://sta.vnres.co/file/common/20260729/2cca708e4ee1d3e988c578ff79960d7b.jpg" group-logo="https://sta.vnres.co/file/common/20260729/2cca708e4ee1d3e988c578ff79960d7b.jpg" group-title="SocoLive",UEFA CL: Sabah Baku vs Hapoel Beer Sheva - CACAO
-https://pull.niues.live/live/stream-620661_lhd.m3u8?auth_key=1787686441-0-0-2249f64b7b4729a9a232ae3f758ea579
+https://pull.niues.live/live/stream-620661_lhd.m3u8?auth_key=1787686501-0-0-4a4ac9848eb262ebc962fe5282becf68
 #EXTINF:-1 tvg-id="room-620797" tvg-logo="https://sta.vnres.co/file/common/20260721/eae172928facf755dbf2027ca230e55e.png" group-logo="https://sta.vnres.co/file/common/20260721/eae172928facf755dbf2027ca230e55e.png" group-title="SocoLive",ENG LC: Plymouth Argyle vs Coventry City - BÒ TƯƠI
-https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1787686441-0-0-44f1207791d174ad84b1a9e94a9765d5
+https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1787686501-0-0-80de4bbf9410fcd1cdf9020bc092cf02
 #EXTINF:-1 tvg-id="room-621840" tvg-logo="https://sta.vnres.co/file/common/20260810/042a00493898027e5f644f6f24e88c53.png" group-logo="https://sta.vnres.co/file/common/20260810/042a00493898027e5f644f6f24e88c53.png" group-title="SocoLive",ENG LC: Sheffield Wednesday vs Wolverhampton Wanderers - MP3
-https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=9ed6cb19d22e1d20664ea135adc09bf3&txTime=6a8e3479
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=10896246ce2fd77fa3c44088d4a3475a&txTime=6a8e34b5
+#EXTINF:-1 tvg-id="room-621843" tvg-logo="https://sta.vnres.co/file/common/20260813/5d212275a6562e784f8ce4dd82466681.png" group-logo="https://sta.vnres.co/file/common/20260813/5d212275a6562e784f8ce4dd82466681.png" group-title="SocoLive",ENG LC: Birmingham City vs Brentford - BLV BẢY
+https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1787686501-0-0-2467bf219510568d074cd2ee77cd04bd
 #EXTINF:-1 tvg-id="room-622093" tvg-logo="https://sta.vnres.co/file/common/20260703/fe517d18a8df723cee92683347d70be9.jpg" group-logo="https://sta.vnres.co/file/common/20260703/fe517d18a8df723cee92683347d70be9.jpg" group-title="SocoLive",ENG LC: Stoke City vs Hull City - GRAP
-https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=0bb7f141827ecf01537d6aec10ecfed1&txTime=6a8e3479
+https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=df9f612bad80418a698eb705364460fd&txTime=6a8e34b5
 #EXTINF:-1 tvg-id="room-622602" tvg-logo="https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg" group-logo="https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg" group-title="SocoLive",UEFA CL: Sabah Baku vs Hapoel Beer Sheva - KENCHU
-https://pull.niues.live/live/stream-622602_lhd.m3u8?auth_key=1787686441-0-0-22b9a84ba374eb8678c82dd57638e084
+https://pull.niues.live/live/stream-622602_lhd.m3u8?auth_key=1787686501-0-0-0ce92728a8e126dea5d88306a7cd0cc9
 #EXTINF:-1 tvg-id="room-991140" tvg-logo="https://sta.vnres.co/file/common/20240614/d900dd8841b1223c7b58554cde34df75.jpg" group-logo="https://sta.vnres.co/file/common/20240614/d900dd8841b1223c7b58554cde34df75.jpg" group-title="SocoLive",UEFA CL: LASK Linz vs Celtic F.C. - BLV FIREMAN
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1787686440-0-0-423e2fb51933aeb451b5b33c7cf10a78
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1787686501-0-0-041a47cd2f7631ebb5f5bc2bf8e10ad1
 #EXTINF:-1 tvg-id="room-9912008" tvg-logo="https://sta.vnres.co/file/common/20260629/15a4e4b3233b174e59d4cd6ae5a8432c.png" group-logo="https://sta.vnres.co/file/common/20260629/15a4e4b3233b174e59d4cd6ae5a8432c.png" group-title="SocoLive",ENG LC: Nottingham Forest vs Leeds United - BLV TOMIA
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1787686440-0-0-96293e51d31cb41fcc3f19e09bc134c0
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1787686500-0-0-9b411eaf73c90d39f1d9debf1d309add
 #EXTINF:-1 tvg-id="room-9912117" tvg-logo="https://sta.vnres.co/file/common/20260810/b792b2c329f2ffe44037f2d5973945de.jpg" group-logo="https://sta.vnres.co/file/common/20260810/b792b2c329f2ffe44037f2d5973945de.jpg" group-title="SocoLive",KSA PR: Al Ettifaq vs Al Nassr - BLV LONG
-https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=a95942ed5aa0493b82d9460bfc698f27&txTime=6a8e3478
+https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=288872737d2abadbf8e18ec732cf97a7&txTime=6a8e34b4
 #EXTINF:-1 tvg-id="room-9912120" tvg-logo="https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png" group-logo="https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png" group-title="SocoLive",SPA D1: Valencia CF vs Real Betis - BLV A TÚ
-https://pull.niues.live/live/stream-9912120_lhd.m3u8?auth_key=1787686441-0-0-6b8a338bc5c45c90be3caf13b0388236
+https://pull.niues.live/live/stream-9912120_lhd.m3u8?auth_key=1787686501-0-0-05c6aea103416835e5e117da2b233154
