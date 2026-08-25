@@ -1,0 +1,37 @@
+name: socolive-scan
+
+on:
+  schedule:
+    # Every 5 minutes is the most reliable cadence GitHub Actions offers;
+    # runs may still be delayed a few minutes during peak load.
+    - cron: '*/5 * * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: socolive-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version: '1.22'
+
+      - name: Scan and publish on change
+        env:
+          SCANNER_TOKEN: ${{ secrets.SCANNER_TOKEN }}
+        run: |
+          go run . -once -format json -out Socolive.json \
+            -publish \
+            -github-token "$SCANNER_TOKEN" \
+            -github-repo hanhk112023-jpg/M3u \
+            -github-path Socolive.json \
+            -epg "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_AL1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CZ1.xml.gz"
