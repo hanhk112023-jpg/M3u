@@ -163,8 +163,12 @@ def scan_channels(api: str, user_agent: str, timeout: int, workers: int):
 # Renderers — kept byte-compatible with the Go implementation
 # ---------------------------------------------------------------------------
 
-def iptv_items(channels: list[dict]) -> list[dict]:
-    """Wire format shared by the published JSON and the fingerprint."""
+def iptv_items(channels: list[dict], channel_logo: str = "") -> list[dict]:
+    """Wire format shared by the published JSON and the fingerprint.
+
+    channel_logo, when non-empty, replaces the per-room cover so players
+    show a uniform channel mark instead of match thumbnails.
+    """
     items = []
     for c in channels:
         name = c["title"] + (f" - {c['anchor']}" if c["anchor"] else "")
@@ -173,8 +177,9 @@ def iptv_items(channels: list[dict]) -> list[dict]:
             "tvg_id": "room-" + c["room_num"],
             "name": name,
         }
-        if c["logo"]:
-            item["logo"] = c["logo"]
+        logo = channel_logo or c["logo"]
+        if logo:
+            item["logo"] = logo
         item["group"] = c["group"] or "SocoLive"
         item["url"] = c["url"]
         if c["format"]:
@@ -183,10 +188,11 @@ def iptv_items(channels: list[dict]) -> list[dict]:
     return items
 
 
-def iptv_json_bytes(channels: list[dict]) -> bytes:
+def iptv_json_bytes(channels: list[dict], channel_logo: str = "") -> bytes:
     # Go emits MarshalIndent(..., "", "  ") with raw UTF-8 and HTML-escapes
     # &, <, > inside strings; replicate all three so files are byte-equal.
-    text = json.dumps(iptv_items(channels), indent=2, ensure_ascii=False)
+    text = json.dumps(iptv_items(channels, channel_logo), indent=2,
+                      ensure_ascii=False)
     text = (text.replace("&", "\\u0026")
                 .replace("<", "\\u003c")
                 .replace(">", "\\u003e"))
@@ -214,7 +220,7 @@ def escape_m3u(s: str) -> str:
     return s.replace('"', "'").replace("\r", " ").replace("\n", " ")
 
 
-def m3u_bytes(channels: list[dict], epg: str) -> bytes:
+def m3u_bytes(channels: list[dict], epg: str, channel_logo: str = "") -> bytes:
     out = ["#EXTM3U"]
     epg = (epg or "").strip()
     if epg:
@@ -237,10 +243,11 @@ def m3u_bytes(channels: list[dict], epg: str) -> bytes:
         if c["anchor"]:
             name += f" - {c['anchor']}"
         group = c["group"] or "SocoLive"
+        logo = channel_logo or c["logo"]
         chunks.append(
             f'#EXTINF:-1 tvg-id="{escape_m3u("room-" + c["room_num"])}" '
-            f'tvg-logo="{escape_m3u(c["logo"])}" '
-            f'group-logo="{escape_m3u(c["logo"])}" '
+            f'tvg-logo="{escape_m3u(logo)}" '
+            f'group-logo="{escape_m3u(logo)}" '
             f'group-title="{escape_m3u(group)}",{escape_m3u(name)}\n'
         )
         chunks.append(c["url"] + "\n")
@@ -353,6 +360,10 @@ def main() -> int:
     parser.add_argument("--github-path", default="Socolive.json")
     parser.add_argument("--epg", default="",
                         help="comma-separated XMLTV URLs for url-tvg")
+    parser.add_argument("--tvg-logo",
+                        default=("https://raw.githubusercontent.com/"
+                                 "hanhk112023-jpg/M3u/main/logo.png"),
+                        help="channel logo URL overriding per-room covers")
     parser.add_argument("--force-publish-hours", type=float, default=4.0,
                         help="republish after idle hours to refresh tokens; 0 disables")
     args = parser.parse_args()
@@ -367,9 +378,9 @@ def main() -> int:
         log.error("%s", exc)
         return 1
 
-    atomic_write(args.out, iptv_json_bytes(channels))
+    atomic_write(args.out, iptv_json_bytes(channels, args.tvg_logo))
     if args.m3u_out:
-        atomic_write(args.m3u_out, m3u_bytes(channels, args.epg))
+        atomic_write(args.m3u_out, m3u_bytes(channels, args.epg, args.tvg_logo))
 
     for err in errors[:5]:
         log.warning("%s", err)
@@ -385,7 +396,7 @@ def main() -> int:
         log.error("--publish needs --github-token or $GITHUB_TOKEN")
         return 1
 
-    items = iptv_items(channels)
+    items = iptv_items(channels, args.tvg_logo)
     fp_full = fingerprint_items(items)
     fp_short = fp_full[:16]
     gh = GitHubClient(token, args.github_repo.strip("/"), args.github_branch)
@@ -413,9 +424,11 @@ def main() -> int:
     m3u_path = (args.github_path.rsplit(".", 1)[0] + ".m3u"
                 if "." in args.github_path else args.github_path + ".m3u")
 
-    url = gh.publish(args.github_path, iptv_json_bytes(channels), fp_short)
+    url = gh.publish(args.github_path, iptv_json_bytes(channels, args.tvg_logo),
+                     fp_short)
     log.info("published to GitHub (%s): %s", reason, url)
-    url = gh.publish(m3u_path, m3u_bytes(channels, args.epg), fp_short)
+    url = gh.publish(m3u_path, m3u_bytes(channels, args.epg, args.tvg_logo),
+                     fp_short)
     log.info("published to GitHub (%s): %s", reason, url)
     return 0
 
