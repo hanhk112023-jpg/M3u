@@ -3,34 +3,36 @@
 # SOCOLIVE LIVE PLAYLIST
 # ======================================
 # Status       : ONLINE
-# Channels     : 13
-# Updated      : 25/08/2026 20:56:33
+# Channels     : 14
+# Updated      : 25/08/2026 20:57:18
 # Player       : OTT Navigator / TiviMate
 # ======================================
 
 #EXTINF:-1 tvg-id="room-291277" tvg-logo="https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg" group-logo="https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg" group-title="SocoLive",UZB PFL: FK Andijon vs Xorazm Urganch - CÔNG CHẤT
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=fa2484b6cb20c616a44d6fd8aca6c378&txTime=6a8df351
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=6faf0f36b91378471eefd4953e4810d2&txTime=6a8df38c
 #EXTINF:-1 tvg-id="room-304148" tvg-logo="https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg" group-logo="https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg" group-title="SocoLive",UZB PFL: FK Andijon vs Xorazm Urganch - BLV LUCAS
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1787669761-0-0-359b3601b3dc1a93842a78b043d442e7
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1787669820-0-0-e847cd3e827c158f38817b3467f499fd
+#EXTINF:-1 tvg-id="room-459401" tvg-logo="https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4.jpg" group-logo="https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4.jpg" group-title="SocoLive",UZB PFL: Termez Surkhon vs FC OKMK Olmaliq - BLV BÉO
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=9f21cbf837e15cf76e0a97db8338363c&txTime=6a8df38c
 #EXTINF:-1 tvg-id="room-462413" tvg-logo="https://sta.vnres.co/file/common/20260807/a76465a880a2789f42e440cf03e9db6b.jpg" group-logo="https://sta.vnres.co/file/common/20260807/a76465a880a2789f42e440cf03e9db6b.jpg" group-title="SocoLive",UZB PFL: Termez Surkhon vs FC OKMK Olmaliq - SAO LA
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=a49e1bb7017ddef813a4150c4ef4a3e5&txTime=6a8df351
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=2b6c5bf657ad54a153c8fcb621b5237e&txTime=6a8df38c
 #EXTINF:-1 tvg-id="room-511367" tvg-logo="https://sta.vnres.co/file/common/20251121/6d691b0b9dfd9eeb599401a2499400f0.png" group-logo="https://sta.vnres.co/file/common/20251121/6d691b0b9dfd9eeb599401a2499400f0.png" group-title="SocoLive",POR LRU23: Maritimo U23 vs Estrela FC U23 - BLV WUKONG
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1787669761-0-0-539e08586425205f114f445458a1ce54
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1787669820-0-0-355c22ffc7dce1391b889b937e3b1538
 #EXTINF:-1 tvg-id="room-595335" tvg-logo="https://sta.vnres.co/file/common/20260805/c8068dd64589d2890066f1eacc273ab0.png" group-logo="https://sta.vnres.co/file/common/20260805/c8068dd64589d2890066f1eacc273ab0.png" group-title="SocoLive",UZB PFL: Termez Surkhon vs FC OKMK Olmaliq - NGƯỜI CÁ
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1787669761-0-0-d6851e7b53b81ded95ee28dfbec41618
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1787669820-0-0-2b976eb2f383838f56661814d253f8eb
 #EXTINF:-1 tvg-id="room-602019" tvg-logo="https://sta.vnres.co/file/common/20260329/46d787b8716ab82aff515db39b5a55a1.jpg" group-logo="https://sta.vnres.co/file/common/20260329/46d787b8716ab82aff515db39b5a55a1.jpg" group-title="SocoLive",KAZ PR: Tobol Kostanai vs Kaisar Kyzylorda - BLV RYO
-https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=a777869b46f9f262cab8f7ee1c5050bb&txTime=6a8df351
+https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=bd1b9f2b9ef293c4a42f54d19dd67d32&txTime=6a8df38c
 #EXTINF:-1 tvg-id="room-619108" tvg-logo="https://sta.vnres.co/file/common/20260720/9b537b664ce0364f46b19b262f29b1d6.jpg" group-logo="https://sta.vnres.co/file/common/20260720/9b537b664ce0364f46b19b262f29b1d6.jpg" group-title="SocoLive",KAZ PR: Tobol Kostanai vs Kaisar Kyzylorda - BLV NOVA
-https://pull.niues.live/live/stream-619108_lhd.m3u8?auth_key=1787669761-0-0-8558a7b600ac32582a992deacbccc6d5
+https://pull.niues.live/live/stream-619108_lhd.m3u8?auth_key=1787669820-0-0-2ebb7929998ed7ac86979b2f3f22620c
 #EXTINF:-1 tvg-id="room-619672" tvg-logo="https://sta.vnres.co/file/common/20260808/4818d723b5e85850f66dfc3b5aed49d8.png" group-logo="https://sta.vnres.co/file/common/20260808/4818d723b5e85850f66dfc3b5aed49d8.png" group-title="SocoLive",KAZ PR: Tobol Kostanai vs Kaisar Kyzylorda - T REX
-https://pull.niur.live/live/stream-619672_lhd.m3u8?txSecret=30580621434998ec1f3f88a1c1616ad8&txTime=6a8df351
+https://pull.niur.live/live/stream-619672_lhd.m3u8?txSecret=b2f3d308a54a15955d48c9710cfff2e1&txTime=6a8df38c
 #EXTINF:-1 tvg-id="room-620084" tvg-logo="https://sta.vnres.co/file/common/20260713/cbd81ea71d49b5b5f074a5f56678a9b6.png" group-logo="https://sta.vnres.co/file/common/20260713/cbd81ea71d49b5b5f074a5f56678a9b6.png" group-title="SocoLive",POR LRU23: Maritimo U23 vs Estrela FC U23 - PEANUT
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1787669761-0-0-a09318eb93c783d5be249568a0708468
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1787669820-0-0-d08f64941f5c47b0844ab58901f47bb0
 #EXTINF:-1 tvg-id="room-620649" tvg-logo="https://sta.vnres.co/file/common/20260725/0eb3315ecb9cf5c7f5f9b102d38e52f9.jpg" group-logo="https://sta.vnres.co/file/common/20260725/0eb3315ecb9cf5c7f5f9b102d38e52f9.jpg" group-title="SocoLive",KAZ PR: Tobol Kostanai vs Kaisar Kyzylorda - RỒNG ĐẤT
-https://pull.niues.live/live/stream-620649_lhd.m3u8?auth_key=1787669761-0-0-1519d52f2327129e8c59796898beeb08
+https://pull.niues.live/live/stream-620649_lhd.m3u8?auth_key=1787669820-0-0-d8e3ec862702793129bd3c640efd051f
 #EXTINF:-1 tvg-id="room-622240" tvg-logo="https://sta.vnres.co/file/common/20260809/8d3ecd1339e9fe41608eb4b7f008436c.jpg" group-logo="https://sta.vnres.co/file/common/20260809/8d3ecd1339e9fe41608eb4b7f008436c.jpg" group-title="SocoLive",UZB PFL: FK Andijon vs Xorazm Urganch - CURRY
-https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1787669761-0-0-d360129570fffc78bd61f1aa6e26e4f0
+https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1787669820-0-0-f3d82941ee1c30dcd538d93f7b27d08f
 #EXTINF:-1 tvg-id="room-622241" tvg-logo="https://sta.vnres.co/file/common/20260811/153bed07d4854213a9a88e1029ada9de.jpg" group-logo="https://sta.vnres.co/file/common/20260811/153bed07d4854213a9a88e1029ada9de.jpg" group-title="SocoLive",UZB PFL: FK Andijon vs Xorazm Urganch - BLV HEHE
-https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1787669761-0-0-a2f1c61d4796653cc6334bcf846c2f84
+https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1787669820-0-0-f2654669034d5598c090e3589de2a042
 #EXTINF:-1 tvg-id="room-9912117" tvg-logo="https://sta.vnres.co/file/common/20260810/b792b2c329f2ffe44037f2d5973945de.jpg" group-logo="https://sta.vnres.co/file/common/20260810/b792b2c329f2ffe44037f2d5973945de.jpg" group-title="SocoLive",UZB PFL: Termez Surkhon vs FC OKMK Olmaliq - BLV LONG
-https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=2c372ad26f851e5f15ebc41c7134d057&txTime=6a8df351
+https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=d928725ebd15d82e5fba4a7edbdfef7d&txTime=6a8df38c
