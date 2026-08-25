@@ -1,5 +1,14 @@
 [
   {
+    "id": "179093",
+    "tvg_id": "room-179093",
+    "name": "Tường thuật: ITA D1 - Bologna vs Lazio - Hươu đau cổ",
+    "logo": "https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=722a4c7e238a0c153ecb377e21ba2436\u0026txTime=6a8ddfdc",
+    "type": "hls"
+  },
+  {
     "id": "321443",
     "tvg_id": "room-321443",
     "name": "KOR D1: Gimcheon Sangmu FC vs Jeonbuk Hyundai Motors - BLV GIÓ",
@@ -23,7 +32,7 @@
     "name": "KOR D1: Gimcheon Sangmu FC vs Jeonbuk Hyundai Motors - BLV FIREMAN",
     "logo": "https://sta.vnres.co/file/common/20240614/d900dd8841b1223c7b58554cde34df75.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1787664720-0-0-d5423f8499b71db45ccff268e4d6e765",
+    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1787664780-0-0-88adb6564fd277d1eea1d0d5da7dc66a",
     "type": "hls"
   },
   {
@@ -33,24 +42,6 @@
     "logo": "https://sta.vnres.co/file/common/20260824/6df818e081cfcc9dbb28f6b299961ba7.jpg",
     "group": "SocoLive",
     "url": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=0e396630aa56db177ea8ad53f8f8d1f5\u0026txTime=6a8ddef6",
-    "type": "hls"
-  },
-  {
-    "id": "9912118",
-    "tvg_id": "room-9912118",
-    "name": "KOR D1: FC Seoul vs Bucheon FC 1995 - QUỐC KHÁNH",
-    "logo": "https://sta.vnres.co/file/common/20260825/b6feb8d32d54371885e03dec14de512d.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912118_lhd.m3u8?txSecret=b8a2cd380260a86b2b9ca77876e47a8f\u0026txTime=6a8ddfaf",
-    "type": "hls"
-  },
-  {
-    "id": "9912120",
-    "tvg_id": "room-9912120",
-    "name": "KOR D1: Jeju SK FC vs Pohang Steelers - BLV A TÚ",
-    "logo": "https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png",
-    "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912120_lhd.m3u8?auth_key=1787664472-0-0-58116e1f40f92f0b0db202328359f595",
     "type": "hls"
   }
 ]
