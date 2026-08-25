@@ -50,7 +50,16 @@
     "name": "MPBL: Manila Batang Quiapo vs Pasig City - A CHÈ",
     "logo": "https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=3845ec9c14db2312d7f6fa9c10a503e4\u0026txTime=6a8daf58",
+    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=524dc9a0b7f1a1467a2f09bc1a93583e\u0026txTime=6a8daf94",
+    "type": "hls"
+  },
+  {
+    "id": "414317",
+    "tvg_id": "room-414317",
+    "name": "AUS FFA: Queensland Lions SC vs North Sunshine Eagles - THOMAS",
+    "logo": "https://sta.vnres.co/file/common/20260806/4c726754b547e8d50d1f1dd3d1304c4f.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=4c100f991c5ded62ac6a213b93c60b67\u0026txTime=6a8daf94",
     "type": "hls"
   },
   {
@@ -59,7 +68,7 @@
     "name": "IND CFL: Measures Club vs Mohammedan SC - XUÂN SON",
     "logo": "https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=e9f0ebc8448325955abf336c251e1542\u0026txTime=6a8daf58",
+    "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=8af8f543cfd5f5280e4a06b6665156f0\u0026txTime=6a8daf94",
     "type": "hls"
   },
   {
@@ -68,7 +77,7 @@
     "name": "AUS FFA: Queensland Lions SC vs North Sunshine Eagles - BLV ROBBEN",
     "logo": "https://sta.vnres.co/file/common/20260626/fcd1d9373f93de7ff3ebfbee3f073c7c.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1787652360-0-0-ba02ba4c2a536bee2314e1a33964f65f",
+    "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1787652420-0-0-ddfd4a1b097b82df14c155660e0f2093",
     "type": "hls"
   },
   {
@@ -77,7 +86,7 @@
     "name": "NBL: lllawarra Hawks vs Sydney Kings - HUNTER",
     "logo": "https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=b046572f68bb837edd0e081eafac00d8\u0026txTime=6a8daf58",
+    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=569cc47354761916fec9d0484031a7a4\u0026txTime=6a8daf94",
     "type": "hls"
   },
   {
@@ -86,7 +95,7 @@
     "name": "IND CFL: United SC Kolkata vs Police AC - BLV LION",
     "logo": "https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1787652360-0-0-b071c00941a0e98c257daa047294b3dd",
+    "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1787652420-0-0-5eb8be815e8d2f3c419927d8863297b0",
     "type": "hls"
   },
   {
@@ -95,7 +104,16 @@
     "name": "AUS FFA: Queensland Lions SC vs North Sunshine Eagles - BLV BẢY",
     "logo": "https://sta.vnres.co/file/common/20260813/5d212275a6562e784f8ce4dd82466681.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1787652360-0-0-e8221cede875103e76af66ada1c1e7bf",
+    "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1787652420-0-0-b05c725abc9f3a400c49cecb2de7dc68",
+    "type": "hls"
+  },
+  {
+    "id": "622241",
+    "tvg_id": "room-622241",
+    "name": "IND CFL: Measures Club vs Mohammedan SC - BLV HEHE",
+    "logo": "https://sta.vnres.co/file/common/20260811/153bed07d4854213a9a88e1029ada9de.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1787652420-0-0-5d3eb91fc25a5506f8c028a9aa0d9f36",
     "type": "hls"
   },
   {
@@ -113,7 +131,7 @@
     "name": "AUS FFA: Queensland Lions SC vs North Sunshine Eagles - BLV Củ Cải",
     "logo": "https://sta.vnres.co/file/common/20260825/c8a8c9c2e722433982af16c5db1b37c8.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1787652360-0-0-7644e39069ed82d5ffaade5e45c76e86",
+    "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1787652420-0-0-6b1fa83e983c20cc730b16647d8e13fb",
     "type": "hls"
   },
   {
@@ -122,7 +140,7 @@
     "name": "WCBC: Sichuan Jinqiang vs Beijing Ducks - KING",
     "logo": "https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787652360-0-0-d9912eeea959c497db92b8f034c688a5",
+    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787652420-0-0-2ee8104ae07fbcce48e25ec48b12211a",
     "type": "hls"
   },
   {
@@ -131,7 +149,7 @@
     "name": "WCBC: Sichuan Jinqiang vs Beijing Ducks - BRIAN",
     "logo": "https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787652360-0-0-fccbca454d06502f89e5925f08214517",
+    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787652420-0-0-015b56b92ed9211faec0101aeeae56ca",
     "type": "hls"
   },
   {
@@ -140,7 +158,7 @@
     "name": "NBL: lllawarra Hawks vs Sydney Kings - BLV HENRY",
     "logo": "https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1787652360-0-0-e74c7d803db408c38d50dd7463054b44",
+    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1787652420-0-0-5dd4c4a3055bd07e136439f959d5a714",
     "type": "hls"
   },
   {
@@ -149,7 +167,7 @@
     "name": "WNBA: Los Angeles Sparks W vs Atlanta Dream W - CHAN SENA",
     "logo": "https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787652360-0-0-fc4cb4414ba609fdda0a30b424a2900f",
+    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787652420-0-0-fa94a2041f84b999fd515a60e9afb9e5",
     "type": "hls"
   }
 ]
