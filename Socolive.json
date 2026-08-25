@@ -1,11 +1,29 @@
 [
   {
+    "id": "152898",
+    "tvg_id": "room-152898",
+    "name": "Tường thuật: SPA D1 - Malaga vs RC Deportivo - Thỏ giang hồ",
+    "logo": "https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=55b467135ee936e182534becfd596375\u0026txTime=6a8e5a3d",
+    "type": "hls"
+  },
+  {
+    "id": "179093",
+    "tvg_id": "room-179093",
+    "name": "Tường thuật: ITA D1 - Bologna vs Lazio - Hươu đau cổ",
+    "logo": "https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=002d9371fe73c74d6bfd3edfe517842f\u0026txTime=6a8e5a3a",
+    "type": "hls"
+  },
+  {
     "id": "527384",
     "tvg_id": "room-527384",
     "name": "UEFA CL: LASK Linz vs Celtic F.C. - LÃO LÂM",
     "logo": "https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1787696040-0-0-a960fd82c6e8da21a7529f5d7ac8d683",
+    "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1787696100-0-0-aa2a4a1cc90e2154e15502ae23922783",
     "type": "hls"
   },
   {
@@ -14,7 +32,7 @@
     "name": "UEFA CL: LASK Linz vs Celtic F.C. - SEVEN",
     "logo": "https://sta.vnres.co/file/common/20260715/0e572fd7d0bfc5ce5cf538c09b8cace4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-618546_lhd.m3u8?txSecret=3d0138ce4c4c7afbebb7630fcc08ba37\u0026txTime=6a8e59f8",
+    "url": "https://pull.niur.live/live/stream-618546_lhd.m3u8?txSecret=bf54e0ccb8cc4cd22443228f0df17c4c\u0026txTime=6a8e5a34",
     "type": "hls"
   },
   {
@@ -23,7 +41,7 @@
     "name": "UEFA CL: LASK Linz vs Celtic F.C. - KENCHU",
     "logo": "https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-622602_lhd.m3u8?auth_key=1787696040-0-0-2a4ae522267dd17e63455bd57c18396f",
+    "url": "https://pull.niues.live/live/stream-622602_lhd.m3u8?auth_key=1787696100-0-0-f887eb8ef61e6dee4a0da9616668c742",
     "type": "hls"
   },
   {
@@ -32,7 +50,7 @@
     "name": "UEFA CL: LASK Linz vs Celtic F.C. - BLV FIREMAN",
     "logo": "https://sta.vnres.co/file/common/20240614/d900dd8841b1223c7b58554cde34df75.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1787696040-0-0-ab6270c607d701019019bebae786bf35",
+    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1787696100-0-0-8a54c079279c4a3999a8222c46a0ec2a",
     "type": "hls"
   }
 ]
