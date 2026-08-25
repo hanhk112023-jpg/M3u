@@ -3,30 +3,32 @@
 # SOCOLIVE LIVE PLAYLIST
 # ======================================
 # Status       : ONLINE
-# Channels     : 11
-# Updated      : 25/08/2026 16:34:18
+# Channels     : 12
+# Updated      : 25/08/2026 16:35:18
 # Player       : OTT Navigator / TiviMate
 # ======================================
 
+#EXTINF:-1 tvg-id="room-256080" tvg-logo="https://sta.vnres.co/file/common/20260804/e812d4edaaf2081ed4e1824593a72b3a.jpg" group-logo="https://sta.vnres.co/file/common/20260804/e812d4edaaf2081ed4e1824593a72b3a.jpg" group-title="SocoLive",KOR D1: Jeju SK FC vs Pohang Steelers - BLV CUỘI
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1787654100-0-0-aafd37d9b52b2523d4a3fe370dfa8d01
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg" group-logo="https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg" group-title="SocoLive",MPBL: Manila Batang Quiapo vs Pasig City - A CHÈ
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=3c03ebe8dd4dc4b40a6c975112aefd34&txTime=6a8db5e8
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=192a84fd235e4a40f4a5e37c94f56258&txTime=6a8db624
 #EXTINF:-1 tvg-id="room-414317" tvg-logo="https://sta.vnres.co/file/common/20260806/4c726754b547e8d50d1f1dd3d1304c4f.jpg" group-logo="https://sta.vnres.co/file/common/20260806/4c726754b547e8d50d1f1dd3d1304c4f.jpg" group-title="SocoLive",AUS FFA: Queensland Lions SC vs North Sunshine Eagles - THOMAS
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=bf5b4cabb496cf8fa78f58f7e52f3ac0&txTime=6a8db5e8
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=9a10917807f37c2326cdf23a7004ced1&txTime=6a8db624
 #EXTINF:-1 tvg-id="room-527383" tvg-logo="https://sta.vnres.co/file/common/20260626/fcd1d9373f93de7ff3ebfbee3f073c7c.jpg" group-logo="https://sta.vnres.co/file/common/20260626/fcd1d9373f93de7ff3ebfbee3f073c7c.jpg" group-title="SocoLive",AUS FFA: Queensland Lions SC vs North Sunshine Eagles - BLV ROBBEN
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1787654040-0-0-9c2139063870babc52cb810b39fb3e17
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1787654100-0-0-94c9f425356275b600e98f781bafc481
+#EXTINF:-1 tvg-id="room-610518" tvg-logo="https://sta.vnres.co/file/common/20260628/336b2e008de11bb26c1d4e0e46bc9f95.jpg" group-logo="https://sta.vnres.co/file/common/20260628/336b2e008de11bb26c1d4e0e46bc9f95.jpg" group-title="SocoLive",POR LRU23: Estoril U23 vs Moreirense U23 - XUÂN TÓC ĐỎ
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=9c4267b1ee84961772109018a082ad78&txTime=6a8db62f
 #EXTINF:-1 tvg-id="room-618546" tvg-logo="https://sta.vnres.co/file/common/20260715/0e572fd7d0bfc5ce5cf538c09b8cace4.jpg" group-logo="https://sta.vnres.co/file/common/20260715/0e572fd7d0bfc5ce5cf538c09b8cace4.jpg" group-title="SocoLive",POR LRU23: Estoril U23 vs Moreirense U23 - SEVEN
-https://pull.niur.live/live/stream-618546_lhd.m3u8?txSecret=0ef6251b44bb24724a1ea64be2a73a87&txTime=6a8db5e8
+https://pull.niur.live/live/stream-618546_lhd.m3u8?txSecret=9b7c6b4817fc2a5c4bb0ddce6d5723b5&txTime=6a8db624
 #EXTINF:-1 tvg-id="room-619672" tvg-logo="https://sta.vnres.co/file/common/20260808/4818d723b5e85850f66dfc3b5aed49d8.png" group-logo="https://sta.vnres.co/file/common/20260808/4818d723b5e85850f66dfc3b5aed49d8.png" group-title="SocoLive",AUS FFA: Queensland Lions SC vs North Sunshine Eagles - T REX
-https://pull.niur.live/live/stream-619672_lhd.m3u8?txSecret=b5222c7c8de388221f8b6b82191ed6f7&txTime=6a8db5e8
-#EXTINF:-1 tvg-id="room-620504" tvg-logo="https://sta.vnres.co/file/common/20260802/d0b756ac34b8f00d22a6d687f86fe8b2.jpg" group-logo="https://sta.vnres.co/file/common/20260802/d0b756ac34b8f00d22a6d687f86fe8b2.jpg" group-title="SocoLive",IND CFL: United SC Kolkata vs Police AC - BOSS
-https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=c0b6bf8272ceae8d8105e1ac882f341b&txTime=6a8db5f5
+https://pull.niur.live/live/stream-619672_lhd.m3u8?txSecret=36fbd2407c29d21dec03f2b8ca911c51&txTime=6a8db624
 #EXTINF:-1 tvg-id="room-621843" tvg-logo="https://sta.vnres.co/file/common/20260813/5d212275a6562e784f8ce4dd82466681.png" group-logo="https://sta.vnres.co/file/common/20260813/5d212275a6562e784f8ce4dd82466681.png" group-title="SocoLive",AUS FFA: Queensland Lions SC vs North Sunshine Eagles - BLV BẢY
-https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1787654040-0-0-2a5c55e1ba37af5e7fb7f899b851b7a9
+https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1787654100-0-0-797b28359443633efdd6e0e25066eed9
 #EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260825/c8a8c9c2e722433982af16c5db1b37c8.png" group-logo="https://sta.vnres.co/file/common/20260825/c8a8c9c2e722433982af16c5db1b37c8.png" group-title="SocoLive",AUS FFA: Queensland Lions SC vs North Sunshine Eagles - BLV Củ Cải
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1787654040-0-0-6c9a8d771bdd2e98a2de31b9ff706bb4
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1787654100-0-0-6352bd8c3a6bc052fd18c5b185a2576f
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-title="SocoLive",WCBC: Sichuan Jinqiang vs Beijing Ducks - KING
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787654040-0-0-269f443a9a78460bd574ba1d217ef5fa
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787654100-0-0-4bb742daa462fae3a96cf9179f0ec406
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg" group-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg" group-title="SocoLive",WNBA: Los Angeles Sparks W vs Atlanta Dream W - CHAN SENA
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787654040-0-0-7615d0380b0b36b1603cf59f696c3394
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787654100-0-0-b7c0fa8c3af213b155c4828fdb02afa1
 #EXTINF:-1 tvg-id="room-9912121" tvg-logo="https://sta.vnres.co/file/common/20260730/7804d6332c85f80cc4843609598de690.jpg" group-logo="https://sta.vnres.co/file/common/20260730/7804d6332c85f80cc4843609598de690.jpg" group-title="SocoLive",AUS FFA: Queensland Lions SC vs North Sunshine Eagles - BÁ PHÚ
-https://pull.niues.live/live/stream-9912121_lhd.m3u8?auth_key=1787654040-0-0-fa65b9872a0af1180a95e3a61d832f86
+https://pull.niues.live/live/stream-9912121_lhd.m3u8?auth_key=1787654100-0-0-c8a96de99125a7fc85ec51ea3cc96185
