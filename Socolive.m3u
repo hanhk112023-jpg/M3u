@@ -3,50 +3,54 @@
 # SOCOLIVE LIVE PLAYLIST
 # ======================================
 # Status       : ONLINE
-# Channels     : 21
-# Updated      : 25/08/2026 09:09:27
+# Channels     : 23
+# Updated      : 25/08/2026 09:10:27
 # Player       : OTT Navigator / TiviMate
 # ======================================
 
 #EXTINF:-1 tvg-id="room-283501" tvg-logo="https://sta.vnres.co/file/common/20260825/85c999df3c7351059115121d8cffd768.png" group-logo="https://sta.vnres.co/file/common/20260825/85c999df3c7351059115121d8cffd768.png" group-title="SocoLive",MEX WD1: Atlas Women vs Tijuana Women - BLV KAN
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=c2395d282168c860f878c1ef0cfe5d43&txTime=6a8d4d9c
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=4f95ccec3dfccf90b6c8ab9e75cd1865&txTime=6a8d4dd8
 #EXTINF:-1 tvg-id="room-304148" tvg-logo="https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg" group-logo="https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg" group-title="SocoLive",ARG D1: Talleres Cordoba vs CA Rosario Central - BLV LUCAS
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1787627340-0-0-198aa37abb9ad809b8048ef4adef0464
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1787627400-0-0-1db2dac669ee58310c92527b522a5426
+#EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg" group-logo="https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg" group-title="SocoLive",LNBP: Santos vs Dorados - A CHÈ
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=0a075b33b20ba0dcc8161a5c926b5636&txTime=6a8d4dd8
 #EXTINF:-1 tvg-id="room-372746" tvg-logo="https://sta.vnres.co/file/common/20260728/ba06eac3dc3ffeee0de25e8e0deaaceb.jpg" group-logo="https://sta.vnres.co/file/common/20260728/ba06eac3dc3ffeee0de25e8e0deaaceb.jpg" group-title="SocoLive",ARG D1: Talleres Cordoba vs CA Rosario Central - BLV YONE
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1787627340-0-0-2ae7652e35a0cc18ca18302d9f3784cb
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1787627400-0-0-f2cc70bb46a71109969a5979e8b0b0eb
 #EXTINF:-1 tvg-id="room-380460" tvg-logo="https://sta.vnres.co/file/common/20260819/942adbd69509cca874884bbfbb5144c4.jpg" group-logo="https://sta.vnres.co/file/common/20260819/942adbd69509cca874884bbfbb5144c4.jpg" group-title="SocoLive",ARG D1: Club Atlético Lanús vs Argentinos Juniors - BLV ENZO
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1787627340-0-0-66360befb67ecbdcbe21150e22784780
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1787627400-0-0-3281c24471eaa22f98886b7108e2b732
 #EXTINF:-1 tvg-id="room-414317" tvg-logo="https://sta.vnres.co/file/common/20260806/4c726754b547e8d50d1f1dd3d1304c4f.jpg" group-logo="https://sta.vnres.co/file/common/20260806/4c726754b547e8d50d1f1dd3d1304c4f.jpg" group-title="SocoLive",USA MLSRv: Tacoma Defiance vs Sporting Kansas City Reserves - THOMAS
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=4beac8c439ee0e75c8ec9b1b56e4d416&txTime=6a8d4d9c
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=24a93401e30e4a1e759988db4f3cbb87&txTime=6a8d4dd8
 #EXTINF:-1 tvg-id="room-527383" tvg-logo="https://sta.vnres.co/file/common/20260626/fcd1d9373f93de7ff3ebfbee3f073c7c.jpg" group-logo="https://sta.vnres.co/file/common/20260626/fcd1d9373f93de7ff3ebfbee3f073c7c.jpg" group-title="SocoLive",USA MLSRv: Tacoma Defiance vs Sporting Kansas City Reserves - BLV ROBBEN
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1787627340-0-0-0f3e9485bcf279a691b5d12aaceefbc6
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1787627400-0-0-71a8697b7710efeceda24910c3185bf2
 #EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg" group-logo="https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg" group-title="SocoLive",ARG D1: Talleres Cordoba vs CA Rosario Central - BLV RAMBO
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=5fce8060984a1001a45c8ab8dd9f0eb9&txTime=6a8d4d9c
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=1bde089f4229c1354fec8fa3560a1981&txTime=6a8d4dd8
+#EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg" group-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg" group-title="SocoLive",LNBP: Lobos Plateados vs Fuerza Regia - HUNTER
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=b72be08bf82f441ef0ffb73b90acd52f&txTime=6a8d4dd8
 #EXTINF:-1 tvg-id="room-603914" tvg-logo="https://sta.vnres.co/file/common/20260406/de5933be539e85bbac3c5fdbddfe54b7.jpg" group-logo="https://sta.vnres.co/file/common/20260406/de5933be539e85bbac3c5fdbddfe54b7.jpg" group-title="SocoLive",MEX WD1: Atlas Women vs Tijuana Women - TRÀ ĐÁ
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1787627340-0-0-ea45c0dad6d2f6c9116ca78a11691994
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1787627400-0-0-2fd133a4ea81106cf03357feec04a998
 #EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg" group-logo="https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg" group-title="SocoLive",ARG D1: Club Atlético Lanús vs Argentinos Juniors - HÀ DUY KIÊN
-https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=8914788666c5cfa495685f2a42b47192&txTime=6a8d4d9c
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=f8eadf00b8420751f2325036c5fd9cc7&txTime=6a8d4de9
 #EXTINF:-1 tvg-id="room-610677" tvg-logo="https://sta.vnres.co/file/common/20260825/9e7b00d618f116004ff00e254342d00c.jpg" group-logo="https://sta.vnres.co/file/common/20260825/9e7b00d618f116004ff00e254342d00c.jpg" group-title="SocoLive",ARG D1: Talleres Cordoba vs CA Rosario Central - BLV CÁP
-https://pull.niur.live/live/stream-610677_lhd.m3u8?txSecret=bf2ba044cbf9f6fa18c7f55950f06155&txTime=6a8d4d9c
+https://pull.niur.live/live/stream-610677_lhd.m3u8?txSecret=5c34b50567f38a0908a804088f873ee9&txTime=6a8d4dd8
 #EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg" group-logo="https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg" group-title="SocoLive",COL D2: Inter Palmira vs Barranquilla FC - CƠM NẾP
-https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1787627340-0-0-05a13b908317b0ee153dc56b668a9e05
+https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1787627400-0-0-1f7560be5e6a682e1990d21b9ea5986a
 #EXTINF:-1 tvg-id="room-620003" tvg-logo="https://sta.vnres.co/file/common/20260709/01ed22d7dd1b21e74094cdea367770a9.png" group-logo="https://sta.vnres.co/file/common/20260709/01ed22d7dd1b21e74094cdea367770a9.png" group-title="SocoLive",MEX WD1: Atlas Women vs Tijuana Women - BLV FOX
-https://pull.niues.live/live/stream-620003_lhd.m3u8?auth_key=1787627340-0-0-9a380605522d6700b0d538553f82947c
+https://pull.niues.live/live/stream-620003_lhd.m3u8?auth_key=1787627400-0-0-0486af4ce4818fa013627c4615914801
 #EXTINF:-1 tvg-id="room-621887" tvg-logo="https://sta.vnres.co/file/common/20260728/c2935ca02d759ee77531ff32719f1b21.png" group-logo="https://sta.vnres.co/file/common/20260728/c2935ca02d759ee77531ff32719f1b21.png" group-title="SocoLive",MEX WD1: Atlas Women vs Tijuana Women - CHAN ĐÊ
-https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1787627340-0-0-85697d446596e69e7aae02a04d3b1595
+https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1787627400-0-0-5274fb150e2993e2d453e2b2af64d2df
 #EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56.jpg" group-logo="https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56.jpg" group-title="SocoLive",USA MLSRv: Tacoma Defiance vs Sporting Kansas City Reserves - BLV TAP
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=09a184cad626f7d61ab9282846c45b6c&txTime=6a8d4d9c
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=74ef20f27cea68d02d5539499ad1a345&txTime=6a8d4dd8
 #EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260825/c8a8c9c2e722433982af16c5db1b37c8.png" group-logo="https://sta.vnres.co/file/common/20260825/c8a8c9c2e722433982af16c5db1b37c8.png" group-title="SocoLive",USA MLSRv: Tacoma Defiance vs Sporting Kansas City Reserves - BLV Củ Cải
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1787627340-0-0-2ebf717bf9207b8bfbe18ea2ad289ea9
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1787627400-0-0-df001b1430dc29fd4b8f97c9ca97595f
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-title="SocoLive",LNBP: Correcaminos vs Soles - KING
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787627340-0-0-3c088f09ea2202e93e22dbbc5f15d0aa
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787627400-0-0-841404cd615974eb43a9c0da209e375a
 #EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg" group-logo="https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg" group-title="SocoLive",ARG D1: Club Atlético Lanús vs Argentinos Juniors - BLV RÔSI
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=39eeb70d4fe9835d913094d4c4a02875&txTime=6a8d4d9c
-#EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-title="SocoLive",WNBA: Minnesota Lynx W vs Golden State Valkyries W - BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787627340-0-0-a950064acaef46eeeec748d70670b8fe
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=95e80ba9e4176422c4d786a5290f54e9&txTime=6a8d4dd8
 #EXTINF:-1 tvg-id="room-9912108" tvg-logo="https://sta.vnres.co/file/common/20260730/7804d6332c85f80cc4843609598de690.jpg" group-logo="https://sta.vnres.co/file/common/20260730/7804d6332c85f80cc4843609598de690.jpg" group-title="SocoLive",USA MLSRv: Tacoma Defiance vs Sporting Kansas City Reserves - BÁ PHÚ
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1787627340-0-0-15c8c9ca7ca79fda1aa3742694eafa31
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1787627400-0-0-eb77c840b6621bc85b06d19176d564de
 #EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260824/76be87aa373e45e22f42cb2a5485f415.png" group-logo="https://sta.vnres.co/file/common/20260824/76be87aa373e45e22f42cb2a5485f415.png" group-title="SocoLive",USA MLSRv: Tacoma Defiance vs Sporting Kansas City Reserves - BLV ZOWIE
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1787627340-0-0-5e012318f314e487d1f11db7b1d1d269
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1787627400-0-0-93c5e84af43913913d2ae4add7f634ad
 #EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151.png" group-logo="https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151.png" group-title="SocoLive",COL D2: Inter Palmira vs Barranquilla FC - BLV VOI
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1787627340-0-0-be761c1a639fd914484bcb655c02c89b
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1787627400-0-0-7034226806ad908133e6978557a62587
+#EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg" group-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg" group-title="SocoLive",WNBA: Los Angeles Sparks W vs Atlanta Dream W - CHAN SENA
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787627400-0-0-d794a8b416364fbbd8465459ee19fe62
