@@ -1,10 +1,9 @@
 name: socolive-scan
 
 on:
-  schedule:
-    # Every 5 minutes is the most reliable cadence GitHub Actions offers;
-    # runs may still be delayed a few minutes during peak load.
-    - cron: '*/5 * * * *'
+  # NOTE: cron disabled — json.vnres.co blocks GitHub/Azure datacenter IPs
+  # (HTTP 403), so scheduled runs fail. Kept for manual testing only:
+  # Actions tab -> socolive-scan -> Run workflow
   workflow_dispatch: {}
 
 permissions:
