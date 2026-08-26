@@ -3,24 +3,26 @@
 # SOCOLIVE LIVE PLAYLIST
 # ======================================
 # Status       : ONLINE
-# Channels     : 8
-# Updated      : 27/08/2026 04:50:18
+# Channels     : 9
+# Updated      : 27/08/2026 04:51:18
 # Player       : OTT Navigator / TiviMate
 # ======================================
 
 #EXTINF:-1 tvg-id="room-283501" tvg-logo="https://sta.vnres.co/file/common/20260827/45e69965db33d625871f6f02b2925d13.png" group-logo="https://sta.vnres.co/file/common/20260827/45e69965db33d625871f6f02b2925d13.png" group-title="SocoLive",CHI D1: Coquimbo Unido vs Univ Catolica - BLV KAN
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=5d8c0d54ec9ad4e8c110e93880e8de63&txTime=6a8fb3e9
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=1df985f4501637c8bb05beb326b21344&txTime=6a8fb425
 #EXTINF:-1 tvg-id="room-304148" tvg-logo="https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg" group-logo="https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg" group-title="SocoLive",ARG Cup: Aldosivi Mar del Plata vs Independiente Rivadavia - BLV LUCAS
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1787784601-0-0-a4fdebfc62175786a2e1d5a0d06b8e0f
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1787784661-0-0-73de19c251d8183a6f3c6227da8a06d0
 #EXTINF:-1 tvg-id="room-406865" tvg-logo="https://sta.vnres.co/file/common/20241220/6200343fea7ece69d7d92ae718616478.jpg" group-logo="https://sta.vnres.co/file/common/20241220/6200343fea7ece69d7d92ae718616478.jpg" group-title="SocoLive",COL D1: Boyaca Chico vs Fortaleza F.C - BLV ANH TÀI
-https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=24747bfa164180953e4177a762e73a80&txTime=6a8fb3e9
+https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=4fa563d79a39c6b51dfec9a85820078f&txTime=6a8fb425
 #EXTINF:-1 tvg-id="room-485739" tvg-logo="https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg" group-logo="https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg" group-title="SocoLive",CHI D1: Coquimbo Unido vs Univ Catolica - BLV CHIVAS
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=547f5a93c046c0a2518d3c87deb3d73a&txTime=6a8fb3e9
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=85f1653a31531c7be5be181ecc8f6fb5&txTime=6a8fb425
 #EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg" group-logo="https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg" group-title="SocoLive",COL D1: Boyaca Chico vs Fortaleza F.C - BLV RAMBO
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=0c30d5b765c7ba65e621637ab8efe437&txTime=6a8fb3e9
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=8ef865efe9efc5eb3011ffb3b85df071&txTime=6a8fb425
+#EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg" group-logo="https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg" group-title="SocoLive",CHI D1: Coquimbo Unido vs Univ Catolica - CƠM NẾP
+https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1787784661-0-0-c998bbea430da2c7954391162aa98204
 #EXTINF:-1 tvg-id="room-620003" tvg-logo="https://sta.vnres.co/file/common/20260709/01ed22d7dd1b21e74094cdea367770a9.png" group-logo="https://sta.vnres.co/file/common/20260709/01ed22d7dd1b21e74094cdea367770a9.png" group-title="SocoLive",COL D1: Boyaca Chico vs Fortaleza F.C - BLV FOX
-https://pull.niues.live/live/stream-620003_lhd.m3u8?auth_key=1787784601-0-0-3a088c68fb48ca0470bca13dc7831921
+https://pull.niues.live/live/stream-620003_lhd.m3u8?auth_key=1787784661-0-0-a75d376fbbba7969814230dbd393c13f
 #EXTINF:-1 tvg-id="room-620084" tvg-logo="https://sta.vnres.co/file/common/20260713/cbd81ea71d49b5b5f074a5f56678a9b6.png" group-logo="https://sta.vnres.co/file/common/20260713/cbd81ea71d49b5b5f074a5f56678a9b6.png" group-title="SocoLive",COL D1: Boyaca Chico vs Fortaleza F.C - PEANUT
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1787784601-0-0-3ba9f2f056ac5ad7d1e48e4da51b589d
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1787784661-0-0-7fea8da3781ab1e49bb3475abb3616ce
 #EXTINF:-1 tvg-id="room-621887" tvg-logo="https://sta.vnres.co/file/common/20260728/c2935ca02d759ee77531ff32719f1b21.png" group-logo="https://sta.vnres.co/file/common/20260728/c2935ca02d759ee77531ff32719f1b21.png" group-title="SocoLive",CHI D1: Coquimbo Unido vs Univ Catolica - CHAN ĐÊ
-https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1787784601-0-0-658950b0882da4627b4d3a1255900bf2
+https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1787784661-0-0-1d3b765988fd37e5e2e4cf15f2a14f52
