@@ -3,42 +3,46 @@
 # SOCOLIVE LIVE PLAYLIST
 # ======================================
 # Status       : ONLINE
-# Channels     : 17
-# Updated      : 26/08/2026 22:22:33
+# Channels     : 19
+# Updated      : 26/08/2026 22:23:18
 # Player       : OTT Navigator / TiviMate
 # ======================================
 
 #EXTINF:-1 tvg-id="room-256080" tvg-logo="https://sta.vnres.co/file/common/20260804/e812d4edaaf2081ed4e1824593a72b3a.jpg" group-logo="https://sta.vnres.co/file/common/20260804/e812d4edaaf2081ed4e1824593a72b3a.jpg" group-title="SocoLive",AFF SC: Vietnam vs Thailand - BLV CUỘI
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1787761321-0-0-1a0ca1778e30588980ef81448d06b067
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1787761381-0-0-c246199de76cd464a966c57d98a2f76e
 #EXTINF:-1 tvg-id="room-387694" tvg-logo="https://sta.vnres.co/file/common/20260826/9a97451c62fee59abe9a9ead3381962e.PNG" group-logo="https://sta.vnres.co/file/common/20260826/9a97451c62fee59abe9a9ead3381962e.PNG" group-title="SocoLive",KSA PR: Al Faisaly vs Al Fateh - CR Bưởi
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=c62f09d405cc162e2ff1150046327100&txTime=6a8f58f9
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=01c7dbf49172e66ec80b5698d0949c07&txTime=6a8f5935
 #EXTINF:-1 tvg-id="room-414317" tvg-logo="https://sta.vnres.co/file/common/20260806/4c726754b547e8d50d1f1dd3d1304c4f.jpg" group-logo="https://sta.vnres.co/file/common/20260806/4c726754b547e8d50d1f1dd3d1304c4f.jpg" group-title="SocoLive",AFF SC: Vietnam vs Thailand - THOMAS
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=79778f760746b792b3bbeb464c057d94&txTime=6a8f58f9
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=bb0adc96d8f67267d3a4da50538945ec&txTime=6a8f5935
+#EXTINF:-1 tvg-id="room-511367" tvg-logo="https://sta.vnres.co/file/common/20251121/6d691b0b9dfd9eeb599401a2499400f0.png" group-logo="https://sta.vnres.co/file/common/20251121/6d691b0b9dfd9eeb599401a2499400f0.png" group-title="SocoLive",BLR D1: FK Orsha vs Dinamo-2 Minsk - BLV WUKONG
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1787761381-0-0-a89203c889044944c0b7212a19139b32
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg" group-logo="https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg" group-title="SocoLive",UZB PFL: Qizilqum Zarafshon vs Nasaf Qarshi - BLV ALEX
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1787761321-0-0-fc647cc9f7baf6e7a109bd2f64ffe7b7
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1787761381-0-0-24b1d1c9fad8e724366d46e6715f40d0
 #EXTINF:-1 tvg-id="room-536185" tvg-logo="https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg" group-logo="https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg" group-title="SocoLive",UZB PFL: Qizilqum Zarafshon vs Nasaf Qarshi - BLV A WIN
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1787761321-0-0-ed76136d57d33f4deb76f2ca9397ecba
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1787761381-0-0-8220872f4f25a5a1d09f6a11796eb423
+#EXTINF:-1 tvg-id="room-603255" tvg-logo="https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7.png" group-logo="https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7.png" group-title="SocoLive",UZB PFL: Lokomotiv Tashkent vs Bunyodkor - BLV LION
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1787761381-0-0-1a84982b88920936de3b6187abc2d12e
 #EXTINF:-1 tvg-id="room-619561" tvg-logo="https://sta.vnres.co/file/common/20260729/d06a0efe274bce28547238bec2a125b9.jpg" group-logo="https://sta.vnres.co/file/common/20260729/d06a0efe274bce28547238bec2a125b9.jpg" group-title="SocoLive",UZB PFL: Mashal Muborak vs Navbahor Namangan - BÚN ĐẬU
-https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1787761321-0-0-7aa9668e942357ee3162ba1e04bbd417
+https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1787761381-0-0-475ab002991543e4e3e2a6ec3f719a72
 #EXTINF:-1 tvg-id="room-620797" tvg-logo="https://sta.vnres.co/file/common/20260721/eae172928facf755dbf2027ca230e55e.png" group-logo="https://sta.vnres.co/file/common/20260721/eae172928facf755dbf2027ca230e55e.png" group-title="SocoLive",UZB PFL: Qizilqum Zarafshon vs Nasaf Qarshi - BÒ TƯƠI
-https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1787761321-0-0-f3e6c130e59102ad5c3def117f1395e9
+https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1787761381-0-0-fa24ed4b77d03986a881631642dfe342
 #EXTINF:-1 tvg-id="room-621843" tvg-logo="https://sta.vnres.co/file/common/20260813/5d212275a6562e784f8ce4dd82466681.png" group-logo="https://sta.vnres.co/file/common/20260813/5d212275a6562e784f8ce4dd82466681.png" group-title="SocoLive",BLR D1: FK Orsha vs Dinamo-2 Minsk - BLV BẢY
-https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1787761321-0-0-e7706d2825ddfff81511316b86d047df
+https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1787761381-0-0-9cd770c305bce060e6355ac12455a277
 #EXTINF:-1 tvg-id="room-622240" tvg-logo="https://sta.vnres.co/file/common/20260809/8d3ecd1339e9fe41608eb4b7f008436c.jpg" group-logo="https://sta.vnres.co/file/common/20260809/8d3ecd1339e9fe41608eb4b7f008436c.jpg" group-title="SocoLive",UZB PFL: Mashal Muborak vs Navbahor Namangan - CURRY
-https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1787761321-0-0-610bd6d23a4c7ec24ff6ac1fd9712865
+https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1787761381-0-0-42b5839b342f939b3983624950cb31c6
 #EXTINF:-1 tvg-id="room-9912008" tvg-logo="https://sta.vnres.co/file/common/20260629/15a4e4b3233b174e59d4cd6ae5a8432c.png" group-logo="https://sta.vnres.co/file/common/20260629/15a4e4b3233b174e59d4cd6ae5a8432c.png" group-title="SocoLive",UZB PFL: Qizilqum Zarafshon vs Nasaf Qarshi - BLV TOMIA
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1787761321-0-0-eb9ab74b62225764868d3406ca72f21d
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1787761381-0-0-a5de12ad8b85084fb1f16ded35f8ce1f
 #EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260826/61bb40394bcc0aef6fe13f7ab910a91e.png" group-logo="https://sta.vnres.co/file/common/20260826/61bb40394bcc0aef6fe13f7ab910a91e.png" group-title="SocoLive",KSA PR: Al Faisaly vs Al Fateh - BLV Củ Cải
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1787761321-0-0-6b7b20d7cd7f28aa6ed80ea40584f185
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1787761381-0-0-1ea195d184e84fc4e26cba17cd40e538
 #EXTINF:-1 tvg-id="room-9912121" tvg-logo="https://sta.vnres.co/file/common/20260730/7804d6332c85f80cc4843609598de690.jpg" group-logo="https://sta.vnres.co/file/common/20260730/7804d6332c85f80cc4843609598de690.jpg" group-title="SocoLive",AFF SC: Vietnam vs Thailand - BÁ PHÚ
-https://pull.niues.live/live/stream-9912121_lhd.m3u8?auth_key=1787761321-0-0-2f262a0653438e5ee0f916e04c516bac
+https://pull.niues.live/live/stream-9912121_lhd.m3u8?auth_key=1787761381-0-0-c8b1a774053a98ceb3bcec3ef38c9a1a
 #EXTINF:-1 tvg-id="room-9912122" tvg-logo="https://sta.vnres.co/file/common/20260620/4cbae14a2d06d1635a160fc8c2beb182.jpg" group-logo="https://sta.vnres.co/file/common/20260620/4cbae14a2d06d1635a160fc8c2beb182.jpg" group-title="SocoLive",AFF SC: Vietnam vs Thailand - RICKHANTER
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=ce50a2ef380c39c44114a84db6e8f4af&txTime=6a8f58f9
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=66fe6e61569ed6b714b0c6cc036eef70&txTime=6a8f5935
 #EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg" group-logo="https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg" group-title="SocoLive",UZB PFL: Lokomotiv Tashkent vs Bunyodkor - KENCHU
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1787761321-0-0-eba5814d44b470bc3423add90a8e3af3
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1787761381-0-0-348bbac02e40a487e029764103458a4d
 #EXTINF:-1 tvg-id="room-9912126" tvg-logo="https://sta.vnres.co/file/common/20260715/0e572fd7d0bfc5ce5cf538c09b8cace4.jpg" group-logo="https://sta.vnres.co/file/common/20260715/0e572fd7d0bfc5ce5cf538c09b8cace4.jpg" group-title="SocoLive",KSA D1: Al-Adalah vs Al-Tai - SEVEN
-https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=95a74d0f2e73d9aa0bf34ac59a397cbf&txTime=6a8f58f9
+https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=52766650e76f19877bbf00f7f29c53d1&txTime=6a8f5935
 #EXTINF:-1 tvg-id="room-9912128" tvg-logo="https://sta.vnres.co/file/common/20260729/2cca708e4ee1d3e988c578ff79960d7b.jpg" group-logo="https://sta.vnres.co/file/common/20260729/2cca708e4ee1d3e988c578ff79960d7b.jpg" group-title="SocoLive",KSA D1: Al-Adalah vs Al-Tai - CACAO
-https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1787761321-0-0-c8e85b6c09e2f35e224803d29115c785
+https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1787761381-0-0-493fa2be7b5124c5d447c1ec5191e18b
 #EXTINF:-1 tvg-id="room-9912129" tvg-logo="https://sta.vnres.co/file/common/20260826/8053788473d3161986c33d73a2cc641d.jpg" group-logo="https://sta.vnres.co/file/common/20260826/8053788473d3161986c33d73a2cc641d.jpg" group-title="SocoLive",AFF SC: Vietnam vs Thailand - QUỐC KHÁNH
-https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=a5cc1e109f4579664adecedc4cd899d3&txTime=6a8f58f9
+https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=e5c19ee090610c304816d89b5838c7d6&txTime=6a8f5935
