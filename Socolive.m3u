@@ -3,42 +3,44 @@
 # SOCOLIVE LIVE PLAYLIST
 # ======================================
 # Status       : ONLINE
-# Channels     : 17
-# Updated      : 26/08/2026 10:54:18
+# Channels     : 18
+# Updated      : 26/08/2026 10:55:18
 # Player       : OTT Navigator / TiviMate
 # ======================================
 
+#EXTINF:-1 tvg-id="room-256080" tvg-logo="https://sta.vnres.co/file/common/20260804/e812d4edaaf2081ed4e1824593a72b3a.jpg" group-logo="https://sta.vnres.co/file/common/20260804/e812d4edaaf2081ed4e1824593a72b3a.jpg" group-title="SocoLive",CNCF LC: Club Leon vs Real Salt Lake - BLV CUỘI
+https://pull.niur.live/live/stream-256080_lhd.m3u8?txSecret=0af98afaf472cc206fc02b6480991021&txTime=6a8eb7f5
 #EXTINF:-1 tvg-id="room-291277" tvg-logo="https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg" group-logo="https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg" group-title="SocoLive",CNCF CACup: CS Cartagines vs CD FAS - CÔNG CHẤT
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=fc75c743fd25a6bfe63765caffab658c&txTime=6a8eb7b9
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=8d3900ac5c7023d5b0b8809ab2809bc3&txTime=6a8eb7f5
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg" group-logo="https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg" group-title="SocoLive",LNBP: Mineros vs Panteras - A CHÈ
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=d2c726d4d87a01eb7ed261da29ee3c6c&txTime=6a8eb7b9
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=22a7fe47bd91db2af17f68512ac7ceac&txTime=6a8eb7f5
 #EXTINF:-1 tvg-id="room-380460" tvg-logo="https://sta.vnres.co/file/common/20260819/942adbd69509cca874884bbfbb5144c4.jpg" group-logo="https://sta.vnres.co/file/common/20260819/942adbd69509cca874884bbfbb5144c4.jpg" group-title="SocoLive",CNCF CACup: CS Cartagines vs CD FAS - BLV ENZO
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1787720041-0-0-13c8d465221e6462a63029772c47982e
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1787720101-0-0-e66585b4b7260cebd3e1012d8c084324
 #EXTINF:-1 tvg-id="room-485739" tvg-logo="https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg" group-logo="https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg" group-title="SocoLive",CNCF CACup: CS Cartagines vs CD FAS - BLV CHIVAS
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=4ed0dce02aa4a563b63d458757c7bfd9&txTime=6a8eb7b9
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=c39a3a9610d19b6db80ff10e9f176545&txTime=6a8eb7f5
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg" group-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg" group-title="SocoLive",LNBP: Mineros vs Panteras - HUNTER
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=a0804793e7936ec0860a166706c32372&txTime=6a8eb7b9
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=d7503682921ed88459b11989f0dcbbfd&txTime=6a8eb7f5
 #EXTINF:-1 tvg-id="room-622241" tvg-logo="https://sta.vnres.co/file/common/20260811/153bed07d4854213a9a88e1029ada9de.jpg" group-logo="https://sta.vnres.co/file/common/20260811/153bed07d4854213a9a88e1029ada9de.jpg" group-title="SocoLive",CNCF CACup: CSD Municipal vs CD Motagua - BLV HEHE
-https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1787720041-0-0-689879da79d9bac17ac5abd6ab7a85ee
+https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1787720101-0-0-845e8dbfc83c0dbcc7d4f1ac53204e47
 #EXTINF:-1 tvg-id="room-9912015" tvg-logo="https://sta.vnres.co/file/common/20260801/16b69ccb9ccf1f371806a3f19e7dc683.jpg" group-logo="https://sta.vnres.co/file/common/20260801/16b69ccb9ccf1f371806a3f19e7dc683.jpg" group-title="SocoLive",CNCF CACup: CSD Municipal vs CD Motagua - BLV PEWPEW
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1787720041-0-0-decc33dcccc827bf50a3bafe06bcb979
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1787720101-0-0-e7272aa2b2cac5b2d8b10273b5aea022
 #EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56.jpg" group-logo="https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56.jpg" group-title="SocoLive",CNCF LC: Club Leon vs Real Salt Lake - BLV TAP
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=31905cfc135640e29f615e136b13d0ab&txTime=6a8eb7b9
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=2be35d1deae03aa1f8a3f6b7a77db50f&txTime=6a8eb7f5
 #EXTINF:-1 tvg-id="room-9912060" tvg-logo="https://sta.vnres.co/file/common/20260824/6df818e081cfcc9dbb28f6b299961ba7.jpg" group-logo="https://sta.vnres.co/file/common/20260824/6df818e081cfcc9dbb28f6b299961ba7.jpg" group-title="SocoLive",CNCF LC: Club Leon vs Real Salt Lake - ZIDANE
-https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=fe909dcef932459fd54059309d174356&txTime=6a8eb7b9
+https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=7812dcd0b346d7c2f0b1c1827779e660&txTime=6a8eb7f5
 #EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg" group-logo="https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg" group-title="SocoLive",CNCF CACup: CSD Municipal vs CD Motagua - BLV RÔSI
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=6802bf4a4aa31e20bbd6eeb4be1b69e9&txTime=6a8eb7b9
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=5bd6289e0acfef632539ecffd2ee3bb2&txTime=6a8eb7f5
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-title="SocoLive",WNBA: Phoenix Mercury W vs Washington Mystics W - BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787720041-0-0-a81819a1dcb27356543a1db8f195e717
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787720101-0-0-067dca8851eddc94054609d62a6eced5
 #EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260826/b26044e345b99f9c069b3b945f11da61.png" group-logo="https://sta.vnres.co/file/common/20260826/b26044e345b99f9c069b3b945f11da61.png" group-title="SocoLive",CNCF LC: Club Leon vs Real Salt Lake - BLV ZOWIE
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1787720041-0-0-8d36adff8e3330c9ff5c6f1c78e92ceb
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1787720101-0-0-f72b193d3d215908008133bd6d52e62e
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg" group-logo="https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg" group-title="SocoLive",WNBA: Phoenix Mercury W vs Washington Mystics W - BLV HENRY
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1787720041-0-0-22c5dcc4d66f913f3b13ac77d0849c1c
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1787720101-0-0-0126291f742ef1c080b2514efdce440a
 #EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151.png" group-logo="https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151.png" group-title="SocoLive",CNCF CACup: CSD Municipal vs CD Motagua - BLV VOI
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1787720041-0-0-74d448edfe45d4f077cbf4a33d983639
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1787720101-0-0-2f8fda79dbdd3fad414c3ac15371caf9
 #EXTINF:-1 tvg-id="room-9912118" tvg-logo="https://sta.vnres.co/file/common/20260825/b6feb8d32d54371885e03dec14de512d.jpg" group-logo="https://sta.vnres.co/file/common/20260825/b6feb8d32d54371885e03dec14de512d.jpg" group-title="SocoLive",CNCF LC: Club Leon vs Real Salt Lake - QUỐC KHÁNH
-https://pull.niur.live/live/stream-9912118_lhd.m3u8?txSecret=aa53b2989f25f154e67f8debd3671d80&txTime=6a8eb7b9
+https://pull.niur.live/live/stream-9912118_lhd.m3u8?txSecret=8c7f31eeb9329034112d84ea5cc57a2c&txTime=6a8eb7f5
 #EXTINF:-1 tvg-id="room-9912121" tvg-logo="https://sta.vnres.co/file/common/20260730/7804d6332c85f80cc4843609598de690.jpg" group-logo="https://sta.vnres.co/file/common/20260730/7804d6332c85f80cc4843609598de690.jpg" group-title="SocoLive",CNCF LC: Club Leon vs Real Salt Lake - BÁ PHÚ
-https://pull.niues.live/live/stream-9912121_lhd.m3u8?auth_key=1787720041-0-0-45b0b269e5c1aed74cd98050b1accf9b
+https://pull.niues.live/live/stream-9912121_lhd.m3u8?auth_key=1787720101-0-0-0b12b298c6004d2122c313a83fdac2f6
 #EXTINF:-1 tvg-id="room-9912122" tvg-logo="https://sta.vnres.co/file/common/20260620/4cbae14a2d06d1635a160fc8c2beb182.jpg" group-logo="https://sta.vnres.co/file/common/20260620/4cbae14a2d06d1635a160fc8c2beb182.jpg" group-title="SocoLive",CNCF CACup: CS Cartagines vs CD FAS - RICKHANTER
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=9a9d51b87063211be858ed755a614fa4&txTime=6a8eb7b9
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=ccd1b4b253cbcda8b56f017582761d74&txTime=6a8eb7f5
