@@ -3,72 +3,74 @@
 # SOCOLIVE LIVE PLAYLIST
 # ======================================
 # Status       : ONLINE
-# Channels     : 32
-# Updated      : 26/08/2026 16:48:19
+# Channels     : 33
+# Updated      : 26/08/2026 16:49:19
 # Player       : OTT Navigator / TiviMate
 # ======================================
 
 #EXTINF:-1 tvg-id="room-121289" tvg-logo="https://sta.vnres.co/file/common/20260514/bbbbb9cdb162442372ad02e281ff69d4.jpeg" group-logo="https://sta.vnres.co/file/common/20260514/bbbbb9cdb162442372ad02e281ff69d4.jpeg" group-title="SocoLive",JE Cup: Tokyo Verdy vs Thespa Kusatsu Gunma - Casting
-https://pull.niur.live/live/stream-121289_lhd.m3u8?txSecret=c71eb3c13ae9e675c26d5ab3bceae6f9&txTime=6a8f0ab1
-#EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260328/01acc641be84c58f2062ca50bf94b25a.jpg" group-logo="https://sta.vnres.co/file/common/20260328/01acc641be84c58f2062ca50bf94b25a.jpg" group-title="SocoLive",JE Cup: Kashima Antlers vs Atletico Suzuka - A PÁO
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1787741281-0-0-5c712a73a9d183074ce6df830b96647c
+https://pull.niur.live/live/stream-121289_lhd.m3u8?txSecret=c630c11ccc529c5f85cc846e3029604f&txTime=6a8f0aed
+#EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260328/01acc641be84c58f2062ca50bf94b25a.jpg" group-logo="https://sta.vnres.co/file/common/20260328/01acc641be84c58f2062ca50bf94b25a.jpg" group-title="SocoLive",JE Cup: Yokohama F. Marinos vs Fukushima United FC - A PÁO
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1787741341-0-0-cfc33c9de92f8cf697fd435dd7249cf9
 #EXTINF:-1 tvg-id="room-283501" tvg-logo="https://sta.vnres.co/file/common/20260826/5e28add39106d5889ed441ecfa24e151.png" group-logo="https://sta.vnres.co/file/common/20260826/5e28add39106d5889ed441ecfa24e151.png" group-title="SocoLive",JE Cup: Urawa Red Diamonds vs Yamanashi Gakuin University Pegasus - BLV KAN
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=83f25939011b4c2326dfa1f6b49d32ab&txTime=6a8f0ab1
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=29c0a95bae31134ab3b29be27695e324&txTime=6a8f0aed
 #EXTINF:-1 tvg-id="room-304148" tvg-logo="https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg" group-logo="https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg" group-title="SocoLive",JE Cup: Tokyo Verdy vs Thespa Kusatsu Gunma - BLV LUCAS
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1787741281-0-0-2d0d7eed0b3da585e4ab0b5c95529ab3
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1787741341-0-0-477df5570104c76bb81c317c2644ed20
 #EXTINF:-1 tvg-id="room-321443" tvg-logo="https://sta.vnres.co/file/common/20260603/54289b9ef989aba74cff5bfdee1d4656.png" group-logo="https://sta.vnres.co/file/common/20260603/54289b9ef989aba74cff5bfdee1d4656.png" group-title="SocoLive",JE Cup: Urawa Red Diamonds vs Yamanashi Gakuin University Pegasus - BLV GIÓ
-https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=2d5de668e0816caf1cc7606b120aeaa2&txTime=6a8f0ab1
+https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=1c928050cedc246a03fa34cdbdebfcd9&txTime=6a8f0aed
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg" group-logo="https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg" group-title="SocoLive",MPBL: Rizal Golden Coolers vs Valenzuela City Darkhorse - A CHÈ
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=44a1edbe122934aae4679b29367e292f&txTime=6a8f0ab1
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=3a7f3193ab88b917f9b82801e0d065e0&txTime=6a8f0aed
 #EXTINF:-1 tvg-id="room-462413" tvg-logo="https://sta.vnres.co/file/common/20260807/a76465a880a2789f42e440cf03e9db6b.jpg" group-logo="https://sta.vnres.co/file/common/20260807/a76465a880a2789f42e440cf03e9db6b.jpg" group-title="SocoLive",JE Cup: Sanfrecce Hiroshima vs Okinawa SV - SAO LA
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=153fbfdf6f27140d7b4fd7fd1f79947a&txTime=6a8f0ab1
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=2b7813c40538132426e3c5dbf209b4c0&txTime=6a8f0aed
+#EXTINF:-1 tvg-id="room-494201" tvg-logo="https://sta.vnres.co/file/common/20260824/9579d2a0c143f2633fac665f96906c48.jpg" group-logo="https://sta.vnres.co/file/common/20260824/9579d2a0c143f2633fac665f96906c48.jpg" group-title="SocoLive",KOR D1: Daejeon Citizen vs Ulsan HD FC - BLV MESSI
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1787741341-0-0-d2376f7a74fa32751972b47133991bfd
 #EXTINF:-1 tvg-id="room-511367" tvg-logo="https://sta.vnres.co/file/common/20251121/6d691b0b9dfd9eeb599401a2499400f0.png" group-logo="https://sta.vnres.co/file/common/20251121/6d691b0b9dfd9eeb599401a2499400f0.png" group-title="SocoLive",JE Cup: Tokyo Verdy vs Thespa Kusatsu Gunma - BLV WUKONG
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1787741281-0-0-dc01b4b093f55855226d4b12ab9e2aa3
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1787741341-0-0-604cf3baceb2b1784e9f6bfd3daf07ff
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg" group-logo="https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg" group-title="SocoLive",JE Cup: Kyoto Sanga vs Maruyasu Okazaki - BLV ALEX
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1787741281-0-0-5cb79deefbdb0ff725c04f167c89208b
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1787741341-0-0-409fc1f55ab9c29521481e04ec11227c
 #EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg" group-logo="https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg" group-title="SocoLive",AUS FFA: Preston Lions vs South Melbourne - BLV RAMBO
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=5351f01dca6257679a002c99bb3b46d3&txTime=6a8f0ab1
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=c5cd2045cb0d8fc7ddd789d3754e9f9d&txTime=6a8f0aed
 #EXTINF:-1 tvg-id="room-536185" tvg-logo="https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg" group-logo="https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg" group-title="SocoLive",JE Cup: Tokyo Verdy vs Thespa Kusatsu Gunma - BLV A WIN
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1787741281-0-0-cef3d595a1c3310535b5ec32bf5ce599
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1787741341-0-0-e2e862fe3bc5d7a4f61d2a6d62dbc443
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg" group-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg" group-title="SocoLive",MPBL: Rizal Golden Coolers vs Valenzuela City Darkhorse - HUNTER
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=af86cb0f68b63bc49b704840385aa977&txTime=6a8f0ab1
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=61fd028916e7cf2266eb7e9cffba8b49&txTime=6a8f0aed
 #EXTINF:-1 tvg-id="room-597929" tvg-logo="https://sta.vnres.co/file/common/20260312/cb002ebc914e9240a9242c43ec27aacb.jpg" group-logo="https://sta.vnres.co/file/common/20260312/cb002ebc914e9240a9242c43ec27aacb.jpg" group-title="SocoLive",JE Cup: Urawa Red Diamonds vs Yamanashi Gakuin University Pegasus - BLV CÁO
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1787741281-0-0-b047c2226a87a8e9a4548f653c7cc993
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1787741341-0-0-98844d89c2d2ec5f80d1dfe2d0c6dccc
 #EXTINF:-1 tvg-id="room-598119" tvg-logo="https://sta.vnres.co/file/common/20260317/5be300857a15349a5324be170237948b.png" group-logo="https://sta.vnres.co/file/common/20260317/5be300857a15349a5324be170237948b.png" group-title="SocoLive",KOR D1: Daejeon Citizen vs Ulsan HD FC - BLV A TINH
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=f7675d65bddcaff60dcad73c4b269dd3&txTime=6a8f0ab1
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=2f97993b6963e9f0f598d8ae0c54b6bd&txTime=6a8f0aed
 #EXTINF:-1 tvg-id="room-603255" tvg-logo="https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7.png" group-logo="https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7.png" group-title="SocoLive",AUS FFA: Preston Lions vs South Melbourne - BLV LION
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1787741281-0-0-13fa06254c44b62caee52b178afec42b
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1787741341-0-0-59abae615d2fe9b28912291645bb94f7
 #EXTINF:-1 tvg-id="room-603914" tvg-logo="https://sta.vnres.co/file/common/20260406/de5933be539e85bbac3c5fdbddfe54b7.jpg" group-logo="https://sta.vnres.co/file/common/20260406/de5933be539e85bbac3c5fdbddfe54b7.jpg" group-title="SocoLive",JE Cup: Kyoto Sanga vs Maruyasu Okazaki - TRÀ ĐÁ
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1787741281-0-0-8467add41c3edac10a98b46012364820
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1787741341-0-0-74a03dfe2eeb0b09aecd18a71e0ab3fb
 #EXTINF:-1 tvg-id="room-610677" tvg-logo="https://sta.vnres.co/file/common/20260826/340723bf8966fce7f7319fa39d19ad53.jpg" group-logo="https://sta.vnres.co/file/common/20260826/340723bf8966fce7f7319fa39d19ad53.jpg" group-title="SocoLive",JE Cup :Tokyo Verdy vs  Thespa Kusatsu Gunma - BLV CÁP
-https://pull.niur.live/live/stream-610677_lhd.m3u8?txSecret=6d95a4dd3eac6c3b7c7b0d71a7dece5f&txTime=6a8f0ab1
+https://pull.niur.live/live/stream-610677_lhd.m3u8?txSecret=2d6e24aa0f3a28c59d057e055b742f68&txTime=6a8f0aed
 #EXTINF:-1 tvg-id="room-619108" tvg-logo="https://sta.vnres.co/file/common/20260720/9b537b664ce0364f46b19b262f29b1d6.jpg" group-logo="https://sta.vnres.co/file/common/20260720/9b537b664ce0364f46b19b262f29b1d6.jpg" group-title="SocoLive",JE Cup: Tokyo Verdy vs Thespa Kusatsu Gunma - BLV NOVA
-https://pull.niues.live/live/stream-619108_lhd.m3u8?auth_key=1787741281-0-0-3a8f194e09738830db0ef0c60d9bda8a
+https://pull.niues.live/live/stream-619108_lhd.m3u8?auth_key=1787741341-0-0-10b73b6eb68712c71fb38098a38674b9
 #EXTINF:-1 tvg-id="room-619561" tvg-logo="https://sta.vnres.co/file/common/20260729/d06a0efe274bce28547238bec2a125b9.jpg" group-logo="https://sta.vnres.co/file/common/20260729/d06a0efe274bce28547238bec2a125b9.jpg" group-title="SocoLive",JE Cup: Yokohama F. Marinos vs Fukushima United FC - BÚN ĐẬU
-https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1787741281-0-0-ac7c4e327a6dfe713965456b81a37f35
+https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1787741341-0-0-052f0e842d53f896778f03d37491de6e
 #EXTINF:-1 tvg-id="room-619672" tvg-logo="https://sta.vnres.co/file/common/20260808/4818d723b5e85850f66dfc3b5aed49d8.png" group-logo="https://sta.vnres.co/file/common/20260808/4818d723b5e85850f66dfc3b5aed49d8.png" group-title="SocoLive",JE Cup: Urawa Red Diamonds vs Yamanashi Gakuin University Pegasus - T REX
-https://pull.niur.live/live/stream-619672_lhd.m3u8?txSecret=66e7a89c27bd5b67260f1b4db4ebf9fd&txTime=6a8f0ab1
+https://pull.niur.live/live/stream-619672_lhd.m3u8?txSecret=60f848993b1812254e2d04c078679a14&txTime=6a8f0aed
 #EXTINF:-1 tvg-id="room-620084" tvg-logo="https://sta.vnres.co/file/common/20260713/cbd81ea71d49b5b5f074a5f56678a9b6.png" group-logo="https://sta.vnres.co/file/common/20260713/cbd81ea71d49b5b5f074a5f56678a9b6.png" group-title="SocoLive",BRA D2: Esporte Clube Juventude vs CRB AL - PEANUT
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1787741281-0-0-4507be8736dcce66147148280b666bba
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1787741341-0-0-405641980553eb22c88db40ceafcf8e3
 #EXTINF:-1 tvg-id="room-620504" tvg-logo="https://sta.vnres.co/file/common/20260802/d0b756ac34b8f00d22a6d687f86fe8b2.jpg" group-logo="https://sta.vnres.co/file/common/20260802/d0b756ac34b8f00d22a6d687f86fe8b2.jpg" group-title="SocoLive",JE Cup: Yokohama F. Marinos vs Fukushima United FC - BOSS
-https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=cfc1f57282019a88056651e9dbaeb5fe&txTime=6a8f0ab1
+https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=0081f8b9d4e0219a6b74b8468cfb6845&txTime=6a8f0aed
 #EXTINF:-1 tvg-id="room-622240" tvg-logo="https://sta.vnres.co/file/common/20260809/8d3ecd1339e9fe41608eb4b7f008436c.jpg" group-logo="https://sta.vnres.co/file/common/20260809/8d3ecd1339e9fe41608eb4b7f008436c.jpg" group-title="SocoLive",JE Cup: Yokohama F. Marinos vs Fukushima United FC - CURRY
-https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1787741281-0-0-b9a8defb0ee3fac9835853bc5c02d6fa
+https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1787741341-0-0-6af7abd68f509c6112b0bdd9b078519c
 #EXTINF:-1 tvg-id="room-622241" tvg-logo="https://sta.vnres.co/file/common/20260811/153bed07d4854213a9a88e1029ada9de.jpg" group-logo="https://sta.vnres.co/file/common/20260811/153bed07d4854213a9a88e1029ada9de.jpg" group-title="SocoLive",JE Cup: Kyoto Sanga vs Maruyasu Okazaki - BLV HEHE
-https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1787741281-0-0-34613bb56a2f94b1624ebcea2151fb7f
+https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1787741341-0-0-d19ec4ed8cb90708f9495870784ea838
 #EXTINF:-1 tvg-id="room-991140" tvg-logo="https://sta.vnres.co/file/common/20240614/d900dd8841b1223c7b58554cde34df75.jpg" group-logo="https://sta.vnres.co/file/common/20240614/d900dd8841b1223c7b58554cde34df75.jpg" group-title="SocoLive",JE Cup: Yokohama F. Marinos vs Fukushima United FC - BLV FIREMAN
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1787741281-0-0-50011ff98fb3eb0b192cd69226de8250
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1787741341-0-0-5dbb532df89e00e7193ea01d68a98fab
 #EXTINF:-1 tvg-id="room-9912008" tvg-logo="https://sta.vnres.co/file/common/20260629/15a4e4b3233b174e59d4cd6ae5a8432c.png" group-logo="https://sta.vnres.co/file/common/20260629/15a4e4b3233b174e59d4cd6ae5a8432c.png" group-title="SocoLive",JE Cup: Kashima Antlers vs Atletico Suzuka - BLV TOMIA
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1787741281-0-0-1eb2cb57a0092b8598da7fc2af3cf5dc
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1787741341-0-0-a54809764a58a1cd1ad3a6ad321f82a9
 #EXTINF:-1 tvg-id="room-9912015" tvg-logo="https://sta.vnres.co/file/common/20260801/16b69ccb9ccf1f371806a3f19e7dc683.jpg" group-logo="https://sta.vnres.co/file/common/20260801/16b69ccb9ccf1f371806a3f19e7dc683.jpg" group-title="SocoLive",AUS FFA: Preston Lions vs South Melbourne - BLV PEWPEW
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1787741281-0-0-1068d790f205c2a6883396b940e65ea2
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1787741341-0-0-918e2edf787460ee607f91157bdc51e5
 #EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260825/c8a8c9c2e722433982af16c5db1b37c8.png" group-logo="https://sta.vnres.co/file/common/20260825/c8a8c9c2e722433982af16c5db1b37c8.png" group-title="SocoLive",JE Cup:  Tokyo Verdy  vs Thespa Kusatsu Gunma - BLV Củ Cải
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1787741281-0-0-7431313188890836910081274264dbe6
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1787741341-0-0-70e393294a6f28ac4cec2e38f5a369c8
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-title="SocoLive",WCBC: Beijing Normal University Women vs Zhejiang Chouzhou Bank Women - KING
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787741281-0-0-a81e6f79ffd427936710ebdac06b0b67
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787741341-0-0-f56cbe09cb38b6685c4983c1b1469f1f
 #EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg" group-logo="https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg" group-title="SocoLive",JE Cup:  Urawa Red Diamonds vs  Yamanashi Gakuin University Pegasus - BLV RÔSI
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=506955c95356806775a9bce6496ef435&txTime=6a8f0ab1
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=fa2e295162add9c8806439aae8f23937&txTime=6a8f0aed
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-title="SocoLive",WCBC: Beijing Normal University Women vs Zhejiang Chouzhou Bank Women - BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787741281-0-0-a147401feb235a609977919ab1c748bb
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787741341-0-0-9900138cb29ddb523244252edbb81178
 #EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg" group-logo="https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg" group-title="SocoLive",AUS FFA: Preston Lions vs South Melbourne - KENCHU
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1787741281-0-0-aef0de64b0e1a151259d4997f65439d1
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1787741341-0-0-f135d57ceed21773124d34b06059b423
