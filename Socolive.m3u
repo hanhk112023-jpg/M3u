@@ -3,46 +3,40 @@
 # SOCOLIVE LIVE PLAYLIST
 # ======================================
 # Status       : ONLINE
-# Channels     : 19
-# Updated      : 27/08/2026 03:56:18
+# Channels     : 16
+# Updated      : 27/08/2026 03:57:18
 # Player       : OTT Navigator / TiviMate
 # ======================================
 
-#EXTINF:-1 tvg-id="room-273736" tvg-logo="https://sta.vnres.co/file/common/20260609/b3e04b0f7d210d67052a911512e39f54.jpg" group-logo="https://sta.vnres.co/file/common/20260609/b3e04b0f7d210d67052a911512e39f54.jpg" group-title="SocoLive",UEFA CL: Lyon vs Fenerbahce - CHÍ PHÈO
-https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1787781361-0-0-ac5799779dfee1eb4c04837965d1a932
 #EXTINF:-1 tvg-id="room-406865" tvg-logo="https://sta.vnres.co/file/common/20241220/6200343fea7ece69d7d92ae718616478.jpg" group-logo="https://sta.vnres.co/file/common/20241220/6200343fea7ece69d7d92ae718616478.jpg" group-title="SocoLive",COL D1: Boyaca Chico vs Fortaleza F.C - BLV ANH TÀI
-https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=d8f5a948790681d76c737a4a5c095d21&txTime=6a8fa741
+https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=cb4ff100b56abc05f6918d4b82b9c0f0&txTime=6a8fa77d
 #EXTINF:-1 tvg-id="room-459401" tvg-logo="https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4.jpg" group-logo="https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4.jpg" group-title="SocoLive",SPA D1: Real Madrid vs Real Sociedad - BLV BÉO
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=bd34f1b9d586eb8f0e0f32b1b930ceca&txTime=6a8fa741
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=89e3473dca5f559809ff7456ffd4f18a&txTime=6a8fa77d
 #EXTINF:-1 tvg-id="room-472241" tvg-logo="https://sta.vnres.co/file/common/20260613/cc7eb6fb9d74dfa083a48c861b135ae8.jpg" group-logo="https://sta.vnres.co/file/common/20260613/cc7eb6fb9d74dfa083a48c861b135ae8.jpg" group-title="SocoLive",UEFA CL: Lyon vs Fenerbahce - BLV XO
-https://pull.niur.live/live/stream-472241_lhd.m3u8?txSecret=993d6085031cbb3bf25f9c11196428e4&txTime=6a8fa741
+https://pull.niur.live/live/stream-472241_lhd.m3u8?txSecret=d9f011c9f01e5a1b7b6d0aecf3637bc2&txTime=6a8fa788
 #EXTINF:-1 tvg-id="room-484845" tvg-logo="https://sta.vnres.co/file/common/20260827/4e4effe6f210704f2828bfc68643c6e7.png" group-logo="https://sta.vnres.co/file/common/20260827/4e4effe6f210704f2828bfc68643c6e7.png" group-title="SocoLive",SPA D1: Real Madrid vs Real Sociedad - A BỆU
-https://pull.niur.live/live/stream-484845_lhd.m3u8?txSecret=fc999964cd0d761e8c26e72d592cc716&txTime=6a8fa741
+https://pull.niur.live/live/stream-484845_lhd.m3u8?txSecret=abfd957373fb4aef80f28d26deedfb5c&txTime=6a8fa77d
 #EXTINF:-1 tvg-id="room-494201" tvg-logo="https://sta.vnres.co/file/common/20260824/9579d2a0c143f2633fac665f96906c48.jpg" group-logo="https://sta.vnres.co/file/common/20260824/9579d2a0c143f2633fac665f96906c48.jpg" group-title="SocoLive",SPA D1: Real Madrid vs Real Sociedad - BLV MESSI
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1787781361-0-0-cda12dfa9e8d4700f9294fd10a3d24d2
-#EXTINF:-1 tvg-id="room-527383" tvg-logo="https://sta.vnres.co/file/common/20260626/fcd1d9373f93de7ff3ebfbee3f073c7c.jpg" group-logo="https://sta.vnres.co/file/common/20260626/fcd1d9373f93de7ff3ebfbee3f073c7c.jpg" group-title="SocoLive",UEFA CL: Lyon vs Fenerbahce - BLV ROBBEN
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1787781361-0-0-ab247ff47f7910bb51c99ccf1e829751
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1787781421-0-0-45cc3e7528bfa2af6e5eb6fe5c2535b3
 #EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg" group-logo="https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg" group-title="SocoLive",COL D1: Boyaca Chico vs Fortaleza F.C - BLV RAMBO
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=efdf7f6f78d280e9c1a6fada19b8b4f5&txTime=6a8fa741
-#EXTINF:-1 tvg-id="room-536185" tvg-logo="https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg" group-logo="https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg" group-title="SocoLive",ENG LC: Bradford City vs Burnley - BLV A WIN
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1787781113-0-0-050beaf5b87ee03a8d666f78f40c265d
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=985ae24ee523d590a863674d7fb40942&txTime=6a8fa77d
 #EXTINF:-1 tvg-id="room-589848" tvg-logo="https://sta.vnres.co/file/common/20260411/c1490960e7f4b63fdc78206c576d2da8.png" group-logo="https://sta.vnres.co/file/common/20260411/c1490960e7f4b63fdc78206c576d2da8.png" group-title="SocoLive",UEFA CL: Lyon vs Fenerbahce - LOKA
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1787781361-0-0-2ee62852bee3e4caa63fa5c66e67ff7d
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1787781428-0-0-af272995f5af6568c3029238eb0dee6e
 #EXTINF:-1 tvg-id="room-595335" tvg-logo="https://sta.vnres.co/file/common/20260805/c8068dd64589d2890066f1eacc273ab0.png" group-logo="https://sta.vnres.co/file/common/20260805/c8068dd64589d2890066f1eacc273ab0.png" group-title="SocoLive",SPA D1: Real Madrid vs Real Sociedad - NGƯỜI CÁ
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1787781361-0-0-6f99f6a9359fd74a59826de478fb5422
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1787781421-0-0-c6ee919df6fe982a618230df32e310b3
 #EXTINF:-1 tvg-id="room-602019" tvg-logo="https://sta.vnres.co/file/common/20260329/46d787b8716ab82aff515db39b5a55a1.jpg" group-logo="https://sta.vnres.co/file/common/20260329/46d787b8716ab82aff515db39b5a55a1.jpg" group-title="SocoLive",UEFA CL: NK Publikum Celje vs Slovan Bratislava - BLV RYO
-https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=7588a0540d4b1b5762fd95982f6379b8&txTime=6a8fa741
+https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=291c8feff27874ddc3752ae6e340f5bf&txTime=6a8fa77d
 #EXTINF:-1 tvg-id="room-620003" tvg-logo="https://sta.vnres.co/file/common/20260709/01ed22d7dd1b21e74094cdea367770a9.png" group-logo="https://sta.vnres.co/file/common/20260709/01ed22d7dd1b21e74094cdea367770a9.png" group-title="SocoLive",COL D1: Boyaca Chico vs Fortaleza F.C - BLV FOX
-https://pull.niues.live/live/stream-620003_lhd.m3u8?auth_key=1787781361-0-0-d27d4f56f7fb7798a40c5e3767e6301d
+https://pull.niues.live/live/stream-620003_lhd.m3u8?auth_key=1787781421-0-0-ba02c3c336d7fb1bbb5a87398e403ecd
 #EXTINF:-1 tvg-id="room-620084" tvg-logo="https://sta.vnres.co/file/common/20260713/cbd81ea71d49b5b5f074a5f56678a9b6.png" group-logo="https://sta.vnres.co/file/common/20260713/cbd81ea71d49b5b5f074a5f56678a9b6.png" group-title="SocoLive",COL D1: Boyaca Chico vs Fortaleza F.C - PEANUT
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1787781361-0-0-76ec406ca092b51bbe55360b35928971
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1787781421-0-0-949a37a62e20a3500331322f56e5ea47
 #EXTINF:-1 tvg-id="room-620504" tvg-logo="https://sta.vnres.co/file/common/20260802/d0b756ac34b8f00d22a6d687f86fe8b2.jpg" group-logo="https://sta.vnres.co/file/common/20260802/d0b756ac34b8f00d22a6d687f86fe8b2.jpg" group-title="SocoLive",UEFA CL: NK Publikum Celje vs Slovan Bratislava - BOSS
-https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=b64566374ba9cc09cc6f8e4912af1452&txTime=6a8fa741
+https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=6cd83d741289745a28b1b49a17a92c67&txTime=6a8fa77d
 #EXTINF:-1 tvg-id="room-9912015" tvg-logo="https://sta.vnres.co/file/common/20260801/16b69ccb9ccf1f371806a3f19e7dc683.jpg" group-logo="https://sta.vnres.co/file/common/20260801/16b69ccb9ccf1f371806a3f19e7dc683.jpg" group-title="SocoLive",SPA D1: Real Madrid vs Real Sociedad - BLV PEWPEW
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1787781361-0-0-9a0218003d36aa821e9c350545c44273
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1787781421-0-0-0cf9620c9b6af83a66b79d0d2f5bc446
 #EXTINF:-1 tvg-id="room-9912117" tvg-logo="https://sta.vnres.co/file/common/20260810/b792b2c329f2ffe44037f2d5973945de.jpg" group-logo="https://sta.vnres.co/file/common/20260810/b792b2c329f2ffe44037f2d5973945de.jpg" group-title="SocoLive",SPA D1: Real Madrid vs Real Sociedad - BLV LONG
-https://pull.niues.live/live/stream-9912117_lhd.m3u8?auth_key=1787781361-0-0-7ad1d53bf88c4340794ef4bba5a4a2f7
+https://pull.niues.live/live/stream-9912117_lhd.m3u8?auth_key=1787781421-0-0-b996d834c10b80ac2d945438d3f180dc
 #EXTINF:-1 tvg-id="room-9912120" tvg-logo="https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png" group-logo="https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png" group-title="SocoLive",UEFA CL: Lyon vs Fenerbahce - BLV A TÚ
-https://pull.niues.live/live/stream-9912120_lhd.m3u8?auth_key=1787781361-0-0-8ea6982c8df2e2d0b9c1e43784be0493
+https://pull.niues.live/live/stream-9912120_lhd.m3u8?auth_key=1787781421-0-0-11d9bee67bbb31273177e0337838cd13
 #EXTINF:-1 tvg-id="room-9912126" tvg-logo="https://sta.vnres.co/file/common/20260715/0e572fd7d0bfc5ce5cf538c09b8cace4.jpg" group-logo="https://sta.vnres.co/file/common/20260715/0e572fd7d0bfc5ce5cf538c09b8cace4.jpg" group-title="SocoLive",UEFA CL: Viking vs Dinamo Zagreb - SEVEN
 https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=5a6b7d8e187a2c1503f703b7c31d2e08&txTime=6a8fa6b2
