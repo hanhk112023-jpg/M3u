@@ -3,32 +3,34 @@
 # SOCOLIVE LIVE PLAYLIST
 # ======================================
 # Status       : ONLINE
-# Channels     : 12
-# Updated      : 27/08/2026 06:07:18
+# Channels     : 13
+# Updated      : 27/08/2026 06:08:18
 # Player       : OTT Navigator / TiviMate
 # ======================================
 
 #EXTINF:-1 tvg-id="room-283501" tvg-logo="https://sta.vnres.co/file/common/20260827/45e69965db33d625871f6f02b2925d13.png" group-logo="https://sta.vnres.co/file/common/20260827/45e69965db33d625871f6f02b2925d13.png" group-title="SocoLive",CHI D1: Coquimbo Unido vs Univ Catolica - BLV KAN
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=479d3925e50a8d49c5bede8178d4a313&txTime=6a8fc5f5
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=c461c2bfe649e6f4f67ecd45f41e6e61&txTime=6a8fc631
 #EXTINF:-1 tvg-id="room-304148" tvg-logo="https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg" group-logo="https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg" group-title="SocoLive",ARG Cup: Aldosivi Mar del Plata vs Independiente Rivadavia - BLV LUCAS
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1787789221-0-0-7e6f63c98e1db423f9cd55f7f46360c2
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1787789281-0-0-9841d2020f891518b8dbc04fea4a2563
 #EXTINF:-1 tvg-id="room-372746" tvg-logo="https://sta.vnres.co/file/common/20260728/ba06eac3dc3ffeee0de25e8e0deaaceb.jpg" group-logo="https://sta.vnres.co/file/common/20260728/ba06eac3dc3ffeee0de25e8e0deaaceb.jpg" group-title="SocoLive",ARG Cup: Aldosivi Mar del Plata vs Independiente Rivadavia - BLV YONE
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1787789221-0-0-8e79910fb314707b26ba6e92b45137e1
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1787789281-0-0-26ba9620d9e6d5f990d481cd8ada371b
+#EXTINF:-1 tvg-id="room-603255" tvg-logo="https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7.png" group-logo="https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7.png" group-title="SocoLive",COL D1: America de Cali vs Atletico Junior Barranquilla - BLV LION
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1787789281-0-0-d906c8b1cfa6ad2ba6458727964b791a
 #EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg" group-logo="https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg" group-title="SocoLive",CHI D1: Coquimbo Unido vs Univ Catolica - CƠM NẾP
-https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1787789221-0-0-d1f77968ad59767ca3a04dc091f8196d
+https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1787789281-0-0-da04d9c7c3e41090c8092d8202280244
 #EXTINF:-1 tvg-id="room-619108" tvg-logo="https://sta.vnres.co/file/common/20260720/9b537b664ce0364f46b19b262f29b1d6.jpg" group-logo="https://sta.vnres.co/file/common/20260720/9b537b664ce0364f46b19b262f29b1d6.jpg" group-title="SocoLive",ARG Cup: Aldosivi Mar del Plata vs Independiente Rivadavia - BLV NOVA
-https://pull.niues.live/live/stream-619108_lhd.m3u8?auth_key=1787789221-0-0-8ddac8f20f2fe260353bbca6d33d6c00
+https://pull.niues.live/live/stream-619108_lhd.m3u8?auth_key=1787789281-0-0-3fbcdfd0947e04fb62408683ff2dc5cc
 #EXTINF:-1 tvg-id="room-619672" tvg-logo="https://sta.vnres.co/file/common/20260808/4818d723b5e85850f66dfc3b5aed49d8.png" group-logo="https://sta.vnres.co/file/common/20260808/4818d723b5e85850f66dfc3b5aed49d8.png" group-title="SocoLive",COL D1: America de Cali vs Atletico Junior Barranquilla - T REX
-https://pull.niur.live/live/stream-619672_lhd.m3u8?txSecret=3f86761ddded601260f94e952d73a3fa&txTime=6a8fc5f5
+https://pull.niur.live/live/stream-619672_lhd.m3u8?txSecret=3cce827d20a2637115259f8af81b5e21&txTime=6a8fc631
 #EXTINF:-1 tvg-id="room-620084" tvg-logo="https://sta.vnres.co/file/common/20260713/cbd81ea71d49b5b5f074a5f56678a9b6.png" group-logo="https://sta.vnres.co/file/common/20260713/cbd81ea71d49b5b5f074a5f56678a9b6.png" group-title="SocoLive",COL D1: America de Cali vs Atletico Junior Barranquilla - PEANUT
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1787789221-0-0-0e9cb7e8c9315c8427647b3f5bff1dd0
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1787789281-0-0-831c2c0e2b8faf624f36ec94d7c8ca55
 #EXTINF:-1 tvg-id="room-621887" tvg-logo="https://sta.vnres.co/file/common/20260728/c2935ca02d759ee77531ff32719f1b21.png" group-logo="https://sta.vnres.co/file/common/20260728/c2935ca02d759ee77531ff32719f1b21.png" group-title="SocoLive",CHI D1: Coquimbo Unido vs Univ Catolica - CHAN ĐÊ
-https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1787789221-0-0-ac5f2a206165ffd04ff4891380e285fa
+https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1787789281-0-0-1503dd3a777bbe49420cce6f7d26274f
 #EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg" group-logo="https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg" group-title="SocoLive",COL D1: America de Cali vs Atletico Junior Barranquilla - BLV RÔSI
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=49a41159d4865142928b0e56e4c65502&txTime=6a8fc5f5
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=32abb206de77ebbd2e097fa3dd8e02ba&txTime=6a8fc631
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-title="SocoLive",WNBA: Connecticut Sun W vs Golden State Valkyries W - BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787789221-0-0-0c2f0d616af29f4662273ffca0a739a9
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787789281-0-0-e279dcedea79bbba797db2c7ac50bc2e
 #EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151.png" group-logo="https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151.png" group-title="SocoLive",ARG Cup: Aldosivi Mar del Plata vs Independiente Rivadavia - BLV VOI
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1787789221-0-0-db6b4760d595333369741b4e0f7f163e
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1787789281-0-0-0f61a33989d89a7a28231c99ea349d6a
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg" group-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg" group-title="SocoLive",WNBA: Connecticut Sun W vs Golden State Valkyries W - CHAN SENA
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787789221-0-0-7f3469884eb3b71c63e0baee2abad6da
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787789281-0-0-936f56e82d97e94780680ba9407a408d
