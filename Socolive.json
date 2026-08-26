@@ -1,11 +1,29 @@
 [
   {
+    "id": "283501",
+    "tvg_id": "room-283501",
+    "name": "CHI D1: Coquimbo Unido vs Univ Catolica - BLV KAN",
+    "logo": "https://sta.vnres.co/file/common/20260827/45e69965db33d625871f6f02b2925d13.png",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=87900aecb79220f9c5ae229f67088ac1\u0026txTime=6a8fb029",
+    "type": "hls"
+  },
+  {
     "id": "406865",
     "tvg_id": "room-406865",
     "name": "COL D1: Boyaca Chico vs Fortaleza F.C - BLV ANH TÀI",
     "logo": "https://sta.vnres.co/file/common/20241220/6200343fea7ece69d7d92ae718616478.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=2b021b6f63bb0f534cf84c0b12100a39\u0026txTime=6a8fafed",
+    "url": "https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=f46ea235b422e7532b03ce4fbcd260ab\u0026txTime=6a8fb029",
+    "type": "hls"
+  },
+  {
+    "id": "485739",
+    "tvg_id": "room-485739",
+    "name": "CHI D1: Coquimbo Unido vs Univ Catolica - BLV CHIVAS",
+    "logo": "https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=a2ab3aa1138d0a7c735154a9e773389f\u0026txTime=6a8fb029",
     "type": "hls"
   },
   {
@@ -14,7 +32,7 @@
     "name": "COL D1: Boyaca Chico vs Fortaleza F.C - BLV RAMBO",
     "logo": "https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=42288816e9dfe8b86dcc0432724f56fb\u0026txTime=6a8fafed",
+    "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=92f8f2e67fa59b8c102bdb1919bd83bb\u0026txTime=6a8fb029",
     "type": "hls"
   },
   {
@@ -23,7 +41,7 @@
     "name": "UEFA CL: NK Publikum Celje vs Slovan Bratislava - BLV RYO",
     "logo": "https://sta.vnres.co/file/common/20260329/46d787b8716ab82aff515db39b5a55a1.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=79e8c904b53ea334e2b641cfe02073d6\u0026txTime=6a8fafed",
+    "url": "https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=53031c63c8b66bba95d66c6948088640\u0026txTime=6a8fb035",
     "type": "hls"
   },
   {
@@ -32,7 +50,7 @@
     "name": "COL D1: Boyaca Chico vs Fortaleza F.C - BLV FOX",
     "logo": "https://sta.vnres.co/file/common/20260709/01ed22d7dd1b21e74094cdea367770a9.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-620003_lhd.m3u8?auth_key=1787783581-0-0-cd2460bbc4612c4e29bde144a251defe",
+    "url": "https://pull.niues.live/live/stream-620003_lhd.m3u8?auth_key=1787783641-0-0-6e68bbb44252bbf3e91d0ab0fd677b9a",
     "type": "hls"
   },
   {
@@ -41,7 +59,7 @@
     "name": "COL D1: Boyaca Chico vs Fortaleza F.C - PEANUT",
     "logo": "https://sta.vnres.co/file/common/20260713/cbd81ea71d49b5b5f074a5f56678a9b6.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1787783581-0-0-593116122393d5f7eb6bae16e381483c",
+    "url": "https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1787783641-0-0-15669c51602271ee3c193fc82e9484ed",
     "type": "hls"
   },
   {
@@ -50,7 +68,7 @@
     "name": "UEFA CL: NK Publikum Celje vs Slovan Bratislava - BOSS",
     "logo": "https://sta.vnres.co/file/common/20260802/d0b756ac34b8f00d22a6d687f86fe8b2.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=e7e05b30b8bc7a7463acb20fef30cb99\u0026txTime=6a8fafed",
+    "url": "https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=ad9a3b1a606321a0bc7377881beec79a\u0026txTime=6a8fb029",
     "type": "hls"
   }
 ]
