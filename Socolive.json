@@ -5,7 +5,7 @@
     "name": "AFF SC: Vietnam vs Thailand - BLV CUỘI",
     "logo": "https://sta.vnres.co/file/common/20260804/e812d4edaaf2081ed4e1824593a72b3a.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1787761441-0-0-3ca2791966b6142105859b2413b1885d",
+    "url": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1787761501-0-0-9ca5705f108218bd8dc5fa8617257405",
     "type": "hls"
   },
   {
@@ -14,7 +14,7 @@
     "name": "KSA PR: Al Faisaly vs Al Fateh - CR Bưởi",
     "logo": "https://sta.vnres.co/file/common/20260826/9a97451c62fee59abe9a9ead3381962e.PNG",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=9019c73b4075137e2d9bbdbcf01d8153\u0026txTime=6a8f5971",
+    "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=e5b0a92cf2d67e901ac89ff86a121c46\u0026txTime=6a8f59ad",
     "type": "hls"
   },
   {
@@ -23,7 +23,7 @@
     "name": "AFF SC: Vietnam vs Thailand - THOMAS",
     "logo": "https://sta.vnres.co/file/common/20260806/4c726754b547e8d50d1f1dd3d1304c4f.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=da620cee0cbdd2a84a9298d5c30267bf\u0026txTime=6a8f5971",
+    "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=9c8affb59051778edae9bebb6f5883d7\u0026txTime=6a8f59ad",
     "type": "hls"
   },
   {
@@ -32,7 +32,7 @@
     "name": "BLR D1: FK Orsha vs Dinamo-2 Minsk - BLV WUKONG",
     "logo": "https://sta.vnres.co/file/common/20251121/6d691b0b9dfd9eeb599401a2499400f0.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1787761441-0-0-8463fe788fd2e540cf424184784eb018",
+    "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1787761501-0-0-a7c61b4940ed1315c75330432cb78379",
     "type": "hls"
   },
   {
@@ -41,7 +41,7 @@
     "name": "UZB PFL: Qizilqum Zarafshon vs Nasaf Qarshi - BLV ALEX",
     "logo": "https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1787761441-0-0-715528d33c132e3ffc757510f1603d16",
+    "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1787761501-0-0-1fe4873a036643075f7f8d1440a85e9f",
     "type": "hls"
   },
   {
@@ -50,7 +50,7 @@
     "name": "UZB PFL: Qizilqum Zarafshon vs Nasaf Qarshi - BLV A WIN",
     "logo": "https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1787761441-0-0-0437614a979ca72da6e87793c56dfd38",
+    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1787761501-0-0-344ba7a9d7932c092ce75c0c804786d3",
     "type": "hls"
   },
   {
@@ -59,7 +59,7 @@
     "name": "UZB PFL: Lokomotiv Tashkent vs Bunyodkor - BLV LION",
     "logo": "https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1787761441-0-0-318360e66f9342d3c80539db69b1a593",
+    "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1787761501-0-0-4bdeb2d9e2ec3cb072ab7501597149b4",
     "type": "hls"
   },
   {
@@ -68,7 +68,16 @@
     "name": "UZB PFL: Mashal Muborak vs Navbahor Namangan - BÚN ĐẬU",
     "logo": "https://sta.vnres.co/file/common/20260729/d06a0efe274bce28547238bec2a125b9.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1787761441-0-0-68cdc34108c55e2af54bc42fdf6a2c69",
+    "url": "https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1787761501-0-0-9c484a244474a1f77d567d604f7a3f4d",
+    "type": "hls"
+  },
+  {
+    "id": "620504",
+    "tvg_id": "room-620504",
+    "name": "EST D1: Tartu JK Maag Tammeka vs FC Flora Tallinn - BOSS",
+    "logo": "https://sta.vnres.co/file/common/20260802/d0b756ac34b8f00d22a6d687f86fe8b2.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=b0c1000925a4cb5493db941efd078885\u0026txTime=6a8f59ad",
     "type": "hls"
   },
   {
@@ -77,7 +86,7 @@
     "name": "UZB PFL: Qizilqum Zarafshon vs Nasaf Qarshi - BÒ TƯƠI",
     "logo": "https://sta.vnres.co/file/common/20260721/eae172928facf755dbf2027ca230e55e.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1787761441-0-0-a341c71d3e81f7268745c3e53ed760e8",
+    "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1787761501-0-0-3f0a44161ed050c4f2b03d0a99c686bd",
     "type": "hls"
   },
   {
@@ -86,7 +95,7 @@
     "name": "BLR D1: FK Orsha vs Dinamo-2 Minsk - BLV BẢY",
     "logo": "https://sta.vnres.co/file/common/20260813/5d212275a6562e784f8ce4dd82466681.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1787761441-0-0-8cb1b65e55c032ad3e6517d0acbe98b4",
+    "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1787761501-0-0-5d2f666b6937c6668dd5e0d1625d51bf",
     "type": "hls"
   },
   {
@@ -95,7 +104,7 @@
     "name": "UZB PFL: Mashal Muborak vs Navbahor Namangan - CURRY",
     "logo": "https://sta.vnres.co/file/common/20260809/8d3ecd1339e9fe41608eb4b7f008436c.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1787761441-0-0-25eb9a519d7cc67dd555e0133b425c49",
+    "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1787761501-0-0-06f4e0f60372329a7d793f79f60f718e",
     "type": "hls"
   },
   {
@@ -104,7 +113,7 @@
     "name": "UZB PFL: Qizilqum Zarafshon vs Nasaf Qarshi - BLV TOMIA",
     "logo": "https://sta.vnres.co/file/common/20260629/15a4e4b3233b174e59d4cd6ae5a8432c.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1787761441-0-0-b51692b6b0a81ca40cb7143f646d663a",
+    "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1787761501-0-0-001d2bd673c34aae9da14d1ba81dda24",
     "type": "hls"
   },
   {
@@ -113,7 +122,7 @@
     "name": "KSA PR: Al Faisaly vs Al Fateh - BLV Củ Cải",
     "logo": "https://sta.vnres.co/file/common/20260826/61bb40394bcc0aef6fe13f7ab910a91e.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1787761441-0-0-271c4355d70ad5652960284349e8411b",
+    "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1787761501-0-0-d60b3f41f4f12ba0c9c742a141748195",
     "type": "hls"
   },
   {
@@ -122,7 +131,7 @@
     "name": "AFF SC: Vietnam vs Thailand - BÁ PHÚ",
     "logo": "https://sta.vnres.co/file/common/20260730/7804d6332c85f80cc4843609598de690.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912121_lhd.m3u8?auth_key=1787761441-0-0-7707176827a68d7bbc3e6cfb1e81d344",
+    "url": "https://pull.niues.live/live/stream-9912121_lhd.m3u8?auth_key=1787761501-0-0-c5b2509a7cc517f81c2da76ba3b1679c",
     "type": "hls"
   },
   {
@@ -131,7 +140,7 @@
     "name": "AFF SC: Vietnam vs Thailand - RICKHANTER",
     "logo": "https://sta.vnres.co/file/common/20260620/4cbae14a2d06d1635a160fc8c2beb182.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=d1ef0166bdfb0faaa0509a280820c81e\u0026txTime=6a8f5971",
+    "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=f63bb8780e3797037cea560b56558f75\u0026txTime=6a8f59ad",
     "type": "hls"
   },
   {
@@ -140,7 +149,7 @@
     "name": "UZB PFL: Lokomotiv Tashkent vs Bunyodkor - KENCHU",
     "logo": "https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1787761441-0-0-2b7ad318ead33cadcc4116f70d3fd43a",
+    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1787761501-0-0-b1354f2db8f028586d16acb450d0232a",
     "type": "hls"
   },
   {
@@ -149,7 +158,7 @@
     "name": "KSA D1: Al-Adalah vs Al-Tai - SEVEN",
     "logo": "https://sta.vnres.co/file/common/20260715/0e572fd7d0bfc5ce5cf538c09b8cace4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=0a445fe8de299ad906772ff7e2d40e8d\u0026txTime=6a8f5971",
+    "url": "https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=7043d487ba969d3f00c030f3ddd67f80\u0026txTime=6a8f59ad",
     "type": "hls"
   },
   {
@@ -158,7 +167,7 @@
     "name": "KSA D1: Al-Adalah vs Al-Tai - CACAO",
     "logo": "https://sta.vnres.co/file/common/20260729/2cca708e4ee1d3e988c578ff79960d7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1787761441-0-0-62b1d18e9ee92feaed592974834ae02f",
+    "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1787761501-0-0-80716912c8903f7ec26fdaf104b2c19f",
     "type": "hls"
   },
   {
@@ -167,7 +176,7 @@
     "name": "AFF SC: Vietnam vs Thailand - QUỐC KHÁNH",
     "logo": "https://sta.vnres.co/file/common/20260826/8053788473d3161986c33d73a2cc641d.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=11bb54a537bce3a19d5007f0cfe1683b\u0026txTime=6a8f5971",
+    "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=662f824e9797e8d91a2ee072afb542d4\u0026txTime=6a8f59ad",
     "type": "hls"
   }
 ]
