@@ -3,54 +3,56 @@
 # SOCOLIVE LIVE PLAYLIST
 # ======================================
 # Status       : ONLINE
-# Channels     : 23
-# Updated      : 26/08/2026 19:06:18
+# Channels     : 24
+# Updated      : 26/08/2026 19:07:19
 # Player       : OTT Navigator / TiviMate
 # ======================================
 
+#EXTINF:-1 tvg-id="room-256080" tvg-logo="https://sta.vnres.co/file/common/20260804/e812d4edaaf2081ed4e1824593a72b3a.jpg" group-logo="https://sta.vnres.co/file/common/20260804/e812d4edaaf2081ed4e1824593a72b3a.jpg" group-title="SocoLive",AFF SC: Vietnam vs Thailand - BLV CUỘI
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1787749621-0-0-1a7ea2e5259b53f7706b840e84b914a1
 #EXTINF:-1 tvg-id="room-273736" tvg-logo="https://sta.vnres.co/file/common/20260609/b3e04b0f7d210d67052a911512e39f54.jpg" group-logo="https://sta.vnres.co/file/common/20260609/b3e04b0f7d210d67052a911512e39f54.jpg" group-title="SocoLive",MAS SL: Johor Darul Ta'zim FC vs Kelantan Red Warrior - CHÍ PHÈO
-https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1787749561-0-0-37f69a3e22edc5cab70456b5466fee8a
+https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1787749621-0-0-24bac5f21422f27bf8b2c75c7063c8d7
 #EXTINF:-1 tvg-id="room-304148" tvg-logo="https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg" group-logo="https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg" group-title="SocoLive",MAS SL: Johor Darul Ta'zim FC vs Kelantan Red Warrior - BLV LUCAS
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1787749561-0-0-af6b1a27d8e71d7dee6417f9dc723e7b
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1787749621-0-0-ab09a883fc3061564613e3fdb5414866
 #EXTINF:-1 tvg-id="room-321443" tvg-logo="https://sta.vnres.co/file/common/20260603/54289b9ef989aba74cff5bfdee1d4656.png" group-logo="https://sta.vnres.co/file/common/20260603/54289b9ef989aba74cff5bfdee1d4656.png" group-title="SocoLive",MAS SL: Johor Darul Ta'zim FC vs Kelantan Red Warrior - BLV GIÓ
-https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=a897b2d60790c22b6cb63514fbffbb0e&txTime=6a8f2b09
+https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=f58d7a57fbaabf3bcc16e11fba20329d&txTime=6a8f2b45
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg" group-logo="https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg" group-title="SocoLive",MPBL: Batangas City vs San Juan Knights - A CHÈ
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=678ba10baa031521f3722b87c9a6bbd3&txTime=6a8f2b09
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=ab7f5a89bbed47a69aa61d04d8176024&txTime=6a8f2b45
 #EXTINF:-1 tvg-id="room-380460" tvg-logo="https://sta.vnres.co/file/common/20260819/942adbd69509cca874884bbfbb5144c4.jpg" group-logo="https://sta.vnres.co/file/common/20260819/942adbd69509cca874884bbfbb5144c4.jpg" group-title="SocoLive",KOR D1: Gangwon FC vs Gwangju FC - BLV ENZO
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1787749561-0-0-7fe13427b27829b25b8616da1aa05a1b
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1787749621-0-0-fffb996fcbc55f9a1ad90d5e5d8cfd64
 #EXTINF:-1 tvg-id="room-406865" tvg-logo="https://sta.vnres.co/file/common/20241220/6200343fea7ece69d7d92ae718616478.jpg" group-logo="https://sta.vnres.co/file/common/20241220/6200343fea7ece69d7d92ae718616478.jpg" group-title="SocoLive",KOR D1: Gangwon FC vs Gwangju FC - BLV ANH TÀI
-https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=746da2448a5ef7d4bbe91fae148dc8c8&txTime=6a8f2b09
+https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=36111f50d6c0d0b9b795a427de7bdad7&txTime=6a8f2b45
 #EXTINF:-1 tvg-id="room-414317" tvg-logo="https://sta.vnres.co/file/common/20260806/4c726754b547e8d50d1f1dd3d1304c4f.jpg" group-logo="https://sta.vnres.co/file/common/20260806/4c726754b547e8d50d1f1dd3d1304c4f.jpg" group-title="SocoLive",KOR D1: Daejeon Citizen vs Ulsan HD FC - THOMAS
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=de174d87ba78438e1ebe94bc0dc250f9&txTime=6a8f2b09
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=e80839bd8b7636ff02e6148d53d11533&txTime=6a8f2b45
 #EXTINF:-1 tvg-id="room-459401" tvg-logo="https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4.jpg" group-logo="https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4.jpg" group-title="SocoLive",KOR D1: Daejeon Citizen vs Ulsan HD FC - BLV BÉO
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=03ecfac85fb50dbac7a45916574aadd8&txTime=6a8f2b09
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=2d33d8f4b78fbc426f8b96852e5dc767&txTime=6a8f2b45
 #EXTINF:-1 tvg-id="room-494201" tvg-logo="https://sta.vnres.co/file/common/20260824/9579d2a0c143f2633fac665f96906c48.jpg" group-logo="https://sta.vnres.co/file/common/20260824/9579d2a0c143f2633fac665f96906c48.jpg" group-title="SocoLive",KOR D1: Daejeon Citizen vs Ulsan HD FC - BLV MESSI
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1787749561-0-0-f3bf9237412731b9762fb12d61a19e0d
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1787749621-0-0-4333a8d99ad91de193c6a9f5156e8770
 #EXTINF:-1 tvg-id="room-501412" tvg-logo="https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png" group-logo="https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png" group-title="SocoLive",KOR D1: FC Anyang vs Incheon United Club - XUÂN SON
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=2292569d0f3e531b6178e73922b0e81d&txTime=6a8f2b09
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=27addd9ed73baf28ebaa53e39f988ff8&txTime=6a8f2b45
 #EXTINF:-1 tvg-id="room-582342" tvg-logo="https://sta.vnres.co/file/common/20260721/f2855aef78044156ad9e45d7985403d0.jpg" group-logo="https://sta.vnres.co/file/common/20260721/f2855aef78044156ad9e45d7985403d0.jpg" group-title="SocoLive",KOR D1: FC Anyang vs Incheon United Club - BLV CÒ
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1787749561-0-0-b91be9bed05a324f22de64a639fac3d3
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1787749621-0-0-9a8b164d5ac93264a8d7be4861a4bc0e
 #EXTINF:-1 tvg-id="room-597929" tvg-logo="https://sta.vnres.co/file/common/20260312/cb002ebc914e9240a9242c43ec27aacb.jpg" group-logo="https://sta.vnres.co/file/common/20260312/cb002ebc914e9240a9242c43ec27aacb.jpg" group-title="SocoLive",MAS SL: Johor Darul Ta'zim FC vs Kelantan Red Warrior - BLV CÁO
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1787749561-0-0-b412f42476e6de0f2b7f178f8002cd75
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1787749621-0-0-5662002ffd75839494218be5fed2a1fa
 #EXTINF:-1 tvg-id="room-598119" tvg-logo="https://sta.vnres.co/file/common/20260317/5be300857a15349a5324be170237948b.png" group-logo="https://sta.vnres.co/file/common/20260317/5be300857a15349a5324be170237948b.png" group-title="SocoLive",KOR D1: Daejeon Citizen vs Ulsan HD FC - BLV A TINH
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=6cbc8acea995654b3c246c8bce867c16&txTime=6a8f2b09
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=32f675c282207368dff936bd7f64c89d&txTime=6a8f2b45
 #EXTINF:-1 tvg-id="room-607552" tvg-logo="https://sta.vnres.co/file/common/20260522/f2b4ef051d1e02300d2d5bf24f3828f0.png" group-logo="https://sta.vnres.co/file/common/20260522/f2b4ef051d1e02300d2d5bf24f3828f0.png" group-title="SocoLive",KOR D1: FC Anyang vs Incheon United Club - ĐỖ TÚ TÀI
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1787749561-0-0-7927986c079de5f81dda5d9e204bf422
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1787749621-0-0-a558776b09f584fd67f825bb633a9640
 #EXTINF:-1 tvg-id="room-610518" tvg-logo="https://sta.vnres.co/file/common/20260628/336b2e008de11bb26c1d4e0e46bc9f95.jpg" group-logo="https://sta.vnres.co/file/common/20260628/336b2e008de11bb26c1d4e0e46bc9f95.jpg" group-title="SocoLive",KOR D1: FC Anyang vs Incheon United Club - XUÂN TÓC ĐỎ
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=34273f0536502c76e1b72f1cd837e82a&txTime=6a8f2b09
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=1d770a29fa0ca1937b5b123404df845f&txTime=6a8f2b45
 #EXTINF:-1 tvg-id="room-617313" tvg-logo="https://sta.vnres.co/file/common/20260628/540cb58118f4c3201221b711e9a9cb7b.jpg" group-logo="https://sta.vnres.co/file/common/20260628/540cb58118f4c3201221b711e9a9cb7b.jpg" group-title="SocoLive",KOR D1: Gangwon FC vs Gwangju FC - VINFAST
-https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1787749561-0-0-5ec4e8ffb8ac7a985bb96105ea8eb20f
+https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1787749621-0-0-212568dd41df922c003392000e71b344
 #EXTINF:-1 tvg-id="room-621840" tvg-logo="https://sta.vnres.co/file/common/20260810/042a00493898027e5f644f6f24e88c53.png" group-logo="https://sta.vnres.co/file/common/20260810/042a00493898027e5f644f6f24e88c53.png" group-title="SocoLive",MAS SL: Johor Darul Ta'zim FC vs Kelantan Red Warrior - MP3
-https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=1f3697602dc6417952c4fb39074efba4&txTime=6a8f2b09
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=209b65923ad4e89188d1fce88422576e&txTime=6a8f2b45
 #EXTINF:-1 tvg-id="room-622093" tvg-logo="https://sta.vnres.co/file/common/20260703/fe517d18a8df723cee92683347d70be9.jpg" group-logo="https://sta.vnres.co/file/common/20260703/fe517d18a8df723cee92683347d70be9.jpg" group-title="SocoLive",KOR D1: Gangwon FC vs Gwangju FC - GRAP
-https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=90909f02ef887bc2d0310c7830239b78&txTime=6a8f2b09
+https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=131875cfb66a37fb465302bc89be6935&txTime=6a8f2b45
 #EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56.jpg" group-logo="https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56.jpg" group-title="SocoLive",KOR D1: Daejeon Citizen vs Ulsan HD FC - BLV TAP
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=4b68474f3b8d2937fd3b21259c015c4d&txTime=6a8f2b09
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=fca72340a427d9efcdb4569cbea8f6af&txTime=6a8f2b45
 #EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260826/16f344777dca7405763194009bb375a9.png" group-logo="https://sta.vnres.co/file/common/20260826/16f344777dca7405763194009bb375a9.png" group-title="SocoLive",AFF SC: Vietnam vs Thailand - BLV ZOWIE
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1787749561-0-0-d5ff61ac4b72573ff28204890b8c88a6
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1787749621-0-0-b86a622c8d372822cfdffb40bd4c323c
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg" group-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg" group-title="SocoLive",MPBL: Batangas City vs San Juan Knights - CHAN SENA
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787749561-0-0-6bae52b2e967a2b4897fd3bf6a9821c0
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787749621-0-0-35de460e1e6b2e86978baf5e93d74652
 #EXTINF:-1 tvg-id="room-9912122" tvg-logo="https://sta.vnres.co/file/common/20260620/4cbae14a2d06d1635a160fc8c2beb182.jpg" group-logo="https://sta.vnres.co/file/common/20260620/4cbae14a2d06d1635a160fc8c2beb182.jpg" group-title="SocoLive",KOR D1: Daejeon Citizen vs Ulsan HD FC - RICKHANTER
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=bd2f01237a19bcc0f0e161249bc711b4&txTime=6a8f2b09
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=bf3c1fbff782d937d5bb2d35812d9e7d&txTime=6a8f2b45
 #EXTINF:-1 tvg-id="room-9912127" tvg-logo="https://sta.vnres.co/file/common/20250320/efe293015c817dee46ccc81fa5e934d7.jpg" group-logo="https://sta.vnres.co/file/common/20250320/efe293015c817dee46ccc81fa5e934d7.jpg" group-title="SocoLive",MAS SL: Johor Darul Ta'zim FC vs Kelantan Red Warrior - BLV PIRLO
-https://pull.niues.live/live/stream-9912127_lhd.m3u8?auth_key=1787749561-0-0-4b67e8f2112b844fde8d54467ad4b4f6
+https://pull.niues.live/live/stream-9912127_lhd.m3u8?auth_key=1787749621-0-0-6fb940edb938a64a809b3fddd8d410d9
