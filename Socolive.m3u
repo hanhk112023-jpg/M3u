@@ -3,20 +3,24 @@
 # SOCOLIVE LIVE PLAYLIST
 # ======================================
 # Status       : ONLINE
-# Channels     : 6
-# Updated      : 27/08/2026 04:33:18
+# Channels     : 8
+# Updated      : 27/08/2026 04:34:18
 # Player       : OTT Navigator / TiviMate
 # ======================================
 
+#EXTINF:-1 tvg-id="room-283501" tvg-logo="https://sta.vnres.co/file/common/20260827/45e69965db33d625871f6f02b2925d13.png" group-logo="https://sta.vnres.co/file/common/20260827/45e69965db33d625871f6f02b2925d13.png" group-title="SocoLive",CHI D1: Coquimbo Unido vs Univ Catolica - BLV KAN
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=87900aecb79220f9c5ae229f67088ac1&txTime=6a8fb029
 #EXTINF:-1 tvg-id="room-406865" tvg-logo="https://sta.vnres.co/file/common/20241220/6200343fea7ece69d7d92ae718616478.jpg" group-logo="https://sta.vnres.co/file/common/20241220/6200343fea7ece69d7d92ae718616478.jpg" group-title="SocoLive",COL D1: Boyaca Chico vs Fortaleza F.C - BLV ANH TÀI
-https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=2b021b6f63bb0f534cf84c0b12100a39&txTime=6a8fafed
+https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=f46ea235b422e7532b03ce4fbcd260ab&txTime=6a8fb029
+#EXTINF:-1 tvg-id="room-485739" tvg-logo="https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg" group-logo="https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg" group-title="SocoLive",CHI D1: Coquimbo Unido vs Univ Catolica - BLV CHIVAS
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=a2ab3aa1138d0a7c735154a9e773389f&txTime=6a8fb029
 #EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg" group-logo="https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg" group-title="SocoLive",COL D1: Boyaca Chico vs Fortaleza F.C - BLV RAMBO
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=42288816e9dfe8b86dcc0432724f56fb&txTime=6a8fafed
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=92f8f2e67fa59b8c102bdb1919bd83bb&txTime=6a8fb029
 #EXTINF:-1 tvg-id="room-602019" tvg-logo="https://sta.vnres.co/file/common/20260329/46d787b8716ab82aff515db39b5a55a1.jpg" group-logo="https://sta.vnres.co/file/common/20260329/46d787b8716ab82aff515db39b5a55a1.jpg" group-title="SocoLive",UEFA CL: NK Publikum Celje vs Slovan Bratislava - BLV RYO
-https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=79e8c904b53ea334e2b641cfe02073d6&txTime=6a8fafed
+https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=53031c63c8b66bba95d66c6948088640&txTime=6a8fb035
 #EXTINF:-1 tvg-id="room-620003" tvg-logo="https://sta.vnres.co/file/common/20260709/01ed22d7dd1b21e74094cdea367770a9.png" group-logo="https://sta.vnres.co/file/common/20260709/01ed22d7dd1b21e74094cdea367770a9.png" group-title="SocoLive",COL D1: Boyaca Chico vs Fortaleza F.C - BLV FOX
-https://pull.niues.live/live/stream-620003_lhd.m3u8?auth_key=1787783581-0-0-cd2460bbc4612c4e29bde144a251defe
+https://pull.niues.live/live/stream-620003_lhd.m3u8?auth_key=1787783641-0-0-6e68bbb44252bbf3e91d0ab0fd677b9a
 #EXTINF:-1 tvg-id="room-620084" tvg-logo="https://sta.vnres.co/file/common/20260713/cbd81ea71d49b5b5f074a5f56678a9b6.png" group-logo="https://sta.vnres.co/file/common/20260713/cbd81ea71d49b5b5f074a5f56678a9b6.png" group-title="SocoLive",COL D1: Boyaca Chico vs Fortaleza F.C - PEANUT
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1787783581-0-0-593116122393d5f7eb6bae16e381483c
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1787783641-0-0-15669c51602271ee3c193fc82e9484ed
 #EXTINF:-1 tvg-id="room-620504" tvg-logo="https://sta.vnres.co/file/common/20260802/d0b756ac34b8f00d22a6d687f86fe8b2.jpg" group-logo="https://sta.vnres.co/file/common/20260802/d0b756ac34b8f00d22a6d687f86fe8b2.jpg" group-title="SocoLive",UEFA CL: NK Publikum Celje vs Slovan Bratislava - BOSS
-https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=e7e05b30b8bc7a7463acb20fef30cb99&txTime=6a8fafed
+https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=ad9a3b1a606321a0bc7377881beec79a&txTime=6a8fb029
