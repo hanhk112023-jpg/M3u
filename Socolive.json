@@ -5,7 +5,7 @@
     "name": "Tường thuật: AFF SC - Vietnam vs Thailand - Gà xào sả ớt",
     "logo": "https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=5610006744db9616b201a0843f907404\u0026txTime=6a90fe61",
+    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=21ea2737af0739a2fbaa9f79b226b00c\u0026txTime=6a90fe9d",
     "type": "hls"
   },
   {
@@ -14,7 +14,7 @@
     "name": "Tường thuật: SPA D1 - Real Madrid vs Real Sociedad - Bò leo rào",
     "logo": "https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=b3cc2b1119c7870b77330256985c7b05\u0026txTime=6a90fe61",
+    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=dffcf96fe41bbb27256ab1e6bf05d507\u0026txTime=6a90fe9d",
     "type": "hls"
   },
   {
@@ -23,7 +23,7 @@
     "name": "Tường thuật: UEFA CL - Lyon vs Fenerbahce - Thỏ giang hồ",
     "logo": "https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=3355feaa0aa75aa12adc049cb4902179\u0026txTime=6a90fe61",
+    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=16188c11c9d8ee9de2927d5a0554fb9b\u0026txTime=6a90fe9d",
     "type": "hls"
   },
   {
@@ -32,7 +32,7 @@
     "name": "Tường thuật: UEFA ECL - SK Rapid Wien vs Heart of Midlothian F.C. - Hươu đau cổ",
     "logo": "https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=9cc87a80a3255f3fabb3afa9cfe729ea\u0026txTime=6a90fe61",
+    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=2ec5d28d9a5e5e8f338997030374b1de\u0026txTime=6a90fe9d",
     "type": "hls"
   },
   {
@@ -41,7 +41,16 @@
     "name": "Tường thuật: KSA PR - Al Ettifaq vs Al Nassr - Mèo méo meo",
     "logo": "https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=2fcdcb30f7a428fcce5010cb5e77aa75\u0026txTime=6a90fe61",
+    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=34f9208578fa0ac7801257b0fa353f24\u0026txTime=6a90fe9d",
+    "type": "hls"
+  },
+  {
+    "id": "622240",
+    "tvg_id": "room-622240",
+    "name": "ARG Cup: Estudiantes La Plata vs CA Barracas Central - CURRY",
+    "logo": "https://sta.vnres.co/file/common/20260809/8d3ecd1339e9fe41608eb4b7f008436c.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1787869261-0-0-eb2634df47d6b493a4ad999a7d206049",
     "type": "hls"
   },
   {
@@ -50,7 +59,7 @@
     "name": "Tường thuật: ENG LC - Nottingham Forest vs Leeds United - Rắn ở đáy sông",
     "logo": "https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=32c8b4fcab62e10951cada775b573253\u0026txTime=6a90fe61",
+    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=d6ef3a815a71ae071ce0b6d45b496e23\u0026txTime=6a90fe9d",
     "type": "hls"
   }
 ]
