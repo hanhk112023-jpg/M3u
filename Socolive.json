@@ -1,11 +1,29 @@
 [
   {
+    "id": "152898",
+    "tvg_id": "room-152898",
+    "name": "Tường thuật: UEFA CL - Lyon vs Fenerbahce - Thỏ giang hồ",
+    "logo": "https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=c7d78b48452744690a1ddd2ecced79b0\u0026txTime=6a901131",
+    "type": "hls"
+  },
+  {
+    "id": "179093",
+    "tvg_id": "room-179093",
+    "name": "Tường thuật: UEFA ECL - SK Rapid Wien vs Heart of Midlothian F.C. - Hươu đau cổ",
+    "logo": "https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=d934175476d5bc345c29963447589bb0\u0026txTime=6a901131",
+    "type": "hls"
+  },
+  {
     "id": "291277",
     "tvg_id": "room-291277",
     "name": "CNCF LC: Club America vs Columbus Crew - CÔNG CHẤT",
     "logo": "https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=22450ec6f982529bba5a2b9514ddc804\u0026txTime=6a9010f5",
+    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=c4c7f2aae89c47069eab5e9dbcbecb7e\u0026txTime=6a901131",
     "type": "hls"
   },
   {
@@ -14,16 +32,7 @@
     "name": "CNCF LC: Club America vs Columbus Crew - THOMAS",
     "logo": "https://sta.vnres.co/file/common/20260806/4c726754b547e8d50d1f1dd3d1304c4f.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=82b1084577789d8f155b5e3e3075b080\u0026txTime=6a9010f5",
-    "type": "hls"
-  },
-  {
-    "id": "991140",
-    "tvg_id": "room-991140",
-    "name": "CNCF CACup: LD Alajuelense vs Plaza Amador - BLV FIREMAN",
-    "logo": "https://sta.vnres.co/file/common/20240614/d900dd8841b1223c7b58554cde34df75.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1787808421-0-0-a6ce0a40abcca2a6f142da48a71ab1ec",
+    "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=4da67bdf4a94d42fa36e8b42977f6dfc\u0026txTime=6a901131",
     "type": "hls"
   },
   {
@@ -32,16 +41,7 @@
     "name": "CNCF LC: Club America vs Columbus Crew - BLV TAP",
     "logo": "https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=bac856cf1a3acc5b32f4db556bd396c4\u0026txTime=6a9010f5",
-    "type": "hls"
-  },
-  {
-    "id": "9912060",
-    "tvg_id": "room-9912060",
-    "name": "CNCF CACup: LD Alajuelense vs Plaza Amador - ZIDANE",
-    "logo": "https://sta.vnres.co/file/common/20260827/e9e7602a81b98cc24e44068f38359e77.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=f3949affa1f1db806197e0da10b7647e\u0026txTime=6a900ff7",
+    "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=cc84bf2a0159fa936a46035249b8b393\u0026txTime=6a901131",
     "type": "hls"
   },
   {
@@ -50,7 +50,7 @@
     "name": "CNCF LC: Club America vs Columbus Crew - BLV Củ Cải",
     "logo": "https://sta.vnres.co/file/common/20260826/61bb40394bcc0aef6fe13f7ab910a91e.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1787808421-0-0-401b98a592657bc559f794befc9016f3",
+    "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1787808481-0-0-9baeae8adc27f9066925957e2dcc08db",
     "type": "hls"
   },
   {
@@ -59,7 +59,7 @@
     "name": "CNCF LC: Club America vs Columbus Crew - BLV ZOWIE",
     "logo": "https://sta.vnres.co/file/common/20260827/4254a956cd3a0688ba702d4144316507.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1787808421-0-0-c32d19319c0a3ffc42cfaee602eecc4d",
+    "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1787808481-0-0-c5804b2f168d9cac6f39529f97dc6bef",
     "type": "hls"
   },
   {
@@ -68,7 +68,7 @@
     "name": "CNCF LC: Club America vs Columbus Crew - BÁ PHÚ",
     "logo": "https://sta.vnres.co/file/common/20260730/7804d6332c85f80cc4843609598de690.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912121_lhd.m3u8?auth_key=1787808421-0-0-0577a68863d2b7cac4287e1589c711bd",
+    "url": "https://pull.niues.live/live/stream-9912121_lhd.m3u8?auth_key=1787808481-0-0-543cea29552e2e415dcb952ec5a34863",
     "type": "hls"
   }
 ]
