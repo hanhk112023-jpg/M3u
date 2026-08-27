@@ -1,11 +1,20 @@
 [
   {
+    "id": "121289",
+    "tvg_id": "room-121289",
+    "name": "UEFA EL: Red Bull Salzburg vs Mjallby AIF - Casting",
+    "logo": "https://sta.vnres.co/file/common/20260514/bbbbb9cdb162442372ad02e281ff69d4.jpeg",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-121289_lhd.m3u8?txSecret=5e739560b972392c4cae460a26751395\u0026txTime=6a90c0bd",
+    "type": "hls"
+  },
+  {
     "id": "291277",
     "tvg_id": "room-291277",
     "name": "UEFA ECL: KuPs vs Shamrock Rovers - CÔNG CHẤT",
     "logo": "https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=a3d61f4431563693c562a4e9f1302a8f\u0026txTime=6a90c081",
+    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=cad5aef57189d97ef9ae5156dedc5bea\u0026txTime=6a90c0bd",
     "type": "hls"
   },
   {
@@ -14,16 +23,7 @@
     "name": "UEFA ECL: AS Monaco vs Gornik Zabrze - BLV GIÓ",
     "logo": "https://sta.vnres.co/file/common/20260603/54289b9ef989aba74cff5bfdee1d4656.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=bed527eaf20bce0af9446292867de9fa\u0026txTime=6a90c081",
-    "type": "hls"
-  },
-  {
-    "id": "387694",
-    "tvg_id": "room-387694",
-    "name": "UEFA ECL: KuPs vs Shamrock Rovers - CR Bưởi",
-    "logo": "https://sta.vnres.co/file/common/20260827/0aa249348941d8378b256d9d3db2eb34.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=24f9267d3dadfaefd17c15fa620e86e2\u0026txTime=6a90c081",
+    "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=79451208b7b12f3f102f66f3ab6478ad\u0026txTime=6a90c0bd",
     "type": "hls"
   },
   {
@@ -32,7 +32,7 @@
     "name": "UEFA ECL: AS Monaco vs Gornik Zabrze - BLV MESSI",
     "logo": "https://sta.vnres.co/file/common/20260824/9579d2a0c143f2633fac665f96906c48.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1787853361-0-0-5a53c89e922b84eeeb1f01c93f2fff3b",
+    "url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1787853421-0-0-51610e6a17f0e7a30c2ab20c041f95ff",
     "type": "hls"
   },
   {
@@ -41,7 +41,7 @@
     "name": "QAT D1: Al-Wakrah vs Al-Rayyan - BLV WUKONG",
     "logo": "https://sta.vnres.co/file/common/20251121/6d691b0b9dfd9eeb599401a2499400f0.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1787853361-0-0-e9a6e22a9441ebec85d7362e27ef1ec3",
+    "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1787853421-0-0-f2a0f898411563f6b23de246efff5505",
     "type": "hls"
   },
   {
@@ -50,7 +50,7 @@
     "name": "UEFA EL: Kauno Zalgiris vs Besiktas JK - BLV ROBBEN",
     "logo": "https://sta.vnres.co/file/common/20260626/fcd1d9373f93de7ff3ebfbee3f073c7c.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1787853361-0-0-66b36b9dd90cffa1021b51f9b5b68d78",
+    "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1787853421-0-0-617f530bb82850fb8f5778e4f8c99d6d",
     "type": "hls"
   },
   {
@@ -59,7 +59,7 @@
     "name": "UEFA EL: Kauno Zalgiris vs Besiktas JK - BLV ALEX",
     "logo": "https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1787853361-0-0-9002627a249b1b93ad3fb6a652c1eecb",
+    "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1787853421-0-0-6f6422380390641abde1eb6b0f4a5d31",
     "type": "hls"
   },
   {
@@ -68,7 +68,7 @@
     "name": "UEFA ECL: FK Jablonec vs Rangers F.C. - BLV A WIN",
     "logo": "https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1787853361-0-0-123f9f23da504d69f3b3c9fc36aff118",
+    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1787853421-0-0-c5587362c1762bb0dede87b09bdd92c3",
     "type": "hls"
   },
   {
@@ -77,7 +77,7 @@
     "name": "EBCQ: Cyprus vs Austria - HUNTER",
     "logo": "https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=f8dce5ee49f37340f33d99cc3975a0e7\u0026txTime=6a90c081",
+    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=6ea6eb1fac17e9966c3046eb045c637e\u0026txTime=6a90c0bd",
     "type": "hls"
   },
   {
@@ -86,7 +86,7 @@
     "name": "UEFA ECL: AS Monaco vs Gornik Zabrze - BLV CÁO",
     "logo": "https://sta.vnres.co/file/common/20260312/cb002ebc914e9240a9242c43ec27aacb.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1787853361-0-0-6df2111391839d1df3b8ff9c820a3001",
+    "url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1787853421-0-0-d36a94ce60b12bf54ae959aaa426bd2c",
     "type": "hls"
   },
   {
@@ -95,7 +95,7 @@
     "name": "UEFA ECL: SC Freiburg vs Motherwell F.C. - TRÀ ĐÁ",
     "logo": "https://sta.vnres.co/file/common/20260406/de5933be539e85bbac3c5fdbddfe54b7.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1787853361-0-0-8fe465fd58de04e9aa8369046736adf7",
+    "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1787853421-0-0-d5323253d50113b976c6894807bf988e",
     "type": "hls"
   },
   {
@@ -104,7 +104,7 @@
     "name": "QAT D1: Al-Wakrah vs Al-Rayyan - ĐỖ TÚ TÀI",
     "logo": "https://sta.vnres.co/file/common/20260522/f2b4ef051d1e02300d2d5bf24f3828f0.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1787853361-0-0-191e39a5bfeed94603eb0a092e3afbbc",
+    "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1787853421-0-0-7c50a5bf947cb419ff022624c7c82a80",
     "type": "hls"
   },
   {
@@ -113,7 +113,7 @@
     "name": "UEFA EL: FC Iberia 1999 Tbilisi vs Jagiellonia Bialystok - XUÂN TÓC ĐỎ",
     "logo": "https://sta.vnres.co/file/common/20260628/336b2e008de11bb26c1d4e0e46bc9f95.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=6ad71031a789b18114e9d4c2db5719bf\u0026txTime=6a90c081",
+    "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=b4d9e6a812ac9a6079130510f7d132b5\u0026txTime=6a90c0bd",
     "type": "hls"
   },
   {
@@ -122,7 +122,7 @@
     "name": "UEFA EL: Red Bull Salzburg vs Mjallby AIF - BLV CÁP",
     "logo": "https://sta.vnres.co/file/common/20260828/fd4b0e5a128583b934eccdee3d529179.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-610677_lhd.m3u8?txSecret=503f1de5c233317b792dc9108b8bff24\u0026txTime=6a90c081",
+    "url": "https://pull.niur.live/live/stream-610677_lhd.m3u8?txSecret=ae737076de43bb5d34316e75b95156b5\u0026txTime=6a90c0bd",
     "type": "hls"
   },
   {
@@ -131,7 +131,7 @@
     "name": "UEFA ECL: SC Freiburg vs Motherwell F.C. - VINFAST",
     "logo": "https://sta.vnres.co/file/common/20260628/540cb58118f4c3201221b711e9a9cb7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1787853361-0-0-68d1600953234fab6678710049918584",
+    "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1787853421-0-0-228d85e1c74da4c32d79d69b3b084f07",
     "type": "hls"
   },
   {
@@ -140,7 +140,7 @@
     "name": "UEFA ECL: SC Freiburg vs Motherwell F.C. - BÚN ĐẬU",
     "logo": "https://sta.vnres.co/file/common/20260729/d06a0efe274bce28547238bec2a125b9.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1787853361-0-0-3c7f8563fe482a8e39dfc6260ff3aa6a",
+    "url": "https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1787853421-0-0-1ede4a49aa982f0c0e088f0d87df2aab",
     "type": "hls"
   },
   {
@@ -149,7 +149,7 @@
     "name": "UEFA EL: Ararat-Armenia FC vs CS Universitatea Craiova - BÒ TƯƠI",
     "logo": "https://sta.vnres.co/file/common/20260721/eae172928facf755dbf2027ca230e55e.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1787853361-0-0-9d55a6f1c93bfdb7702f555734e8fcd9",
+    "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1787853421-0-0-221be04793fe241c37bda132fd0ca8fe",
     "type": "hls"
   },
   {
@@ -158,7 +158,7 @@
     "name": "UEFA EL: FC Iberia 1999 Tbilisi vs Jagiellonia Bialystok - MP3",
     "logo": "https://sta.vnres.co/file/common/20260810/042a00493898027e5f644f6f24e88c53.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=40cc5b3a2593b015f15b62cc9b83be9c\u0026txTime=6a90c081",
+    "url": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=0a0bfa9921ea58c0f456b989dbaac6e1\u0026txTime=6a90c0bd",
     "type": "hls"
   },
   {
@@ -167,7 +167,7 @@
     "name": "UEFA ECL: Maccabi Tel Aviv vs Lugano - GRAP",
     "logo": "https://sta.vnres.co/file/common/20260703/fe517d18a8df723cee92683347d70be9.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=bbf1127ce7eb26805837aa927b66c47f\u0026txTime=6a90c081",
+    "url": "https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=9c95efaa163d9bc3c52440e913fdbe5b\u0026txTime=6a90c0bd",
     "type": "hls"
   },
   {
@@ -176,7 +176,7 @@
     "name": "UEFA EL: Ararat-Armenia FC vs CS Universitatea Craiova - CURRY",
     "logo": "https://sta.vnres.co/file/common/20260809/8d3ecd1339e9fe41608eb4b7f008436c.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1787853361-0-0-f7467cb8c2b55c6c9e2e4f1b2a180a1d",
+    "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1787853421-0-0-e89a11b9973ff17e738ca62cb34401d7",
     "type": "hls"
   },
   {
@@ -185,7 +185,7 @@
     "name": "UEFA ECL: AS Monaco vs Gornik Zabrze - BLV FIREMAN",
     "logo": "https://sta.vnres.co/file/common/20240614/d900dd8841b1223c7b58554cde34df75.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1787853361-0-0-0479e5c7ac86a1126b6101225f418619",
+    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1787853421-0-0-d8ca0a89bb87c52ff05269385e1a6709",
     "type": "hls"
   },
   {
@@ -194,7 +194,7 @@
     "name": "UEFA ECL: Qarabag vs FC Twente Enschede - ZIDANE",
     "logo": "https://sta.vnres.co/file/common/20260827/e9e7602a81b98cc24e44068f38359e77.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=c369d2a856bc580ac87d6a97dce14919\u0026txTime=6a90c081",
+    "url": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=a28f0fb12ead6defc964fd7205ca3cc3\u0026txTime=6a90c0bd",
     "type": "hls"
   },
   {
@@ -203,7 +203,7 @@
     "name": "ACQ: Kuwait vs United Arab Emirates - KING",
     "logo": "https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787853361-0-0-6e7eea2d3a072e865240741767679e4f",
+    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787853421-0-0-5c1f0edc10d9138d446b6a65fa33187d",
     "type": "hls"
   },
   {
@@ -212,7 +212,7 @@
     "name": "UEFA ECL: SC Freiburg vs Motherwell F.C. - RỒNG ĐẤT",
     "logo": "https://sta.vnres.co/file/common/20260725/0eb3315ecb9cf5c7f5f9b102d38e52f9.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1787853361-0-0-b0e3419311a80573fd269d250544b911",
+    "url": "https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1787853421-0-0-e66fa7cb14d6396780afb41ee252838e",
     "type": "hls"
   },
   {
@@ -221,7 +221,7 @@
     "name": "UEFA ECL: FK Jablonec vs Rangers F.C. - KENCHU",
     "logo": "https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1787853361-0-0-1e3bde3b7e0f80176c89727ce07f9966",
+    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1787853421-0-0-94d044be5b2f41568a2b8742d5e08412",
     "type": "hls"
   },
   {
@@ -230,7 +230,7 @@
     "name": "UEFA EL: Red Bull Salzburg vs Mjallby AIF - CACAO",
     "logo": "https://sta.vnres.co/file/common/20260729/2cca708e4ee1d3e988c578ff79960d7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1787853361-0-0-ee3987a3806b2e57186f34e2b3a0d88c",
+    "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1787853421-0-0-b6c723a03452aaeb9c16503eeec459f3",
     "type": "hls"
   },
   {
@@ -239,7 +239,7 @@
     "name": "UEFA ECL: Qarabag vs FC Twente Enschede - BLV A TÚ",
     "logo": "https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1787853361-0-0-445b29a518076d5df11deabacae4aca0",
+    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1787853421-0-0-d7cb6834ae026584ba68b7d644f51bd1",
     "type": "hls"
   },
   {
@@ -248,7 +248,7 @@
     "name": "UEFA ECL: Qarabag vs FC Twente Enschede - CHÍ PHÈO",
     "logo": "https://sta.vnres.co/file/common/20260609/b3e04b0f7d210d67052a911512e39f54.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1787853361-0-0-c8f9c46c28c802d55fa4cc980919c59f",
+    "url": "https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1787853421-0-0-a755249e1083481a406318b424428cbb",
     "type": "hls"
   },
   {
@@ -257,7 +257,7 @@
     "name": "UEFA ECL: Qarabag vs FC Twente Enschede - BLV XO",
     "logo": "https://sta.vnres.co/file/common/20260613/cc7eb6fb9d74dfa083a48c861b135ae8.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=54b52db6274fda709ce432ef61b834f2\u0026txTime=6a90c081",
+    "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=15ed22ecae176864c87c578fd5f0c39b\u0026txTime=6a90c0bd",
     "type": "hls"
   },
   {
@@ -266,7 +266,7 @@
     "name": "UEFA ECL: Qarabag vs FC Twente Enschede - LOKA",
     "logo": "https://sta.vnres.co/file/common/20260411/c1490960e7f4b63fdc78206c576d2da8.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1787853361-0-0-b8782082b48b943fe4e5ce8559244ab4",
+    "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1787853421-0-0-ac0fe3dd914d314e9685c913b312e570",
     "type": "hls"
   },
   {
@@ -275,7 +275,7 @@
     "name": "UEFA ECL: AS Monaco vs Gornik Zabrze - BLV PEWPEW",
     "logo": "https://sta.vnres.co/file/common/20260801/16b69ccb9ccf1f371806a3f19e7dc683.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1787853361-0-0-21a0cd860b1aa5d7498de4d91ceef8fe",
+    "url": "https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1787853421-0-0-d14d17a9782eb83db3dc212b670cd446",
     "type": "hls"
   },
   {
@@ -284,7 +284,7 @@
     "name": "UEFA ECL: AS Monaco vs Gornik Zabrze - A BỆU",
     "logo": "https://sta.vnres.co/file/common/20260828/2f41121bd326cf3208b9a0e23d4cce2a.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912137_lhd.m3u8?txSecret=779a532ab523ea5e002b31a196360630\u0026txTime=6a90c081",
+    "url": "https://pull.niur.live/live/stream-9912137_lhd.m3u8?txSecret=5328dd32bd18020744bbdc4e72ee4eca\u0026txTime=6a90c0bd",
     "type": "hls"
   },
   {
@@ -293,7 +293,7 @@
     "name": "UEFA ECL: Maccabi Tel Aviv vs Lugano - TUẤN CÙI",
     "logo": "https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1787853361-0-0-65325af62ba7e7e57b91e8dc5577fa0a",
+    "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1787853421-0-0-4d5e8169f73aa53eb35a4b0dda187815",
     "type": "hls"
   },
   {
@@ -302,7 +302,7 @@
     "name": "UEFA ECL: Qarabag vs FC Twente Enschede - BLV A TINH",
     "logo": "https://sta.vnres.co/file/common/20260317/5be300857a15349a5324be170237948b.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=93cc9fca5ec683ccfb909600bd18b222\u0026txTime=6a90c081",
+    "url": "https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=c287cfd044a24db2f75f9fc5efb3a42d\u0026txTime=6a90c0bd",
     "type": "hls"
   }
 ]
