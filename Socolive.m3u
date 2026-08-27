@@ -3,50 +3,38 @@
 # SOCOLIVE LIVE PLAYLIST
 # ======================================
 # Status       : ONLINE
-# Channels     : 21
-# Updated      : 28/08/2026 06:01:19
+# Channels     : 15
+# Updated      : 28/08/2026 06:02:18
 # Player       : OTT Navigator / TiviMate
 # ======================================
 
-#EXTINF:-1 tvg-id="room-133277" tvg-logo="https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg" group-logo="https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg" group-title="SocoLive",Tường thuật: AFF SC - Vietnam vs Thailand - Gà xào sả ớt
-https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=eac0abc857e9991c43d64297b7aea6d7&txTime=6a911508
-#EXTINF:-1 tvg-id="room-133824" tvg-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg" group-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg" group-title="SocoLive",Tường thuật: SPA D1 - Real Madrid vs Real Sociedad - Bò leo rào
-https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=0e66dfd3e5399b3341231ac35ad1901f&txTime=6a911505
-#EXTINF:-1 tvg-id="room-152898" tvg-logo="https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png" group-logo="https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png" group-title="SocoLive",Tường thuật: UEFA CL - Lyon vs Fenerbahce - Thỏ giang hồ
-https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=ac68868d22c20fd644284099ae1706f4&txTime=6a911505
-#EXTINF:-1 tvg-id="room-179093" tvg-logo="https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg" group-logo="https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg" group-title="SocoLive",Tường thuật: UEFA ECL - SK Rapid Wien vs Heart of Midlothian F.C. - Hươu đau cổ
-https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=0c7781038fba88b5c711099bd06f3321&txTime=6a911505
 #EXTINF:-1 tvg-id="room-283501" tvg-logo="https://sta.vnres.co/file/common/20260828/c5c96a728e7ea5c599923c0e0329326d.png" group-logo="https://sta.vnres.co/file/common/20260828/c5c96a728e7ea5c599923c0e0329326d.png" group-title="SocoLive",BRA Cup: Internacional - RS vs Grêmio - RS - BLV KAN
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=8609eab70a6a4ef0659f1aedf5973fb0&txTime=6a91160d
-#EXTINF:-1 tvg-id="room-343500" tvg-logo="https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg" group-logo="https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg" group-title="SocoLive",Tường thuật: KSA PR - Al Ettifaq vs Al Nassr - Mèo méo meo
-https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=3039f3d7a08ab3b755f6cdcb9a163268&txTime=6a911505
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=2a7b7743ef66c33e297ecf22b3ee542b&txTime=6a911649
 #EXTINF:-1 tvg-id="room-372746" tvg-logo="https://sta.vnres.co/file/common/20260728/ba06eac3dc3ffeee0de25e8e0deaaceb.jpg" group-logo="https://sta.vnres.co/file/common/20260728/ba06eac3dc3ffeee0de25e8e0deaaceb.jpg" group-title="SocoLive",ARG Cup: Estudiantes La Plata vs CA Barracas Central - BLV YONE
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1787875261-0-0-8788b54b8a57e45d729e8e7cf3f7fed9
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1787875321-0-0-3d3249c5b3e476f245882c8e0aec0d49
 #EXTINF:-1 tvg-id="room-485739" tvg-logo="https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg" group-logo="https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg" group-title="SocoLive",BRA Cup: Internacional - RS vs Grêmio - RS - BLV CHIVAS
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=9a232f88516d317765598592c9aaf14a&txTime=6a91160d
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=3bbf79dda7eb2cbe52b4ad24114292ce&txTime=6a911649
 #EXTINF:-1 tvg-id="room-491873" tvg-logo="https://sta.vnres.co/file/common/20250723/6b83b847d8944b57cc13043bae9fa7a8.jpg" group-logo="https://sta.vnres.co/file/common/20250723/6b83b847d8944b57cc13043bae9fa7a8.jpg" group-title="SocoLive",COL D1: Llaneros FC vs Millonarios - BLV VIP
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=10b9d443cbb2f36b706b4e9d35605c6b&txTime=6a91160d
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=5a47efe09c543845d507635aad2c4d96&txTime=6a911649
 #EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg" group-logo="https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg" group-title="SocoLive",ARG Cup: Estudiantes La Plata vs CA Barracas Central - BLV RAMBO
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=50a78ae4d54b9e0e51ffffe983af40bd&txTime=6a91160d
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=d546afd299f03cf1b4c2fbc9b8c9d525&txTime=6a911649
 #EXTINF:-1 tvg-id="room-603255" tvg-logo="https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7.png" group-logo="https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7.png" group-title="SocoLive",COL D1: Atletico Nacional Medellin vs Deportivo Cali - BLV LION
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1787875261-0-0-d134c5430f157ef04f695e8fcf5cb798
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1787875321-0-0-a0b851afaaf16d3b1fe4dd7c5c3adbc5
 #EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg" group-logo="https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg" group-title="SocoLive",ARG Cup: Estudiantes La Plata vs CA Barracas Central - HÀ DUY KIÊN
-https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=ae050a4b9b2d0742992de0c9162f64f4&txTime=6a91160d
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=d71b467b91915c38d8c3bb392178f5f9&txTime=6a911649
 #EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg" group-logo="https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg" group-title="SocoLive",ARG Cup: Estudiantes La Plata vs CA Barracas Central - CƠM NẾP
-https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1787875261-0-0-57420f2215a91281b89170b72c790f26
+https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1787875321-0-0-e52ed1a7dc3ca25e48203a3f2707b795
 #EXTINF:-1 tvg-id="room-619108" tvg-logo="https://sta.vnres.co/file/common/20260720/9b537b664ce0364f46b19b262f29b1d6.jpg" group-logo="https://sta.vnres.co/file/common/20260720/9b537b664ce0364f46b19b262f29b1d6.jpg" group-title="SocoLive",BRA Cup: Internacional - RS vs Grêmio - RS - BLV NOVA
-https://pull.niues.live/live/stream-619108_lhd.m3u8?auth_key=1787875261-0-0-8db21eb61139ced19fedac4979b7b6f4
+https://pull.niues.live/live/stream-619108_lhd.m3u8?auth_key=1787875321-0-0-d00f0394ca916e8f7b46e9893ea013e2
 #EXTINF:-1 tvg-id="room-620003" tvg-logo="https://sta.vnres.co/file/common/20260709/01ed22d7dd1b21e74094cdea367770a9.png" group-logo="https://sta.vnres.co/file/common/20260709/01ed22d7dd1b21e74094cdea367770a9.png" group-title="SocoLive",ARG Cup: Estudiantes La Plata vs CA Barracas Central - BLV FOX
-https://pull.niues.live/live/stream-620003_lhd.m3u8?auth_key=1787875261-0-0-c33d6ff79c561a3f0e54fdb97bab383b
+https://pull.niues.live/live/stream-620003_lhd.m3u8?auth_key=1787875321-0-0-c90a75dbbe48beb748a42748cf153023
 #EXTINF:-1 tvg-id="room-621887" tvg-logo="https://sta.vnres.co/file/common/20260728/c2935ca02d759ee77531ff32719f1b21.png" group-logo="https://sta.vnres.co/file/common/20260728/c2935ca02d759ee77531ff32719f1b21.png" group-title="SocoLive",BRA Cup: Internacional - RS vs Grêmio - RS - CHAN ĐÊ
-https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1787875261-0-0-d42b8a1a7b3cea5d7840c9d632d2d328
+https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1787875321-0-0-0a31bd5b2b89018ea95cdc479c689980
 #EXTINF:-1 tvg-id="room-622240" tvg-logo="https://sta.vnres.co/file/common/20260809/8d3ecd1339e9fe41608eb4b7f008436c.jpg" group-logo="https://sta.vnres.co/file/common/20260809/8d3ecd1339e9fe41608eb4b7f008436c.jpg" group-title="SocoLive",ARG Cup: Estudiantes La Plata vs CA Barracas Central - CURRY
-https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1787875261-0-0-b803a48adf30b79c881a02fd59b94f41
-#EXTINF:-1 tvg-id="room-9912079" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg" group-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg" group-title="SocoLive",Tường thuật: ENG LC - Nottingham Forest vs Leeds United - Rắn ở đáy sông
-https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=a6cee22e426a296b22869dd69197340e&txTime=6a91150b
+https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1787875321-0-0-6e8787c4f3b51da668883b60cc46a2f8
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-title="SocoLive",WCPAM: Brazil vs Dominican Republic - KING
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787875261-0-0-9f8f85ed5934bb1f1af2f75a4648fa69
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787875321-0-0-f359587fbd292ac11cb9f759dcd451eb
 #EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151.png" group-logo="https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151.png" group-title="SocoLive",COL D1: Llaneros FC vs Millonarios - BLV VOI
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1787875261-0-0-5ee0a12ccd8fb38c55e7105972473a32
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1787875321-0-0-d325d61c7b80e4b7e5ac706d643e738b
 #EXTINF:-1 tvg-id="room-9912119" tvg-logo="https://sta.vnres.co/file/common/20260823/ad98e26e6fbc7e1450f33adb0b1f92c5.jpg" group-logo="https://sta.vnres.co/file/common/20260823/ad98e26e6fbc7e1450f33adb0b1f92c5.jpg" group-title="SocoLive",COL D1: Llaneros FC vs Millonarios - HẢI THANH
-https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1787875261-0-0-946d1d36ae4716d1c2c1ae6cdfe6919c
+https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1787875321-0-0-6eec3464c666f8d31d6c184dea4be8a2
