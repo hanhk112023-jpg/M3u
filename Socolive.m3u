@@ -3,32 +3,28 @@
 # SOCOLIVE LIVE PLAYLIST
 # ======================================
 # Status       : ONLINE
-# Channels     : 12
-# Updated      : 27/08/2026 19:51:18
+# Channels     : 10
+# Updated      : 27/08/2026 19:52:18
 # Player       : OTT Navigator / TiviMate
 # ======================================
 
-#EXTINF:-1 tvg-id="room-321443" tvg-logo="https://sta.vnres.co/file/common/20260603/54289b9ef989aba74cff5bfdee1d4656.png" group-logo="https://sta.vnres.co/file/common/20260603/54289b9ef989aba74cff5bfdee1d4656.png" group-title="SocoLive",KAZ D1: FK Yelimay Semey B vs FC Shakhtyor Karagandy - BLV GIÓ
-https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=a8dc4eb3f5e4870d7d33e5addb69bd41&txTime=6a908715
-#EXTINF:-1 tvg-id="room-406865" tvg-logo="https://sta.vnres.co/file/common/20241220/6200343fea7ece69d7d92ae718616478.jpg" group-logo="https://sta.vnres.co/file/common/20241220/6200343fea7ece69d7d92ae718616478.jpg" group-title="SocoLive",KAZ D1: FK Yelimay Semey B vs FC Shakhtyor Karagandy - BLV ANH TÀI
-https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=eca180212e570b55ee54b39a66575836&txTime=6a90871c
 #EXTINF:-1 tvg-id="room-501412" tvg-logo="https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png" group-logo="https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png" group-title="SocoLive",KAZ D1: FK Yelimay Semey B vs FC Shakhtyor Karagandy - XUÂN SON
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=a78ab845d52fa63a579f48c42e69273f&txTime=6a908715
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=cccfa2d2f6f1ba50b70c2ff9be17e83f&txTime=6a908751
 #EXTINF:-1 tvg-id="room-597929" tvg-logo="https://sta.vnres.co/file/common/20260312/cb002ebc914e9240a9242c43ec27aacb.jpg" group-logo="https://sta.vnres.co/file/common/20260312/cb002ebc914e9240a9242c43ec27aacb.jpg" group-title="SocoLive",KAZ D1: Kairat Almaty II vs FK Arys - BLV CÁO
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1787838661-0-0-e6fd0e1f7c7e9904ad9fd9637d31bba9
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1787838721-0-0-cf2beca0248a4b5c4aa5dd3ae767e9f8
 #EXTINF:-1 tvg-id="room-602019" tvg-logo="https://sta.vnres.co/file/common/20260329/46d787b8716ab82aff515db39b5a55a1.jpg" group-logo="https://sta.vnres.co/file/common/20260329/46d787b8716ab82aff515db39b5a55a1.jpg" group-title="SocoLive",KAZ D1: FK Kaspiy Aktau B vs Akademiya Ontustik - BLV RYO
-https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=56174eb4f916ad3223da50cb234bc1a0&txTime=6a908715
+https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=404e757ed5243e91b676564025835e59&txTime=6a908751
 #EXTINF:-1 tvg-id="room-610518" tvg-logo="https://sta.vnres.co/file/common/20260628/336b2e008de11bb26c1d4e0e46bc9f95.jpg" group-logo="https://sta.vnres.co/file/common/20260628/336b2e008de11bb26c1d4e0e46bc9f95.jpg" group-title="SocoLive",KAZ D1: Kairat Almaty II vs FK Arys - XUÂN TÓC ĐỎ
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=6977bfa62f0069d2d7e73ebdc98703af&txTime=6a908715
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=0d83ccb83dc43effd3bdf7193bb0bc53&txTime=6a908751
 #EXTINF:-1 tvg-id="room-610677" tvg-logo="https://sta.vnres.co/file/common/20260827/84304cc83a57cd31d98916d07b11558c.jpg" group-logo="https://sta.vnres.co/file/common/20260827/84304cc83a57cd31d98916d07b11558c.jpg" group-title="SocoLive",KAZ D1: Kairat Almaty II vs FK Arys - BLV CÁP
-https://pull.niur.live/live/stream-610677_lhd.m3u8?txSecret=2c7d512ca920022412d60376deee5e1c&txTime=6a908715
+https://pull.niur.live/live/stream-610677_lhd.m3u8?txSecret=b2db3e3518d0062cfdf5beeaaf9e6a99&txTime=6a908751
 #EXTINF:-1 tvg-id="room-620504" tvg-logo="https://sta.vnres.co/file/common/20260802/d0b756ac34b8f00d22a6d687f86fe8b2.jpg" group-logo="https://sta.vnres.co/file/common/20260802/d0b756ac34b8f00d22a6d687f86fe8b2.jpg" group-title="SocoLive",KAZ D1: FK Kaspiy Aktau B vs Akademiya Ontustik - BOSS
-https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=1a61d4205a95685c0905c58ad9117abc&txTime=6a908715
+https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=0dd98e25390ee95253d9a688f5317418&txTime=6a908751
 #EXTINF:-1 tvg-id="room-621843" tvg-logo="https://sta.vnres.co/file/common/20260813/5d212275a6562e784f8ce4dd82466681.png" group-logo="https://sta.vnres.co/file/common/20260813/5d212275a6562e784f8ce4dd82466681.png" group-title="SocoLive",KAZ D1: FK Kaspiy Aktau B vs Akademiya Ontustik - BLV BẢY
-https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1787838661-0-0-090e49b9351628f7befea18ae3911839
+https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1787838721-0-0-3c0ed592e91fee516f606048c150ac5d
 #EXTINF:-1 tvg-id="room-622241" tvg-logo="https://sta.vnres.co/file/common/20260811/153bed07d4854213a9a88e1029ada9de.jpg" group-logo="https://sta.vnres.co/file/common/20260811/153bed07d4854213a9a88e1029ada9de.jpg" group-title="SocoLive",KAZ D1: Kairat Almaty II vs FK Arys - BLV HEHE
-https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1787838661-0-0-dfe93cbe2d6c7d0435244e8c6f7f6884
+https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1787838721-0-0-0c5b96358e839f5ce99e4040ec7e6482
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-title="SocoLive",ACQ: Bahrain vs Oman - KING
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787838661-0-0-0ec2bd6e2ff23dacbca35aaa6bbbcb58
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787838721-0-0-56215d8acff0d379cd0c2f9b6fa565c7
 #EXTINF:-1 tvg-id="room-9912130" tvg-logo="https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png" group-logo="https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png" group-title="SocoLive",KAZ D1: FK Yelimay Semey B vs FC Shakhtyor Karagandy - BLV A TÚ
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1787838661-0-0-9fbe347c7c0f0a3dda54b2d63ebfcc11
+https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1787838730-0-0-b215d8e2e8396debda8d325587452f9d
