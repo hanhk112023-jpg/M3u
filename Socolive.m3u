@@ -3,86 +3,88 @@
 # SOCOLIVE LIVE PLAYLIST
 # ======================================
 # Status       : ONLINE
-# Channels     : 39
-# Updated      : 28/08/2026 01:41:18
+# Channels     : 40
+# Updated      : 28/08/2026 01:42:19
 # Player       : OTT Navigator / TiviMate
 # ======================================
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260328/01acc641be84c58f2062ca50bf94b25a.jpg" group-logo="https://sta.vnres.co/file/common/20260328/01acc641be84c58f2062ca50bf94b25a.jpg" group-title="SocoLive",ENG LC: Fulham vs AFC Wimbledon - A PÁO
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1787859661-0-0-c1540c83100fb2c2b3e8217c831e3f60
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1787859721-0-0-8f9b53314510544557185c2a0ad7254e
 #EXTINF:-1 tvg-id="room-256080" tvg-logo="https://sta.vnres.co/file/common/20260804/e812d4edaaf2081ed4e1824593a72b3a.jpg" group-logo="https://sta.vnres.co/file/common/20260804/e812d4edaaf2081ed4e1824593a72b3a.jpg" group-title="SocoLive",SPA D1: FC Barcelona vs Athletic Club - BLV CUỘI
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1787859661-0-0-c068b7d4b84159049c1afaa74cc826e3
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1787859721-0-0-248408b60b27241e387b963475a09cbe
 #EXTINF:-1 tvg-id="room-321443" tvg-logo="https://sta.vnres.co/file/common/20260603/54289b9ef989aba74cff5bfdee1d4656.png" group-logo="https://sta.vnres.co/file/common/20260603/54289b9ef989aba74cff5bfdee1d4656.png" group-title="SocoLive",UEFA ECL: Partizan Belgrade vs Getafe - BLV GIÓ
-https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=9d0352ec5ec1999dd9619b2e812aa682&txTime=6a90d91d
+https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=049a92e6ee6dae1943564b1ad9e94b50&txTime=6a90d959
 #EXTINF:-1 tvg-id="room-459401" tvg-logo="https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4.jpg" group-logo="https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4.jpg" group-title="SocoLive",UEFA EL: Aarhus AGF vs Benfica - BLV BÉO
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=6b07f040382fad73000266f4535d2456&txTime=6a90d91d
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=1ca92911d441bb798c44aa51109a0b5c&txTime=6a90d959
+#EXTINF:-1 tvg-id="room-494201" tvg-logo="https://sta.vnres.co/file/common/20260824/9579d2a0c143f2633fac665f96906c48.jpg" group-logo="https://sta.vnres.co/file/common/20260824/9579d2a0c143f2633fac665f96906c48.jpg" group-title="SocoLive",SPA D1: FC Barcelona vs Athletic Club - BLV MESSI
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1787859729-0-0-7b6f42707470abe2cf43e7ee1dde2f6c
 #EXTINF:-1 tvg-id="room-501412" tvg-logo="https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png" group-logo="https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png" group-title="SocoLive",UEFA ECL: AFC Ajax vs FC Sion - XUÂN SON
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=db2058bbd88143c3491c7f45db7f0c9d&txTime=6a90d91d
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=b03002163176c0a036a5db8105a7cf9b&txTime=6a90d959
 #EXTINF:-1 tvg-id="room-511367" tvg-logo="https://sta.vnres.co/file/common/20251121/6d691b0b9dfd9eeb599401a2499400f0.png" group-logo="https://sta.vnres.co/file/common/20251121/6d691b0b9dfd9eeb599401a2499400f0.png" group-title="SocoLive",UEFA EL: Ferencvarosi TC vs Trabzonspor - BLV WUKONG
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1787859661-0-0-dd72f721eb25f3cf9a906a84cb188430
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1787859721-0-0-705ad82dac08c1e5e958b88a69b15b94
 #EXTINF:-1 tvg-id="room-527383" tvg-logo="https://sta.vnres.co/file/common/20260626/fcd1d9373f93de7ff3ebfbee3f073c7c.jpg" group-logo="https://sta.vnres.co/file/common/20260626/fcd1d9373f93de7ff3ebfbee3f073c7c.jpg" group-title="SocoLive",UEFA EL: Kauno Zalgiris vs Besiktas JK - BLV ROBBEN
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1787859661-0-0-07d04279d9f5cb4d4ffab01f616cd0b4
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1787859721-0-0-aa918fad68db76e0d3fe2fb54b7ef519
 #EXTINF:-1 tvg-id="room-527384" tvg-logo="https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg" group-logo="https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg" group-title="SocoLive",ENG LC: Chelsea vs Luton Town - LÃO LÂM
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1787859661-0-0-b7554477aa76314bb079055d70555d1e
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1787859721-0-0-97087dffc0c4143642da3092bbf6a655
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg" group-logo="https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg" group-title="SocoLive",UEFA EL: Kauno Zalgiris vs Besiktas JK - BLV ALEX
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1787859661-0-0-d6bdbf4c23eeb986122e471429a21b20
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1787859721-0-0-61ff1e9250a61b327d1795e2609e73ed
 #EXTINF:-1 tvg-id="room-536185" tvg-logo="https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg" group-logo="https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg" group-title="SocoLive",UEFA ECL: Brighton Hove Albion vs Tromso IL - BLV A WIN
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1787859661-0-0-57332c0f2f3612433e93fccd6177b3e1
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1787859721-0-0-12e1ae5bddc74a49e1b5335cb37cc53b
 #EXTINF:-1 tvg-id="room-597929" tvg-logo="https://sta.vnres.co/file/common/20260312/cb002ebc914e9240a9242c43ec27aacb.jpg" group-logo="https://sta.vnres.co/file/common/20260312/cb002ebc914e9240a9242c43ec27aacb.jpg" group-title="SocoLive",UEFA ECL: AS Monaco vs Gornik Zabrze - BLV CÁO
 https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1787859609-0-0-5f1eab7d4a1a033a5c9d500432d56e6f
 #EXTINF:-1 tvg-id="room-602019" tvg-logo="https://sta.vnres.co/file/common/20260329/46d787b8716ab82aff515db39b5a55a1.jpg" group-logo="https://sta.vnres.co/file/common/20260329/46d787b8716ab82aff515db39b5a55a1.jpg" group-title="SocoLive",UEFA ECL: Hapoel Tel Aviv vs Atalanta - BLV RYO
-https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=06b1d1eb5f7338612d783683a91899ad&txTime=6a90d91d
+https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=3186fedd5fb0cb0befa6bb451ee82353&txTime=6a90d959
 #EXTINF:-1 tvg-id="room-603914" tvg-logo="https://sta.vnres.co/file/common/20260406/de5933be539e85bbac3c5fdbddfe54b7.jpg" group-logo="https://sta.vnres.co/file/common/20260406/de5933be539e85bbac3c5fdbddfe54b7.jpg" group-title="SocoLive",UEFA ECL: SC Freiburg vs Motherwell F.C. - TRÀ ĐÁ
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1787859661-0-0-6ffba2bbafba301b4207036c89ba8f19
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1787859721-0-0-bd7ce848484ea3bdf31e45b0357bc7a0
 #EXTINF:-1 tvg-id="room-607552" tvg-logo="https://sta.vnres.co/file/common/20260522/f2b4ef051d1e02300d2d5bf24f3828f0.png" group-logo="https://sta.vnres.co/file/common/20260522/f2b4ef051d1e02300d2d5bf24f3828f0.png" group-title="SocoLive",UEFA ECL: Brighton Hove Albion vs Tromso IL - ĐỖ TÚ TÀI
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1787859661-0-0-207c044d017f5363535a9ef4790767e4
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1787859721-0-0-cce7c93ab1398bbfa2806d412e307a06
 #EXTINF:-1 tvg-id="room-610677" tvg-logo="https://sta.vnres.co/file/common/20260828/fd4b0e5a128583b934eccdee3d529179.jpg" group-logo="https://sta.vnres.co/file/common/20260828/fd4b0e5a128583b934eccdee3d529179.jpg" group-title="SocoLive",UEFA EL: Red Bull Salzburg vs Mjallby AIF - BLV CÁP
-https://pull.niur.live/live/stream-610677_lhd.m3u8?txSecret=ff2397774d5fd10b5d095c66fa0103f2&txTime=6a90d91d
+https://pull.niur.live/live/stream-610677_lhd.m3u8?txSecret=c2ffe432562fc0672348366645a658fb&txTime=6a90d959
 #EXTINF:-1 tvg-id="room-617313" tvg-logo="https://sta.vnres.co/file/common/20260628/540cb58118f4c3201221b711e9a9cb7b.jpg" group-logo="https://sta.vnres.co/file/common/20260628/540cb58118f4c3201221b711e9a9cb7b.jpg" group-title="SocoLive",UEFA ECL: SC Freiburg vs Motherwell F.C. - VINFAST
-https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1787859661-0-0-4c9650454d71fe4b265eb2d1f02ca170
+https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1787859721-0-0-eee5744530ad768fce626d8670682c67
 #EXTINF:-1 tvg-id="room-619561" tvg-logo="https://sta.vnres.co/file/common/20260729/d06a0efe274bce28547238bec2a125b9.jpg" group-logo="https://sta.vnres.co/file/common/20260729/d06a0efe274bce28547238bec2a125b9.jpg" group-title="SocoLive",UEFA ECL: SC Freiburg vs Motherwell F.C. - BÚN ĐẬU
-https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1787859661-0-0-014b12273251c14ceeb2b8d822260eb5
+https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1787859721-0-0-2bf70124ec7327bdc3d62d0af1fd18d8
 #EXTINF:-1 tvg-id="room-620504" tvg-logo="https://sta.vnres.co/file/common/20260802/d0b756ac34b8f00d22a6d687f86fe8b2.jpg" group-logo="https://sta.vnres.co/file/common/20260802/d0b756ac34b8f00d22a6d687f86fe8b2.jpg" group-title="SocoLive",UEFA ECL: Hapoel Tel Aviv vs Atalanta - BOSS
-https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=a5f6f908add6cd0359aaca65cd1a24a1&txTime=6a90d91d
+https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=d63936179bee7d72429b29c0c4458f69&txTime=6a90d959
 #EXTINF:-1 tvg-id="room-620797" tvg-logo="https://sta.vnres.co/file/common/20260721/eae172928facf755dbf2027ca230e55e.png" group-logo="https://sta.vnres.co/file/common/20260721/eae172928facf755dbf2027ca230e55e.png" group-title="SocoLive",UEFA ECL: AFC Ajax vs FC Sion - BÒ TƯƠI
-https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1787859661-0-0-7f006f338611f32e15838d909deffe0b
+https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1787859721-0-0-871f7b1430df54da6a9583d921a07f01
 #EXTINF:-1 tvg-id="room-621840" tvg-logo="https://sta.vnres.co/file/common/20260810/042a00493898027e5f644f6f24e88c53.png" group-logo="https://sta.vnres.co/file/common/20260810/042a00493898027e5f644f6f24e88c53.png" group-title="SocoLive",UEFA EL: Ferencvarosi TC vs Trabzonspor - MP3
-https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=efd45ad8e4a6a60e8cc0e462db6b54a5&txTime=6a90d91d
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=ac226ea4852c5521c0d4c4fe60fdb607&txTime=6a90d959
 #EXTINF:-1 tvg-id="room-621843" tvg-logo="https://sta.vnres.co/file/common/20260813/5d212275a6562e784f8ce4dd82466681.png" group-logo="https://sta.vnres.co/file/common/20260813/5d212275a6562e784f8ce4dd82466681.png" group-title="SocoLive",UEFA EL: Aarhus AGF vs Benfica - BLV BẢY
-https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1787859661-0-0-f1bdbf7ccf60691320ffc129e85e2da8
+https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1787859721-0-0-6650d25664899eb1a38163a63c5e23f1
 #EXTINF:-1 tvg-id="room-622093" tvg-logo="https://sta.vnres.co/file/common/20260703/fe517d18a8df723cee92683347d70be9.jpg" group-logo="https://sta.vnres.co/file/common/20260703/fe517d18a8df723cee92683347d70be9.jpg" group-title="SocoLive",SPA D1: RC Celta vs CA Osasuna - GRAP
-https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=821f2dccecbbc8c8947850863e3458f8&txTime=6a90d91d
+https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=abf51e1c616276a615f63155db8ebc96&txTime=6a90d959
 #EXTINF:-1 tvg-id="room-622240" tvg-logo="https://sta.vnres.co/file/common/20260809/8d3ecd1339e9fe41608eb4b7f008436c.jpg" group-logo="https://sta.vnres.co/file/common/20260809/8d3ecd1339e9fe41608eb4b7f008436c.jpg" group-title="SocoLive",UEFA ECL: Partizan Belgrade vs Getafe - CURRY
-https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1787859661-0-0-62fc2b1a41a0b408fe8307e0e37fc9e4
+https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1787859721-0-0-be7408e52babe650cf20a0522ee115a9
 #EXTINF:-1 tvg-id="room-622241" tvg-logo="https://sta.vnres.co/file/common/20260828/9e86906ddb3526b86bd3d86f8d14c518.jpg" group-logo="https://sta.vnres.co/file/common/20260828/9e86906ddb3526b86bd3d86f8d14c518.jpg" group-title="SocoLive",SPA D1: FC Barcelona vs Athletic Club - BLV HEHE
-https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1787859661-0-0-4b192d9360177a562a5205395bde27fd
+https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1787859721-0-0-efab7d991250ba313d593f4167122181
 #EXTINF:-1 tvg-id="room-991140" tvg-logo="https://sta.vnres.co/file/common/20240614/d900dd8841b1223c7b58554cde34df75.jpg" group-logo="https://sta.vnres.co/file/common/20240614/d900dd8841b1223c7b58554cde34df75.jpg" group-title="SocoLive",UEFA ECL: AS Monaco vs Gornik Zabrze - BLV FIREMAN
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1787859661-0-0-8c8a35a0e20b73a3101aec2b47b894f6
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1787859721-0-0-a2a706abaee5256b03c1311b442f4794
 #EXTINF:-1 tvg-id="room-9912123" tvg-logo="https://sta.vnres.co/file/common/20260725/0eb3315ecb9cf5c7f5f9b102d38e52f9.jpg" group-logo="https://sta.vnres.co/file/common/20260725/0eb3315ecb9cf5c7f5f9b102d38e52f9.jpg" group-title="SocoLive",UEFA ECL: SC Freiburg vs Motherwell F.C. - RỒNG ĐẤT
-https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1787859661-0-0-3fa7ce7df6451a3a09221ef696865c8a
+https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1787859731-0-0-778191f9069fc3ad67ce3a93541f5b3a
 #EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg" group-logo="https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg" group-title="SocoLive",SPA D1: RC Celta vs CA Osasuna - KENCHU
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1787859661-0-0-885b97b2b928441e7b5de06e5b6297ce
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1787859721-0-0-c304a86b0c7be8c2acc533705df8dd35
 #EXTINF:-1 tvg-id="room-9912126" tvg-logo="https://sta.vnres.co/file/common/20260715/0e572fd7d0bfc5ce5cf538c09b8cace4.jpg" group-logo="https://sta.vnres.co/file/common/20260715/0e572fd7d0bfc5ce5cf538c09b8cace4.jpg" group-title="SocoLive",SPA D1: RC Celta vs CA Osasuna - SEVEN
-https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=3ebe93146af0e729dbfafc4e067ded4c&txTime=6a90d91d
+https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=cf7a6fabd11ec8fba27e860751fda4b8&txTime=6a90d959
 #EXTINF:-1 tvg-id="room-9912128" tvg-logo="https://sta.vnres.co/file/common/20260729/2cca708e4ee1d3e988c578ff79960d7b.jpg" group-logo="https://sta.vnres.co/file/common/20260729/2cca708e4ee1d3e988c578ff79960d7b.jpg" group-title="SocoLive",UEFA EL: Red Bull Salzburg vs Mjallby AIF - CACAO
-https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1787859661-0-0-f500a7afd1aa634d3cd0e8209bfcab27
+https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1787859721-0-0-7b0f025fd12c5a81464ea6c777f43284
 #EXTINF:-1 tvg-id="room-9912129" tvg-logo="https://sta.vnres.co/file/common/20260828/d95589f369f3ac8cd19bbcac9a63adb8.jpg" group-logo="https://sta.vnres.co/file/common/20260828/d95589f369f3ac8cd19bbcac9a63adb8.jpg" group-title="SocoLive",SPA D1: FC Barcelona vs Athletic Club - QUỐC KHÁNH
-https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=ac73c34b63307b567a0c94de1d92c5bd&txTime=6a90d91d
+https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=dd04e2646f8176ef4fe7dc78f8da673f&txTime=6a90d959
 #EXTINF:-1 tvg-id="room-9912130" tvg-logo="https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png" group-logo="https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png" group-title="SocoLive",ENG LC: Chelsea vs Luton Town - BLV A TÚ
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1787859661-0-0-0d5c1f4bfe499ea4dcff93ac55e8ceaf
+https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1787859721-0-0-9aeb35b28619301d88241b2a4ecebcd8
 #EXTINF:-1 tvg-id="room-9912131" tvg-logo="https://sta.vnres.co/file/common/20260609/b3e04b0f7d210d67052a911512e39f54.jpg" group-logo="https://sta.vnres.co/file/common/20260609/b3e04b0f7d210d67052a911512e39f54.jpg" group-title="SocoLive",ENG LC: Chelsea vs Luton Town - CHÍ PHÈO
-https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1787859661-0-0-b2438580d5ed618091081b7c00a4d72e
+https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1787859721-0-0-852b35d5378bede3e4e16f614e22b3ae
 #EXTINF:-1 tvg-id="room-9912132" tvg-logo="https://sta.vnres.co/file/common/20260613/cc7eb6fb9d74dfa083a48c861b135ae8.jpg" group-logo="https://sta.vnres.co/file/common/20260613/cc7eb6fb9d74dfa083a48c861b135ae8.jpg" group-title="SocoLive",ENG LC: Chelsea vs Luton Town - BLV XO
-https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=c62c656a7e8ef5bf0fc06cc45e0890ce&txTime=6a90d91d
+https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=a4f20aad604df5df7adff63cd1e38a19&txTime=6a90d959
 #EXTINF:-1 tvg-id="room-9912133" tvg-logo="https://sta.vnres.co/file/common/20260411/c1490960e7f4b63fdc78206c576d2da8.png" group-logo="https://sta.vnres.co/file/common/20260411/c1490960e7f4b63fdc78206c576d2da8.png" group-title="SocoLive",ENG LC: Chelsea vs Luton Town - LOKA
-https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1787859661-0-0-5dfd56ab5c271403facd7f8876e2e30b
+https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1787859721-0-0-eefed5085e06614b09b9cfa8b0363c6e
 #EXTINF:-1 tvg-id="room-9912134" tvg-logo="https://sta.vnres.co/file/common/20260805/c8068dd64589d2890066f1eacc273ab0.png" group-logo="https://sta.vnres.co/file/common/20260805/c8068dd64589d2890066f1eacc273ab0.png" group-title="SocoLive",UEFA EL: Aarhus AGF vs Benfica - NGƯỜI CÁ
-https://pull.niues.live/live/stream-9912134_lhd.m3u8?auth_key=1787859661-0-0-156bf0281e67c8be0209f6f5d620ee6a
+https://pull.niues.live/live/stream-9912134_lhd.m3u8?auth_key=1787859721-0-0-005f5e05dba065de179445e26808d940
 #EXTINF:-1 tvg-id="room-9912135" tvg-logo="https://sta.vnres.co/file/common/20260801/16b69ccb9ccf1f371806a3f19e7dc683.jpg" group-logo="https://sta.vnres.co/file/common/20260801/16b69ccb9ccf1f371806a3f19e7dc683.jpg" group-title="SocoLive",SPA D1: FC Barcelona vs Athletic Club - BLV PEWPEW
-https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1787859661-0-0-07b8d6014be4194fd03d0f365aa59d1e
+https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1787859721-0-0-c69ae521d85b8ead126a2814e390f5d7
 #EXTINF:-1 tvg-id="room-9912136" tvg-logo="https://sta.vnres.co/file/common/20260810/b792b2c329f2ffe44037f2d5973945de.jpg" group-logo="https://sta.vnres.co/file/common/20260810/b792b2c329f2ffe44037f2d5973945de.jpg" group-title="SocoLive",UEFA EL: Aarhus AGF vs Benfica - BLV LONG
-https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=67464c99c504e92c29f5fe96ec3699a1&txTime=6a90d91d
+https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=b49cd8f2b9be31a3c9ad0fd34470a50f&txTime=6a90d959
 #EXTINF:-1 tvg-id="room-9912138" tvg-logo="https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg" group-logo="https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg" group-title="SocoLive",SPA D1: RC Celta vs CA Osasuna - TUẤN CÙI
-https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1787859661-0-0-17967c132668ec52db4da95bbd16f1de
+https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1787859721-0-0-926bdffc6b555470bbc7829cc8afe7bf
 #EXTINF:-1 tvg-id="room-9912139" tvg-logo="https://sta.vnres.co/file/common/20260317/5be300857a15349a5324be170237948b.png" group-logo="https://sta.vnres.co/file/common/20260317/5be300857a15349a5324be170237948b.png" group-title="SocoLive",ENG LC: Chelsea vs Luton Town - BLV A TINH
-https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=5b39dbf3494d37bf1ea9d2356c849c53&txTime=6a90d91d
+https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=b9f551f1d96e4a99c9d6e39c5144dd6d&txTime=6a90d959
