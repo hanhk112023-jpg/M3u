@@ -5,7 +5,7 @@
     "name": "CNCF LC: Toluca vs Austin FC - BLV CUỘI",
     "logo": "https://sta.vnres.co/file/common/20260804/e812d4edaaf2081ed4e1824593a72b3a.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1787801101-0-0-d1f8a6c628c14bf244a0b5c8ffc700f4",
+    "url": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1787801161-0-0-8bab256c7efeb9ddb9ac0c4cdeef054e",
     "type": "hls"
   },
   {
@@ -14,7 +14,7 @@
     "name": "USLC: New Mexico United vs Lexington - BLV KAN",
     "logo": "https://sta.vnres.co/file/common/20260827/c1e97f658c794d931af4c96d525fef38.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=fa73c66758efe4a710425a91a818362a\u0026txTime=6a8ff45d",
+    "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=429ecd8cfa224e444dfc545a1e417fd3\u0026txTime=6a8ff499",
     "type": "hls"
   },
   {
@@ -23,7 +23,7 @@
     "name": "CNCF LC: Club America vs Columbus Crew - CÔNG CHẤT",
     "logo": "https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=ae78fc91b4abba6280b417a40a25cb1c\u0026txTime=6a8ff45d",
+    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=766a21ebadf28755a99740ca706d45bb\u0026txTime=6a8ff499",
     "type": "hls"
   },
   {
@@ -32,7 +32,7 @@
     "name": "COL D1: Atletico Nacional Medellin vs Deportivo Cali - BLV LUCAS",
     "logo": "https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1787801101-0-0-7bbe15cb67b169f7c641cde5baad4a1c",
+    "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1787801161-0-0-7cd48f00ee383c7386e06ab1e56808b3",
     "type": "hls"
   },
   {
@@ -41,7 +41,7 @@
     "name": "WNBA: Seattle Storm W vs Toronto Tempo W - A CHÈ",
     "logo": "https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=27ebb568081b2ac4acd29990bc3e3a5a\u0026txTime=6a8ff45d",
+    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=368c80a92759f98680a0571111654122\u0026txTime=6a8ff499",
     "type": "hls"
   },
   {
@@ -50,7 +50,16 @@
     "name": "BRA Cup: Vasco da Gama Saf - RJ vs Vitória - BA - BLV YONE",
     "logo": "https://sta.vnres.co/file/common/20260728/ba06eac3dc3ffeee0de25e8e0deaaceb.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1787801101-0-0-beaa186bb09a8a8dda9647b77ea2133c",
+    "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1787801161-0-0-d0832e0426a959f6ad53752f7fcd910d",
+    "type": "hls"
+  },
+  {
+    "id": "380460",
+    "tvg_id": "room-380460",
+    "name": "CNCF CACup: LD Alajuelense vs Plaza Amador - BLV ENZO",
+    "logo": "https://sta.vnres.co/file/common/20260827/1d4f9eca02a381435aaec138589dd9ef.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1787801161-0-0-811f8c2d752ea75270ac0645d9b31837",
     "type": "hls"
   },
   {
@@ -59,16 +68,7 @@
     "name": "COL D1: Atletico Nacional Medellin vs Deportivo Cali - CR Bưởi",
     "logo": "https://sta.vnres.co/file/common/20260827/0aa249348941d8378b256d9d3db2eb34.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=349bb134b9bd751b827f364c4c5fdeb8\u0026txTime=6a8ff45e",
-    "type": "hls"
-  },
-  {
-    "id": "414317",
-    "tvg_id": "room-414317",
-    "name": "BRA Cup: Palmeiras - SP vs Santos Fc - SP - THOMAS",
-    "logo": "https://sta.vnres.co/file/common/20260806/4c726754b547e8d50d1f1dd3d1304c4f.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=530a8e78fcb65f0cc3fa895d5875af94\u0026txTime=6a8ff465",
+    "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=7627974e88301e2cb14f389f6675e104\u0026txTime=6a8ff499",
     "type": "hls"
   },
   {
@@ -77,7 +77,7 @@
     "name": "CNCF CACup: LD Alajuelense vs Plaza Amador - XUÂN SON",
     "logo": "https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=0db7520a13bae1641f815625c5047b35\u0026txTime=6a8ff45e",
+    "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=60a7dffc17617b7113b1653c66184555\u0026txTime=6a8ff499",
     "type": "hls"
   },
   {
@@ -86,7 +86,7 @@
     "name": "CNCF LC: Toluca vs Austin FC - LÃO LÂM",
     "logo": "https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1787801102-0-0-cf0050fe8df80b20dbbd989baedd3213",
+    "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1787801161-0-0-e8b8268d473504244fca315611f52598",
     "type": "hls"
   },
   {
@@ -95,7 +95,7 @@
     "name": "COL D1: Atletico Nacional Medellin vs Deportivo Cali - BLV RAMBO",
     "logo": "https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=38cc7a522c893362f60497e028db9305\u0026txTime=6a8ff45e",
+    "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=6b19c5ba98395bc2bc5da33dd64b8512\u0026txTime=6a8ff499",
     "type": "hls"
   },
   {
@@ -104,7 +104,7 @@
     "name": "CNCF LC: Toluca vs Austin FC - LOGAN",
     "logo": "https://sta.vnres.co/file/common/20251111/6a43978efb637082f6eb906c1e7f1621.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=69f563d55fb60662ed377b9d40768fbc\u0026txTime=6a8ff45e",
+    "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=5903b8bcae8fc30e5aff02f3ff3d8c56\u0026txTime=6a8ff499",
     "type": "hls"
   },
   {
@@ -113,7 +113,16 @@
     "name": "COL D1: Atletico Nacional Medellin vs Deportivo Cali - BLV LION",
     "logo": "https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1787801102-0-0-6403022cd09cce52952f3cc985ac148a",
+    "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1787801161-0-0-0c3a60fd14b2c5298867ba4c8100e9a2",
+    "type": "hls"
+  },
+  {
+    "id": "607400",
+    "tvg_id": "room-607400",
+    "name": "CNCF CACup: LD Alajuelense vs Plaza Amador - HÀ DUY KIÊN",
+    "logo": "https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=674e4a02417443f0533a317d4fa84b76\u0026txTime=6a8ff499",
     "type": "hls"
   },
   {
@@ -122,7 +131,7 @@
     "name": "CON CSA: River Plate vs Independiente Santa Fe - CƠM NẾP",
     "logo": "https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1787801102-0-0-cc68c00d192a562e64c5b939b30422a6",
+    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1787801161-0-0-3cb7de624a996b18c3f5eab244ccbade",
     "type": "hls"
   },
   {
@@ -131,7 +140,7 @@
     "name": "CNCF CACup: Xelaju MC vs Luis Angel Firpo - BLV NOVA",
     "logo": "https://sta.vnres.co/file/common/20260720/9b537b664ce0364f46b19b262f29b1d6.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-619108_lhd.m3u8?auth_key=1787801102-0-0-d9bd27e61864f5267ed88c787d1bf040",
+    "url": "https://pull.niues.live/live/stream-619108_lhd.m3u8?auth_key=1787801161-0-0-8063e6349d5e90a8959f4822af5ab894",
     "type": "hls"
   },
   {
@@ -140,7 +149,7 @@
     "name": "BRA Cup: Vasco da Gama Saf - RJ vs Vitória - BA - BLV FOX",
     "logo": "https://sta.vnres.co/file/common/20260709/01ed22d7dd1b21e74094cdea367770a9.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-620003_lhd.m3u8?auth_key=1787801102-0-0-ccf7fa4f8bad1742081f17b433f86bf1",
+    "url": "https://pull.niues.live/live/stream-620003_lhd.m3u8?auth_key=1787801161-0-0-f9a6892e9c4c6531ded1e99e22ec6dbd",
     "type": "hls"
   },
   {
@@ -149,7 +158,7 @@
     "name": "USLC: New Mexico United vs Lexington - CHAN ĐÊ",
     "logo": "https://sta.vnres.co/file/common/20260728/c2935ca02d759ee77531ff32719f1b21.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1787801102-0-0-533bf83407a887e2d27cef0e40e3c723",
+    "url": "https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1787801161-0-0-cfd56dc8a00447c532fc6c1e6ccb0456",
     "type": "hls"
   },
   {
@@ -158,7 +167,7 @@
     "name": "USLC: El Paso Locomotive FC vs Pittsburgh Riverhounds - BLV HEHE",
     "logo": "https://sta.vnres.co/file/common/20260811/153bed07d4854213a9a88e1029ada9de.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1787801102-0-0-3e0c7d01ee440fa5f45e0f4463923f92",
+    "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1787801161-0-0-dc7ffff24bc02c26211cf6431a29aff5",
     "type": "hls"
   },
   {
@@ -167,7 +176,7 @@
     "name": "CNCF CACup: LD Alajuelense vs Plaza Amador - BLV FIREMAN",
     "logo": "https://sta.vnres.co/file/common/20240614/d900dd8841b1223c7b58554cde34df75.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1787801101-0-0-2fc449dbf2cba9af611b701174b99ed4",
+    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1787801161-0-0-1fe6f9ceca336110d4c4f0b3a1f70791",
     "type": "hls"
   },
   {
@@ -176,7 +185,7 @@
     "name": "CNCF CACup: Xelaju MC vs Luis Angel Firpo - BLV TOMIA",
     "logo": "https://sta.vnres.co/file/common/20260629/15a4e4b3233b174e59d4cd6ae5a8432c.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1787801101-0-0-5591c5f360cb13bd35080c58c7a11753",
+    "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1787801161-0-0-37ea0170a08348d590216d116ff6c1bc",
     "type": "hls"
   },
   {
@@ -185,7 +194,7 @@
     "name": "CNCF LC: Club America vs Columbus Crew - BLV TAP",
     "logo": "https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=d9f01b6a14df8d511122bed23b4374fb\u0026txTime=6a8ff45d",
+    "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=cc32d9c097ff767eb5edce664e1e4aae\u0026txTime=6a8ff499",
     "type": "hls"
   },
   {
@@ -194,7 +203,7 @@
     "name": "CNCF CACup: LD Alajuelense vs Plaza Amador - ZIDANE",
     "logo": "https://sta.vnres.co/file/common/20260827/e9e7602a81b98cc24e44068f38359e77.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=e273a5587ba6844ae9490da72c0c7109\u0026txTime=6a8ff45d",
+    "url": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=45c695d8f4c253aef52913776c5d6fae\u0026txTime=6a8ff499",
     "type": "hls"
   },
   {
@@ -203,7 +212,7 @@
     "name": "CNCF LC: Toluca vs Austin FC - BLV Củ Cải",
     "logo": "https://sta.vnres.co/file/common/20260826/61bb40394bcc0aef6fe13f7ab910a91e.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1787801101-0-0-5bce92d36b05af88d5e7bac9f7770851",
+    "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1787801161-0-0-79ddcf8204a4aa0dc5dfc5db0ddc6398",
     "type": "hls"
   },
   {
@@ -212,7 +221,7 @@
     "name": "WNBA: Seattle Storm W vs Toronto Tempo W - BRIAN",
     "logo": "https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787801101-0-0-cebf96db78a00d0b53c4976df7320ec4",
+    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787801161-0-0-4f23461e91f20a7fcb031c6f13bfb719",
     "type": "hls"
   },
   {
@@ -221,7 +230,7 @@
     "name": "CNCF LC: Toluca vs Austin FC - BLV ZOWIE",
     "logo": "https://sta.vnres.co/file/common/20260827/4254a956cd3a0688ba702d4144316507.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1787801102-0-0-0ab0ef4c1bf79687b245590e1bef95d2",
+    "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1787801161-0-0-0169e58eb6331fdfef64cfdbdad46bc7",
     "type": "hls"
   },
   {
@@ -230,7 +239,7 @@
     "name": "USLC: El Paso Locomotive FC vs Pittsburgh Riverhounds - BLV VOI",
     "logo": "https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1787801102-0-0-724ddc30ed5462184d91c2dfff018fd5",
+    "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1787801161-0-0-a1510169467f2a1ca1b7aa796cca00eb",
     "type": "hls"
   },
   {
@@ -239,7 +248,7 @@
     "name": "WNBA: Seattle Storm W vs Toronto Tempo W - CHAN SENA",
     "logo": "https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787801102-0-0-188f17d920efa63e4967d09db754e03f",
+    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787801161-0-0-86ac763fc6ae4e014f413142fcf01a38",
     "type": "hls"
   },
   {
@@ -248,7 +257,7 @@
     "name": "CNCF LC: Toluca vs Austin FC - BÁ PHÚ",
     "logo": "https://sta.vnres.co/file/common/20260730/7804d6332c85f80cc4843609598de690.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912121_lhd.m3u8?auth_key=1787801101-0-0-dab40df33f5ec08002eaac991abf8893",
+    "url": "https://pull.niues.live/live/stream-9912121_lhd.m3u8?auth_key=1787801161-0-0-867f58b2cab7427c7eac592f5cb0f97c",
     "type": "hls"
   },
   {
@@ -257,7 +266,7 @@
     "name": "CON CSA: River Plate vs Independiente Santa Fe - RICKHANTER",
     "logo": "https://sta.vnres.co/file/common/20260620/4cbae14a2d06d1635a160fc8c2beb182.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=c1fa748556030c22ccf988e05d2a4475\u0026txTime=6a8ff45d",
+    "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=0db32d6684977e91accfa8a4033dad76\u0026txTime=6a8ff499",
     "type": "hls"
   },
   {
@@ -266,7 +275,7 @@
     "name": "CON CSA: River Plate vs Independiente Santa Fe - BLV PIRLO",
     "logo": "https://sta.vnres.co/file/common/20250320/efe293015c817dee46ccc81fa5e934d7.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912127_lhd.m3u8?auth_key=1787801101-0-0-b813eeaa8ac6501064901a890125cd5e",
+    "url": "https://pull.niues.live/live/stream-9912127_lhd.m3u8?auth_key=1787801161-0-0-9eb514b53a8398ad38ddad6610ff454e",
     "type": "hls"
   },
   {
@@ -275,7 +284,7 @@
     "name": "BRA Cup: Palmeiras - SP vs Santos Fc - SP - QUỐC KHÁNH",
     "logo": "https://sta.vnres.co/file/common/20260827/38f15ef6971f2573a492cc7990ea9c6e.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=3d4e53781215aa63ae66b80166caa632\u0026txTime=6a8ff45e",
+    "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=4c106acf7ff4904e99d154c799fcb140\u0026txTime=6a8ff4a0",
     "type": "hls"
   }
 ]
