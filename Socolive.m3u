@@ -3,22 +3,24 @@
 # SOCOLIVE LIVE PLAYLIST
 # ======================================
 # Status       : ONLINE
-# Channels     : 7
-# Updated      : 29/08/2026 05:57:18
+# Channels     : 8
+# Updated      : 29/08/2026 05:58:19
 # Player       : OTT Navigator / TiviMate
 # ======================================
 
 #EXTINF:-1 tvg-id="room-485739" tvg-logo="https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg" group-logo="https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg" group-title="SocoLive",ARG D1: Club Atlético Unión vs Sarmiento Junin - BLV CHIVAS
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=42e1348a7135b2c0dfa4f40559e8fb57&txTime=6a92669d
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=41e088ad251e9e665bdb417b5ab50678&txTime=6a9266d9
 #EXTINF:-1 tvg-id="room-527384" tvg-logo="https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg" group-logo="https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg" group-title="SocoLive",ARG D1: Club Atlético Unión vs Sarmiento Junin - LÃO LÂM
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1787961421-0-0-78e4a30ee8b09b124f3b9af526a5b6b3
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1787961481-0-0-7521e1e9b8dc04a0a619120d21196b95
+#EXTINF:-1 tvg-id="room-603255" tvg-logo="https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7.png" group-logo="https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7.png" group-title="SocoLive",BRA D2: Nautico (PE) vs Athletic Club - BLV LION
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1787961481-0-0-f272d37dc66f083c4ed19b44590533c8
 #EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg" group-logo="https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg" group-title="SocoLive",CHI D1: Cobresal vs Palestino - HÀ DUY KIÊN
-https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=e20123c5dbb006f13334b6674f25eeca&txTime=6a92669d
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=5253826d1da16429476b0906a4ee6a0a&txTime=6a9266d9
 #EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg" group-logo="https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg" group-title="SocoLive",ARG D1: Club Atlético Unión vs Sarmiento Junin - CƠM NẾP
-https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1787961421-0-0-4ed8fe6ce805780581bbf1572abbca44
+https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1787961481-0-0-2e05b7a202d4243c8c5f8d8a8d13b16a
 #EXTINF:-1 tvg-id="room-620003" tvg-logo="https://sta.vnres.co/file/common/20260709/01ed22d7dd1b21e74094cdea367770a9.png" group-logo="https://sta.vnres.co/file/common/20260709/01ed22d7dd1b21e74094cdea367770a9.png" group-title="SocoLive",ARG D1: Club Atlético Unión vs Sarmiento Junin - BLV FOX
-https://pull.niues.live/live/stream-620003_lhd.m3u8?auth_key=1787961421-0-0-2bcd2bba390096f77b9d936673607e32
+https://pull.niues.live/live/stream-620003_lhd.m3u8?auth_key=1787961481-0-0-f756b3f89ff963d973f4b160827f2071
 #EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151.png" group-logo="https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151.png" group-title="SocoLive",BRA D2: Goias Esporte Clube vs Sao Bernardo - BLV VOI
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1787961421-0-0-baac1f2e280428705eae52b0a2c3bdfe
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1787961481-0-0-c4b84d15bbac3e8e127b1dc4c72498a3
 #EXTINF:-1 tvg-id="room-9912136" tvg-logo="https://sta.vnres.co/file/common/20260810/b792b2c329f2ffe44037f2d5973945de.jpg" group-logo="https://sta.vnres.co/file/common/20260810/b792b2c329f2ffe44037f2d5973945de.jpg" group-title="SocoLive",BRA D2: Goias Esporte Clube vs Sao Bernardo - BLV LONG
-https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=b627e13fd8bc5d25942f00df0630c386&txTime=6a92669d
+https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=1c5309e252914cd6f5fe144673f2b573&txTime=6a9266d9
