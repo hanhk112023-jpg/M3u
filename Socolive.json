@@ -1,11 +1,20 @@
 [
   {
+    "id": "235232",
+    "tvg_id": "room-235232",
+    "name": "KOR D2: Ansan Greeners FC vs Daegu FC - A PÁO",
+    "logo": "https://sta.vnres.co/file/common/20260328/01acc641be84c58f2062ca50bf94b25a.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1787914621-0-0-291fcf040f01ccce5dbb0add8fd9c515",
+    "type": "hls"
+  },
+  {
     "id": "462413",
     "tvg_id": "room-462413",
     "name": "MYA D1: Chinland FC vs Yadanarbon FC - SAO LA",
     "logo": "https://sta.vnres.co/file/common/20260807/a76465a880a2789f42e440cf03e9db6b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=823655e2812947bb5abddfb6a7f21207\u0026txTime=6a91af91",
+    "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=bcc06b8d0a413d42629afaf7e52b3810\u0026txTime=6a91afcd",
     "type": "hls"
   },
   {
@@ -14,7 +23,7 @@
     "name": "MYA D1: Chinland FC vs Yadanarbon FC - BLV TOMIA",
     "logo": "https://sta.vnres.co/file/common/20260629/15a4e4b3233b174e59d4cd6ae5a8432c.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1787914561-0-0-797640fa932bea8eac0f743d851cdd7d",
+    "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1787914621-0-0-a4bcef27057d451d0f53d6c3086f19a3",
     "type": "hls"
   },
   {
@@ -23,7 +32,7 @@
     "name": "FIBA WCQL: Syria vs Australia - BRIAN",
     "logo": "https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787914561-0-0-9ff7f849219ff88d94e93d151c803923",
+    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787914621-0-0-8e0dfd89124047133cf79778cf193ffb",
     "type": "hls"
   },
   {
@@ -32,7 +41,7 @@
     "name": "MYA D1: Chinland FC vs Yadanarbon FC - BÁ PHÚ",
     "logo": "https://sta.vnres.co/file/common/20260730/7804d6332c85f80cc4843609598de690.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912121_lhd.m3u8?auth_key=1787914561-0-0-7a12347438ea0e3d6e685a27f67c8871",
+    "url": "https://pull.niues.live/live/stream-9912121_lhd.m3u8?auth_key=1787914621-0-0-7e01d6cbd1d7b990aa6782c7e179b545",
     "type": "hls"
   }
 ]
