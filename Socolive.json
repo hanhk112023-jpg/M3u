@@ -5,7 +5,7 @@
     "name": "Tường thuật: SPA D1 - FC Barcelona vs Athletic Club - Gà xào sả ớt",
     "logo": "https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=c4d557b4f34da305e6936ae9992949a6\u0026txTime=6a916941",
+    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=3e23450ef299c4b4221c9115efec6953\u0026txTime=6a91697d",
     "type": "hls"
   },
   {
@@ -14,7 +14,7 @@
     "name": "Tường thuật: UEFA ECL - KuPs vs Shamrock Rovers - Bò leo rào",
     "logo": "https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=a42b62531597bc6411fad2540cdec7ba\u0026txTime=6a916941",
+    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=2a6aa43513d057b94d65acc81cd3eb64\u0026txTime=6a91697d",
     "type": "hls"
   },
   {
@@ -23,7 +23,7 @@
     "name": "Tường thuật: UEFA ECL - Qarabag vs FC Twente Enschede - Thỏ giang hồ",
     "logo": "https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=8a96942bdc911b4ea4825e33a63a51d9\u0026txTime=6a916941",
+    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=dea5cd889d552916dafdd8a5c31780b0\u0026txTime=6a91697d",
     "type": "hls"
   },
   {
@@ -32,7 +32,7 @@
     "name": "Tường thuật: UEFA ECL - AS Monaco vs Gornik Zabrze - Hươu đau cổ",
     "logo": "https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=bb5b62fa2877fce3bc5e5fcc836df88d\u0026txTime=6a916941",
+    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=4e5ce098255efe93d05c451d23071a92\u0026txTime=6a91697d",
     "type": "hls"
   },
   {
@@ -41,7 +41,16 @@
     "name": "Tường thuật: ENG LC - Chelsea vs Luton Town - Mèo méo meo",
     "logo": "https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=1cc9a8bac3c8e778e39e174a6b6f0a5d\u0026txTime=6a916941",
+    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=b3ce157bcbe9f91ba1357f49b9b335f4\u0026txTime=6a91697d",
+    "type": "hls"
+  },
+  {
+    "id": "356042",
+    "tvg_id": "room-356042",
+    "name": "FIBA WCQL: Iran vs New Zealand - A CHÈ",
+    "logo": "https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=150c4c945f9d1f25e2326207fa289daa\u0026txTime=6a91697d",
     "type": "hls"
   },
   {
@@ -50,7 +59,7 @@
     "name": "Tường thuật: UEFA EL - Aarhus AGF vs Benfica - Rắn ở đáy sông",
     "logo": "https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=f709c2c503407728909d6dffe15007a8\u0026txTime=6a916941",
+    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=a268df27d7e166ac324b29bce4e292ac\u0026txTime=6a91697d",
     "type": "hls"
   },
   {
@@ -59,7 +68,7 @@
     "name": "FIBA WCQL: Iran vs New Zealand - BRIAN",
     "logo": "https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787896561-0-0-62a2340091a98bf85fbfd07ff8632b88",
+    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787896621-0-0-8bb82801f4d35e2c519ce502be70b3c2",
     "type": "hls"
   }
 ]
