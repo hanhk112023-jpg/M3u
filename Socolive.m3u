@@ -3,30 +3,34 @@
 # SOCOLIVE LIVE PLAYLIST
 # ======================================
 # Status       : ONLINE
-# Channels     : 11
-# Updated      : 29/08/2026 06:53:33
+# Channels     : 13
+# Updated      : 29/08/2026 06:54:18
 # Player       : OTT Navigator / TiviMate
 # ======================================
 
 #EXTINF:-1 tvg-id="room-283501" tvg-logo="https://sta.vnres.co/file/common/20260829/ff978830506d1bffccf5eb26b09f2d96.png" group-logo="https://sta.vnres.co/file/common/20260829/ff978830506d1bffccf5eb26b09f2d96.png" group-title="SocoLive",BRA D2: Gremio Novorizontino vs Sport Club do Recife - BLV KAN
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=24b49fe4a5f8bcd6a3435c5f259044c6&txTime=6a9273bd
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=ca49ab57b8289bb9759d1d711d058f4b&txTime=6a9273f9
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg" group-logo="https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg" group-title="SocoLive",WNBA: Atlanta Dream W vs Portland Fire W - A CHÈ
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=865460e5d4203b66c919173480a4a2da&txTime=6a9273bd
-#EXTINF:-1 tvg-id="room-527384" tvg-logo="https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg" group-logo="https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg" group-title="SocoLive",ARG D1: Club Atlético Unión vs Sarmiento Junin - LÃO LÂM
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1787964796-0-0-13b3d4600373cc900f535cb4e5e95a5d
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=65f32bd916d4db4dfb7d6dda9badc163&txTime=6a9273f9
+#EXTINF:-1 tvg-id="room-372746" tvg-logo="https://sta.vnres.co/file/common/20260728/ba06eac3dc3ffeee0de25e8e0deaaceb.jpg" group-logo="https://sta.vnres.co/file/common/20260728/ba06eac3dc3ffeee0de25e8e0deaaceb.jpg" group-title="SocoLive",ARG D1: Boca Juniors vs Club Atlético Lanús - BLV YONE
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1787964841-0-0-833c516fb43b53ff98e0aa957fc42d36
+#EXTINF:-1 tvg-id="room-485739" tvg-logo="https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg" group-logo="https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg" group-title="SocoLive",MEX WD1: Toluca Women vs Leon Women - BLV CHIVAS
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=ff0809df64ff81d3765d08dba9b20236&txTime=6a9273f9
+#EXTINF:-1 tvg-id="room-603255" tvg-logo="https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7.png" group-logo="https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7.png" group-title="SocoLive",BRA D2: Nautico (PE) vs Athletic Club - BLV LION
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1787964851-0-0-30c6c3e7b7176e31259240f693838b4d
 #EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg" group-logo="https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg" group-title="SocoLive",CHI D1: Cobresal vs Palestino - HÀ DUY KIÊN
-https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=bd81417ef1d955cc004ebe64f70d04b1&txTime=6a9273bd
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=fef5c460d11437f55ba24965f1e16f0e&txTime=6a9273f9
 #EXTINF:-1 tvg-id="room-619561" tvg-logo="https://sta.vnres.co/file/common/20260729/d06a0efe274bce28547238bec2a125b9.jpg" group-logo="https://sta.vnres.co/file/common/20260729/d06a0efe274bce28547238bec2a125b9.jpg" group-title="SocoLive",MEX WD1: Toluca Women vs Leon Women - BÚN ĐẬU
-https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1787964781-0-0-8a330b5c0c26bdaf26f3d75b5341f5d2
+https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1787964841-0-0-b4ec63af2196ddf8228d60d06b9adde7
 #EXTINF:-1 tvg-id="room-621887" tvg-logo="https://sta.vnres.co/file/common/20260728/c2935ca02d759ee77531ff32719f1b21.png" group-logo="https://sta.vnres.co/file/common/20260728/c2935ca02d759ee77531ff32719f1b21.png" group-title="SocoLive",BRA D2: Gremio Novorizontino vs Sport Club do Recife - CHAN ĐÊ
-https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1787964781-0-0-1536bb5d24fd2bf0ec5107c8759055bd
+https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1787964841-0-0-658e8de31a383d56f3bee4842678df49
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-title="SocoLive",WNBA: Atlanta Dream W vs Portland Fire W - BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787964781-0-0-648e2df5b974d6cfb082ce5c3da33185
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787964841-0-0-8d3618073193e1b954230338bc895191
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg" group-logo="https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg" group-title="SocoLive",WNBA: Atlanta Dream W vs Portland Fire W - BLV HENRY
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1787964781-0-0-6a94c9cf73f3a8d3cb037ad4504d0f3e
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1787964841-0-0-974129e2566aa3aedafca3b6a9c0c524
 #EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151.png" group-logo="https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151.png" group-title="SocoLive",BRA D2: Goias Esporte Clube vs Sao Bernardo - BLV VOI
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1787964781-0-0-23b164e34676b08936a16274e7fc7bc5
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1787964841-0-0-cc0fd463769a009122c237094ee56913
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg" group-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg" group-title="SocoLive",WNBA: Indiana Fever W vs Connecticut Sun W - CHAN SENA
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787964781-0-0-906269f0561a98d60ade644da38785d4
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787964841-0-0-2f527d102886b8ecdf6791e58b074127
 #EXTINF:-1 tvg-id="room-9912136" tvg-logo="https://sta.vnres.co/file/common/20260810/b792b2c329f2ffe44037f2d5973945de.jpg" group-logo="https://sta.vnres.co/file/common/20260810/b792b2c329f2ffe44037f2d5973945de.jpg" group-title="SocoLive",BRA D2: Goias Esporte Clube vs Sao Bernardo - BLV LONG
-https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=7d3dde4f04f7f7922e1149f5aeaa8667&txTime=6a9273bd
+https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=db4f0148d3faff64a8e7cd849be196e3&txTime=6a9273f9
