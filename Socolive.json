@@ -5,7 +5,7 @@
     "name": "KOR D2: Ansan Greeners FC vs Daegu FC - A PÁO",
     "logo": "https://sta.vnres.co/file/common/20260328/01acc641be84c58f2062ca50bf94b25a.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1787915041-0-0-a2e6e68e539e08a8f15e87a3235a3582",
+    "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1787915101-0-0-eab114fafab5ff255b1270fd2d75c02a",
     "type": "hls"
   },
   {
@@ -14,7 +14,7 @@
     "name": "KOR D2: Ansan Greeners FC vs Daegu FC - BLV KAN",
     "logo": "https://sta.vnres.co/file/common/20260828/0d175e2334feaf85e7ac51397f0de399.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=0bacbdf0c62916e7811c98e5b1815571\u0026txTime=6a91b171",
+    "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=b3a2c9eff2b8f7480ccaf73ffb9c8105\u0026txTime=6a91b1ad",
     "type": "hls"
   },
   {
@@ -23,7 +23,16 @@
     "name": "MYA D1: Chinland FC vs Yadanarbon FC - SAO LA",
     "logo": "https://sta.vnres.co/file/common/20260807/a76465a880a2789f42e440cf03e9db6b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=f9cfcf9d0d9d88d8fbc7be8d5dc89112\u0026txTime=6a91b171",
+    "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=2c62a15121e56a204dc9edc8c43e5f94\u0026txTime=6a91b1ad",
+    "type": "hls"
+  },
+  {
+    "id": "501412",
+    "tvg_id": "room-501412",
+    "name": "KOR D2: Jeonnam Dragons vs Cheonan City - XUÂN SON",
+    "logo": "https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=9ba319db9b42963347865451094aa116\u0026txTime=6a91b1ad",
     "type": "hls"
   },
   {
@@ -32,7 +41,7 @@
     "name": "KOR D2: Jeonnam Dragons vs Cheonan City - BLV RAMBO",
     "logo": "https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=179d2ac0fa1ec0e709c8db84292f8e8c\u0026txTime=6a91b171",
+    "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=54ca1985735eaaebf02f0806f8f8b1c6\u0026txTime=6a91b1ad",
     "type": "hls"
   },
   {
@@ -41,7 +50,7 @@
     "name": "KOR D2: Jeonnam Dragons vs Cheonan City - BÚN ĐẬU",
     "logo": "https://sta.vnres.co/file/common/20260729/d06a0efe274bce28547238bec2a125b9.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1787915041-0-0-865c20d8fbc769069ef4d48f28f3a2be",
+    "url": "https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1787915101-0-0-9f29711c24ea238725b5b6e5b7196f6e",
     "type": "hls"
   },
   {
@@ -50,7 +59,7 @@
     "name": "KOR D2: Jeonnam Dragons vs Cheonan City - BLV BẢY",
     "logo": "https://sta.vnres.co/file/common/20260813/5d212275a6562e784f8ce4dd82466681.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1787915041-0-0-f9a3c7173fd2d706c895c91725df11b5",
+    "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1787915101-0-0-da4f35d2dafc565cd07f91f77d64d2b3",
     "type": "hls"
   },
   {
@@ -59,7 +68,7 @@
     "name": "MYA D1: Chinland FC vs Yadanarbon FC - BLV TOMIA",
     "logo": "https://sta.vnres.co/file/common/20260629/15a4e4b3233b174e59d4cd6ae5a8432c.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1787915041-0-0-5c3e247f4f06ad661aca181d743090a2",
+    "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1787915101-0-0-4d78d518ff10d8c80f746b64d7ea72d7",
     "type": "hls"
   },
   {
@@ -68,7 +77,7 @@
     "name": "FIBA WCQL: Syria vs Australia - BRIAN",
     "logo": "https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787915041-0-0-bd3c5f30ef764a26bf1f2d44fe725994",
+    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787915101-0-0-704419fa35a58ac6e266ffe06447487c",
     "type": "hls"
   },
   {
@@ -77,7 +86,7 @@
     "name": "MYA D1: Chinland FC vs Yadanarbon FC - BÁ PHÚ",
     "logo": "https://sta.vnres.co/file/common/20260730/7804d6332c85f80cc4843609598de690.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912121_lhd.m3u8?auth_key=1787915041-0-0-a8b4c937ad82787dbf28a6c6c7933ef9",
+    "url": "https://pull.niues.live/live/stream-9912121_lhd.m3u8?auth_key=1787915101-0-0-9890f03eadd24bf8340bc31690dae46a",
     "type": "hls"
   }
 ]
