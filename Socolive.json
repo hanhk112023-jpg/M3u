@@ -1,11 +1,20 @@
 [
   {
+    "id": "283501",
+    "tvg_id": "room-283501",
+    "name": "BRA D2: Gremio Novorizontino vs Sport Club do Recife - BLV KAN",
+    "logo": "https://sta.vnres.co/file/common/20260829/ff978830506d1bffccf5eb26b09f2d96.png",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=d3e4d88eda8b890a1570987dc3fe891e\u0026txTime=6a926841",
+    "type": "hls"
+  },
+  {
     "id": "485739",
     "tvg_id": "room-485739",
     "name": "ARG D1: Club Atlético Unión vs Sarmiento Junin - BLV CHIVAS",
     "logo": "https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=bdbd923f324220c111effcbff6ff7bf5\u0026txTime=6a926805",
+    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=5980ebc1c19ccc45d8a634af186fa51b\u0026txTime=6a926841",
     "type": "hls"
   },
   {
@@ -14,7 +23,7 @@
     "name": "ARG D1: Club Atlético Unión vs Sarmiento Junin - LÃO LÂM",
     "logo": "https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1787961781-0-0-41ee7e7788029641a891a1b1bbc72327",
+    "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1787961841-0-0-729e19793f9210c897cb36cea226af79",
     "type": "hls"
   },
   {
@@ -23,7 +32,7 @@
     "name": "BRA D2: Nautico (PE) vs Athletic Club - BLV LION",
     "logo": "https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1787961781-0-0-262833b28424b28d6268b7a043d65567",
+    "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1787961841-0-0-26996fe52868d51af4000bd696312e5d",
     "type": "hls"
   },
   {
@@ -32,7 +41,7 @@
     "name": "CHI D1: Cobresal vs Palestino - HÀ DUY KIÊN",
     "logo": "https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=c9f8caac183270b6e4399c4f17602dbd\u0026txTime=6a926805",
+    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=f21e0da9a25083ee24a2ca7d639d419f\u0026txTime=6a926841",
     "type": "hls"
   },
   {
@@ -41,7 +50,7 @@
     "name": "ARG D1: Club Atlético Unión vs Sarmiento Junin - CƠM NẾP",
     "logo": "https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1787961781-0-0-8a67772978fc2d83f3cd5519ebd91ed5",
+    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1787961841-0-0-b4c6e0846d9390dbba3b86857cc1b74c",
     "type": "hls"
   },
   {
@@ -50,7 +59,7 @@
     "name": "ARG D1: Club Atlético Unión vs Sarmiento Junin - BLV FOX",
     "logo": "https://sta.vnres.co/file/common/20260709/01ed22d7dd1b21e74094cdea367770a9.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-620003_lhd.m3u8?auth_key=1787961781-0-0-19c8f41601c2826bde1c002b088d127e",
+    "url": "https://pull.niues.live/live/stream-620003_lhd.m3u8?auth_key=1787961841-0-0-3265000387b42fcd96f5d132a0fc11d5",
     "type": "hls"
   },
   {
@@ -59,7 +68,16 @@
     "name": "BRA D2: Goias Esporte Clube vs Sao Bernardo - BLV VOI",
     "logo": "https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1787961781-0-0-285028148c97be38d3f405dfa82418ef",
+    "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1787961841-0-0-a03dac709b755156ad5e57ed7147a8a1",
+    "type": "hls"
+  },
+  {
+    "id": "9912115",
+    "tvg_id": "room-9912115",
+    "name": "WNBA: Indiana Fever W vs Connecticut Sun W - CHAN SENA",
+    "logo": "https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787961841-0-0-17e173de15898e8561185032ba4a3494",
     "type": "hls"
   },
   {
@@ -68,7 +86,7 @@
     "name": "BRA D2: Goias Esporte Clube vs Sao Bernardo - BLV LONG",
     "logo": "https://sta.vnres.co/file/common/20260810/b792b2c329f2ffe44037f2d5973945de.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=11e4a2f5040588761469673baec5c5c8\u0026txTime=6a926805",
+    "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=7624a50795cd4949876fc932e59a511a\u0026txTime=6a926841",
     "type": "hls"
   }
 ]
