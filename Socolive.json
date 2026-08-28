@@ -1,11 +1,47 @@
 [
   {
+    "id": "133277",
+    "tvg_id": "room-133277",
+    "name": "Tường thuật: SPA D1 - FC Barcelona vs Athletic Club - Gà xào sả ớt",
+    "logo": "https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=4e5cb744d197b16e50bb5f8353207171\u0026txTime=6a924d89",
+    "type": "hls"
+  },
+  {
+    "id": "133824",
+    "tvg_id": "room-133824",
+    "name": "Tường thuật: UEFA ECL - KuPs vs Shamrock Rovers - Bò leo rào",
+    "logo": "https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=b393ff0e7965db51b4dce7cd2983af7d\u0026txTime=6a924d89",
+    "type": "hls"
+  },
+  {
+    "id": "152898",
+    "tvg_id": "room-152898",
+    "name": "Tường thuật: UEFA ECL - Qarabag vs FC Twente Enschede - Thỏ giang hồ",
+    "logo": "https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=3f8e06d39fa30b8e8c5cf889f4f34411\u0026txTime=6a924d89",
+    "type": "hls"
+  },
+  {
+    "id": "179093",
+    "tvg_id": "room-179093",
+    "name": "Tường thuật: UEFA ECL - AS Monaco vs Gornik Zabrze - Hươu đau cổ",
+    "logo": "https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=44eddc52db9a44711fc52b3a1a3d4bfc\u0026txTime=6a924d89",
+    "type": "hls"
+  },
+  {
     "id": "406865",
     "tvg_id": "room-406865",
     "name": "SPA D1: Deportivo Alavés vs Villarreal CF - BLV ANH TÀI",
     "logo": "https://sta.vnres.co/file/common/20241220/6200343fea7ece69d7d92ae718616478.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=f949f765220b1889e4978d32672b8e9a\u0026txTime=6a924d4d",
+    "url": "https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=eb7356573f92a1fe04c7ccb563c04bbe\u0026txTime=6a924d89",
     "type": "hls"
   },
   {
@@ -14,7 +50,7 @@
     "name": "SPA D1: Deportivo Alavés vs Villarreal CF - VINFAST",
     "logo": "https://sta.vnres.co/file/common/20260628/540cb58118f4c3201221b711e9a9cb7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1787954941-0-0-e3c7e59dfa11a35f9669c260568e233f",
+    "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1787955001-0-0-ad9786419f4b3023d1ca053dab04a1ff",
     "type": "hls"
   },
   {
@@ -23,7 +59,7 @@
     "name": "POR D1: Rio Ave vs Sporting CP - GRAP",
     "logo": "https://sta.vnres.co/file/common/20260703/fe517d18a8df723cee92683347d70be9.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=1ebf32637fa89a24583e37c564fcda97\u0026txTime=6a924d4d",
+    "url": "https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=ac2f90d4c826ee6c3c92b75d8e390732\u0026txTime=6a924d89",
     "type": "hls"
   },
   {
@@ -32,7 +68,7 @@
     "name": "SPA D1: Deportivo Alavés vs Villarreal CF - SEVEN",
     "logo": "https://sta.vnres.co/file/common/20260715/0e572fd7d0bfc5ce5cf538c09b8cace4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=2bc148e045a8f5feda26255e3863e8d3\u0026txTime=6a924d4d",
+    "url": "https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=804c25e5e0a38328be2d858a2f454683\u0026txTime=6a924d89",
     "type": "hls"
   },
   {
@@ -41,7 +77,7 @@
     "name": "SPA D1: Deportivo Alavés vs Villarreal CF - CACAO",
     "logo": "https://sta.vnres.co/file/common/20260729/2cca708e4ee1d3e988c578ff79960d7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1787954941-0-0-464d9f307308ba2e00d92fc84b9f3d37",
+    "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1787955001-0-0-56f0694aa822a281fe5f2edf9038e31e",
     "type": "hls"
   },
   {
@@ -50,7 +86,7 @@
     "name": "POR D1: Rio Ave vs Sporting CP - TUẤN CÙI",
     "logo": "https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1787954941-0-0-d8f0141188d359c4a9ebdfe75151a309",
+    "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1787955001-0-0-75ac3b5859ce9115febf9800f8e22db8",
     "type": "hls"
   }
 ]
