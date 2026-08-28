@@ -5,7 +5,7 @@
     "name": "QAT D1: Al-Ahli Doha vs Lusail City - BLV CUỘI",
     "logo": "https://sta.vnres.co/file/common/20260804/e812d4edaaf2081ed4e1824593a72b3a.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1787934361-0-0-9f0420b397a6a608d5a9d85355105734",
+    "url": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1787934421-0-0-78f49e2e80467ddf4aac75f4f415f4bc",
     "type": "hls"
   },
   {
@@ -14,7 +14,7 @@
     "name": "QAT D1: Al-Ahli Doha vs Lusail City - CÔNG CHẤT",
     "logo": "https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=858d230b00ceb7204938336d4ca78557\u0026txTime=6a91fce9",
+    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=6c317b5f1a4c0b1cef89c581f17694ad\u0026txTime=6a91fd25",
     "type": "hls"
   },
   {
@@ -23,7 +23,7 @@
     "name": "EGY D1: Olympic El Qanal vs El Gounah - BLV COCA",
     "logo": "https://sta.vnres.co/file/common/20260804/75681fd6aa001c1bb1b8d3946dd69271.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1787934361-0-0-9d63e9dba2982a3782aedbe4d334e371",
+    "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1787934421-0-0-b1748cf7119c024c86aabd0ae73469a4",
     "type": "hls"
   },
   {
@@ -32,7 +32,7 @@
     "name": "RUS D1: Akron Togliatti vs CSKA Moscow - CR Bưởi",
     "logo": "https://sta.vnres.co/file/common/20260827/0aa249348941d8378b256d9d3db2eb34.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=cd241ca9722b625e2d161ccc6e9d0450\u0026txTime=6a91fce9",
+    "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=97be527afce24fd463bb6736e18b39e1\u0026txTime=6a91fd25",
     "type": "hls"
   },
   {
@@ -41,7 +41,7 @@
     "name": "UAE LP: Dubai United vs Ittihad Kalba FC - BLV ANH TÀI",
     "logo": "https://sta.vnres.co/file/common/20241220/6200343fea7ece69d7d92ae718616478.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=426567303a40abbc22453cf686114065\u0026txTime=6a91fce9",
+    "url": "https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=f059c4bd7ee424a73331375f99874931\u0026txTime=6a91fd25",
     "type": "hls"
   },
   {
@@ -50,7 +50,25 @@
     "name": "RUS D1: Akron Togliatti vs CSKA Moscow - THOMAS",
     "logo": "https://sta.vnres.co/file/common/20260806/4c726754b547e8d50d1f1dd3d1304c4f.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=6065494303964b1ffd31c27fa29c8e34\u0026txTime=6a91fce9",
+    "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=1338f7dfd50eee8f8bab7951ac227fc3\u0026txTime=6a91fd25",
+    "type": "hls"
+  },
+  {
+    "id": "491873",
+    "tvg_id": "room-491873",
+    "name": "EGY D1: Olympic El Qanal vs El Gounah - BLV VIP",
+    "logo": "https://sta.vnres.co/file/common/20250723/6b83b847d8944b57cc13043bae9fa7a8.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=8d8e8de6263a0aa829f0b4e36dffb209\u0026txTime=6a91fd25",
+    "type": "hls"
+  },
+  {
+    "id": "501412",
+    "tvg_id": "room-501412",
+    "name": "ROM D1: FC Voluntari vs FC Otelul Galati - XUÂN SON",
+    "logo": "https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=b0e8fd5010a10d6a847d2520b38f6cd7\u0026txTime=6a91fd25",
     "type": "hls"
   },
   {
@@ -59,7 +77,7 @@
     "name": "KSA PR: Al Riyadh vs Neom SC - BLV WUKONG",
     "logo": "https://sta.vnres.co/file/common/20251121/6d691b0b9dfd9eeb599401a2499400f0.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1787934361-0-0-138cccd79bbc1c2aa451f1f2440163fe",
+    "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1787934421-0-0-ef2add194bd7c3fa528b127e801e0dcd",
     "type": "hls"
   },
   {
@@ -68,7 +86,7 @@
     "name": "GER D2: VfL Bochum 1848 vs VfL Osnabrück - BLV ALEX",
     "logo": "https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1787934361-0-0-6f3ae5d7e3bfaf39136ebf825c0a9880",
+    "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1787934421-0-0-cfe3b9bf521d5071a79e7401c0611e93",
     "type": "hls"
   },
   {
@@ -77,7 +95,7 @@
     "name": "KSA PR: Al Riyadh vs Neom SC - BLV A WIN",
     "logo": "https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1787934361-0-0-a254f5b3f8ebb4b9d273860e3fdb7b96",
+    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1787934421-0-0-2c9c22aec26ae5d168f1d3492969a7ba",
     "type": "hls"
   },
   {
@@ -86,7 +104,7 @@
     "name": "UAE LP: Dubai United vs Ittihad Kalba FC - LOGAN",
     "logo": "https://sta.vnres.co/file/common/20251111/6a43978efb637082f6eb906c1e7f1621.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=8900241d4938abcf2f67fb46c6b5068a\u0026txTime=6a91fce9",
+    "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=675f98c2c75e9c8580434556d750256c\u0026txTime=6a91fd25",
     "type": "hls"
   },
   {
@@ -95,7 +113,7 @@
     "name": "ACQ: Palestine vs Kazakhstan - HUNTER",
     "logo": "https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=0f243d3a63f478d59b8323f1f5520f1d\u0026txTime=6a91fce9",
+    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=ea909f570979658d88f3a7767a7711a5\u0026txTime=6a91fd25",
     "type": "hls"
   },
   {
@@ -104,7 +122,7 @@
     "name": "ROM D1: FC Voluntari vs FC Otelul Galati - BLV CÒ",
     "logo": "https://sta.vnres.co/file/common/20260721/f2855aef78044156ad9e45d7985403d0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1787934361-0-0-d64337fcc6dec3fd0dbf1ff10ddd0333",
+    "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1787934421-0-0-5195b980f732376f4c7ed8e19ee6956c",
     "type": "hls"
   },
   {
@@ -113,7 +131,7 @@
     "name": "EGY D1: Olympic El Qanal vs El Gounah - BLV RYO",
     "logo": "https://sta.vnres.co/file/common/20260329/46d787b8716ab82aff515db39b5a55a1.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=67804557600cb2aae653fe226a62ae2b\u0026txTime=6a91fce9",
+    "url": "https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=7247718c8379dbae1b6a214e024c3c69\u0026txTime=6a91fd25",
     "type": "hls"
   },
   {
@@ -122,7 +140,7 @@
     "name": "UAE LP: Dubai United vs Ittihad Kalba FC - BÚN ĐẬU",
     "logo": "https://sta.vnres.co/file/common/20260729/d06a0efe274bce28547238bec2a125b9.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1787934361-0-0-e35b932e90de27b49eb6b4ddd0efebd9",
+    "url": "https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1787934421-0-0-e890ee9d677fb1bcb0e18192c0f2ad4f",
     "type": "hls"
   },
   {
@@ -131,7 +149,7 @@
     "name": "UAE LP: Dubai United vs Ittihad Kalba FC - T REX",
     "logo": "https://sta.vnres.co/file/common/20260808/4818d723b5e85850f66dfc3b5aed49d8.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-619672_lhd.m3u8?txSecret=8910a33681620e1d166be20255fc3ca9\u0026txTime=6a91fce9",
+    "url": "https://pull.niur.live/live/stream-619672_lhd.m3u8?txSecret=2f810ea54125661da72045f6a4c1f503\u0026txTime=6a91fd25",
     "type": "hls"
   },
   {
@@ -140,7 +158,7 @@
     "name": "EGY D1: Enppi vs Wadi Degla SC - PEANUT",
     "logo": "https://sta.vnres.co/file/common/20260713/cbd81ea71d49b5b5f074a5f56678a9b6.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1787934361-0-0-bb2d9f54444e2d66c5f7e2ef56c06659",
+    "url": "https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1787934421-0-0-248111a143d0aa8a8b2258a3511ac169",
     "type": "hls"
   },
   {
@@ -149,7 +167,7 @@
     "name": "KSA PR: Al Riyadh vs Neom SC - BOSS",
     "logo": "https://sta.vnres.co/file/common/20260802/d0b756ac34b8f00d22a6d687f86fe8b2.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=029b1dc3a9d64d00de30f61c747ba5c5\u0026txTime=6a91fce9",
+    "url": "https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=fe6158880e2cdc0faf2e5eb510f22f5d\u0026txTime=6a91fd25",
     "type": "hls"
   },
   {
@@ -158,7 +176,7 @@
     "name": "KSA PR: Al Riyadh vs Neom SC - MP3",
     "logo": "https://sta.vnres.co/file/common/20260810/042a00493898027e5f644f6f24e88c53.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=e40550072ab7179e73b5cde10c35b2a2\u0026txTime=6a91fce9",
+    "url": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=789f475709341c437f828d5068b52e6b\u0026txTime=6a91fd25",
     "type": "hls"
   },
   {
@@ -167,7 +185,7 @@
     "name": "QAT D1: Al-Ahli Doha vs Lusail City - BLV TAP",
     "logo": "https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=1aae3be5b5267b59b5c66e31d4fb73c6\u0026txTime=6a91fce9",
+    "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=321faf162139486840518821a325a4c6\u0026txTime=6a91fd25",
     "type": "hls"
   },
   {
@@ -176,7 +194,7 @@
     "name": "RUS D1: Akron Togliatti vs CSKA Moscow - ZIDANE",
     "logo": "https://sta.vnres.co/file/common/20260827/e9e7602a81b98cc24e44068f38359e77.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=caf6e9073cba5b23a53fad5f06c211ee\u0026txTime=6a91fce9",
+    "url": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=44a3d0fbc0380b2c08a1e645d02924bc\u0026txTime=6a91fd25",
     "type": "hls"
   },
   {
@@ -185,7 +203,7 @@
     "name": "RUS D1: Akron Togliatti vs CSKA Moscow - BLV Củ Cải",
     "logo": "https://sta.vnres.co/file/common/20260826/61bb40394bcc0aef6fe13f7ab910a91e.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1787934361-0-0-5899b00660de54fdea11ae070236c228",
+    "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1787934421-0-0-f92e205353a402a61d26a3bdd846d0b5",
     "type": "hls"
   },
   {
@@ -194,7 +212,7 @@
     "name": "QAT D1: Al-Ahli Doha vs Lusail City - BLV ZOWIE",
     "logo": "https://sta.vnres.co/file/common/20260827/4254a956cd3a0688ba702d4144316507.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1787934361-0-0-1269cc6c3ec91255ae0a162dab23e38e",
+    "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1787934421-0-0-9d626864a625c76be2ac396393d5b4a7",
     "type": "hls"
   },
   {
@@ -203,7 +221,16 @@
     "name": "RUS D1: Akron Togliatti vs CSKA Moscow - RICKHANTER",
     "logo": "https://sta.vnres.co/file/common/20260620/4cbae14a2d06d1635a160fc8c2beb182.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=63bac0f0a0bbafdf11be435f8b029b43\u0026txTime=6a91fce9",
+    "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=e476ecae6c0df445f36dd35a6f04bbf1\u0026txTime=6a91fd25",
+    "type": "hls"
+  },
+  {
+    "id": "9912123",
+    "tvg_id": "room-9912123",
+    "name": "POL D1: Wisla Plock vs Korona Kielce - RỒNG ĐẤT",
+    "logo": "https://sta.vnres.co/file/common/20260725/0eb3315ecb9cf5c7f5f9b102d38e52f9.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1787934421-0-0-1331e8a59a15fa7401e176cd40489c5c",
     "type": "hls"
   },
   {
@@ -212,7 +239,7 @@
     "name": "BUL D1: Slavia Sofia vs FK Septemvri Sofia - KENCHU",
     "logo": "https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1787934361-0-0-8227f36b5753c4e86b70cd2f81287349",
+    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1787934421-0-0-341908f164cad3c4091c5a047f11e955",
     "type": "hls"
   },
   {
@@ -221,7 +248,7 @@
     "name": "EGY D1: Enppi vs Wadi Degla SC - CACAO",
     "logo": "https://sta.vnres.co/file/common/20260729/2cca708e4ee1d3e988c578ff79960d7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1787934361-0-0-e333274ce60289b9d3f60928169e7019",
+    "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1787934421-0-0-d29b905a8fab8df104fd5c3b58e9baa1",
     "type": "hls"
   },
   {
@@ -230,7 +257,7 @@
     "name": "QAT D1: Al-Ahli Doha vs Lusail City - QUỐC KHÁNH",
     "logo": "https://sta.vnres.co/file/common/20260828/a7854d4cab440896bade58738455accb.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=8216fcaf0a8f050bc56c0113000ac869\u0026txTime=6a91fce9",
+    "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=9d46f44b21a35cba26ac2f62dd3f7657\u0026txTime=6a91fd25",
     "type": "hls"
   },
   {
@@ -239,7 +266,7 @@
     "name": "UAE LP: Dubai United vs Ittihad Kalba FC - BLV XO",
     "logo": "https://sta.vnres.co/file/common/20260613/cc7eb6fb9d74dfa083a48c861b135ae8.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=4563f75e10d91766bac8d08e2fc8ca0e\u0026txTime=6a91fce9",
+    "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=c8afbc5dd27680baf4d97ed33f9017db\u0026txTime=6a91fd25",
     "type": "hls"
   },
   {
@@ -248,7 +275,7 @@
     "name": "UAE LP: Dubai United vs Ittihad Kalba FC - NGƯỜI CÁ",
     "logo": "https://sta.vnres.co/file/common/20260805/c8068dd64589d2890066f1eacc273ab0.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912134_lhd.m3u8?auth_key=1787934361-0-0-a52ceb26ecf39672089a57cef0b4e5f0",
+    "url": "https://pull.niues.live/live/stream-9912134_lhd.m3u8?auth_key=1787934421-0-0-045bc42552eb7569b143375cd9f1dd2b",
     "type": "hls"
   },
   {
@@ -257,7 +284,7 @@
     "name": "QAT D1: Al-Ahli Doha vs Lusail City - BLV LONG",
     "logo": "https://sta.vnres.co/file/common/20260810/b792b2c329f2ffe44037f2d5973945de.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=89f092a3656e8e44f3ecdc54a955535c\u0026txTime=6a91fce9",
+    "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=f3523db39f5cecf3f4c8354609218b6d\u0026txTime=6a91fd25",
     "type": "hls"
   },
   {
@@ -266,7 +293,7 @@
     "name": "RUS D1: Akron Togliatti vs CSKA Moscow - BLV A TINH",
     "logo": "https://sta.vnres.co/file/common/20260317/5be300857a15349a5324be170237948b.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=84ac7652481b96a3cfd55cd8db1e429d\u0026txTime=6a91fce9",
+    "url": "https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=5b2cef0de983ea216ff7366a7a32195e\u0026txTime=6a91fd25",
     "type": "hls"
   }
 ]
