@@ -3,32 +3,34 @@
 # SOCOLIVE LIVE PLAYLIST
 # ======================================
 # Status       : ONLINE
-# Channels     : 12
-# Updated      : 28/08/2026 15:56:18
+# Channels     : 13
+# Updated      : 28/08/2026 15:57:18
 # Player       : OTT Navigator / TiviMate
 # ======================================
 
 #EXTINF:-1 tvg-id="room-459401" tvg-logo="https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4.jpg" group-logo="https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4.jpg" group-title="SocoLive",MYA D1: Thitsar Arman FC vs Myawady - BLV BÉO
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=d5009347a2188e7faa671f96c2a1a9b1&txTime=6a91a181
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=aedc9dff75303240948939037ffc3741&txTime=6a91a1bd
 #EXTINF:-1 tvg-id="room-462413" tvg-logo="https://sta.vnres.co/file/common/20260807/a76465a880a2789f42e440cf03e9db6b.jpg" group-logo="https://sta.vnres.co/file/common/20260807/a76465a880a2789f42e440cf03e9db6b.jpg" group-title="SocoLive",MYA D1: Chinland FC vs Yadanarbon FC - SAO LA
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=32758c7f936b16755c94748868144791&txTime=6a91a181
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=5e77001b2040b9d4fbc07f3f64b20a0e&txTime=6a91a1bd
 #EXTINF:-1 tvg-id="room-527383" tvg-logo="https://sta.vnres.co/file/common/20260626/fcd1d9373f93de7ff3ebfbee3f073c7c.jpg" group-logo="https://sta.vnres.co/file/common/20260626/fcd1d9373f93de7ff3ebfbee3f073c7c.jpg" group-title="SocoLive",MYA D1: Thitsar Arman FC vs Myawady - BLV ROBBEN
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1787910961-0-0-aaf8144065262d89cc218d2e95e918bf
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1787911021-0-0-c841bcc864c97cd6d943fe4469dcd0c4
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg" group-logo="https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg" group-title="SocoLive",MYA D1: Thitsar Arman FC vs Myawady - BLV ALEX
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1787910961-0-0-66425f37bfd5d421b8aeb44e85f2000d
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1787911021-0-0-a705fe6bbbd035319299a189ba081739
 #EXTINF:-1 tvg-id="room-622241" tvg-logo="https://sta.vnres.co/file/common/20260828/0a19e4efc148afbb5c57d9ee5f69d612.jpg" group-logo="https://sta.vnres.co/file/common/20260828/0a19e4efc148afbb5c57d9ee5f69d612.jpg" group-title="SocoLive",MYA D1: Thitsar Arman FC vs Myawady - BLV HEHE
-https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1787910961-0-0-363b1286b32577d90e152d4b12186e28
+https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1787911021-0-0-54c51bd4626904cda01e7876fbb745ae
+#EXTINF:-1 tvg-id="room-625920" tvg-logo="https://sta.vnres.co/file/live/room/cover/625920.jpg?t=1787907361" group-logo="https://sta.vnres.co/file/live/room/cover/625920.jpg?t=1787907361" group-title="SocoLive",09:00	CRC D1	Sporting FC	International San Carlos - NEKO
+https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1787911021-0-0-8e71c84b94621fca29a60cbc78d47a98
 #EXTINF:-1 tvg-id="room-9912008" tvg-logo="https://sta.vnres.co/file/common/20260629/15a4e4b3233b174e59d4cd6ae5a8432c.png" group-logo="https://sta.vnres.co/file/common/20260629/15a4e4b3233b174e59d4cd6ae5a8432c.png" group-title="SocoLive",MYA D1: Chinland FC vs Yadanarbon FC - BLV TOMIA
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1787910961-0-0-318f7bd5cca5b051e6e51348b608474a
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1787911021-0-0-5c301e38984a191ce3e2c057ff326a81
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-title="SocoLive",ACQ: Indonesia vs Singapore - KING
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787910961-0-0-2d7432e6f41e5b84461925182896c85a
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1787911021-0-0-6ccddfdfc3b7a677c9fecd633d4b397b
 #EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg" group-logo="https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg" group-title="SocoLive",MYA D1: Chinland FC vs Yadanarbon FC - BLV RÔSI
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=e0dd4dbd061dc6167bf486b0241d08f8&txTime=6a91a181
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=848e4eedbf2d868f799b13232326ad4f&txTime=6a91a1bd
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-title="SocoLive",FIBA WCQL: Syria vs Australia - BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787910961-0-0-6eafdc57e3486cec6ee8e3cf2966326d
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787911021-0-0-ed7c033ef8650638f61682f4e967d9c7
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg" group-logo="https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg" group-title="SocoLive",ACQ: Indonesia vs Singapore - BLV HENRY
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1787910961-0-0-7f370ccec26bb7c9522a48b423e38ef7
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1787911021-0-0-73dc6dc4e944701fc7a38f1f84dea2df
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg" group-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg" group-title="SocoLive",ACQ: Indonesia vs Singapore - CHAN SENA
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787910961-0-0-dcf33e4f4d5b6b338019e801c837adc2
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787911021-0-0-feb3507954c4fe3cc64f14939be45587
 #EXTINF:-1 tvg-id="room-9912121" tvg-logo="https://sta.vnres.co/file/common/20260730/7804d6332c85f80cc4843609598de690.jpg" group-logo="https://sta.vnres.co/file/common/20260730/7804d6332c85f80cc4843609598de690.jpg" group-title="SocoLive",MYA D1: Chinland FC vs Yadanarbon FC - BÁ PHÚ
-https://pull.niues.live/live/stream-9912121_lhd.m3u8?auth_key=1787910961-0-0-2a2f37bc8b9c09214ce7c3fd071a802a
+https://pull.niues.live/live/stream-9912121_lhd.m3u8?auth_key=1787911021-0-0-8c96133baec6e815f3b78bc0a65aa42c
