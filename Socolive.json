@@ -5,7 +5,7 @@
     "name": "ARG D1: CA Huracan vs AA Estudiantes (Río Cuarto) - BLV RAMBO",
     "logo": "https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=b5f52d7642d73cc5beefa94d9fe38a9a\u0026txTime=6a93b18d",
+    "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=a102a40987deb66259eedf48440bdf20\u0026txTime=6a93b1c9",
     "type": "hls"
   },
   {
@@ -14,7 +14,7 @@
     "name": "BRA D1: Atlético Mineiro - MG vs Vitória - BA - BLV A WIN",
     "logo": "https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788046141-0-0-32f337762f51dc2139173dd1e6732160",
+    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788046201-0-0-c879d77d3facab9c2859d2fa4cd068ed",
     "type": "hls"
   },
   {
@@ -23,7 +23,7 @@
     "name": "ARG D1: CA Huracan vs AA Estudiantes (Río Cuarto) - HÀ DUY KIÊN",
     "logo": "https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=b19206196febfbeab9117643a742426e\u0026txTime=6a93b18d",
+    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=a7bc72b9e1e8d2fd40d55f07803d5b7a\u0026txTime=6a93b1c9",
     "type": "hls"
   },
   {
@@ -32,7 +32,16 @@
     "name": "BRA D1: Atlético Mineiro - MG vs Vitória - BA - VINFAST",
     "logo": "https://sta.vnres.co/file/common/20260628/540cb58118f4c3201221b711e9a9cb7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1788046141-0-0-4f2be12bb69f4a38020f5a628557757b",
+    "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1788046201-0-0-c52a9c30370de1c222a688728c591cb4",
+    "type": "hls"
+  },
+  {
+    "id": "618950",
+    "tvg_id": "room-618950",
+    "name": "MEX D1: Atlas vs Queretaro FC - CƠM NẾP",
+    "logo": "https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788046201-0-0-e801341a75a12e633db8f9f1fbf9e537",
     "type": "hls"
   },
   {
@@ -41,7 +50,7 @@
     "name": "USA MLS: Seattle Sounders vs Chicago Fire - GRAP",
     "logo": "https://sta.vnres.co/file/common/20260703/fe517d18a8df723cee92683347d70be9.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=fd89a18f8899d8a4632ae26fe7554b58\u0026txTime=6a93b18d",
+    "url": "https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=12e9193243f7d117879cba544a2e245f\u0026txTime=6a93b1c9",
     "type": "hls"
   }
 ]
