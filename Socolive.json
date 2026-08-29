@@ -1,20 +1,11 @@
 [
   {
-    "id": "256080",
-    "tvg_id": "room-256080",
-    "name": "ENG PR: Coventry City vs Hull City - BLV CUỘI",
-    "logo": "https://sta.vnres.co/file/common/20260829/f6903a1879b3c7cc22d27c658db14d94.png",
-    "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1788022981-0-0-81088237f53b646251bd2f6e62f73dbd",
-    "type": "hls"
-  },
-  {
     "id": "387694",
     "tvg_id": "room-387694",
     "name": "ENG PR: Tottenham Hotspur vs Newcastle United - CR Bưởi",
     "logo": "https://sta.vnres.co/file/common/20260829/3048d28b71ce7a4570b580bd0f9513a1.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=fad7b5d65e7cf48119c59459ddb7f0aa\u0026txTime=6a935715",
+    "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=213d29c990db3603dee2894290de0965\u0026txTime=6a935751",
     "type": "hls"
   },
   {
@@ -23,7 +14,7 @@
     "name": "ENG PR: Tottenham Hotspur vs Newcastle United - THOMAS",
     "logo": "https://sta.vnres.co/file/common/20260806/4c726754b547e8d50d1f1dd3d1304c4f.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=4e847f1d8442e162ebca4d87d4d104da\u0026txTime=6a935715",
+    "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=bbbb0a5ac11bea6b72334c34714a34ed\u0026txTime=6a935751",
     "type": "hls"
   },
   {
@@ -32,7 +23,7 @@
     "name": "GER D1: Borussia Dortmund vs Hamburger SV - BLV BÉO",
     "logo": "https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=51bfafeb8ca7eb2be2def2944ff2e606\u0026txTime=6a935715",
+    "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=395b753edb6426a6086eee8afe8e8862\u0026txTime=6a935751",
     "type": "hls"
   },
   {
@@ -41,7 +32,7 @@
     "name": "ITA D1: Sassuolo vs Torino - BLV VIP",
     "logo": "https://sta.vnres.co/file/common/20250723/6b83b847d8944b57cc13043bae9fa7a8.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=fdea32bdc3f9bb6146c159d659c7fecc\u0026txTime=6a935715",
+    "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=7fa6917315ea6d3232de22697afcff5b\u0026txTime=6a935751",
     "type": "hls"
   },
   {
@@ -50,7 +41,7 @@
     "name": "HOL D1: Excelsior SBV vs Sparta Rotterdam - BLV WUKONG",
     "logo": "https://sta.vnres.co/file/common/20251121/6d691b0b9dfd9eeb599401a2499400f0.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1788022981-0-0-dbc13e865b987a66778a7d3de74cc546",
+    "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1788023041-0-0-b8cfd12576c42b30b1204a6faa3c27d4",
     "type": "hls"
   },
   {
@@ -59,7 +50,7 @@
     "name": "SPA D1: Levante vs Real Betis - LÃO LÂM",
     "logo": "https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1788022981-0-0-4c2fe1cf40ec6828a038d717e87caa3a",
+    "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1788023041-0-0-b9e57e7f8f4bdd4d58f6ca0111d06a1c",
     "type": "hls"
   },
   {
@@ -68,7 +59,7 @@
     "name": "SPA D1: Levante vs Real Betis - BLV ALEX",
     "logo": "https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788022981-0-0-0f2b23b26557054033f2166966d6d69f",
+    "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788023041-0-0-8708145afca4fe9994f6197c91af59ff",
     "type": "hls"
   },
   {
@@ -77,7 +68,16 @@
     "name": "FRA D1: RC Strasbourg Alsace vs RC Lens - BLV CÒ",
     "logo": "https://sta.vnres.co/file/common/20260721/f2855aef78044156ad9e45d7985403d0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1788022981-0-0-342a21a4494bbe64faee56b7159e0222",
+    "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1788023041-0-0-56f87c307ccad85ff8dd2976122abeb4",
+    "type": "hls"
+  },
+  {
+    "id": "602019",
+    "tvg_id": "room-602019",
+    "name": "ITA D1: Sassuolo vs Torino - BLV RYO",
+    "logo": "https://sta.vnres.co/file/common/20260329/46d787b8716ab82aff515db39b5a55a1.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=a446b41e318394aee0ef59daad652149\u0026txTime=6a935751",
     "type": "hls"
   },
   {
@@ -86,7 +86,7 @@
     "name": "HOL D1: Excelsior SBV vs Sparta Rotterdam - ĐỖ TÚ TÀI",
     "logo": "https://sta.vnres.co/file/common/20260522/f2b4ef051d1e02300d2d5bf24f3828f0.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1788022981-0-0-12f991d7a49d52dfe30578242438eabd",
+    "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1788023041-0-0-9b857cd573b0f8535819dffa3b034f76",
     "type": "hls"
   },
   {
@@ -95,7 +95,7 @@
     "name": "ITA D1: Fiorentina vs Frosinone - PEANUT",
     "logo": "https://sta.vnres.co/file/common/20260713/cbd81ea71d49b5b5f074a5f56678a9b6.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1788022981-0-0-22a49e3e3e77b0738106d37fd38d2f78",
+    "url": "https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1788023041-0-0-742032b2d2c71cae64a2b52c993468de",
     "type": "hls"
   },
   {
@@ -104,7 +104,7 @@
     "name": "ITA D1: Monza vs Udinese - BÒ TƯƠI",
     "logo": "https://sta.vnres.co/file/common/20260721/eae172928facf755dbf2027ca230e55e.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1788022981-0-0-7f1a2448a25924dfb430e7a0592f47da",
+    "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1788023041-0-0-07e3a98d024f4e3450a759545b285962",
     "type": "hls"
   },
   {
@@ -113,7 +113,7 @@
     "name": "ITA D1: Fiorentina vs Frosinone - BLV FIREMAN",
     "logo": "https://sta.vnres.co/file/common/20240614/d900dd8841b1223c7b58554cde34df75.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788022981-0-0-382db450718c83a03b07dd163c5081d2",
+    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788023041-0-0-cc1ad2e97fff62a3345805b35475d42c",
     "type": "hls"
   },
   {
@@ -122,16 +122,7 @@
     "name": "SPA D1: Levante vs Real Betis - BLV TOMIA",
     "logo": "https://sta.vnres.co/file/common/20260629/15a4e4b3233b174e59d4cd6ae5a8432c.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1788022981-0-0-1166333ee89ea520cdef2acbfab00439",
-    "type": "hls"
-  },
-  {
-    "id": "9912091",
-    "tvg_id": "room-9912091",
-    "name": "ENG PR: Bournemouth AFC vs Everton - BLV Củ Cải",
-    "logo": "https://sta.vnres.co/file/common/20260829/c284f2acfa806e654b10509367047232.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788022994-0-0-5dfd362bb979a53a24ce8a81ad1b9b62",
+    "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1788023041-0-0-f48ce3e0018b62697dc23b6f972c0a02",
     "type": "hls"
   },
   {
@@ -140,7 +131,7 @@
     "name": "FRA D1: RC Strasbourg Alsace vs RC Lens - BLV VOI",
     "logo": "https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1788022981-0-0-830ad7d7b5129ce0a1c9464abe774b83",
+    "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1788023041-0-0-6bf8973b71946033a00da1d68ecdcad4",
     "type": "hls"
   },
   {
@@ -149,7 +140,7 @@
     "name": "ITA D1: Monza vs Udinese - RỒNG ĐẤT",
     "logo": "https://sta.vnres.co/file/common/20260725/0eb3315ecb9cf5c7f5f9b102d38e52f9.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1788022981-0-0-683b5503633e01571c555daac295ff96",
+    "url": "https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1788023041-0-0-103c42603cf12b8d38ab3ce427acaede",
     "type": "hls"
   },
   {
@@ -158,7 +149,7 @@
     "name": "FRA D1: RC Strasbourg Alsace vs RC Lens - KENCHU",
     "logo": "https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788022981-0-0-10b73327cb6fa7a0f473b2f6f216e55f",
+    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788023041-0-0-5f2a1c0fc2e44b7c171fc549c6685d6e",
     "type": "hls"
   },
   {
@@ -167,7 +158,7 @@
     "name": "HOL D1: AZ Alkmaar vs Go Ahead Eagles - CACAO",
     "logo": "https://sta.vnres.co/file/common/20260729/2cca708e4ee1d3e988c578ff79960d7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1788022981-0-0-1741240229215ddc17b95e22e548328c",
+    "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1788023041-0-0-cae97e97570c521e67def5b3f97a2aa9",
     "type": "hls"
   },
   {
@@ -176,7 +167,7 @@
     "name": "SPA D1: Real Sociedad vs RCD Espanyol - BLV A TÚ",
     "logo": "https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788022981-0-0-c9140810015e6c35e5ab43b08c5363a4",
+    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788023041-0-0-ef6eb9b07ebb886460cfb19cf39f3b82",
     "type": "hls"
   },
   {
@@ -185,7 +176,7 @@
     "name": "SPA D1: Levante vs Real Betis - CHÍ PHÈO",
     "logo": "https://sta.vnres.co/file/common/20260609/b3e04b0f7d210d67052a911512e39f54.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1788022981-0-0-2750235a2ae8a0debc87411b74e4b32a",
+    "url": "https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1788023041-0-0-50ad6b6002f87b1e872013530f1ceef8",
     "type": "hls"
   },
   {
@@ -194,7 +185,7 @@
     "name": "SPA D1: Levante vs Real Betis - LOKA",
     "logo": "https://sta.vnres.co/file/common/20260411/c1490960e7f4b63fdc78206c576d2da8.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1788022981-0-0-f019009213547d4ab4fe18634a9ec14b",
+    "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1788023041-0-0-8b36a5ba060b94ff762c47a22f32eab2",
     "type": "hls"
   },
   {
@@ -203,7 +194,7 @@
     "name": "ITA D1: Sassuolo vs Torino - TUẤN CÙI",
     "logo": "https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1788022981-0-0-cb6b3678e70eb12095c74d559f9d06a0",
+    "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1788023041-0-0-a8a9a3c4fc9eb751d036857a71bb97ee",
     "type": "hls"
   },
   {
@@ -212,7 +203,7 @@
     "name": "SPA D1: Levante vs Real Betis - BLV A TINH",
     "logo": "https://sta.vnres.co/file/common/20260317/5be300857a15349a5324be170237948b.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=51ecaa14a47637538549bd7d4cba9e3c\u0026txTime=6a935715",
+    "url": "https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=fcf4d35ef8808a1d1b1cc0aee9ce2aab\u0026txTime=6a935751",
     "type": "hls"
   },
   {
@@ -221,7 +212,7 @@
     "name": "GER D1: Borussia Dortmund vs Hamburger SV - BLV MESSI",
     "logo": "https://sta.vnres.co/file/common/20260824/9579d2a0c143f2633fac665f96906c48.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1788022981-0-0-bb929d7b188e600885e947afaf3b144b",
+    "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1788023041-0-0-df9d0df94bd8520bc7c40f8be3200992",
     "type": "hls"
   },
   {
@@ -230,25 +221,7 @@
     "name": "GER D1: Borussia Dortmund vs Hamburger SV - A BỆU",
     "logo": "https://sta.vnres.co/file/common/20260830/f4c04dfeba7c5c3615b6f224782ba1a2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912142_lhd.m3u8?txSecret=3f42710bea913f9b4b6a569907bcb5d4\u0026txTime=6a935715",
-    "type": "hls"
-  },
-  {
-    "id": "9912144",
-    "tvg_id": "room-9912144",
-    "name": "ENG PR: Bournemouth AFC vs Everton - BÁ PHÚ",
-    "logo": "https://sta.vnres.co/file/common/20260730/7804d6332c85f80cc4843609598de690.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788022981-0-0-105bdaf57fb230579be713e451575fbb",
-    "type": "hls"
-  },
-  {
-    "id": "9912145",
-    "tvg_id": "room-9912145",
-    "name": "ENG PR: Bournemouth AFC vs Everton - ZIDANE",
-    "logo": "https://sta.vnres.co/file/common/20260829/3ff878ef21b6e19ca26bead689c4a962.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912145_lhd.m3u8?txSecret=b96f687f1c18ad29242f574a8b97f641\u0026txTime=6a935715",
+    "url": "https://pull.niur.live/live/stream-9912142_lhd.m3u8?txSecret=584f1f1534cf1ff35278b005105c397f\u0026txTime=6a935751",
     "type": "hls"
   }
 ]
