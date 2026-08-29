@@ -5,16 +5,7 @@
     "name": "ENG PR: Liverpool vs Nottingham Forest - BLV CUỘI",
     "logo": "https://sta.vnres.co/file/common/20260829/f6903a1879b3c7cc22d27c658db14d94.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1788012001-0-0-c6e9628bbfbc38df2a31e2ab49c9fe4b",
-    "type": "hls"
-  },
-  {
-    "id": "283501",
-    "tvg_id": "room-283501",
-    "name": "GER D2: Energie Cottbus vs SpVgg Greuther Fürth - BLV KAN",
-    "logo": "https://sta.vnres.co/file/common/20260829/3969da63a68fe66bcc0adef1832c5f2d.png",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=68eeb43577e73f6836a9bb45c2e1e96a\u0026txTime=6a932c40",
+    "url": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1788012061-0-0-42a3728e7037d2079326308a8cc27ee3",
     "type": "hls"
   },
   {
@@ -23,7 +14,7 @@
     "name": "ENG PR: Liverpool vs Nottingham Forest - CÔNG CHẤT",
     "logo": "https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=1afaf2e32048e8d09c8c8bafce11006f\u0026txTime=6a932c31",
+    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=67df36fb3da93e946738c34fd8412235\u0026txTime=6a932c6d",
     "type": "hls"
   },
   {
@@ -32,7 +23,16 @@
     "name": "GER D1: RB Leipzig vs Borussia Monchengladbach - BLV LUCAS",
     "logo": "https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788012001-0-0-cc8ccfb9dccac1b6cf3a18f7fac71c91",
+    "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788012061-0-0-1838d87d4147323484a2dad390765e90",
+    "type": "hls"
+  },
+  {
+    "id": "321443",
+    "tvg_id": "room-321443",
+    "name": "GER D1: RB Leipzig vs Borussia Monchengladbach - BLV GIÓ",
+    "logo": "https://sta.vnres.co/file/common/20260603/54289b9ef989aba74cff5bfdee1d4656.png",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=55d0f032d548319fea8e783bc60d31a0\u0026txTime=6a932c6d",
     "type": "hls"
   },
   {
@@ -41,7 +41,7 @@
     "name": "ENG PR: Liverpool vs Nottingham Forest - CR Bưởi",
     "logo": "https://sta.vnres.co/file/common/20260829/8f998b6a34a29fdcc72f83fc17f7fc91.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=6cb28269d6ce59ba0045a8bccd697536\u0026txTime=6a932c31",
+    "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=31eb894a8ba9846d07a5ed6f0b683a49\u0026txTime=6a932c6d",
     "type": "hls"
   },
   {
@@ -50,7 +50,7 @@
     "name": "ENG PR: Liverpool vs Nottingham Forest - THOMAS",
     "logo": "https://sta.vnres.co/file/common/20260806/4c726754b547e8d50d1f1dd3d1304c4f.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=84f2f4227cb1b1e7bbc980b3de64ef0c\u0026txTime=6a932c31",
+    "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=4fbd87d678b79a73a68c967fff47b10a\u0026txTime=6a932c6d",
     "type": "hls"
   },
   {
@@ -59,7 +59,7 @@
     "name": "GER D1: 1. FC Union Berlin vs Eintracht Frankfurt - BLV VIP",
     "logo": "https://sta.vnres.co/file/common/20250723/6b83b847d8944b57cc13043bae9fa7a8.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=5185ba5a6649f30e6de33d1f87c1befa\u0026txTime=6a932c31",
+    "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=89a30b60ffbe754b3dd8bcb3e5e8982b\u0026txTime=6a932c6d",
     "type": "hls"
   },
   {
@@ -68,7 +68,7 @@
     "name": "GER D1: 1. FSV Mainz 05 vs SC Paderborn 07 - XUÂN SON",
     "logo": "https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=97e46e0676f5aa06cff9fe71b6004c4a\u0026txTime=6a932c31",
+    "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=d920edb0d7d5c093f436bd1a52248664\u0026txTime=6a932c6d",
     "type": "hls"
   },
   {
@@ -77,7 +77,7 @@
     "name": "GER D1: SV 07 Elversberg vs Bayer 04 Leverkusen - BLV ROBBEN",
     "logo": "https://sta.vnres.co/file/common/20260626/fcd1d9373f93de7ff3ebfbee3f073c7c.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1788012002-0-0-ae63ee685a5bd65e3c690b82257392f3",
+    "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1788012061-0-0-8fb9b4a71f50de3842655949faf5e9d0",
     "type": "hls"
   },
   {
@@ -86,7 +86,7 @@
     "name": "GER D1: RB Leipzig vs Borussia Monchengladbach - LOGAN",
     "logo": "https://sta.vnres.co/file/common/20251111/6a43978efb637082f6eb906c1e7f1621.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=c0c58c3cb6e0630b90b3c2848a46b25b\u0026txTime=6a932c32",
+    "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=5a4becd0de78d37ab3ebe2ab3db36da8\u0026txTime=6a932c6d",
     "type": "hls"
   },
   {
@@ -95,7 +95,7 @@
     "name": "CHA SL: Chengdu Rongcheng vs Liaoning Tieren - BLV RYO",
     "logo": "https://sta.vnres.co/file/common/20260329/46d787b8716ab82aff515db39b5a55a1.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=456cfc39681c616ebc63390751484300\u0026txTime=6a932c32",
+    "url": "https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=8e3f5815e9162f8312bea61c5179e256\u0026txTime=6a932c6d",
     "type": "hls"
   },
   {
@@ -104,7 +104,7 @@
     "name": "GER D1: 1. FC Union Berlin vs Eintracht Frankfurt - BLV LION",
     "logo": "https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1788012002-0-0-3841f35beb8982087e724ff434660c35",
+    "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1788012061-0-0-6b18aed75c8954dbd4352b627c5c0c81",
     "type": "hls"
   },
   {
@@ -113,7 +113,7 @@
     "name": "ENG LCH: Middlesbrough vs West Bromwich Albion - XUÂN TÓC ĐỎ",
     "logo": "https://sta.vnres.co/file/common/20260628/336b2e008de11bb26c1d4e0e46bc9f95.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=a9d4ba690b2d0a88560e6f2edff007c3\u0026txTime=6a932c32",
+    "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=bb9d0438fad7d42b8e183bfbabf98861\u0026txTime=6a932c6d",
     "type": "hls"
   },
   {
@@ -131,16 +131,7 @@
     "name": "CHA SL: Chengdu Rongcheng vs Liaoning Tieren - BOSS",
     "logo": "https://sta.vnres.co/file/common/20260802/d0b756ac34b8f00d22a6d687f86fe8b2.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=aad01a58be059925bcae2ede6ff3edf0\u0026txTime=6a932c32",
-    "type": "hls"
-  },
-  {
-    "id": "620797",
-    "tvg_id": "room-620797",
-    "name": "CHA SL: Henan FC vs Chongqing Tonglianglong - BÒ TƯƠI",
-    "logo": "https://sta.vnres.co/file/common/20260721/eae172928facf755dbf2027ca230e55e.png",
-    "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1788012016-0-0-6c78b36e6b605913b21a4ae3406e0c7a",
+    "url": "https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=a4f81fcccac5485541be5299b35b030b\u0026txTime=6a932c6d",
     "type": "hls"
   },
   {
@@ -149,7 +140,7 @@
     "name": "GER D1: 1. FSV Mainz 05 vs SC Paderborn 07 - MP3",
     "logo": "https://sta.vnres.co/file/common/20260810/042a00493898027e5f644f6f24e88c53.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=7e72d418541845e86846614b963f7c23\u0026txTime=6a932c32",
+    "url": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=0a0bed238834b77ef5627556193d9ed4\u0026txTime=6a932c6d",
     "type": "hls"
   },
   {
@@ -158,7 +149,7 @@
     "name": "ENG LCH: Middlesbrough vs West Bromwich Albion - BLV BẢY",
     "logo": "https://sta.vnres.co/file/common/20260813/5d212275a6562e784f8ce4dd82466681.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1788012002-0-0-2ab5ff101eb544fa350493dd6fe9aa27",
+    "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1788012061-0-0-e82295e12c2b7e40be63a184b2425bdc",
     "type": "hls"
   },
   {
@@ -167,7 +158,7 @@
     "name": "GER D2: Energie Cottbus vs SpVgg Greuther Fürth - NEKO",
     "logo": "https://sta.vnres.co/file/common/20260828/e0638aedd6aef31974244bd226615764.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1788012002-0-0-ddb0a64ab02f48256ff83f696f111136",
+    "url": "https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1788012061-0-0-b5131b43b9fe5bcde364435cea760042",
     "type": "hls"
   },
   {
@@ -176,7 +167,7 @@
     "name": "GER D1: SV 07 Elversberg vs Bayer 04 Leverkusen - BLV FIREMAN",
     "logo": "https://sta.vnres.co/file/common/20240614/d900dd8841b1223c7b58554cde34df75.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788012001-0-0-9511c311db3e89153e4a248fcee52ecd",
+    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788012061-0-0-b4a2a34ac8d3d4899d3c13e0cf3e2b30",
     "type": "hls"
   },
   {
@@ -185,7 +176,7 @@
     "name": "ENG PR: Liverpool vs Nottingham Forest - BLV TAP",
     "logo": "https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=a8d484f88683f62f741661646ec1c169\u0026txTime=6a932c31",
+    "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=b96bcee555bd19d78e59530badcdc131\u0026txTime=6a932c6d",
     "type": "hls"
   },
   {
@@ -194,7 +185,7 @@
     "name": "ENG PR: Liverpool vs Nottingham Forest - ZIDANE",
     "logo": "https://sta.vnres.co/file/common/20260829/10dee87ea47680e1f84a662e576bed0b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=d3c2a29818079641e81aee2d75e30107\u0026txTime=6a932c31",
+    "url": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=b96eebe4aaf6485d6eeaaa3b60a0fc1d\u0026txTime=6a932c6d",
     "type": "hls"
   },
   {
@@ -203,7 +194,7 @@
     "name": "ENG PR: Liverpool vs Nottingham Forest - BLV Củ Cải",
     "logo": "https://sta.vnres.co/file/common/20260829/a18d139c196ba9b6ae6e1351372a416c.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788012001-0-0-c0cf6341d354fb1fe871432f0d15d280",
+    "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788012061-0-0-575da85424bcd01a01077272bdb87a21",
     "type": "hls"
   },
   {
@@ -212,7 +203,7 @@
     "name": "ENG PR: Liverpool vs Nottingham Forest - BLV ZOWIE",
     "logo": "https://sta.vnres.co/file/common/20260829/c1978503802b04e806853bcc129244b0.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788012001-0-0-214e8fcba4bfbeae18a2f4c32b20bc35",
+    "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788012061-0-0-09f31933b509c0da3cbe1b5a70d0aa2b",
     "type": "hls"
   },
   {
@@ -221,7 +212,7 @@
     "name": "WCPAF: Ivory Coast vs Egypt - BLV HENRY",
     "logo": "https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788012001-0-0-cb08990f9512e98f2dfa33ef3175a7ac",
+    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788012061-0-0-1e983a6fa60056ae6fd9533bb31d2615",
     "type": "hls"
   },
   {
@@ -230,7 +221,7 @@
     "name": "ENG PR: Liverpool vs Nottingham Forest - HẢI THANH",
     "logo": "https://sta.vnres.co/file/common/20260829/d7ae7264ccfe94e664fe3668477a8dbb.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1788012002-0-0-779a5cf0170487efa8dca9c84010c225",
+    "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1788012061-0-0-a8fdb0bc281015f2a2aa2c0a3ac8404e",
     "type": "hls"
   },
   {
@@ -239,7 +230,7 @@
     "name": "ENG PR: Liverpool vs Nottingham Forest - BÁ PHÚ",
     "logo": "https://sta.vnres.co/file/common/20260730/7804d6332c85f80cc4843609598de690.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912121_lhd.m3u8?auth_key=1788012001-0-0-6990a868b8d8cc10e494bd2068e42620",
+    "url": "https://pull.niues.live/live/stream-9912121_lhd.m3u8?auth_key=1788012061-0-0-bc1422dd199510381be40edf1f52935a",
     "type": "hls"
   },
   {
@@ -248,7 +239,25 @@
     "name": "ENG PR: Liverpool vs Nottingham Forest - RICKHANTER",
     "logo": "https://sta.vnres.co/file/common/20260620/4cbae14a2d06d1635a160fc8c2beb182.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=4c14c571a676795f293bc85c6c093aa3\u0026txTime=6a932c31",
+    "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=314073ec3fc205df1daebaee72e7b5fe\u0026txTime=6a932c6d",
+    "type": "hls"
+  },
+  {
+    "id": "9912126",
+    "tvg_id": "room-9912126",
+    "name": "GER D1: FC Köln vs TSG Hoffenheim - SEVEN",
+    "logo": "https://sta.vnres.co/file/common/20260715/0e572fd7d0bfc5ce5cf538c09b8cace4.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=64f58894c62558cee543fb8f0aa9b3b3\u0026txTime=6a932c6d",
+    "type": "hls"
+  },
+  {
+    "id": "9912127",
+    "tvg_id": "room-9912127",
+    "name": "GER D1: FC Köln vs TSG Hoffenheim - BLV PIRLO",
+    "logo": "https://sta.vnres.co/file/common/20250320/efe293015c817dee46ccc81fa5e934d7.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-9912127_lhd.m3u8?auth_key=1788012061-0-0-2317e5662f69bdba45420b404858b4c3",
     "type": "hls"
   },
   {
@@ -257,7 +266,7 @@
     "name": "ENG PR: Liverpool vs Nottingham Forest - QUỐC KHÁNH",
     "logo": "https://sta.vnres.co/file/common/20260829/149ceb527daf97c2e078fafde445906f.jpeg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=e7b2eb29125fe91276c0ceab69f1bb9f\u0026txTime=6a932c32",
+    "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=bf118a53f6da8f1f6ee963a2d5a23cce\u0026txTime=6a932c6d",
     "type": "hls"
   },
   {
@@ -266,7 +275,7 @@
     "name": "GER D1: SV 07 Elversberg vs Bayer 04 Leverkusen - BLV A TÚ",
     "logo": "https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788012002-0-0-3358a4c4a9f7ef880741594ce06ddc77",
+    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788012061-0-0-0fb5c57944ab8a5025e206c76953b5e6",
     "type": "hls"
   },
   {
@@ -275,7 +284,16 @@
     "name": "GER D1: SV 07 Elversberg vs Bayer 04 Leverkusen - BLV XO",
     "logo": "https://sta.vnres.co/file/common/20260613/cc7eb6fb9d74dfa083a48c861b135ae8.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=00d21b0cc82b5af8566275a03c36de0a\u0026txTime=6a932c31",
+    "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=7b0a48558cebad102d8cbbd2c5c9d4a2\u0026txTime=6a932c6d",
+    "type": "hls"
+  },
+  {
+    "id": "9912135",
+    "tvg_id": "room-9912135",
+    "name": "GER D1: SV 07 Elversberg vs Bayer 04 Leverkusen - BLV PEWPEW",
+    "logo": "https://sta.vnres.co/file/common/20260801/16b69ccb9ccf1f371806a3f19e7dc683.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1788012061-0-0-c5910f3e760b973ea1a5885681f8908b",
     "type": "hls"
   },
   {
@@ -284,7 +302,7 @@
     "name": "GER D1: SV 07 Elversberg vs Bayer 04 Leverkusen - BLV LONG",
     "logo": "https://sta.vnres.co/file/common/20260810/b792b2c329f2ffe44037f2d5973945de.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=95ee093ed28e767fd47c7f164ce381bc\u0026txTime=6a932c31",
+    "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=3438f7761d64633d5d7e36f00ac00540\u0026txTime=6a932c6d",
     "type": "hls"
   },
   {
@@ -293,7 +311,7 @@
     "name": "GER D1: 1. FC Union Berlin vs Eintracht Frankfurt - TUẤN CÙI",
     "logo": "https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1788012001-0-0-1fce284485ff6617d4ea02a30bf8ca48",
+    "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1788012061-0-0-35ed4df589437de32a33fee8f289ea3d",
     "type": "hls"
   }
 ]
