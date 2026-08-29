@@ -1,11 +1,20 @@
 [
   {
+    "id": "256080",
+    "tvg_id": "room-256080",
+    "name": "MEX D1: Necaxa vs Cruz Azul - BLV CUỘI",
+    "logo": "https://sta.vnres.co/file/common/20260829/e51858ad24fa939d97c430ab4fef29cb.png",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1787965921-0-0-e01334733e99829719a963be0010894d",
+    "type": "hls"
+  },
+  {
     "id": "283501",
     "tvg_id": "room-283501",
     "name": "BRA D2: Gremio Novorizontino vs Sport Club do Recife - BLV KAN",
     "logo": "https://sta.vnres.co/file/common/20260829/ff978830506d1bffccf5eb26b09f2d96.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=ed9aa6c8906564907fe71f48c537f2dd\u0026txTime=6a9277f5",
+    "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=c95cc00ccc44852d9a4fccd865185084\u0026txTime=6a927831",
     "type": "hls"
   },
   {
@@ -14,7 +23,7 @@
     "name": "WNBA: Atlanta Dream W vs Portland Fire W - A CHÈ",
     "logo": "https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=9d2a380c48dc94f339438809a6482d2d\u0026txTime=6a9277f5",
+    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=41352fca4a02728dc6cfaf3a8795517f\u0026txTime=6a927831",
     "type": "hls"
   },
   {
@@ -23,7 +32,7 @@
     "name": "ARG D1: Boca Juniors vs Club Atlético Lanús - BLV YONE",
     "logo": "https://sta.vnres.co/file/common/20260728/ba06eac3dc3ffeee0de25e8e0deaaceb.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1787965861-0-0-65e02ebb91c330356d848c1add2cb881",
+    "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1787965921-0-0-9caef9b81aaa04d215a131cfec13caf9",
     "type": "hls"
   },
   {
@@ -32,7 +41,7 @@
     "name": "MEX WD1: Toluca Women vs Leon Women - BLV CHIVAS",
     "logo": "https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=97e8a6f85cf88907c417393ec1a0823c\u0026txTime=6a9277f5",
+    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=7489abe2544c88ce558de3e405506709\u0026txTime=6a927831",
     "type": "hls"
   },
   {
@@ -41,7 +50,7 @@
     "name": "MEX D1: Atlante FC vs Club Leon - LÃO LÂM",
     "logo": "https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1787965861-0-0-e1c98fa8b82d1cd1c659086aee71670b",
+    "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1787965921-0-0-85abf358a9d672dc396dcd6b74aed609",
     "type": "hls"
   },
   {
@@ -50,7 +59,7 @@
     "name": "CHI D1: Cobresal vs Palestino - HÀ DUY KIÊN",
     "logo": "https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=4ba011439c61e0a11a23c8555756e0ca\u0026txTime=6a9277f5",
+    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=ea11070bf5d58345b411de9ee38e00b4\u0026txTime=6a927831",
     "type": "hls"
   },
   {
@@ -59,7 +68,7 @@
     "name": "MEX WD1: Toluca Women vs Leon Women - BÚN ĐẬU",
     "logo": "https://sta.vnres.co/file/common/20260729/d06a0efe274bce28547238bec2a125b9.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1787965861-0-0-478661608479de4a34babcc78e4b1204",
+    "url": "https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1787965921-0-0-d1d02cf5853d4efd01597229fc1877a5",
     "type": "hls"
   },
   {
@@ -68,7 +77,7 @@
     "name": "ARG D1: Boca Juniors vs Club Atlético Lanús - BLV FOX",
     "logo": "https://sta.vnres.co/file/common/20260709/01ed22d7dd1b21e74094cdea367770a9.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-620003_lhd.m3u8?auth_key=1787965861-0-0-bf51954032e6b810dcf9fa4db933d8c5",
+    "url": "https://pull.niues.live/live/stream-620003_lhd.m3u8?auth_key=1787965921-0-0-42b33a170b7224c4181600ce533d5794",
     "type": "hls"
   },
   {
@@ -77,7 +86,7 @@
     "name": "BRA D2: Gremio Novorizontino vs Sport Club do Recife - CHAN ĐÊ",
     "logo": "https://sta.vnres.co/file/common/20260728/c2935ca02d759ee77531ff32719f1b21.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1787965861-0-0-7b134030f9d8f9a6ece286382fae35c5",
+    "url": "https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1787965921-0-0-3a910aa51587ff44ee2298b0e4acb14d",
     "type": "hls"
   },
   {
@@ -86,7 +95,7 @@
     "name": "WNBA: Atlanta Dream W vs Portland Fire W - BRIAN",
     "logo": "https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787965861-0-0-7ab6da5d3eea0a2ff490ba95ad659b4b",
+    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787965921-0-0-b1ad189fe8bc42528568af7d88f0588f",
     "type": "hls"
   },
   {
@@ -95,7 +104,7 @@
     "name": "WNBA: Atlanta Dream W vs Portland Fire W - BLV HENRY",
     "logo": "https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1787965861-0-0-614b7925804b435fa167c44ab0ab9be2",
+    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1787965921-0-0-24091ffc268e3516f5809f1a6ce55cc0",
     "type": "hls"
   },
   {
@@ -104,7 +113,7 @@
     "name": "BRA D2: Goias Esporte Clube vs Sao Bernardo - BLV VOI",
     "logo": "https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1787965861-0-0-5b92cef58014ec48c949f006266d8a3d",
+    "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1787965921-0-0-ffa8a814d383753f145f77d2486a0b72",
     "type": "hls"
   },
   {
@@ -113,7 +122,7 @@
     "name": "WNBA: Indiana Fever W vs Connecticut Sun W - CHAN SENA",
     "logo": "https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787965861-0-0-c7332b602da19cdd8d8fe36379512a59",
+    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787965921-0-0-98ee379aa3515ab4454768333a19c48b",
     "type": "hls"
   },
   {
@@ -122,7 +131,7 @@
     "name": "BRA D2: Goias Esporte Clube vs Sao Bernardo - BLV LONG",
     "logo": "https://sta.vnres.co/file/common/20260810/b792b2c329f2ffe44037f2d5973945de.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=027f2cf82136928f03051b4cd005a3b2\u0026txTime=6a9277f5",
+    "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=45007367bba01acd570832323a5f444b\u0026txTime=6a927831",
     "type": "hls"
   }
 ]
