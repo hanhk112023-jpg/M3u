@@ -3,48 +3,52 @@
 # SOCOLIVE LIVE PLAYLIST
 # ======================================
 # Status       : ONLINE
-# Channels     : 20
-# Updated      : 30/08/2026 06:11:18
+# Channels     : 22
+# Updated      : 30/08/2026 06:12:19
 # Player       : OTT Navigator / TiviMate
 # ======================================
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260328/01acc641be84c58f2062ca50bf94b25a.jpg" group-logo="https://sta.vnres.co/file/common/20260328/01acc641be84c58f2062ca50bf94b25a.jpg" group-title="SocoLive",MEX D1: Pachuca vs Club Deportivo Guadalajara - A PÁO
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788048661-0-0-0c8f6422e91331cb13d25cae3c598bf8
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788048721-0-0-d6c68f5d69092b191334f6b6df17146a
 #EXTINF:-1 tvg-id="room-283501" tvg-logo="https://sta.vnres.co/file/common/20260830/18d82cbad5970cb6be3022ca75d0d94b.png" group-logo="https://sta.vnres.co/file/common/20260830/18d82cbad5970cb6be3022ca75d0d94b.png" group-title="SocoLive",USA MLS: DC United vs Los Angeles FC - BLV KAN
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=5cc6f37487952b09a73cbebddb8292fa&txTime=6a93bb65
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=dfdd4aab180d3990de57eb784800d399&txTime=6a93bba1
 #EXTINF:-1 tvg-id="room-291277" tvg-logo="https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg" group-logo="https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg" group-title="SocoLive",USA MLS: Inter Miami CF vs Montreal Impact - CÔNG CHẤT
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=e67bdc11376af79ed1c84727764d4b36&txTime=6a93bb65
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=99d7c1fb34b647def4ce85319177e108&txTime=6a93bba1
+#EXTINF:-1 tvg-id="room-304148" tvg-logo="https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg" group-logo="https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg" group-title="SocoLive",USA MLS: Inter Miami CF vs Montreal Impact - BLV LUCAS
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788048721-0-0-524502a845aa47432eece4f0c35a917c
 #EXTINF:-1 tvg-id="room-372746" tvg-logo="https://sta.vnres.co/file/common/20260728/ba06eac3dc3ffeee0de25e8e0deaaceb.jpg" group-logo="https://sta.vnres.co/file/common/20260728/ba06eac3dc3ffeee0de25e8e0deaaceb.jpg" group-title="SocoLive",USA MLS: New York Red Bulls vs Philadelphia Union - BLV YONE
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788048661-0-0-35d053b8c7764f226b4617024ac746b1
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788048721-0-0-a12e6bde36e348ac651f0f6c216dfa7c
 #EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg" group-logo="https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg" group-title="SocoLive",ARG D1: CA Huracan vs AA Estudiantes (Río Cuarto) - BLV RAMBO
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=f907961e1af9d872f27a73b549ac06d6&txTime=6a93bb65
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=c936855775ff491b19fe08cf90cff068&txTime=6a93bba1
 #EXTINF:-1 tvg-id="room-536185" tvg-logo="https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg" group-logo="https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg" group-title="SocoLive",BRA D1: Atlético Mineiro - MG vs Vitória - BA - BLV A WIN
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788048661-0-0-911c02dd956ceb86f5e68b6b7eb88fdd
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788048721-0-0-e5b5bf7164986ee259a08c10552f999a
 #EXTINF:-1 tvg-id="room-552832" tvg-logo="https://sta.vnres.co/file/common/20251111/6a43978efb637082f6eb906c1e7f1621.jpg" group-logo="https://sta.vnres.co/file/common/20251111/6a43978efb637082f6eb906c1e7f1621.jpg" group-title="SocoLive",USA MLS: Inter Miami CF vs Montreal Impact - LOGAN
-https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=2e367727ecc45c9f9196f62a161721d4&txTime=6a93bb65
+https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=174ffab9609b06536dc7cd67d6f8e08d&txTime=6a93bba1
 #EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg" group-logo="https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg" group-title="SocoLive",ARG D1: CA Huracan vs AA Estudiantes (Río Cuarto) - HÀ DUY KIÊN
-https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=bf2d8ed5096bad8f77aec91d3578b6d1&txTime=6a93bb65
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=bf8bbe0fe4da29f89da58dfaffeeb059&txTime=6a93bba1
 #EXTINF:-1 tvg-id="room-617313" tvg-logo="https://sta.vnres.co/file/common/20260628/540cb58118f4c3201221b711e9a9cb7b.jpg" group-logo="https://sta.vnres.co/file/common/20260628/540cb58118f4c3201221b711e9a9cb7b.jpg" group-title="SocoLive",BRA D1: Atlético Mineiro - MG vs Vitória - BA - VINFAST
-https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1788048661-0-0-5a4cff6f822a7daf677aed24794c8c19
+https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1788048721-0-0-b19a65b563133e6ffee1f3640abfe46a
 #EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg" group-logo="https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg" group-title="SocoLive",MEX D1: Atlas vs Queretaro FC - CƠM NẾP
-https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788048661-0-0-72dafc15042b318c003b2ff7bac91cbc
+https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788048721-0-0-571cc14ad3cb0444416570b91eab4eae
 #EXTINF:-1 tvg-id="room-619672" tvg-logo="https://sta.vnres.co/file/common/20260808/4818d723b5e85850f66dfc3b5aed49d8.png" group-logo="https://sta.vnres.co/file/common/20260808/4818d723b5e85850f66dfc3b5aed49d8.png" group-title="SocoLive",MEX D1: Pachuca vs Club Deportivo Guadalajara - T REX
-https://pull.niur.live/live/stream-619672_lhd.m3u8?txSecret=fc0d0e93b6959bf0a31a0646fbfab994&txTime=6a93bb65
+https://pull.niur.live/live/stream-619672_lhd.m3u8?txSecret=a65635b609b36b7b8e3a698e9e005bd1&txTime=6a93bba1
 #EXTINF:-1 tvg-id="room-621887" tvg-logo="https://sta.vnres.co/file/common/20260728/c2935ca02d759ee77531ff32719f1b21.png" group-logo="https://sta.vnres.co/file/common/20260728/c2935ca02d759ee77531ff32719f1b21.png" group-title="SocoLive",MEX D1: Pachuca vs Club Deportivo Guadalajara - CHAN ĐÊ
-https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1788048661-0-0-287360222abf3dc642b9c2c9ec080853
+https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1788048721-0-0-6fea706e54c38716fa24eb8b5a9c3f0b
 #EXTINF:-1 tvg-id="room-622241" tvg-logo="https://sta.vnres.co/file/common/20260828/0a19e4efc148afbb5c57d9ee5f69d612.jpg" group-logo="https://sta.vnres.co/file/common/20260828/0a19e4efc148afbb5c57d9ee5f69d612.jpg" group-title="SocoLive",USA MLS: DC United vs Los Angeles FC - BLV HEHE
-https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1788048661-0-0-b7c055ac1294858e84e5c338d6ba478a
+https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1788048721-0-0-27e58318e91764e217f3ec091dd2b336
 #EXTINF:-1 tvg-id="room-625920" tvg-logo="https://sta.vnres.co/file/common/20260828/e0638aedd6aef31974244bd226615764.jpg" group-logo="https://sta.vnres.co/file/common/20260828/e0638aedd6aef31974244bd226615764.jpg" group-title="SocoLive",USA MLS: DC United vs Los Angeles FC - NEKO
-https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1788048661-0-0-7227ca4b5917438056247023a75451e8
+https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1788048721-0-0-66eaaebefeb56bcfc83f7d153f13ed26
+#EXTINF:-1 tvg-id="room-9912008" tvg-logo="https://sta.vnres.co/file/common/20260629/15a4e4b3233b174e59d4cd6ae5a8432c.png" group-logo="https://sta.vnres.co/file/common/20260629/15a4e4b3233b174e59d4cd6ae5a8432c.png" group-title="SocoLive",USA MLS: DC United vs Los Angeles FC - BLV TOMIA
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1788048721-0-0-2624434fdd9110779f9322ee831c7019
 #EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260830/759fcd733a15cd7c11691bb1b91e4793.jpg" group-logo="https://sta.vnres.co/file/common/20260830/759fcd733a15cd7c11691bb1b91e4793.jpg" group-title="SocoLive",USA MLS: Inter Miami CF vs Montreal Impact - BLV Củ Cải
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788048661-0-0-b7bc754ca6e17de00e9429bc773297fc
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788048721-0-0-ae53b313ff9becd97a2303993d8043c2
 #EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg" group-logo="https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg" group-title="SocoLive",USA MLS: Inter Miami CF vs Montreal Impact - BLV RÔSI
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=7ded6cdcd331b7ce5c32b40207b7d56a&txTime=6a93bb65
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=cef1101c718813b6268b27ec1c49ced0&txTime=6a93bba1
 #EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151.png" group-logo="https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151.png" group-title="SocoLive",MEX D1: Atlas vs Queretaro FC - BLV VOI
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1788048661-0-0-002a395cb70114b4df446b952fa2be22
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1788048721-0-0-d8b186ca21bae1200aec1592d1bcad84
 #EXTINF:-1 tvg-id="room-9912119" tvg-logo="https://sta.vnres.co/file/common/20260829/f624027ec79ccc757bf8d5a663d63763.jpg" group-logo="https://sta.vnres.co/file/common/20260829/f624027ec79ccc757bf8d5a663d63763.jpg" group-title="SocoLive",USA MLS: Inter Miami CF vs Montreal Impact - HẢI THANH
-https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1788048661-0-0-a9b0fa01eedd92f837a2009001b3d4f8
+https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1788048721-0-0-c74ae76d29c8743deeae68ebb6e8a162
 #EXTINF:-1 tvg-id="room-9912130" tvg-logo="https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png" group-logo="https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png" group-title="SocoLive",USA MLS: New York Red Bulls vs Philadelphia Union - BLV A TÚ
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788048661-0-0-070ba6b3da5f147ef0247a93a90168be
+https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788048721-0-0-0e690a2c666d2da94804e86e6550a1a3
 #EXTINF:-1 tvg-id="room-9912135" tvg-logo="https://sta.vnres.co/file/common/20260801/16b69ccb9ccf1f371806a3f19e7dc683.jpg" group-logo="https://sta.vnres.co/file/common/20260801/16b69ccb9ccf1f371806a3f19e7dc683.jpg" group-title="SocoLive",MEX D1: Pachuca vs Club Deportivo Guadalajara - BLV PEWPEW
-https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1788048661-0-0-66738cc3b87a6a450b29129fc630063e
+https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1788048721-0-0-ebea5884a80ffc86ce1a75f9306a9f9b
