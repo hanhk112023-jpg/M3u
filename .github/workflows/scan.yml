@@ -13,11 +13,14 @@
 name: socolive-scan
 
 on:
-  # GitHub schedule is the reliable loop. (Earlier a self-relay via
-  # repository_dispatch was used, but GITHUB_TOKEN gets rate-limited on the
-  # dispatch endpoint and overlapping runs get cancelled.)
+  # Self-relay keeps the loop alive: the last step calls repository_dispatch
+  # with a real PAT (SAS_PAT) — GITHUB_TOKEN can be rate-limited on that
+  # endpoint, so we use a dedicated secret PAT instead, which GitHub doesn't
+  # throttle the same way.
+  repository_dispatch:
+    types: [scan]
   schedule:
-    - cron: "*/5 * * * *" # every 5 minutes; the loop is cron-driven
+    - cron: "*/5 * * * *" # best-effort backup; self-relay is the reliable loop
   workflow_dispatch:
     inputs:
       force:
@@ -172,6 +175,31 @@ jobs:
                   deleted += 1
           print(f"pruned {deleted} old runs total")
           PYEOF
+
+      - name: Relay (self-reschedule next run)
+        if: always()
+        env:
+          PAT: ${{ secrets.SAS_PAT }}
+          REPO: ${{ github.repository }}
+          # Pause ~5 min so consecutive runs do not pile up; the run that
+          # finishes also spawns the next one, so the loop is self-sustaining.
+          PAUSE_SECS: 270
+        run: |
+          set -euo pipefail
+          if [ -z "${PAT}" ]; then
+            echo "SAS_PAT secret not set; skipping self-reschedule"
+            exit 0
+          fi
+          echo "waiting ${PAUSE_SECS}s to pace the next run..."
+          sleep "${PAUSE_SECS}"
+          echo "repository_dispatch (via PAT) -> next scan..."
+          curl -sS -f -X POST \
+            -H "Authorization: Bearer ${PAT}" \
+            -H "Accept: application/vnd.github+json" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            -d '{"event_type":"scan"}' \
+            "https://api.github.com/repos/${REPO}/dispatches" \
+            -o /dev/null -w "relay dispatch %{http_code}\n"
 
       - name: Upload scan report on failure
         if: failure()
