@@ -5,7 +5,7 @@
     "name": "WNBA: Portland Fire W vs Golden State Valkyries W - A CHÈ",
     "logo": "https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=51d11a1fc623cd7e7fc0b3f2b028fb2a\u0026txTime=6a951159",
+    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=0e202dfa435c40e22e2ec255eb417dff\u0026txTime=6a951285",
     "type": "hls"
   },
   {
@@ -14,7 +14,16 @@
     "name": "BRA D1: Bahia - BA vs Internacional - RS - BLV YONE",
     "logo": "https://sta.vnres.co/file/common/20260728/ba06eac3dc3ffeee0de25e8e0deaaceb.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788136201-0-0-2d043afbb292783df5021daf1ca00725",
+    "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788136501-0-0-657820985d5882e67feeaf9efa14f778",
+    "type": "hls"
+  },
+  {
+    "id": "414317",
+    "tvg_id": "room-414317",
+    "name": "MEX D1: Toluca vs FC Juarez - THOMAS",
+    "logo": "https://sta.vnres.co/file/common/20260806/4c726754b547e8d50d1f1dd3d1304c4f.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=a94477b00b979993309a7f6243b3006c\u0026txTime=6a951285",
     "type": "hls"
   },
   {
@@ -23,7 +32,7 @@
     "name": "ARG D1: CA Independiente vs Gimnasia y Esgrima de Mendoza - XUÂN SON",
     "logo": "https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=727c659be02169cae8b1ab405430c238\u0026txTime=6a951159",
+    "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=56bdd76c7fddc3b95d88b1a820dc26f4\u0026txTime=6a951285",
     "type": "hls"
   },
   {
@@ -32,16 +41,16 @@
     "name": "BRA D1: Bahia - BA vs Internacional - RS - BLV ALEX",
     "logo": "https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788136201-0-0-18ee9c5c3d03c9c15ca4a92acf49578b",
+    "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788136501-0-0-759c8a3ad49e6cf570716ec0de5513ef",
     "type": "hls"
   },
   {
     "id": "534055",
     "tvg_id": "room-534055",
-    "name": "BRA D1: Grêmio - RS vs Chapecoense - SC - BLV RAMBO",
+    "name": "CHI D1: Coquimbo Unido vs Huachipato - BLV RAMBO",
     "logo": "https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=35b79105590a0110915805129db0c656\u0026txTime=6a951159",
+    "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=3d3fa742c763436e3409aed395f3ed63\u0026txTime=6a951285",
     "type": "hls"
   },
   {
@@ -50,7 +59,7 @@
     "name": "BRA D1: Mirassol - SP vs Palmeiras - SP - BLV A WIN",
     "logo": "https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788136201-0-0-a51f99fc5a93f82e78c695f61a6e0bce",
+    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788136390-0-0-0e3e879a6d7aadad8be2e99998581974",
     "type": "hls"
   },
   {
@@ -59,7 +68,7 @@
     "name": "USA MLS: St. Louis City SC vs FC Dallas - LOGAN",
     "logo": "https://sta.vnres.co/file/common/20251111/6a43978efb637082f6eb906c1e7f1621.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=2e9f15a5ace1c7a7276c05c242ae5483\u0026txTime=6a951159",
+    "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=bbf2b4016771ee77c15a3d61fc5d96da\u0026txTime=6a951285",
     "type": "hls"
   },
   {
@@ -68,16 +77,16 @@
     "name": "COL D1: Millonarios vs Internacional de Bogota - BLV LION",
     "logo": "https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1788136201-0-0-d5a28a93a9ea61c2d24056e96eea608e",
+    "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1788136501-0-0-569dcd0bc5db2eca92ebb3cfa585e3c5",
     "type": "hls"
   },
   {
     "id": "607400",
     "tvg_id": "room-607400",
-    "name": "BRA D1: Grêmio - RS vs Chapecoense - SC - HÀ DUY KIÊN",
+    "name": "CHI D1: Coquimbo Unido vs Huachipato - HÀ DUY KIÊN",
     "logo": "https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=01eb1d6d2286fdbb02edaa3046f072d1\u0026txTime=6a951159",
+    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=478f25ccc0f9b782e00e14418a74ce38\u0026txTime=6a951285",
     "type": "hls"
   },
   {
@@ -86,7 +95,7 @@
     "name": "ARG D1: CA Independiente vs Gimnasia y Esgrima de Mendoza - CƠM NẾP",
     "logo": "https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788136201-0-0-5ab91def7b458e579f53bf0aeac2c7d5",
+    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788136501-0-0-801ed4f959f6a855312b900acfa05e55",
     "type": "hls"
   },
   {
@@ -95,7 +104,7 @@
     "name": "COL D1: Millonarios vs Internacional de Bogota - T REX",
     "logo": "https://sta.vnres.co/file/common/20260808/4818d723b5e85850f66dfc3b5aed49d8.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-619672_lhd.m3u8?txSecret=d7aeefb0b0b5d1fc5d2a1763860bfce3\u0026txTime=6a951159",
+    "url": "https://pull.niur.live/live/stream-619672_lhd.m3u8?txSecret=a1f25e546f005eb48679b0f238afee25\u0026txTime=6a951285",
     "type": "hls"
   },
   {
@@ -104,7 +113,7 @@
     "name": "USA MLS: St. Louis City SC vs FC Dallas - CHAN ĐÊ",
     "logo": "https://sta.vnres.co/file/common/20260728/c2935ca02d759ee77531ff32719f1b21.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1788136201-0-0-3c57229b731145fd6a81243a3b909ba4",
+    "url": "https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1788136501-0-0-7ce5655a413384d3d4af0975632ccf71",
     "type": "hls"
   },
   {
@@ -113,7 +122,7 @@
     "name": "USA MLS: St. Louis City SC vs FC Dallas - BLV HEHE",
     "logo": "https://sta.vnres.co/file/common/20260828/0a19e4efc148afbb5c57d9ee5f69d612.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1788136201-0-0-b621705de7554fff1293fa036446379a",
+    "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1788136501-0-0-78f442d4ff5939f7b0035ee98b003dd5",
     "type": "hls"
   },
   {
@@ -122,7 +131,16 @@
     "name": "USA MLS: St. Louis City SC vs FC Dallas - BLV TOMIA",
     "logo": "https://sta.vnres.co/file/common/20260831/7c64c0a0fec3bf5cf09804100116876a.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1788136201-0-0-964e6735f8a5e37e741fe18ccb7f5c52",
+    "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1788136501-0-0-55ba28a4b8323940e6e9bc939e615765",
+    "type": "hls"
+  },
+  {
+    "id": "9912041",
+    "tvg_id": "room-9912041",
+    "name": "MEX D1: Toluca vs FC Juarez - BLV TAP",
+    "logo": "https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=74dff8b58a3ba4897540ab120905c8a1\u0026txTime=6a951285",
     "type": "hls"
   },
   {
@@ -131,7 +149,16 @@
     "name": "MEX D1: Toluca vs FC Juarez - BLV Củ Cải",
     "logo": "https://sta.vnres.co/file/common/20260831/4cf809c9929194fa709341f9388f0aeb.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788136201-0-0-5cd234b80b2ba6155f9021ab8b163d06",
+    "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788136501-0-0-bb27af1fb4ad01e7101a41f0d5572b5b",
+    "type": "hls"
+  },
+  {
+    "id": "9912110",
+    "tvg_id": "room-9912110",
+    "name": "MEX D1: Toluca vs FC Juarez - BLV ZOWIE",
+    "logo": "https://sta.vnres.co/file/common/20260831/caac4db30e51ab3213e882c77bf88da5.png",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788136501-0-0-c67652dc1cdb9d8b96b9ea7273777d3e",
     "type": "hls"
   },
   {
@@ -140,16 +167,7 @@
     "name": "WNBA: Portland Fire W vs Golden State Valkyries W - CHAN SENA",
     "logo": "https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788136201-0-0-a6d845dea75be3c83e1f949b206c3e5e",
-    "type": "hls"
-  },
-  {
-    "id": "9912124",
-    "tvg_id": "room-9912124",
-    "name": "BRA D1: Mirassol - SP vs Palmeiras - SP - KENCHU",
-    "logo": "https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788136201-0-0-692c6a9e425fdb539373e89e8c98bcb4",
+    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788136501-0-0-12d858404fd09968c249d0a42b8bfe1d",
     "type": "hls"
   }
 ]
