@@ -3,8 +3,8 @@
 # The Python scanner (JSON stringified output) reads publish state from the
 # last commit message, so ephemeral runners need no local state: just scan,
 # compare, commit when changed. A shared concurrency group is intentionally
-# omitted: the last step sleeps ~9.5 min to pace the next run, and holding a
-# queued successor for that long risks GitHub cancelling it.
+# omitted: the scheduled runs are short, so overlaps are rare and the pruning
+# step clears any stragglers.
 #
 # CDN note: api.json.vnres.co blocks datacenter IPs, so every run routes its
 # API traffic through a residential VN exit node via the mihomo proxy pool
@@ -13,13 +13,11 @@
 name: socolive-scan
 
 on:
-  # Self-relay keeps the loop alive; schedule is a best-effort backup. A
-  # repository_dispatch from GITHUB_TOKEN is allowed (the one event that
-  # spawns a new run without an external PAT), so no cron-job is needed.
-  repository_dispatch:
-    types: [scan]
+  # GitHub schedule is the reliable loop. (Earlier a self-relay via
+  # repository_dispatch was used, but GITHUB_TOKEN gets rate-limited on the
+  # dispatch endpoint and overlapping runs get cancelled.)
   schedule:
-    - cron: "*/5 * * * *" # best-effort; self-relay below is the reliable loop
+    - cron: "*/5 * * * *" # every 5 minutes; the loop is cron-driven
   workflow_dispatch:
     inputs:
       force:
@@ -107,24 +105,6 @@ jobs:
             --github-repo hanhk112023-jpg/M3u \
             --github-path Socolive.json \
             --epg "$EPG_URLS"
-
-      - name: Relay (self-reschedule next scan)
-        if: always()
-        env:
-          GH_TOKEN: ${{ github.token }}
-          REPO: ${{ github.repository }}
-          PAUSE_SECS: 270
-        run: |
-          set -euo pipefail
-          echo "waiting ${PAUSE_SECS}s to space scans..."
-          sleep "${PAUSE_SECS}"
-          echo "scheduling next scan via repository_dispatch..."
-          curl -sS -f -X POST \
-            -H "Authorization: Bearer ${GH_TOKEN}" \
-            -H "Accept: application/vnd.github+json" \
-            -d '{"event_type":"scan"}' \
-            "https://api.github.com/repos/${REPO}/dispatches" \
-            -o /dev/null -w "relay dispatch %{http_code}\n"
 
       - name: Clean up old workflow runs
         if: always()
