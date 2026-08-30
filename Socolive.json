@@ -5,7 +5,7 @@
     "name": "GER D2: SV Darmstadt 98 vs Hannover 96 - BLV KAN",
     "logo": "https://sta.vnres.co/file/common/20260830/35a568d75ef535df354b14504a4cc933.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=b3208d02d52ec47a209594fce9e6d89f\u0026txTime=6a94775d",
+    "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=dda98236f5a53c481eb65aba43591888\u0026txTime=6a947799",
     "type": "hls"
   },
   {
@@ -14,7 +14,7 @@
     "name": "ENG PR: Sunderland vs Fulham - CÔNG CHẤT",
     "logo": "https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=c11217393de8ba460bbb5efa6832fc85\u0026txTime=6a94775d",
+    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=8d0a7aaa88e05ed782a7733f46a2a75c\u0026txTime=6a947799",
     "type": "hls"
   },
   {
@@ -23,7 +23,7 @@
     "name": "GER D2: 1. FC Magdeburg vs Holstein Kiel - BLV LUCAS",
     "logo": "https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788096781-0-0-50ae2278feb81c1d0f08f67e03d9a6ef",
+    "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788096841-0-0-357cff11a3b3d282e26da11678b6e71e",
     "type": "hls"
   },
   {
@@ -32,7 +32,7 @@
     "name": "ENG PR: Leeds United vs Brentford - CR Bưởi",
     "logo": "https://sta.vnres.co/file/common/20260830/d9e6f363edaa9652d906a2ad4515fbf9.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=9f683b0a8304d59e87e9fff94a9c6420\u0026txTime=6a94777c",
+    "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=d508378a6e112f81356daae8f46c2474\u0026txTime=6a947799",
     "type": "hls"
   },
   {
@@ -41,7 +41,7 @@
     "name": "ENG PR: Sunderland vs Fulham - THOMAS",
     "logo": "https://sta.vnres.co/file/common/20260806/4c726754b547e8d50d1f1dd3d1304c4f.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=9121b8aa1f5873035a487fca7e52ae54\u0026txTime=6a94775d",
+    "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=d9468e3625c24118cd54bd470203b33a\u0026txTime=6a947799",
     "type": "hls"
   },
   {
@@ -50,7 +50,16 @@
     "name": "ENG PR: Sunderland vs Fulham - BLV BÉO",
     "logo": "https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=f335ccd55a9cc7595127a9059b7a01a4\u0026txTime=6a94775d",
+    "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=be70e8968acd0e7cea76e94d3ad72e38\u0026txTime=6a947799",
+    "type": "hls"
+  },
+  {
+    "id": "527383",
+    "tvg_id": "room-527383",
+    "name": "ENG PR: Leeds United vs Brentford - BLV ROBBEN",
+    "logo": "https://sta.vnres.co/file/common/20260626/fcd1d9373f93de7ff3ebfbee3f073c7c.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1788096841-0-0-ab748dd7d12718d3f343d9e5ac8d9707",
     "type": "hls"
   },
   {
@@ -59,7 +68,16 @@
     "name": "VIE SC: Cong An Ha Noi FC vs Cong An Ho Chi Minh City - LÃO LÂM",
     "logo": "https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1788096781-0-0-a24391ea1675739775c99cec981b9e07",
+    "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1788096841-0-0-326e95876cf843fe5a6830baa6e0b796",
+    "type": "hls"
+  },
+  {
+    "id": "532081",
+    "tvg_id": "room-532081",
+    "name": "ENG PR: Sunderland vs Fulham - BLV ALEX",
+    "logo": "https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788096841-0-0-3b610237bd3813896f439872a3b98d6c",
     "type": "hls"
   },
   {
@@ -68,7 +86,7 @@
     "name": "ENG PR: Sunderland vs Fulham - LOGAN",
     "logo": "https://sta.vnres.co/file/common/20251111/6a43978efb637082f6eb906c1e7f1621.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=0cc78cbce937675caefb7de79085f6e7\u0026txTime=6a94775d",
+    "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=9e342533da1d836ddfd2c850ae65409e\u0026txTime=6a947799",
     "type": "hls"
   },
   {
@@ -77,7 +95,7 @@
     "name": "GER D2: SV Darmstadt 98 vs Hannover 96 - BLV CÒ",
     "logo": "https://sta.vnres.co/file/common/20260721/f2855aef78044156ad9e45d7985403d0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1788096781-0-0-22ea4dd9be4cc837fe3227c0208d20f9",
+    "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1788096841-0-0-5dad3f7436a9a26b9672de445e0a18da",
     "type": "hls"
   },
   {
@@ -86,7 +104,7 @@
     "name": "GER D2: SV Darmstadt 98 vs Hannover 96 - BLV CÁO",
     "logo": "https://sta.vnres.co/file/common/20260312/cb002ebc914e9240a9242c43ec27aacb.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1788096781-0-0-e39db32c8065658d233df41c68e70481",
+    "url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1788096841-0-0-bbeb14c09fdf80b4b88f9f54b4d5e925",
     "type": "hls"
   },
   {
@@ -95,7 +113,7 @@
     "name": "GER D2: 1. FC Magdeburg vs Holstein Kiel - BLV RYO",
     "logo": "https://sta.vnres.co/file/common/20260329/46d787b8716ab82aff515db39b5a55a1.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=f67b33d6496701a570f632511f867b44\u0026txTime=6a94775d",
+    "url": "https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=f808940bd2673900aab708e026c5f1cb\u0026txTime=6a947799",
     "type": "hls"
   },
   {
@@ -104,7 +122,7 @@
     "name": "BEL D1: KAA Gent vs Club Brugge - BLV LION",
     "logo": "https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1788096781-0-0-27b4d136a1b4df2d57ac6813aa90db5c",
+    "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1788096841-0-0-100a5ba67e53787ed6baa5aa644edc75",
     "type": "hls"
   },
   {
@@ -113,7 +131,7 @@
     "name": "HOL D1: Feyenoord vs ADO Den Haag - ĐỖ TÚ TÀI",
     "logo": "https://sta.vnres.co/file/common/20260522/f2b4ef051d1e02300d2d5bf24f3828f0.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1788096781-0-0-16afe577a9332d0379bc8507536de185",
+    "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1788096841-0-0-611d9ad968a4f0491c00658a67d1ef12",
     "type": "hls"
   },
   {
@@ -122,7 +140,7 @@
     "name": "GER D2: SV Darmstadt 98 vs Hannover 96 - XUÂN TÓC ĐỎ",
     "logo": "https://sta.vnres.co/file/common/20260628/336b2e008de11bb26c1d4e0e46bc9f95.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=d367148f079e23ca3940beced2f4aad3\u0026txTime=6a94775d",
+    "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=cf60d7fa1c8dd9d497ea6831d7c4551f\u0026txTime=6a947799",
     "type": "hls"
   },
   {
@@ -131,7 +149,7 @@
     "name": "NOR D1: FK Bodo/Glimt vs Rosenborg - VINFAST",
     "logo": "https://sta.vnres.co/file/common/20260628/540cb58118f4c3201221b711e9a9cb7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1788096781-0-0-c3aa78da563ce622a313259f895e224b",
+    "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1788096841-0-0-1c1c3248aa67a42300c67595a0149c7a",
     "type": "hls"
   },
   {
@@ -140,7 +158,7 @@
     "name": "NOR D1: FK Bodo/Glimt vs Rosenborg - BLV NOVA",
     "logo": "https://sta.vnres.co/file/common/20260720/9b537b664ce0364f46b19b262f29b1d6.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-619108_lhd.m3u8?auth_key=1788096781-0-0-4dd63ae74eb608bc55ee8df415aeb5a5",
+    "url": "https://pull.niues.live/live/stream-619108_lhd.m3u8?auth_key=1788096841-0-0-2ddea7f7dcec532cfaa7e32f1790ee1a",
     "type": "hls"
   },
   {
@@ -149,7 +167,7 @@
     "name": "BEL D1: KAA Gent vs Club Brugge - T REX",
     "logo": "https://sta.vnres.co/file/common/20260808/4818d723b5e85850f66dfc3b5aed49d8.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-619672_lhd.m3u8?txSecret=39aa7aff8c6be290b24758339f9e57cd\u0026txTime=6a94775d",
+    "url": "https://pull.niur.live/live/stream-619672_lhd.m3u8?txSecret=47cae17c62d8ee8dde3e0a556abe2b11\u0026txTime=6a947799",
     "type": "hls"
   },
   {
@@ -158,7 +176,7 @@
     "name": "SCO PR: Aberdeen F.C. vs Rangers F.C. - BLV BẢY",
     "logo": "https://sta.vnres.co/file/common/20260813/5d212275a6562e784f8ce4dd82466681.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1788096781-0-0-094a20513a0c60381093b76c8ebd5d8a",
+    "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1788096841-0-0-dac7788fb6c0f312019d2401c5ca2033",
     "type": "hls"
   },
   {
@@ -167,7 +185,7 @@
     "name": "FRA D1: Paris FC vs OGC Nice - NEKO",
     "logo": "https://sta.vnres.co/file/common/20260828/e0638aedd6aef31974244bd226615764.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1788096781-0-0-fc75c2c2c3068a01a7f5e3383e7b709e",
+    "url": "https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1788096841-0-0-123406f0bb80230a5064fd71fed02ba8",
     "type": "hls"
   },
   {
@@ -176,7 +194,7 @@
     "name": "ENG PR: Chelsea vs Brighton Hove Albion - BLV TAP",
     "logo": "https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=0ee0787c62485e86978204de285ff443\u0026txTime=6a94775d",
+    "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=3716dd432c1f32cd871543a8759cf313\u0026txTime=6a947799",
     "type": "hls"
   },
   {
@@ -185,7 +203,7 @@
     "name": "ENG PR: Leeds United vs Brentford - BLV Củ Cải",
     "logo": "https://sta.vnres.co/file/common/20260830/6c2fbc83d73863528cc4e065ad001c1a.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788096781-0-0-4bddbf02fe10937189d60c2d6ba33b97",
+    "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788096841-0-0-9841c996e0cb415a2839ca450fc5a5ff",
     "type": "hls"
   },
   {
@@ -194,7 +212,7 @@
     "name": "VIE SC: Cong An Ha Noi FC vs Cong An Ho Chi Minh City - BLV RÔSI",
     "logo": "https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=2cd95711d418f473904fc916071ae3e0\u0026txTime=6a94775d",
+    "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=a95e643957e64d703b4df00bad4e369a\u0026txTime=6a947799",
     "type": "hls"
   },
   {
@@ -203,7 +221,7 @@
     "name": "ENG PR: Chelsea vs Brighton Hove Albion - BLV ZOWIE",
     "logo": "https://sta.vnres.co/file/common/20260830/725221dd24c3ade35c9c33021601c6e2.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788096781-0-0-99e976ae4519f91b3af64d5e6886f197",
+    "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788096841-0-0-1ee481db7f0248ec0aa80f1c96db5e81",
     "type": "hls"
   },
   {
@@ -212,7 +230,7 @@
     "name": "ACQ: Maldives vs Palestine - BLV HENRY",
     "logo": "https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788096781-0-0-4543144343ad50c0b756b1d6a50ed447",
+    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788096841-0-0-acc2455806452f08da48e16558d376ac",
     "type": "hls"
   },
   {
@@ -221,7 +239,7 @@
     "name": "ACQ: Hong Kong vs Indonesia - CHAN SENA",
     "logo": "https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788096781-0-0-f13365ea0a5f6648ed4db60cba0b6777",
+    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788096841-0-0-5d30d37c9fbf6085fa25cfe7a617f3d4",
     "type": "hls"
   },
   {
@@ -230,7 +248,7 @@
     "name": "VIE SC: Cong An Ha Noi FC vs Cong An Ho Chi Minh City - HẢI THANH",
     "logo": "https://sta.vnres.co/file/common/20260829/f624027ec79ccc757bf8d5a663d63763.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1788096781-0-0-5e1fe562220f76120d0a028984a71265",
+    "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1788096841-0-0-80305f956a10b284ffa362562c8a25e8",
     "type": "hls"
   },
   {
@@ -239,7 +257,7 @@
     "name": "ENG PR: Leeds United vs Brentford - RICKHANTER",
     "logo": "https://sta.vnres.co/file/common/20260620/4cbae14a2d06d1635a160fc8c2beb182.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=52e02a2d194ce54ef569c61ae35fe041\u0026txTime=6a94775d",
+    "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=fa40defbb2f1ab7e5ce5f5bfa3260d56\u0026txTime=6a947799",
     "type": "hls"
   },
   {
@@ -248,7 +266,7 @@
     "name": "GER D2: FC St. Pauli vs 1. FC Kaiserslautern - RỒNG ĐẤT",
     "logo": "https://sta.vnres.co/file/common/20260725/0eb3315ecb9cf5c7f5f9b102d38e52f9.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1788096781-0-0-a21f1179fdbb1fe8c82374c2223fc870",
+    "url": "https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1788096841-0-0-9fe73cd67865a18951d5475376c25f7c",
     "type": "hls"
   },
   {
@@ -257,7 +275,7 @@
     "name": "FRA D1: Paris FC vs OGC Nice - KENCHU",
     "logo": "https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788096781-0-0-66087e517285ec26fe34d552323f590c",
+    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788096841-0-0-d88892635c42a5c9a8e866540349efb0",
     "type": "hls"
   },
   {
@@ -266,7 +284,7 @@
     "name": "FRA D1: Paris FC vs OGC Nice - SEVEN",
     "logo": "https://sta.vnres.co/file/common/20260715/0e572fd7d0bfc5ce5cf538c09b8cace4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=bdfa50612e15c3907d22d4fbc70afdf0\u0026txTime=6a94775d",
+    "url": "https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=eded0e88b92836fef12d840ed44ac71f\u0026txTime=6a947799",
     "type": "hls"
   },
   {
@@ -275,7 +293,7 @@
     "name": "HOL D1: Feyenoord vs ADO Den Haag - BLV PIRLO",
     "logo": "https://sta.vnres.co/file/common/20250320/efe293015c817dee46ccc81fa5e934d7.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912127_lhd.m3u8?auth_key=1788096781-0-0-d8a1ebe614bc24fe3ba97ffe44a80195",
+    "url": "https://pull.niues.live/live/stream-9912127_lhd.m3u8?auth_key=1788096841-0-0-02e1f7cd467ab24972bb8ca8de523399",
     "type": "hls"
   },
   {
@@ -284,7 +302,7 @@
     "name": "ENG PR: Chelsea vs Brighton Hove Albion - QUỐC KHÁNH",
     "logo": "https://sta.vnres.co/file/common/20260830/618cdd25bdfac7ea8b282e284e033134.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=92b1f91c8a15583bbc43769a3edbcb73\u0026txTime=6a94775d",
+    "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=21dbc68053179654d5a6fbea0c4aac3e\u0026txTime=6a9477c8",
     "type": "hls"
   },
   {
@@ -293,7 +311,7 @@
     "name": "KOR D1: Jeju SK FC vs Daejeon Hana Citizen - BLV A TÚ",
     "logo": "https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788096781-0-0-4a5eaa01660ff651439b8003c8c683c4",
+    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788096848-0-0-343e0c2975375a2ac77e46c4f737ee6b",
     "type": "hls"
   },
   {
@@ -302,7 +320,7 @@
     "name": "ENG PR: Leeds United vs Brentford - CHÍ PHÈO",
     "logo": "https://sta.vnres.co/file/common/20260609/b3e04b0f7d210d67052a911512e39f54.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1788096781-0-0-57a2c5b693a1b6245ca1118620e33fd8",
+    "url": "https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1788096841-0-0-a22fa1dd0ce47adaf4a1e946be1544ea",
     "type": "hls"
   },
   {
@@ -311,7 +329,16 @@
     "name": "VIE SC: Cong An Ha Noi FC vs Cong An Ho Chi Minh City - BLV XO",
     "logo": "https://sta.vnres.co/file/common/20260613/cc7eb6fb9d74dfa083a48c861b135ae8.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=44658b34aaaf8ad32b5717fc702039cd\u0026txTime=6a94775d",
+    "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=e752285268eca80ceec69ce72d2d66c7\u0026txTime=6a947799",
+    "type": "hls"
+  },
+  {
+    "id": "9912136",
+    "tvg_id": "room-9912136",
+    "name": "ENG PR: Leeds United vs Brentford - BLV LONG",
+    "logo": "https://sta.vnres.co/file/common/20260810/b792b2c329f2ffe44037f2d5973945de.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=e729c4cf6201f5eec1585c3535dbe204\u0026txTime=6a947799",
     "type": "hls"
   },
   {
@@ -320,7 +347,7 @@
     "name": "GER D2: FC St. Pauli vs 1. FC Kaiserslautern - TUẤN CÙI",
     "logo": "https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1788096781-0-0-1b2def1b3bc3cd400d063591a83d2727",
+    "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1788096841-0-0-935646c6723e7f7927c60f76df137cec",
     "type": "hls"
   },
   {
@@ -329,7 +356,7 @@
     "name": "GER D1: SC Freiburg vs SV Werder Bremen - BLV A TINH",
     "logo": "https://sta.vnres.co/file/common/20260317/5be300857a15349a5324be170237948b.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=f1bb53650abcd1c1cf96f2f3438d1c4c\u0026txTime=6a94775d",
+    "url": "https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=02e4d10da68fae8a3a7ba024dca980b1\u0026txTime=6a947799",
     "type": "hls"
   },
   {
@@ -338,7 +365,7 @@
     "name": "VIE SC: Cong An Ha Noi FC vs Cong An Ho Chi Minh City - SAO LA",
     "logo": "https://sta.vnres.co/file/common/20260807/a76465a880a2789f42e440cf03e9db6b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=7a042f7f2f58fdf04b7787fe9c6a605f\u0026txTime=6a94775d",
+    "url": "https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=d8f6386a8c5269b9a0f0ee2b9df47eab\u0026txTime=6a947799",
     "type": "hls"
   },
   {
@@ -347,7 +374,7 @@
     "name": "VIE SC: Cong An Ha Noi FC vs Cong An Ho Chi Minh City - A BỆU",
     "logo": "https://sta.vnres.co/file/common/20260830/683bbb96de277e28f88b1d08678ac124.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912142_lhd.m3u8?txSecret=43a154a1edf1186f72392ae6d88f67a0\u0026txTime=6a94775d",
+    "url": "https://pull.niur.live/live/stream-9912142_lhd.m3u8?txSecret=8476bccc1d64aa95b75c4fad623b0b94\u0026txTime=6a947799",
     "type": "hls"
   },
   {
@@ -356,7 +383,7 @@
     "name": "HOL D1: Feyenoord vs ADO Den Haag - NGƯỜI CÁ",
     "logo": "https://sta.vnres.co/file/common/20260805/c8068dd64589d2890066f1eacc273ab0.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1788096781-0-0-704fc9f7aa8e95aa628775a42771801f",
+    "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1788096841-0-0-bb8e57a8cc2683fa572b878828b26652",
     "type": "hls"
   },
   {
@@ -365,7 +392,7 @@
     "name": "ENG PR: Chelsea vs Brighton Hove Albion - ZIDANE",
     "logo": "https://sta.vnres.co/file/common/20260830/a9a69119bd6e2480e8629b0a96361aff.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912145_lhd.m3u8?txSecret=25f4de70c080ce922ad721b3b1448fd5\u0026txTime=6a94775d",
+    "url": "https://pull.niur.live/live/stream-9912145_lhd.m3u8?txSecret=4698939676fd3b9072075ac7443d4b7f\u0026txTime=6a947799",
     "type": "hls"
   },
   {
@@ -374,7 +401,7 @@
     "name": "ENG PR: Chelsea vs Brighton Hove Albion - BLV CUỘI",
     "logo": "https://sta.vnres.co/file/common/20260829/f6903a1879b3c7cc22d27c658db14d94.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788096781-0-0-0d21530d17b45c0c8c27630b6ed4b8e4",
+    "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788096841-0-0-79c9726f3c7faebd16055b77ff588e55",
     "type": "hls"
   }
 ]
