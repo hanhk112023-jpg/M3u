@@ -3,21 +3,23 @@
 # SportsTV LIVE PLAYLIST
 # ======================================
 # Status       : ONLINE
-# Channels     : 6
-# Updated      : 30/08/2026 21:45:33
+# Channels     : 7
+# Updated      : 30/08/2026 21:50:21
 # Player       : OTT Navigator / TiviMate
 # ======================================
 #PLAYLIST:SportsTV
 
 #EXTINF:-1 tvg-id="room-501412" tvg-logo="https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png" group-logo="https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png" group-title="SocoLive",ARG D1: CA Independiente vs Gimnasia y Esgrima de Mendoza - XUÂN SON
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=0454023d0aa81b948c6c8429486c9d7e&txTime=6a94f8bd
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=d1bca5cc87a2927f5155c9d87ca0f7fa&txTime=6a94f9e9
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg" group-logo="https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg" group-title="SocoLive",BRA D1: Bahia - BA vs Internacional - RS - BLV ALEX
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788129901-0-0-f3904623b245364f796bf31cf6c0ee0e
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788130201-0-0-0598f928d74e7d467d8dbe60ce9f11fe
 #EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg" group-logo="https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg" group-title="SocoLive",BRA D1: Grêmio - RS vs Chapecoense - SC - BLV RAMBO
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=d18318ad56a68ffb3cd2eafd5f3f3b01&txTime=6a94f8bd
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=f0183fda714f4b050bbdffca08926158&txTime=6a94f9e9
 #EXTINF:-1 tvg-id="room-536185" tvg-logo="https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg" group-logo="https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg" group-title="SocoLive",BRA D1: Mirassol - SP vs Palmeiras - SP - BLV A WIN
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788129901-0-0-4514e57e97bac728e86874875c8250d5
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788130201-0-0-5753a331fd2a5b88aa162dfedc0b69e6
 #EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg" group-logo="https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg" group-title="SocoLive",BRA D1: Grêmio - RS vs Chapecoense - SC - HÀ DUY KIÊN
-https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=f0d33e963d51ca53d3fcd3c14e7b96b6&txTime=6a94f8bd
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=e3ce6f022db48d21cdbbb41847a45c75&txTime=6a94f9e9
 #EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg" group-logo="https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg" group-title="SocoLive",ARG D1: CA Independiente vs Gimnasia y Esgrima de Mendoza - CƠM NẾP
-https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788129901-0-0-f47a6822dc7408796d7db482f6db74fb
+https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788130201-0-0-200f2f7b8b57d01021ebe62de075ab87
+#EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg" group-logo="https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg" group-title="SocoLive",BRA D1: Mirassol - SP vs Palmeiras - SP - KENCHU
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788130201-0-0-6830620537f814690a2ff19f1c55087c
