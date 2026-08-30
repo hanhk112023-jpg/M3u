@@ -5,25 +5,25 @@
     "name": "SPA D1: RC Deportivo vs Valencia CF - A PÁO",
     "logo": "https://sta.vnres.co/file/common/20260328/01acc641be84c58f2062ca50bf94b25a.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788113281-0-0-8e48ea6909b21932097cae12a34c7c46",
-    "type": "hls"
-  },
-  {
-    "id": "291277",
-    "tvg_id": "room-291277",
-    "name": "ENG PR: Manchester United vs Ipswich Town - CÔNG CHẤT",
-    "logo": "https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=3678b09da2536d3b559713b576e8f552\u0026txTime=6a94b7d1",
+    "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788118021-0-0-99f90afc8d10d235decbb714f4c56839",
     "type": "hls"
   },
   {
     "id": "304148",
     "tvg_id": "room-304148",
-    "name": "GER D1: FC Augsburg vs Schalke 04 - BLV LUCAS",
+    "name": "FRA D1: AS Monaco vs Marseille - BLV LUCAS",
     "logo": "https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788113281-0-0-20cc209cad2fe8efdc5b2d9eb8382c6e",
+    "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788118021-0-0-c371f97ffd1d67b6913ec07313ea1fe7",
+    "type": "hls"
+  },
+  {
+    "id": "321443",
+    "tvg_id": "room-321443",
+    "name": "ITA D1: Cagliari vs Inter Milan - BLV GIÓ",
+    "logo": "https://sta.vnres.co/file/common/20260603/54289b9ef989aba74cff5bfdee1d4656.png",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=aac739124fe46884f5e1a663d8ba4ec2\u0026txTime=6a94ca55",
     "type": "hls"
   },
   {
@@ -32,16 +32,7 @@
     "name": "BEL D1: KVC Westerlo vs Zulte-Waregem - BLV COCA",
     "logo": "https://sta.vnres.co/file/common/20260804/75681fd6aa001c1bb1b8d3946dd69271.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1788113281-0-0-c5e53920f96a52a21ba046092748118c",
-    "type": "hls"
-  },
-  {
-    "id": "387694",
-    "tvg_id": "room-387694",
-    "name": "ENG PR: Manchester United vs Ipswich Town - CR Bưởi",
-    "logo": "https://sta.vnres.co/file/common/20260830/7300049d9d3aa3d9b2c77f9d9c273b64.png",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=3df376f23aef26437167256b5e96015c\u0026txTime=6a94b7d1",
+    "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1788118021-0-0-c499c66876c993a90bf852bca9895a23",
     "type": "hls"
   },
   {
@@ -50,7 +41,7 @@
     "name": "AUT D1: Red Bull Salzburg vs Austria Vienna - BLV ANH TÀI",
     "logo": "https://sta.vnres.co/file/common/20241220/6200343fea7ece69d7d92ae718616478.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=23c711875069a6706cc394108da4ac37\u0026txTime=6a94b7d1",
+    "url": "https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=0a05afbca0c07763c73e05ed3922d5c0\u0026txTime=6a94ca55",
     "type": "hls"
   },
   {
@@ -59,25 +50,34 @@
     "name": "SPA D1: RC Deportivo vs Valencia CF - BLV BÉO",
     "logo": "https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=f059578cf44ebb7d35e3b1f32b88acbf\u0026txTime=6a94b7d1",
+    "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=99254e467c1cc05d44768e4c156e89e4\u0026txTime=6a94ca55",
     "type": "hls"
   },
   {
     "id": "491873",
     "tvg_id": "room-491873",
-    "name": "KSA PR: Al Hazem vs Al Shabab - BLV VIP",
+    "name": "TUR D1: Samsunspor vs Fenerbahce - BLV VIP",
     "logo": "https://sta.vnres.co/file/common/20250723/6b83b847d8944b57cc13043bae9fa7a8.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=4c4d604c1076f4019f36908592a09f48\u0026txTime=6a94b7d1",
+    "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=92ad4dd7103c7aac35b211d51bacf493\u0026txTime=6a94ca55",
     "type": "hls"
   },
   {
     "id": "501412",
     "tvg_id": "room-501412",
-    "name": "FRA D1: Stade Rennais FC vs Le Mans - XUÂN SON",
+    "name": "TUR D1: Samsunspor vs Fenerbahce - XUÂN SON",
     "logo": "https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=fb688b032f4a9d4a837c013d7ec213ab\u0026txTime=6a94b7d1",
+    "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=210fd54f8edb3a2d2fc6fa5f4e42cc68\u0026txTime=6a94ca55",
+    "type": "hls"
+  },
+  {
+    "id": "511367",
+    "tvg_id": "room-511367",
+    "name": "HOL D1: SC Cambuur Leeuwarden vs FC Twente Enschede - BLV WUKONG",
+    "logo": "https://sta.vnres.co/file/common/20251121/6d691b0b9dfd9eeb599401a2499400f0.png",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1788118021-0-0-d0a6e27247205d98fa30aba695977051",
     "type": "hls"
   },
   {
@@ -86,61 +86,70 @@
     "name": "ITA D1: Napoli vs Como - BLV ROBBEN",
     "logo": "https://sta.vnres.co/file/common/20260626/fcd1d9373f93de7ff3ebfbee3f073c7c.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1788113281-0-0-27a848ed247f22194577456f01852aee",
+    "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1788118021-0-0-c63b9b39bebabda0acea3a8b0fb1e662",
+    "type": "hls"
+  },
+  {
+    "id": "527384",
+    "tvg_id": "room-527384",
+    "name": "ITA D1: Cagliari vs Inter Milan - LÃO LÂM",
+    "logo": "https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1788118021-0-0-9bed5b3059445445dd2c7238355a68f0",
     "type": "hls"
   },
   {
     "id": "536185",
     "tvg_id": "room-536185",
-    "name": "KSA PR: Al Hazem vs Al Shabab - BLV A WIN",
+    "name": "FRA D1: AS Monaco vs Marseille - BLV A WIN",
     "logo": "https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788113281-0-0-5fcfc00c5e457900c1c2b596a50f48f6",
+    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788118021-0-0-4752bbdba839300fa1fd20ad96626204",
     "type": "hls"
   },
   {
     "id": "558264",
     "tvg_id": "room-558264",
-    "name": "WCPEU: Latvia vs Israel - HUNTER",
+    "name": "WCPAF: Tunisia vs South Sudan - HUNTER",
     "logo": "https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=65e5318c5beb23d7d8f847e59e48ce04\u0026txTime=6a94b7d1",
+    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=863c92b11b8bf50221857ce760980325\u0026txTime=6a94ca55",
     "type": "hls"
   },
   {
     "id": "582342",
     "tvg_id": "room-582342",
-    "name": "FRA D1: Stade Rennais FC vs Le Mans - BLV CÒ",
+    "name": "BEL D1: KVC Westerlo vs Zulte-Waregem - BLV CÒ",
     "logo": "https://sta.vnres.co/file/common/20260721/f2855aef78044156ad9e45d7985403d0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1788113281-0-0-dca5c19bfa06f217f87e798bf338ad85",
+    "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1788118021-0-0-c14c7c3e9cc00287b8a5aac3e40767cb",
     "type": "hls"
   },
   {
     "id": "602019",
     "tvg_id": "room-602019",
-    "name": "FRA D1: Stade Rennais FC vs Le Mans - BLV RYO",
+    "name": "KSA PR: Al Qadsiah vs Al Faisaly - BLV RYO",
     "logo": "https://sta.vnres.co/file/common/20260329/46d787b8716ab82aff515db39b5a55a1.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=3ec4a3f36fcae6b5099d935706d792a0\u0026txTime=6a94b7d1",
+    "url": "https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=2e8601c9448efc2e5f45472c6158457d\u0026txTime=6a94ca55",
     "type": "hls"
   },
   {
     "id": "607552",
     "tvg_id": "room-607552",
-    "name": "GER D1: FC Augsburg vs Schalke 04 - ĐỖ TÚ TÀI",
+    "name": "HOL D1: SC Cambuur Leeuwarden vs FC Twente Enschede - ĐỖ TÚ TÀI",
     "logo": "https://sta.vnres.co/file/common/20260522/f2b4ef051d1e02300d2d5bf24f3828f0.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1788113281-0-0-0b5b9b4878f6bd97e7ce972fe272c377",
+    "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1788118021-0-0-1cd2d4031f78b55cff7244bd270fbe6c",
     "type": "hls"
   },
   {
     "id": "610518",
     "tvg_id": "room-610518",
-    "name": "GER D1: FC Augsburg vs Schalke 04 - XUÂN TÓC ĐỎ",
+    "name": "ITA D1: Lazio vs Genoa - XUÂN TÓC ĐỎ",
     "logo": "https://sta.vnres.co/file/common/20260628/336b2e008de11bb26c1d4e0e46bc9f95.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=38b4dbeb5679e38a58975a1837fbc4a1\u0026txTime=6a94b7d1",
+    "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=413668fcda12ac263ff6a86af13e6797\u0026txTime=6a94ca55",
     "type": "hls"
   },
   {
@@ -149,25 +158,25 @@
     "name": "AUT D1: Red Bull Salzburg vs Austria Vienna - VINFAST",
     "logo": "https://sta.vnres.co/file/common/20260628/540cb58118f4c3201221b711e9a9cb7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1788113281-0-0-6f1917fa61873a1e8852f13e0780e677",
+    "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1788118021-0-0-18e9ee9a8d0f0d506efa5d8a0526831c",
     "type": "hls"
   },
   {
     "id": "620504",
     "tvg_id": "room-620504",
-    "name": "FRA D1: Stade Rennais FC vs Le Mans - BOSS",
+    "name": "KSA PR: Al Qadsiah vs Al Faisaly - BOSS",
     "logo": "https://sta.vnres.co/file/common/20260802/d0b756ac34b8f00d22a6d687f86fe8b2.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=10eccd9b9877bc4a39828f7cf344295e\u0026txTime=6a94b7d1",
+    "url": "https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=03da2acd87efbf492965c0cb3fae2670\u0026txTime=6a94ca55",
     "type": "hls"
   },
   {
     "id": "620797",
     "tvg_id": "room-620797",
-    "name": "GER D1: FC Augsburg vs Schalke 04 - BÒ TƯƠI",
+    "name": "HOL D1: SC Cambuur Leeuwarden vs FC Twente Enschede - BÒ TƯƠI",
     "logo": "https://sta.vnres.co/file/common/20260721/eae172928facf755dbf2027ca230e55e.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1788113281-0-0-8a71d667fc97370167e6adc913c96934",
+    "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1788118021-0-0-5079254110d8b84533c899d9545ab096",
     "type": "hls"
   },
   {
@@ -176,25 +185,34 @@
     "name": "NOR D1: Lillestrom vs Fredrikstad - MP3",
     "logo": "https://sta.vnres.co/file/common/20260810/042a00493898027e5f644f6f24e88c53.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=ad41d698af96a91efe9c94efdbd7ab9a\u0026txTime=6a94b7d1",
+    "url": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=5b0e89d93a75542d4c8dd21eb5146af6\u0026txTime=6a94ca55",
     "type": "hls"
   },
   {
     "id": "621843",
     "tvg_id": "room-621843",
-    "name": "TUR D1: Eyupspor vs Alanyaspor - BLV BẢY",
+    "name": "ITA D1: Lazio vs Genoa - BLV BẢY",
     "logo": "https://sta.vnres.co/file/common/20260813/5d212275a6562e784f8ce4dd82466681.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1788113281-0-0-0bf4a20231f5a83a213c515e8164347f",
+    "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1788118021-0-0-461de8610c7c3e8364911637b8a8982a",
     "type": "hls"
   },
   {
     "id": "622093",
     "tvg_id": "room-622093",
-    "name": "GER D1: FC Augsburg vs Schalke 04 - GRAP",
+    "name": "ITA D1: Lazio vs Genoa - GRAP",
     "logo": "https://sta.vnres.co/file/common/20260703/fe517d18a8df723cee92683347d70be9.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=290cb13a6fecfbe6f29890021d06818e\u0026txTime=6a94b7d1",
+    "url": "https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=531874409a17d1061d391f5b03ec4b51\u0026txTime=6a94ca55",
+    "type": "hls"
+  },
+  {
+    "id": "622240",
+    "tvg_id": "room-622240",
+    "name": "ITA D1: Cagliari vs Inter Milan - CURRY",
+    "logo": "https://sta.vnres.co/file/common/20260809/8d3ecd1339e9fe41608eb4b7f008436c.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1788118021-0-0-84c6f501a3452c0a2e3bc1ba61357578",
     "type": "hls"
   },
   {
@@ -203,7 +221,7 @@
     "name": "NOR D1: Lillestrom vs Fredrikstad - NEKO",
     "logo": "https://sta.vnres.co/file/common/20260828/e0638aedd6aef31974244bd226615764.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1788113281-0-0-1d333bb3f883df63b8cf45572b29665d",
+    "url": "https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1788118021-0-0-f9b94b76abf0e195e0e72e2bad7a9a51",
     "type": "hls"
   },
   {
@@ -212,61 +230,16 @@
     "name": "ITA D1: Napoli vs Como - BLV FIREMAN",
     "logo": "https://sta.vnres.co/file/common/20240614/d900dd8841b1223c7b58554cde34df75.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788113281-0-0-673ade4362c07bf2381611d4315a62fd",
-    "type": "hls"
-  },
-  {
-    "id": "9912008",
-    "tvg_id": "room-9912008",
-    "name": "ENG PR: Manchester United vs Ipswich Town - BLV TOMIA",
-    "logo": "https://sta.vnres.co/file/common/20260830/7cbdafc1d05e9805776b7248df6919df.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1788113281-0-0-f93404fa524333a349677814415e17f4",
-    "type": "hls"
-  },
-  {
-    "id": "9912041",
-    "tvg_id": "room-9912041",
-    "name": "ENG PR: Manchester United vs Ipswich Town - BLV TAP",
-    "logo": "https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=f1a667ebae98d3679d9e026b3365f5a6\u0026txTime=6a94b7d1",
-    "type": "hls"
-  },
-  {
-    "id": "9912110",
-    "tvg_id": "room-9912110",
-    "name": "ENG PR: Manchester United vs Ipswich Town - BLV ZOWIE",
-    "logo": "https://sta.vnres.co/file/common/20260830/fe1085d07fa4cbbffc2d78cca4076ffc.png",
-    "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788113281-0-0-1e5121068d038874b4e9becf5988152b",
+    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788118021-0-0-922ffd5810a151b2d0fb895d1ab3c897",
     "type": "hls"
   },
   {
     "id": "9912119",
     "tvg_id": "room-9912119",
-    "name": "ENG PR: Manchester United vs Ipswich Town - HẢI THANH",
+    "name": "SPA D1: RC Deportivo vs Valencia CF - HẢI THANH",
     "logo": "https://sta.vnres.co/file/common/20260829/f624027ec79ccc757bf8d5a663d63763.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1788113281-0-0-3c7db8111f3aa211a25e132051a09346",
-    "type": "hls"
-  },
-  {
-    "id": "9912122",
-    "tvg_id": "room-9912122",
-    "name": "ENG PR: Manchester United vs Ipswich Town - RICKHANTER",
-    "logo": "https://sta.vnres.co/file/common/20260620/4cbae14a2d06d1635a160fc8c2beb182.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=632fc40b47d03f6ee66f7563c133f62b\u0026txTime=6a94b7d1",
-    "type": "hls"
-  },
-  {
-    "id": "9912123",
-    "tvg_id": "room-9912123",
-    "name": "BEL D1: Union Saint-Gilloise vs Anderlecht - RỒNG ĐẤT",
-    "logo": "https://sta.vnres.co/file/common/20260725/0eb3315ecb9cf5c7f5f9b102d38e52f9.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1788113281-0-0-f9f46602cddaf52ea6dd4ece416dd07f",
+    "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1788118021-0-0-a4c895a471966eb50ffc74f75602b0a4",
     "type": "hls"
   },
   {
@@ -275,25 +248,7 @@
     "name": "POR D1: Casa Pia AC vs Moreirense - SEVEN",
     "logo": "https://sta.vnres.co/file/common/20260715/0e572fd7d0bfc5ce5cf538c09b8cace4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=9edb2d95e1722048ac72c9b96d8ad9da\u0026txTime=6a94b7d1",
-    "type": "hls"
-  },
-  {
-    "id": "9912127",
-    "tvg_id": "room-9912127",
-    "name": "GER D1: FC Augsburg vs Schalke 04 - BLV PIRLO",
-    "logo": "https://sta.vnres.co/file/common/20250320/efe293015c817dee46ccc81fa5e934d7.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912127_lhd.m3u8?auth_key=1788113281-0-0-8ceb1382bbadba477a4201d2b77fc815",
-    "type": "hls"
-  },
-  {
-    "id": "9912129",
-    "tvg_id": "room-9912129",
-    "name": "ENG PR: Manchester United vs Ipswich Town - QUỐC KHÁNH",
-    "logo": "https://sta.vnres.co/file/common/20260830/b1595d8e0b9153429b86b8f55d78f446.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=6a32c4f7871c12a5523e42aaae4a565d\u0026txTime=6a94b7d1",
+    "url": "https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=0fdeb79999ce2c896cc186753379bca3\u0026txTime=6a94ca55",
     "type": "hls"
   },
   {
@@ -302,16 +257,16 @@
     "name": "ITA D1: Napoli vs Como - BLV A TÚ",
     "logo": "https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788113281-0-0-60dd7a5adea0ddbf2cfd9e6fde92b533",
+    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788118021-0-0-e555e853411b3bc48731a9abf1738312",
     "type": "hls"
   },
   {
     "id": "9912131",
     "tvg_id": "room-9912131",
-    "name": "TUR D1: Eyupspor vs Alanyaspor - CHÍ PHÈO",
+    "name": "ITA D1: Cagliari vs Inter Milan - CHÍ PHÈO",
     "logo": "https://sta.vnres.co/file/common/20260609/b3e04b0f7d210d67052a911512e39f54.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1788113281-0-0-9492a46684bac88ff3039ef663a4f0c1",
+    "url": "https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1788118021-0-0-589e073fe510a5353e674b18bae9901a",
     "type": "hls"
   },
   {
@@ -320,7 +275,7 @@
     "name": "ITA D1: Napoli vs Como - BLV XO",
     "logo": "https://sta.vnres.co/file/common/20260613/cc7eb6fb9d74dfa083a48c861b135ae8.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=1407c875b3b61409acbcc0315f51b960\u0026txTime=6a94b7d1",
+    "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=7780079a758835eb46275fb8d4f9e125\u0026txTime=6a94ca55",
     "type": "hls"
   },
   {
@@ -329,7 +284,7 @@
     "name": "ITA D1: Napoli vs Como - LOKA",
     "logo": "https://sta.vnres.co/file/common/20260411/c1490960e7f4b63fdc78206c576d2da8.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1788113281-0-0-1efa2ee5e187cb72077f7fb127090393",
+    "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1788118021-0-0-5a63ddd7ce7b7d20397123873dc29c07",
     "type": "hls"
   },
   {
@@ -338,7 +293,7 @@
     "name": "ITA D1: Napoli vs Como - BLV LONG",
     "logo": "https://sta.vnres.co/file/common/20260810/b792b2c329f2ffe44037f2d5973945de.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=1d843f435f9dabc348ebeb1503e801e2\u0026txTime=6a94b7d1",
+    "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=0f35ff9d4d68885aed0a30629873b26c\u0026txTime=6a94ca55",
     "type": "hls"
   },
   {
@@ -347,7 +302,16 @@
     "name": "BEL D1: Union Saint-Gilloise vs Anderlecht - TUẤN CÙI",
     "logo": "https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1788113281-0-0-b5e85a4b339f6e29601bf525c5bf5571",
+    "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1788118028-0-0-df5fa5a44e1675211a6ec25c3ba5efa4",
+    "type": "hls"
+  },
+  {
+    "id": "9912139",
+    "tvg_id": "room-9912139",
+    "name": "ITA D1: Lazio vs Genoa - BLV A TINH",
+    "logo": "https://sta.vnres.co/file/common/20260317/5be300857a15349a5324be170237948b.png",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=e096434a2070e5dc525da7a1cc3f8c1c\u0026txTime=6a94ca55",
     "type": "hls"
   },
   {
@@ -356,7 +320,16 @@
     "name": "SPA D1: RC Deportivo vs Valencia CF - SAO LA",
     "logo": "https://sta.vnres.co/file/common/20260807/a76465a880a2789f42e440cf03e9db6b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=28923c17316ddd73cef80e8f98d3657b\u0026txTime=6a94b7d1",
+    "url": "https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=88a0c440b50b7557d533743c9217c1c3\u0026txTime=6a94ca55",
+    "type": "hls"
+  },
+  {
+    "id": "9912141",
+    "tvg_id": "room-9912141",
+    "name": "TUR D1: Samsunspor vs Fenerbahce - BLV MESSI",
+    "logo": "https://sta.vnres.co/file/common/20260824/9579d2a0c143f2633fac665f96906c48.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1788118021-0-0-2f564bc107d0398fc86d060898ee56b6",
     "type": "hls"
   },
   {
@@ -365,43 +338,16 @@
     "name": "SPA D1: RC Deportivo vs Valencia CF - A BỆU",
     "logo": "https://sta.vnres.co/file/common/20260830/683bbb96de277e28f88b1d08678ac124.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912142_lhd.m3u8?txSecret=3bf7fa1973a0d661182729a16e9d435d\u0026txTime=6a94b7d1",
+    "url": "https://pull.niur.live/live/stream-9912142_lhd.m3u8?txSecret=2357decc387d453eaa24d265aa769fb3\u0026txTime=6a94ca55",
     "type": "hls"
   },
   {
     "id": "9912143",
     "tvg_id": "room-9912143",
-    "name": "ENG PR: Manchester United vs Ipswich Town - NGƯỜI CÁ",
+    "name": "SPA D1: RC Deportivo vs Valencia CF - NGƯỜI CÁ",
     "logo": "https://sta.vnres.co/file/common/20260805/c8068dd64589d2890066f1eacc273ab0.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1788113281-0-0-2b5b9c6b6d30f0c5aea14983a41b99ab",
-    "type": "hls"
-  },
-  {
-    "id": "9912144",
-    "tvg_id": "room-9912144",
-    "name": "ENG PR: Manchester United vs Ipswich Town - BÁ PHÚ",
-    "logo": "https://sta.vnres.co/file/common/20260730/7804d6332c85f80cc4843609598de690.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788113281-0-0-e193985c9a91c514d24a1d0c5deeea26",
-    "type": "hls"
-  },
-  {
-    "id": "9912145",
-    "tvg_id": "room-9912145",
-    "name": "ENG PR: Manchester United vs Ipswich Town - ZIDANE",
-    "logo": "https://sta.vnres.co/file/common/20260830/2be3cbdedecca2a88d4b2acbd63b3ffd.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912145_lhd.m3u8?txSecret=df68ab9c69c07ed5145c0eefc99352fa\u0026txTime=6a94b7d1",
-    "type": "hls"
-  },
-  {
-    "id": "9912146",
-    "tvg_id": "room-9912146",
-    "name": "ENG PR: Manchester United vs Ipswich Town - BLV CUỘI",
-    "logo": "https://sta.vnres.co/file/common/20260829/f6903a1879b3c7cc22d27c658db14d94.png",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912146_lhd.m3u8?txSecret=7be60c9ebc56ed5ae9eea889cd5e1d15\u0026txTime=6a94b7d1",
+    "url": "https://pull.niur.live/live/stream-9912143_lhd.m3u8?txSecret=c4b5f1fb83ab650d0f21eb5c20295b84\u0026txTime=6a94ca55",
     "type": "hls"
   }
 ]
