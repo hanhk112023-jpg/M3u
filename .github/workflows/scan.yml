@@ -155,9 +155,12 @@ jobs:
               if str(r['id']) == current:
                   continue
               url = f"https://api.github.com/repos/{os.environ['REPO']}/actions/runs/{r['id']}"
-              subprocess.run(['curl', '-sS', '-o', '/dev/null', '-w', f"del {r['id']} %{http_code}\n",
+              # No -w %{http_code}: keep it a plain list so nothing is treated
+              # as a Python format token.
+              subprocess.run(['curl', '-sS', '-o', '/dev/null',
                               '-X', 'DELETE', '-H', f"Authorization: Bearer {os.environ['GH_TOKEN']}",
                               '-H', 'Accept: application/vnd.github+json', url])
+              print(f"deleted run {r['id']}")
           print(f"pruned {len(to_delete)} old runs, kept {keep}")
           PYEOF
 
