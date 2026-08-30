@@ -3,29 +3,35 @@
 # SportsTV LIVE PLAYLIST
 # ======================================
 # Status       : ONLINE
-# Channels     : 10
-# Updated      : 30/08/2026 22:30:19
+# Channels     : 13
+# Updated      : 30/08/2026 22:35:20
 # Player       : OTT Navigator / TiviMate
 # ======================================
 #PLAYLIST:SportsTV
 
+#EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg" group-logo="https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg" group-title="SocoLive",WNBA: Portland Fire W vs Golden State Valkyries W - A CHÈ
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=d69bc6b0b8188b5d90a08ba6459398b4&txTime=6a950475
 #EXTINF:-1 tvg-id="room-372746" tvg-logo="https://sta.vnres.co/file/common/20260728/ba06eac3dc3ffeee0de25e8e0deaaceb.jpg" group-logo="https://sta.vnres.co/file/common/20260728/ba06eac3dc3ffeee0de25e8e0deaaceb.jpg" group-title="SocoLive",BRA D1: Bahia - BA vs Internacional - RS - BLV YONE
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788132601-0-0-9187b413e15666f53406ea24d4f6c19c
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788132901-0-0-1cd9aa015bcf4edc8db9cc7d82783d29
 #EXTINF:-1 tvg-id="room-501412" tvg-logo="https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png" group-logo="https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png" group-title="SocoLive",ARG D1: CA Independiente vs Gimnasia y Esgrima de Mendoza - XUÂN SON
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=bcff343a2b725a14f8e0d95b9c4c4ed6&txTime=6a950349
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=28dec483e9bfa075e9e98a027be082e1&txTime=6a950475
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg" group-logo="https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg" group-title="SocoLive",BRA D1: Bahia - BA vs Internacional - RS - BLV ALEX
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788132601-0-0-7cf3deef8b0e510467159db1c21454c1
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788132901-0-0-49365d10d49a38aeec26d65cc13050fd
 #EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg" group-logo="https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg" group-title="SocoLive",BRA D1: Grêmio - RS vs Chapecoense - SC - BLV RAMBO
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=252c368eb8bf4c8363db59e5b5414fa3&txTime=6a950349
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=0162a690b0205f1fc78349bc05c5c43c&txTime=6a950475
 #EXTINF:-1 tvg-id="room-536185" tvg-logo="https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg" group-logo="https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg" group-title="SocoLive",BRA D1: Mirassol - SP vs Palmeiras - SP - BLV A WIN
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788132601-0-0-7a725e24b18d9799c7f53af8e859b6dd
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788132901-0-0-9add1b838cfbbf9246c7cc78cc47d980
 #EXTINF:-1 tvg-id="room-603255" tvg-logo="https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7.png" group-logo="https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7.png" group-title="SocoLive",COL D1: Millonarios vs Internacional de Bogota - BLV LION
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1788132601-0-0-ece1fab73fa304d1bca274dade5ce564
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1788132901-0-0-3d4e36c03dc73537accd67b2b2e297b7
 #EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg" group-logo="https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg" group-title="SocoLive",BRA D1: Grêmio - RS vs Chapecoense - SC - HÀ DUY KIÊN
-https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=d5b0e0b4e89bcf7f4580089eabe7c8e7&txTime=6a950349
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=f3eb9bccded7f98a06926590d47e468c&txTime=6a950475
 #EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg" group-logo="https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg" group-title="SocoLive",ARG D1: CA Independiente vs Gimnasia y Esgrima de Mendoza - CƠM NẾP
-https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788132601-0-0-818f320588adc35bae13c3ab8ab473f9
+https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788132901-0-0-bafb220a3fdabe9a8ce96fc5b5cb9864
+#EXTINF:-1 tvg-id="room-621887" tvg-logo="https://sta.vnres.co/file/common/20260728/c2935ca02d759ee77531ff32719f1b21.png" group-logo="https://sta.vnres.co/file/common/20260728/c2935ca02d759ee77531ff32719f1b21.png" group-title="SocoLive",USA MLS: St. Louis City SC vs FC Dallas - CHAN ĐÊ
+https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1788132901-0-0-21d7c99edd631332f1f42e2b31084b2e
 #EXTINF:-1 tvg-id="room-622241" tvg-logo="https://sta.vnres.co/file/common/20260828/0a19e4efc148afbb5c57d9ee5f69d612.jpg" group-logo="https://sta.vnres.co/file/common/20260828/0a19e4efc148afbb5c57d9ee5f69d612.jpg" group-title="SocoLive",USA MLS: St. Louis City SC vs FC Dallas - BLV HEHE
-https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1788132601-0-0-1291dede43f5a66544bde7a421be05c0
+https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1788132901-0-0-50447dfaaab99a20ce8580b8e372f52f
+#EXTINF:-1 tvg-id="room-9912008" tvg-logo="https://sta.vnres.co/file/common/20260831/7c64c0a0fec3bf5cf09804100116876a.png" group-logo="https://sta.vnres.co/file/common/20260831/7c64c0a0fec3bf5cf09804100116876a.png" group-title="SocoLive",USA MLS: St. Louis City SC vs FC Dallas - BLV TOMIA
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1788132901-0-0-38d5ae0ddd23ced31bebcafdcb8df85b
 #EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg" group-logo="https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg" group-title="SocoLive",BRA D1: Mirassol - SP vs Palmeiras - SP - KENCHU
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788132601-0-0-410ee77e4492e2feddb605825679e283
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788132901-0-0-961a3017eb61ef88ec145306ec55f7cf
