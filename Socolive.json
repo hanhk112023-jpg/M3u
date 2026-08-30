@@ -5,7 +5,7 @@
     "name": "ARG D1: CA Independiente vs Gimnasia y Esgrima de Mendoza - XUÂN SON",
     "logo": "https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=0454023d0aa81b948c6c8429486c9d7e\u0026txTime=6a94f8bd",
+    "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=d1bca5cc87a2927f5155c9d87ca0f7fa\u0026txTime=6a94f9e9",
     "type": "hls"
   },
   {
@@ -14,7 +14,7 @@
     "name": "BRA D1: Bahia - BA vs Internacional - RS - BLV ALEX",
     "logo": "https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788129901-0-0-f3904623b245364f796bf31cf6c0ee0e",
+    "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788130201-0-0-0598f928d74e7d467d8dbe60ce9f11fe",
     "type": "hls"
   },
   {
@@ -23,7 +23,7 @@
     "name": "BRA D1: Grêmio - RS vs Chapecoense - SC - BLV RAMBO",
     "logo": "https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=d18318ad56a68ffb3cd2eafd5f3f3b01\u0026txTime=6a94f8bd",
+    "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=f0183fda714f4b050bbdffca08926158\u0026txTime=6a94f9e9",
     "type": "hls"
   },
   {
@@ -32,7 +32,7 @@
     "name": "BRA D1: Mirassol - SP vs Palmeiras - SP - BLV A WIN",
     "logo": "https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788129901-0-0-4514e57e97bac728e86874875c8250d5",
+    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788130201-0-0-5753a331fd2a5b88aa162dfedc0b69e6",
     "type": "hls"
   },
   {
@@ -41,7 +41,7 @@
     "name": "BRA D1: Grêmio - RS vs Chapecoense - SC - HÀ DUY KIÊN",
     "logo": "https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=f0d33e963d51ca53d3fcd3c14e7b96b6\u0026txTime=6a94f8bd",
+    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=e3ce6f022db48d21cdbbb41847a45c75\u0026txTime=6a94f9e9",
     "type": "hls"
   },
   {
@@ -50,7 +50,16 @@
     "name": "ARG D1: CA Independiente vs Gimnasia y Esgrima de Mendoza - CƠM NẾP",
     "logo": "https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788129901-0-0-f47a6822dc7408796d7db482f6db74fb",
+    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788130201-0-0-200f2f7b8b57d01021ebe62de075ab87",
+    "type": "hls"
+  },
+  {
+    "id": "9912124",
+    "tvg_id": "room-9912124",
+    "name": "BRA D1: Mirassol - SP vs Palmeiras - SP - KENCHU",
+    "logo": "https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788130201-0-0-6830620537f814690a2ff19f1c55087c",
     "type": "hls"
   }
 ]
