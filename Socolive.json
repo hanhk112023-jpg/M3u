@@ -5,7 +5,7 @@
     "name": "MEX D1: Pachuca vs Club Deportivo Guadalajara - A PÁO",
     "logo": "https://sta.vnres.co/file/common/20260328/01acc641be84c58f2062ca50bf94b25a.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788052201-0-0-014e7e90c8bad08587c3eb771cfa7af1",
+    "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788052261-0-0-a2cb1495c78862af1e9d41d05f5ce0fa",
     "type": "hls"
   },
   {
@@ -14,7 +14,7 @@
     "name": "USA MLS: DC United vs Los Angeles FC - BLV KAN",
     "logo": "https://sta.vnres.co/file/common/20260830/18d82cbad5970cb6be3022ca75d0d94b.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=2b6e6f7c69c791e9c720f38d22674a74\u0026txTime=6a93c939",
+    "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=4f4eb7065b023cb187ac476f9590e352\u0026txTime=6a93c975",
     "type": "hls"
   },
   {
@@ -23,7 +23,7 @@
     "name": "USA MLS: Inter Miami CF vs Montreal Impact - CÔNG CHẤT",
     "logo": "https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=15bf8bd80ef73c1e8f5a7da745f383fa\u0026txTime=6a93c939",
+    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=756662fd7a3101938ec46f826676d957\u0026txTime=6a93c975",
     "type": "hls"
   },
   {
@@ -32,7 +32,7 @@
     "name": "USA MLS: Inter Miami CF vs Montreal Impact - BLV LUCAS",
     "logo": "https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788052201-0-0-7c27301f68d21225251291c16e18a390",
+    "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788052261-0-0-469f3f0a552db81cd7ecdb9c1a2c22cc",
     "type": "hls"
   },
   {
@@ -41,7 +41,16 @@
     "name": "USA MLS: New York Red Bulls vs Philadelphia Union - BLV YONE",
     "logo": "https://sta.vnres.co/file/common/20260728/ba06eac3dc3ffeee0de25e8e0deaaceb.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788052201-0-0-4c02040407ad91aab04dc7ef88c16c83",
+    "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788052261-0-0-49d785beefce5c13b37cc46b9b3b1e2a",
+    "type": "hls"
+  },
+  {
+    "id": "406865",
+    "tvg_id": "room-406865",
+    "name": "USA MLS: Nashville SC vs FC Cincinnati - BLV ANH TÀI",
+    "logo": "https://sta.vnres.co/file/common/20241220/6200343fea7ece69d7d92ae718616478.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=e2d5221fee4c3253a471c609c946245b\u0026txTime=6a93c975",
     "type": "hls"
   },
   {
@@ -50,7 +59,7 @@
     "name": "USA MLS: Minnesota United FC vs Orlando City - BLV CHIVAS",
     "logo": "https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=29d5abb3f36db8dca2b6c18f56bc26c5\u0026txTime=6a93c939",
+    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=adb9e5ee8e2176b74b7028081192c954\u0026txTime=6a93c975",
     "type": "hls"
   },
   {
@@ -59,7 +68,7 @@
     "name": "USA MLS: Houston Dynamo vs San Jose Earthquakes - BLV WUKONG",
     "logo": "https://sta.vnres.co/file/common/20251121/6d691b0b9dfd9eeb599401a2499400f0.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1788052201-0-0-6f59b7ec86cd2896733ed4f3d9104fcb",
+    "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1788052261-0-0-3eb0f64907082ed3dabf8cd1d3c48c5b",
     "type": "hls"
   },
   {
@@ -68,7 +77,7 @@
     "name": "USA MLS: Nashville SC vs FC Cincinnati - BLV RAMBO",
     "logo": "https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=409f1e4d549fbb7eabf5605d84becc5b\u0026txTime=6a93c939",
+    "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=96566be8606277ab0d2b772eaea3a552\u0026txTime=6a93c975",
     "type": "hls"
   },
   {
@@ -77,7 +86,7 @@
     "name": "USA MLS: Inter Miami CF vs Montreal Impact - LOGAN",
     "logo": "https://sta.vnres.co/file/common/20251111/6a43978efb637082f6eb906c1e7f1621.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=d7569649c0ba3bb563d0f0659aa14a3a\u0026txTime=6a93c939",
+    "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=2084cedd255d31359de7a1ff614a4d9b\u0026txTime=6a93c975",
     "type": "hls"
   },
   {
@@ -86,7 +95,7 @@
     "name": "USA MLS: Sporting Kansas City vs Vancouver Whitecaps - BLV CÒ",
     "logo": "https://sta.vnres.co/file/common/20260721/f2855aef78044156ad9e45d7985403d0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1788052201-0-0-c1db90ba9d6a71535b34f01a169ba550",
+    "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1788052261-0-0-449fd4a97b818acff562a2bb1980db90",
     "type": "hls"
   },
   {
@@ -95,7 +104,7 @@
     "name": "USA MLS: Houston Dynamo vs San Jose Earthquakes - BLV LION",
     "logo": "https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1788052201-0-0-dfddef60742cf2ae834ab4e6a6169cf1",
+    "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1788052261-0-0-9c0cc9181e154e8649645fd6daa3f60a",
     "type": "hls"
   },
   {
@@ -104,7 +113,7 @@
     "name": "USA MLS: Nashville SC vs FC Cincinnati - HÀ DUY KIÊN",
     "logo": "https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=7de8d6c715ec7f7d1f3c8e0d8c3b7730\u0026txTime=6a93c939",
+    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=9e0c19293de2dea45b1a0c41ac0c39b0\u0026txTime=6a93c975",
     "type": "hls"
   },
   {
@@ -113,7 +122,7 @@
     "name": "USA MLS: Houston Dynamo vs San Jose Earthquakes - ĐỖ TÚ TÀI",
     "logo": "https://sta.vnres.co/file/common/20260522/f2b4ef051d1e02300d2d5bf24f3828f0.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1788052201-0-0-c2b81a5559c829b16986bd00ee52cd9a",
+    "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1788052261-0-0-5d29183272975dba24f2b6664ac76364",
     "type": "hls"
   },
   {
@@ -122,7 +131,7 @@
     "name": "USA MLS: Minnesota United FC vs Orlando City - VINFAST",
     "logo": "https://sta.vnres.co/file/common/20260628/540cb58118f4c3201221b711e9a9cb7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1788052201-0-0-b3cde4a1b02f894b00ce30e83359b518",
+    "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1788052261-0-0-027b03f4f141850d7487bff61f735c20",
     "type": "hls"
   },
   {
@@ -131,7 +140,7 @@
     "name": "MEX D1: Atlas vs Queretaro FC - CƠM NẾP",
     "logo": "https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788052201-0-0-061c821cc565c53984c59239e4982726",
+    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788052261-0-0-d3a27bedbaa07c8e27065c677faf9fcf",
     "type": "hls"
   },
   {
@@ -140,7 +149,7 @@
     "name": "MEX D1: Pachuca vs Club Deportivo Guadalajara - T REX",
     "logo": "https://sta.vnres.co/file/common/20260808/4818d723b5e85850f66dfc3b5aed49d8.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-619672_lhd.m3u8?txSecret=27e3f2dd0bc9dadbb8282929f97276f3\u0026txTime=6a93c939",
+    "url": "https://pull.niur.live/live/stream-619672_lhd.m3u8?txSecret=cec46414fa1630944021f6c8ca3cebb5\u0026txTime=6a93c975",
     "type": "hls"
   },
   {
@@ -149,7 +158,7 @@
     "name": "MEX D1: Pachuca vs Club Deportivo Guadalajara - CHAN ĐÊ",
     "logo": "https://sta.vnres.co/file/common/20260728/c2935ca02d759ee77531ff32719f1b21.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1788052201-0-0-ea799bdffd1b93ce25d285383ed3cc50",
+    "url": "https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1788052261-0-0-93ab2970dca8b8b35edeb25182fbf3d5",
     "type": "hls"
   },
   {
@@ -158,7 +167,7 @@
     "name": "USA MLS: Sporting Kansas City vs Vancouver Whitecaps - GRAP",
     "logo": "https://sta.vnres.co/file/common/20260703/fe517d18a8df723cee92683347d70be9.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=5d8fac4b3f4faba613cf5879e7a48eec\u0026txTime=6a93c939",
+    "url": "https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=1ab2637f962184a5ef9fe0463dbc8a89\u0026txTime=6a93c975",
     "type": "hls"
   },
   {
@@ -167,7 +176,7 @@
     "name": "USA MLS: DC United vs Los Angeles FC - BLV HEHE",
     "logo": "https://sta.vnres.co/file/common/20260828/0a19e4efc148afbb5c57d9ee5f69d612.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1788052201-0-0-5492ec881f581c18142d5b11f3ef62d8",
+    "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1788052261-0-0-3dcae630fd18b60d825d93da99ecec44",
     "type": "hls"
   },
   {
@@ -176,7 +185,7 @@
     "name": "USA MLS: DC United vs Los Angeles FC - NEKO",
     "logo": "https://sta.vnres.co/file/common/20260828/e0638aedd6aef31974244bd226615764.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1788052201-0-0-818c6e690a470d97746924a5cf471c80",
+    "url": "https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1788052261-0-0-ecc8beafb8a1696d96486291ade4f12e",
     "type": "hls"
   },
   {
@@ -185,7 +194,7 @@
     "name": "USA MLS: DC United vs Los Angeles FC - BLV TOMIA",
     "logo": "https://sta.vnres.co/file/common/20260629/15a4e4b3233b174e59d4cd6ae5a8432c.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1788052201-0-0-00b4d2702bac31c67f245c0c41768e97",
+    "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1788052261-0-0-d8c595aa72e53f51f4b045bdd14de3a3",
     "type": "hls"
   },
   {
@@ -194,7 +203,7 @@
     "name": "USA MLS: Inter Miami CF vs Montreal Impact - BLV Củ Cải",
     "logo": "https://sta.vnres.co/file/common/20260830/759fcd733a15cd7c11691bb1b91e4793.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788052201-0-0-26685d5fb0fa461dffab99a26c77794d",
+    "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788052261-0-0-64db35f133820919ca788c6e017a601b",
     "type": "hls"
   },
   {
@@ -203,7 +212,7 @@
     "name": "USA MLS: Inter Miami CF vs Montreal Impact - BLV RÔSI",
     "logo": "https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=91d90bb0b77e45eaf9ef2b48c5548136\u0026txTime=6a93c939",
+    "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=45eb6a809708faee04b33a5f0aad0058\u0026txTime=6a93c975",
     "type": "hls"
   },
   {
@@ -212,7 +221,7 @@
     "name": "MEX D1: Atlas vs Queretaro FC - BLV VOI",
     "logo": "https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1788052201-0-0-276c151656114d7ae483de246d7c77fb",
+    "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1788052261-0-0-bbf8d3e61498cf9a12b2e66dcbecded3",
     "type": "hls"
   },
   {
@@ -221,7 +230,7 @@
     "name": "USA MLS: Inter Miami CF vs Montreal Impact - HẢI THANH",
     "logo": "https://sta.vnres.co/file/common/20260829/f624027ec79ccc757bf8d5a663d63763.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1788052201-0-0-c1144f83b8aaa89dd32a6c99ef7b4ae1",
+    "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1788052261-0-0-6a83aeb433ee1ef019943ec2f669e99b",
     "type": "hls"
   },
   {
@@ -230,7 +239,7 @@
     "name": "USA MLS: Sporting Kansas City vs Vancouver Whitecaps - KENCHU",
     "logo": "https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788052201-0-0-8bd6a0458a2c3c7363d50dad24c3cc87",
+    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788052261-0-0-695bd8fcf45ba8908aa7527c115e2b5c",
     "type": "hls"
   },
   {
@@ -239,7 +248,7 @@
     "name": "USA MLS: New York Red Bulls vs Philadelphia Union - BLV A TÚ",
     "logo": "https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788052201-0-0-a463d2572f3926f8164925294ec61adb",
+    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788052261-0-0-66f69e7614b419decfdae25fef52074a",
     "type": "hls"
   },
   {
@@ -248,7 +257,7 @@
     "name": "MEX D1: Pachuca vs Club Deportivo Guadalajara - BLV PEWPEW",
     "logo": "https://sta.vnres.co/file/common/20260801/16b69ccb9ccf1f371806a3f19e7dc683.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1788052201-0-0-7bf0803865cbc0bed4603f957ad8c72c",
+    "url": "https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1788052261-0-0-220f51ccc535b78b2fa78e38ff1b8678",
     "type": "hls"
   }
 ]
