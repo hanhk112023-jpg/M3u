@@ -227,13 +227,14 @@ def m3u_bytes(channels: list[dict], epg: str, channel_logo: str = "") -> bytes:
         out[0] += f' url-tvg="{escape_m3u(epg)}"'
     out += [
         "# ======================================",
-        "# SOCOLIVE LIVE PLAYLIST",
+        "# SportsTV LIVE PLAYLIST",
         "# ======================================",
         "# Status       : ONLINE",
         f"# Channels     : {len(channels)}",
         "# Updated      : " + datetime.now().strftime("%d/%m/%Y %H:%M:%S"),
         "# Player       : OTT Navigator / TiviMate",
         "# ======================================",
+        "#PLAYLIST:SportsTV",
         "",
     ]
     lines = "\n".join(out) + "\n"
@@ -242,7 +243,7 @@ def m3u_bytes(channels: list[dict], epg: str, channel_logo: str = "") -> bytes:
         name = c["title"] or f"Room {c['room_num']}"
         if c["anchor"]:
             name += f" - {c['anchor']}"
-        group = c["group"] or "SocoLive"
+        group = c["group"] or "SportsTV"
         logo = channel_logo or c["logo"]
         chunks.append(
             f'#EXTINF:-1 tvg-id="{escape_m3u("room-" + c["room_num"])}" '

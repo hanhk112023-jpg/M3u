@@ -67,16 +67,19 @@ jobs:
           names = cfg.get('proxies', [])
           order = [p for p in names if 'VN' in p.get('name', '').upper()] + \
                   [p for p in names if 'SG' in p.get('name', '').upper()]
-          keep = order[:6]
-          groups = [{'name': 'POOL', 'type': 'fallback',
+          keep = order[:10]
+          # url-test group: mihomo probes every node every interval and routes
+          # through the one with the lowest latency, falling back automatically.
+          groups = [{'name': 'POOL', 'type': 'url-test',
                      'proxies': [p['name'] for p in keep],
                      'url': 'http://www.gstatic.com/generate_204',
-                     'interval': 120}]
+                     'interval': 120,
+                     'tolerance': 50}]
           out = {'mixed-port': 7891, 'allow-lan': False, 'mode': 'rule',
                  'log-level': 'warning', 'proxies': keep,
                  'proxy-groups': groups, 'rules': ['MATCH,POOL']}
           yaml.safe_dump(out, open('/tmp/mihomo_run.yaml', 'w'), allow_unicode=True)
-          print('picked:', [p['name'] for p in keep])
+          print('picked (url-test):', [p['name'] for p in keep])
           PYEOF
           $MH -d /tmp -f /tmp/mihomo_run.yaml > /tmp/mihomo.log 2>&1 &
           for i in $(seq 1 20); do
@@ -122,6 +125,41 @@ jobs:
             -d '{"event_type":"scan"}' \
             "https://api.github.com/repos/${REPO}/dispatches" \
             -o /dev/null -w "relay dispatch %{http_code}\n"
+
+      - name: Clean up old workflow runs
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          CURRENT_RUN: ${{ github.run_id }}
+          # Keep the most recent runs and delete the rest so the Actions list
+          # and repo commit history stay tidy. Self-relay + cron can pile up
+          # dozens every day if nothing prunes them.
+          KEEP_RUNS: 20
+        run: |
+          set -euo pipefail
+          echo "current run id = ${CURRENT_RUN}"
+          curl -sS -H "Authorization: Bearer ${GH_TOKEN}" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/${REPO}/actions/runs?per_page=100" \
+            -o /tmp/runs.json
+          python3 - << 'PYEOF'
+          import json, os, subprocess, time
+          runs = json.load(open('/tmp/runs.json'))['workflow_runs']
+          keep = int(os.environ.get('KEEP_RUNS', '20'))
+          # Only prune completed runs; never the one currently running.
+          completed = [r for r in runs if r['status'] == 'completed']
+          to_delete = sorted(completed, key=lambda r: r['run_started_at'])[:max(0, len(completed) - keep)]
+          current = os.environ.get('CURRENT_RUN')
+          for r in to_delete:
+              if str(r['id']) == current:
+                  continue
+              url = f"https://api.github.com/repos/{os.environ['REPO']}/actions/runs/{r['id']}"
+              subprocess.run(['curl', '-sS', '-o', '/dev/null', '-w', f"del {r['id']} %{http_code}\n",
+                              '-X', 'DELETE', '-H', f"Authorization: Bearer {os.environ['GH_TOKEN']}",
+                              '-H', 'Accept: application/vnd.github+json', url])
+          print(f"pruned {len(to_delete)} old runs, kept {keep}")
+          PYEOF
 
       - name: Upload scan report on failure
         if: failure()
