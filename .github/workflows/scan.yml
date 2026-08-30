@@ -132,36 +132,65 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           REPO: ${{ github.repository }}
           CURRENT_RUN: ${{ github.run_id }}
-          # Keep the most recent runs and delete the rest so the Actions list
-          # and repo commit history stay tidy. Self-relay + cron can pile up
-          # dozens every day if nothing prunes them.
-          KEEP_RUNS: 20
+          # Keep the newest N runs per workflow, delete everything older.
+          # This prunes the whole history (pages-build + socolive-scan alike),
+          # walking pagination so runs beyond the first 100 are also removed.
+          KEEP_PER_WORKFLOW: 15
+          MAX_PAGES: 40
         run: |
           set -euo pipefail
           echo "current run id = ${CURRENT_RUN}"
-          curl -sS -H "Authorization: Bearer ${GH_TOKEN}" \
-            -H "Accept: application/vnd.github+json" \
-            "https://api.github.com/repos/${REPO}/actions/runs?per_page=100" \
-            -o /tmp/runs.json
           python3 - << 'PYEOF'
-          import json, os, subprocess, time
-          runs = json.load(open('/tmp/runs.json'))['workflow_runs']
-          keep = int(os.environ.get('KEEP_RUNS', '20'))
-          # Only prune completed runs; never the one currently running.
-          completed = [r for r in runs if r['status'] == 'completed']
-          to_delete = sorted(completed, key=lambda r: r['run_started_at'])[:max(0, len(completed) - keep)]
+          import json, os, subprocess, urllib.request, collections
+          repo = os.environ['REPO']
+          token = os.environ['GH_TOKEN']
+          keep = int(os.environ.get('KEEP_PER_WORKFLOW', '15'))
+          max_pages = int(os.environ.get('MAX_PAGES', '40'))
           current = os.environ.get('CURRENT_RUN')
-          for r in to_delete:
-              if str(r['id']) == current:
-                  continue
-              url = f"https://api.github.com/repos/{os.environ['REPO']}/actions/runs/{r['id']}"
-              # No -w %{http_code}: keep it a plain list so nothing is treated
-              # as a Python format token.
-              subprocess.run(['curl', '-sS', '-o', '/dev/null',
-                              '-X', 'DELETE', '-H', f"Authorization: Bearer {os.environ['GH_TOKEN']}",
-                              '-H', 'Accept: application/vnd.github+json', url])
-              print(f"deleted run {r['id']}")
-          print(f"pruned {len(to_delete)} old runs, kept {keep}")
+
+          def page(page):
+              req = urllib.request.Request(
+                  f'https://api.github.com/repos/{repo}/actions/runs?per_page=100&page={page}',
+                  headers={'Authorization': f'Bearer {token}', 'Accept': 'application/vnd.github+json',
+                           'X-GitHub-Api-Version': '2022-11-28'})
+              with urllib.request.urlopen(req, timeout=30) as resp:
+                  body = json.loads(resp.read().decode())
+                  link = resp.headers.get('Link', '')
+                  return body.get('workflow_runs', []), 'rel="next"' in link
+
+          # Collect all runs across pages, grouped by workflow name.
+          runs_by_wf = collections.defaultdict(list)
+          page_no = 1
+          while True:
+              runs, has_next = page(page_no)
+              if not runs:
+                  break
+              for r in runs:
+                  if r['status'] == 'completed':
+                      runs_by_wf[r.get('name', '(unknown)')].append(r)
+              if not has_next or page_no >= max_pages:
+                  break
+              page_no += 1
+
+          # A workflow run id belongs to exactly one workflow; delete the oldest
+          # beyond KEEP_PER_WORKFLOW for each. Never delete the live run.
+          deleted = 0
+          for wf_name, wf_runs in runs_by_wf.items():
+              wf_runs.sort(key=lambda r: r['run_started_at'])
+              excess = wf_runs[:max(0, len(wf_runs) - keep)]
+              print(f"{wf_name}: {len(wf_runs)} completed, deleting {len(excess)} oldest")
+              for r in excess:
+                  if str(r['id']) == current:
+                      continue
+                  url = f'https://api.github.com/repos/{repo}/actions/runs/{r["id"]}'
+                  subprocess.run(
+                      ['curl', '-sS', '-o', '/dev/null',
+                       '-X', 'DELETE',
+                       '-H', f'Authorization: Bearer {token}',
+                       '-H', 'Accept: application/vnd.github+json',
+                       '-H', 'X-GitHub-Api-Version: 2022-11-28', url])
+                  deleted += 1
+          print(f"pruned {deleted} old runs total")
           PYEOF
 
       - name: Upload scan report on failure
