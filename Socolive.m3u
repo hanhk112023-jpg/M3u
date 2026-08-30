@@ -3,27 +3,21 @@
 # SportsTV LIVE PLAYLIST
 # ======================================
 # Status       : ONLINE
-# Channels     : 9
-# Updated      : 30/08/2026 21:25:19
+# Channels     : 6
+# Updated      : 30/08/2026 21:30:20
 # Player       : OTT Navigator / TiviMate
 # ======================================
 #PLAYLIST:SportsTV
 
-#EXTINF:-1 tvg-id="room-527383" tvg-logo="https://sta.vnres.co/file/common/20260626/fcd1d9373f93de7ff3ebfbee3f073c7c.jpg" group-logo="https://sta.vnres.co/file/common/20260626/fcd1d9373f93de7ff3ebfbee3f073c7c.jpg" group-title="SocoLive",SPA D1: RC Celta vs Athletic Club - BLV ROBBEN
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1788128701-0-0-f187faba945caf99c05a09bef1f4fa82
 #EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg" group-logo="https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg" group-title="SocoLive",BRA D1: Grêmio - RS vs Chapecoense - SC - BLV RAMBO
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=8a8d90ba9beba9c2e7e08591208e887a&txTime=6a94f40d
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=b6d35dca1cf556dd9c7ebc0a4faa3b84&txTime=6a94f539
 #EXTINF:-1 tvg-id="room-536185" tvg-logo="https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg" group-logo="https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg" group-title="SocoLive",BRA D1: Mirassol - SP vs Palmeiras - SP - BLV A WIN
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788128701-0-0-1d331e9faae196c44833369f5e4b9a04
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788129001-0-0-339702812210a9fe87f410490bcd9853
 #EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg" group-logo="https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg" group-title="SocoLive",BRA D1: Grêmio - RS vs Chapecoense - SC - HÀ DUY KIÊN
-https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=8a2a7a19559d16104fc6f08af1f8a769&txTime=6a94f40d
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=909b19b87fca97f604a81fa3a8954ae0&txTime=6a94f539
 #EXTINF:-1 tvg-id="room-991140" tvg-logo="https://sta.vnres.co/file/common/20240614/d900dd8841b1223c7b58554cde34df75.jpg" group-logo="https://sta.vnres.co/file/common/20240614/d900dd8841b1223c7b58554cde34df75.jpg" group-title="SocoLive",SPA D1: RC Celta vs Athletic Club - BLV FIREMAN
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788128701-0-0-e468ebc7f989e4785bf008adc794b056
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788129001-0-0-8dbfacf9de14f187054a8f8e7f3b502f
 #EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg" group-logo="https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg" group-title="SocoLive",BRA D1: Mirassol - SP vs Palmeiras - SP - KENCHU
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788128701-0-0-14698b1d8381c9e29115f4edb26e2a66
-#EXTINF:-1 tvg-id="room-9912133" tvg-logo="https://sta.vnres.co/file/common/20260411/c1490960e7f4b63fdc78206c576d2da8.png" group-logo="https://sta.vnres.co/file/common/20260411/c1490960e7f4b63fdc78206c576d2da8.png" group-title="SocoLive",SPA D1: RC Celta vs Athletic Club - LOKA
-https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1788128701-0-0-0bc6dd70ba1bcaff00e254c0ca83c011
-#EXTINF:-1 tvg-id="room-9912136" tvg-logo="https://sta.vnres.co/file/common/20260810/b792b2c329f2ffe44037f2d5973945de.jpg" group-logo="https://sta.vnres.co/file/common/20260810/b792b2c329f2ffe44037f2d5973945de.jpg" group-title="SocoLive",SPA D1: RC Celta vs Athletic Club - BLV LONG
-https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=05503e44854a292ec21e026cafa9517b&txTime=6a94f416
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788129001-0-0-eae0a7826b5dd6173f6dc6e3939f0d70
 #EXTINF:-1 tvg-id="room-9912142" tvg-logo="https://sta.vnres.co/file/common/20260830/683bbb96de277e28f88b1d08678ac124.png" group-logo="https://sta.vnres.co/file/common/20260830/683bbb96de277e28f88b1d08678ac124.png" group-title="SocoLive",SPA D1: RC Celta vs Athletic Club - A BỆU
-https://pull.niur.live/live/stream-9912142_lhd.m3u8?txSecret=0f7f78bfc3fdb7d9b952b7d0db8b485f&txTime=6a94f40d
+https://pull.niur.live/live/stream-9912142_lhd.m3u8?txSecret=0a64c81bedc38c444d0aa40c2c5f09fc&txTime=6a94f514
