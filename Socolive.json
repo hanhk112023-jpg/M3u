@@ -5,7 +5,7 @@
     "name": "JPN D3: AC Nagano Parceiro vs Thespa Kusatsu Gunma - BLV COCA",
     "logo": "https://sta.vnres.co/file/common/20260804/75681fd6aa001c1bb1b8d3946dd69271.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1788089221-0-0-3813554a65e5e49bf943ebda6ec47e82",
+    "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1788089281-0-0-5922f78e102ff24f66aa2c9b1a32dca8",
     "type": "hls"
   },
   {
@@ -14,7 +14,7 @@
     "name": "FIBA WCQL: Australia vs Jordan - A CHÈ",
     "logo": "https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=32e460d16a9728e148cf3fcd1624e84a\u0026txTime=6a9459d5",
+    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=2e844c56ad2802354df630bcdd903c61\u0026txTime=6a945a11",
     "type": "hls"
   },
   {
@@ -23,7 +23,7 @@
     "name": "KOR D1: Jeju SK FC vs Daejeon Hana Citizen - BLV YONE",
     "logo": "https://sta.vnres.co/file/common/20260728/ba06eac3dc3ffeee0de25e8e0deaaceb.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788089221-0-0-3ef51fbfb8a7b37acf212b5536e39d08",
+    "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788089281-0-0-cbd053c5ef470b184401711e28dd17ee",
     "type": "hls"
   },
   {
@@ -32,7 +32,7 @@
     "name": "HOL D1: FC Utrecht vs PSV Eindhoven - BLV ENZO",
     "logo": "https://sta.vnres.co/file/common/20260827/1d4f9eca02a381435aaec138589dd9ef.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1788089221-0-0-d06aab853f2e6b5e675ceb46effe7383",
+    "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1788089281-0-0-f2cad3813beff2672dd07c171fa3dd48",
     "type": "hls"
   },
   {
@@ -41,7 +41,7 @@
     "name": "RUS D2: Yenisey Krasnoyarsk vs Shinnik Yaroslavl - CR Bưởi",
     "logo": "https://sta.vnres.co/file/common/20260830/b07ee6f9b85803bc0e02f644188c8674.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=aaefd2ca876c2d43d4d969b60d242c26\u0026txTime=6a9459d5",
+    "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=9ba9e5efe1450eb0cc65c2f14955df79\u0026txTime=6a945a11",
     "type": "hls"
   },
   {
@@ -50,7 +50,7 @@
     "name": "JPN D3: Giravanz Kitakyushu vs Matsumoto Yamaga FC - BLV ANH TÀI",
     "logo": "https://sta.vnres.co/file/common/20241220/6200343fea7ece69d7d92ae718616478.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=7d0fb88289287e15ad8af635769d0368\u0026txTime=6a9459d5",
+    "url": "https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=ae16fa3444e2ed3a45b7acb09321f858\u0026txTime=6a945a11",
     "type": "hls"
   },
   {
@@ -59,7 +59,16 @@
     "name": "JPN D3: Giravanz Kitakyushu vs Matsumoto Yamaga FC - BLV VIP",
     "logo": "https://sta.vnres.co/file/common/20250723/6b83b847d8944b57cc13043bae9fa7a8.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=6cedce539042e966d3a8507d86ea416b\u0026txTime=6a9459d5",
+    "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=e96163181581909c56925123ccf68647\u0026txTime=6a945a11",
+    "type": "hls"
+  },
+  {
+    "id": "501412",
+    "tvg_id": "room-501412",
+    "name": "KOR D1: Gwangju FC vs FC Seoul - XUÂN SON",
+    "logo": "https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=2f240b4ac63fbe5b4eb229a10d25e31c\u0026txTime=6a945a11",
     "type": "hls"
   },
   {
@@ -68,7 +77,7 @@
     "name": "KOR D1: Incheon United Club vs Jeonbuk Hyundai Motors - BLV ROBBEN",
     "logo": "https://sta.vnres.co/file/common/20260626/fcd1d9373f93de7ff3ebfbee3f073c7c.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1788089221-0-0-e869955fb9d249bd2fe399f98819fcca",
+    "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1788089281-0-0-390700c5e4e6dd5fb35abc76ddf3d94b",
     "type": "hls"
   },
   {
@@ -77,7 +86,7 @@
     "name": "KOR D1: Incheon United Club vs Jeonbuk Hyundai - BLV ALEX",
     "logo": "https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788089221-0-0-a8c24ff5cd83f316bc514bc3b16ed094",
+    "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788089281-0-0-fc7f75b47d317a430f72f3f0a926fa5e",
     "type": "hls"
   },
   {
@@ -86,7 +95,7 @@
     "name": "KOR D1: Gangwon FC vs Pohang Steelers - BLV RAMBO",
     "logo": "https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=c9fd5e616fa2734e773bda44e8183a15\u0026txTime=6a9459d5",
+    "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=2bac7aac22a711ad3984ed6dcd23b56f\u0026txTime=6a945a11",
     "type": "hls"
   },
   {
@@ -95,7 +104,7 @@
     "name": "JPN D3: AC Nagano Parceiro vs Thespa Kusatsu Gunma - BLV CÒ",
     "logo": "https://sta.vnres.co/file/common/20260721/f2855aef78044156ad9e45d7985403d0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1788089221-0-0-e74eade668f329f4779e1f9160c8d9e0",
+    "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1788089281-0-0-948696506277fd0868d80558343cdd4b",
     "type": "hls"
   },
   {
@@ -104,7 +113,7 @@
     "name": "RUS D2: Yenisey Krasnoyarsk vs Shinnik Yaroslavl - XUÂN TÓC ĐỎ",
     "logo": "https://sta.vnres.co/file/common/20260628/336b2e008de11bb26c1d4e0e46bc9f95.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=999c595893c3556ccb36c0fb528c2f08\u0026txTime=6a9459d5",
+    "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=2700b0ba7c313e5337c05b135b402230\u0026txTime=6a945a11",
     "type": "hls"
   },
   {
@@ -113,7 +122,7 @@
     "name": "KOR D1: Gangwon FC vs Pohang Steelers - MP3",
     "logo": "https://sta.vnres.co/file/common/20260810/042a00493898027e5f644f6f24e88c53.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=1d2ceb6792cceeed4143d41a18b4b0d9\u0026txTime=6a9459d5",
+    "url": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=2163913ef823d7fddf7f6bce3da0eb49\u0026txTime=6a945a11",
     "type": "hls"
   },
   {
@@ -122,7 +131,7 @@
     "name": "HOL D1: FC Utrecht vs PSV Eindhoven - BLV TAP",
     "logo": "https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=f36dabc6c887e692f0af1b4cce29b4ac\u0026txTime=6a9459d5",
+    "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=710ef3492e2199d9be65879b50f581f4\u0026txTime=6a945a11",
     "type": "hls"
   },
   {
@@ -131,7 +140,7 @@
     "name": "HOL D1: FC Utrecht vs PSV Eindhoven - BLV Củ Cải",
     "logo": "https://sta.vnres.co/file/common/20260830/5bb067dceaf52d7620802a099bbd76ab.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788089221-0-0-d413b89f67321de554cbb52bcb0e57f7",
+    "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788089281-0-0-ddbc32b41526c3187168a82fd2fd04c2",
     "type": "hls"
   },
   {
@@ -140,7 +149,7 @@
     "name": "FIBA WCQL: Australia vs Jordan - BLV HENRY",
     "logo": "https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788089221-0-0-b35fced307c2231554ecbcbacc9aa95e",
+    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788089281-0-0-8f5ffb10afc1df98384ad16710a15554",
     "type": "hls"
   },
   {
@@ -149,7 +158,7 @@
     "name": "HOL D1: FC Utrecht vs PSV Eindhoven - RICKHANTER",
     "logo": "https://sta.vnres.co/file/common/20260620/4cbae14a2d06d1635a160fc8c2beb182.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=a50d6d8ef7e1a55d4b9a519c9875d709\u0026txTime=6a9459d5",
+    "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=9a3110bb5bc612fc0b1e43284c7b09b1\u0026txTime=6a945a11",
     "type": "hls"
   },
   {
@@ -158,7 +167,7 @@
     "name": "KOR D1: Gwangju FC vs FC Seoul - SEVEN",
     "logo": "https://sta.vnres.co/file/common/20260715/0e572fd7d0bfc5ce5cf538c09b8cace4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=2f49e944d31fb62017010efe4079db10\u0026txTime=6a9459d5",
+    "url": "https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=5fc319c22d9b13352151df8f6b503e15\u0026txTime=6a945a11",
     "type": "hls"
   },
   {
@@ -167,7 +176,7 @@
     "name": "KOR D1: Jeju SK FC vs Daejeon Hana Citizen - BLV A TÚ",
     "logo": "https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788089221-0-0-e8ae4c5c4aaaac35de8583570f85b2f1",
+    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788089281-0-0-9738cf2386dad88c6f5b3d9a0445b040",
     "type": "hls"
   },
   {
@@ -176,7 +185,7 @@
     "name": "KOR D1: Gwangju FC vs FC Seoul - CHÍ PHÈO",
     "logo": "https://sta.vnres.co/file/common/20260609/b3e04b0f7d210d67052a911512e39f54.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1788089221-0-0-31ad304d4af340473d3eef8d1e5e1bed",
+    "url": "https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1788089281-0-0-b44e8bd7a8b9daa1f0580a76450d093b",
     "type": "hls"
   },
   {
@@ -185,7 +194,7 @@
     "name": "VIE SC: Cong An Ha Noi FC vs Cong An Ho Chi Minh City - BLV XO",
     "logo": "https://sta.vnres.co/file/common/20260613/cc7eb6fb9d74dfa083a48c861b135ae8.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=998eee7c27b26198cbff265b1ff7ba58\u0026txTime=6a9459d5",
+    "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=64231f3e669ada946aeed57d66174521\u0026txTime=6a945a11",
     "type": "hls"
   },
   {
@@ -194,7 +203,7 @@
     "name": "KOR D1: Incheon United Club vs Jeonbuk Hyundai Motors - BLV LONG",
     "logo": "https://sta.vnres.co/file/common/20260810/b792b2c329f2ffe44037f2d5973945de.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=3ddc73e1d40f88b9d744fdd6a52f75a2\u0026txTime=6a9459d5",
+    "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=b086f81fea8c7aa18a8facc5e2fa9a56\u0026txTime=6a945a11",
     "type": "hls"
   },
   {
@@ -203,7 +212,7 @@
     "name": "AUS QPL1: Sunshine Coast Wanderers FC vs Ipswich City - TUẤN CÙI",
     "logo": "https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1788089221-0-0-7e4386e3a252b3a0069f1abcf9c926b7",
+    "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1788089281-0-0-fa930f94c6f9e7442e2838b34ea5efb9",
     "type": "hls"
   },
   {
@@ -212,7 +221,7 @@
     "name": "KOR D1: Gwangju FC vs FC Seoul - BLV A TINH",
     "logo": "https://sta.vnres.co/file/common/20260317/5be300857a15349a5324be170237948b.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=50b92cff62b2f172b92304496ed795db\u0026txTime=6a9459d5",
+    "url": "https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=90ca7e0ed911f97353a0bd7807f75875\u0026txTime=6a945a11",
     "type": "hls"
   },
   {
@@ -221,7 +230,7 @@
     "name": "HOL D1: FC Utrecht vs PSV Eindhoven - ZIDANE",
     "logo": "https://sta.vnres.co/file/common/20260830/17b3b36a6e23f174c078d27c09c021ba.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912145_lhd.m3u8?txSecret=1124657676e258b13dbe398502c1ca8e\u0026txTime=6a9459d5",
+    "url": "https://pull.niur.live/live/stream-9912145_lhd.m3u8?txSecret=592535f01cc0eb80658a87c497723c4e\u0026txTime=6a945a11",
     "type": "hls"
   },
   {
@@ -230,7 +239,7 @@
     "name": "HOL D1: FC Utrecht vs PSV Eindhoven - BLV CUỘI",
     "logo": "https://sta.vnres.co/file/common/20260829/f6903a1879b3c7cc22d27c658db14d94.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788089221-0-0-3eddf0d64df867bc43010f8dfaeb89db",
+    "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788089281-0-0-51e193686eb5cdb5fd514f89b6fbc498",
     "type": "hls"
   }
 ]
