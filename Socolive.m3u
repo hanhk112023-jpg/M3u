@@ -3,23 +3,25 @@
 # SportsTV LIVE PLAYLIST
 # ======================================
 # Status       : ONLINE
-# Channels     : 7
-# Updated      : 30/08/2026 21:50:21
+# Channels     : 8
+# Updated      : 30/08/2026 22:05:19
 # Player       : OTT Navigator / TiviMate
 # ======================================
 #PLAYLIST:SportsTV
 
+#EXTINF:-1 tvg-id="room-372746" tvg-logo="https://sta.vnres.co/file/common/20260728/ba06eac3dc3ffeee0de25e8e0deaaceb.jpg" group-logo="https://sta.vnres.co/file/common/20260728/ba06eac3dc3ffeee0de25e8e0deaaceb.jpg" group-title="SocoLive",BRA D1: Bahia - BA vs Internacional - RS - BLV YONE
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788131101-0-0-8d948678a2fefc652a201fdc32968546
 #EXTINF:-1 tvg-id="room-501412" tvg-logo="https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png" group-logo="https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png" group-title="SocoLive",ARG D1: CA Independiente vs Gimnasia y Esgrima de Mendoza - XUÂN SON
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=d1bca5cc87a2927f5155c9d87ca0f7fa&txTime=6a94f9e9
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=9703ef87b545c56dee8435a0b86415eb&txTime=6a94fd6d
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg" group-logo="https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg" group-title="SocoLive",BRA D1: Bahia - BA vs Internacional - RS - BLV ALEX
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788130201-0-0-0598f928d74e7d467d8dbe60ce9f11fe
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788131101-0-0-75188fc4253686c8318fbd705ab9b0fd
 #EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg" group-logo="https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg" group-title="SocoLive",BRA D1: Grêmio - RS vs Chapecoense - SC - BLV RAMBO
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=f0183fda714f4b050bbdffca08926158&txTime=6a94f9e9
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=3dc7bae4f530f8bc0153efd91cc3181d&txTime=6a94fd6d
 #EXTINF:-1 tvg-id="room-536185" tvg-logo="https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg" group-logo="https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg" group-title="SocoLive",BRA D1: Mirassol - SP vs Palmeiras - SP - BLV A WIN
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788130201-0-0-5753a331fd2a5b88aa162dfedc0b69e6
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788131101-0-0-2cd6bb82c22919c96876ca7284cd4dde
 #EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg" group-logo="https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg" group-title="SocoLive",BRA D1: Grêmio - RS vs Chapecoense - SC - HÀ DUY KIÊN
-https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=e3ce6f022db48d21cdbbb41847a45c75&txTime=6a94f9e9
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=e7f008e4622f03fc37f462432f4d6083&txTime=6a94fd6d
 #EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg" group-logo="https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg" group-title="SocoLive",ARG D1: CA Independiente vs Gimnasia y Esgrima de Mendoza - CƠM NẾP
-https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788130201-0-0-200f2f7b8b57d01021ebe62de075ab87
+https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788131101-0-0-c8f698797ac293da8377392be35dc811
 #EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg" group-logo="https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg" group-title="SocoLive",BRA D1: Mirassol - SP vs Palmeiras - SP - KENCHU
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788130201-0-0-6830620537f814690a2ff19f1c55087c
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788131101-0-0-b3b3bee459ceecf9163b66b8c90c7374
