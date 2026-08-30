@@ -1,29 +1,99 @@
+# Auto-scan SocoLive rooms and publish the playlist to this repository.
+#
+# The Python scanner (JSON stringified output) reads publish state from the
+# last commit message, so ephemeral runners need no local state: just scan,
+# compare, commit when changed. A shared concurrency group is intentionally
+# omitted: the last step sleeps ~9.5 min to pace the next run, and holding a
+# queued successor for that long risks GitHub cancelling it.
+#
+# CDN note: api.json.vnres.co blocks datacenter IPs, so every run routes its
+# API traffic through a residential VN exit node via the mihomo proxy pool
+# from YUNA_SUB_URL. The proxy step verifies the exit IP before scanning.
+
 name: socolive-scan
 
 on:
-  # NOTE: cron disabled while json.vnres.co blocks datacenter IPs.
-  # Enable the block below once the API accepts runner traffic:
-  # schedule:
-  #   - cron: '*/5 * * * *'
-  workflow_dispatch: {}
+  # Self-relay keeps the loop alive; schedule is a best-effort backup. A
+  # repository_dispatch from GITHUB_TOKEN is allowed (the one event that
+  # spawns a new run without an external PAT), so no cron-job is needed.
+  repository_dispatch:
+    types: [scan]
+  schedule:
+    - cron: "*/10 * * * *" # best-effort; self-relay below is the reliable loop
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Ignore fingerprint and republish now"
+        type: boolean
+        default: false
+      workers:
+        description: "Concurrent room-detail requests"
+        type: number
+        default: 8
 
 permissions:
-  contents: write
-
-concurrency:
-  group: socolive-scan
-  cancel-in-progress: false
+  contents: write # the scanner commits the playlist via the Contents API
+  actions: write  # self-relay reschedules the next run via repository_dispatch
 
 jobs:
   scan:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
 
-      - name: Scan and publish on change (Python)
+      - name: Set up proxy (mihomo through YUNA subscription)
+        env:
+          SUB_URL: ${{ secrets.YUNA_SUB_URL }}
+        run: |
+          set -euo pipefail
+          if [ -z "$SUB_URL" ]; then
+            echo "YUNA_SUB_URL secret not set; cannot bypass CDN IP block"
+            exit 1
+          fi
+          MH=$(ls /usr/local/bin/mihomo 2>/dev/null || true)
+          if [ -z "$MH" ]; then
+            VER=v1.19.30
+            curl -sSL -o /tmp/mihomo.gz \
+              "https://github.com/MetaCubeX/mihomo/releases/download/${VER}/mihomo-linux-amd64-${VER}.gz"
+            gunzip -f /tmp/mihomo.gz
+            install -m 0755 /tmp/mihomo /usr/local/bin/mihomo
+            MH=/usr/local/bin/mihomo
+          fi
+          curl -sSL -H 'User-Agent: clash-verge/1.6.6' -o /tmp/sub_full.yaml "$SUB_URL"
+          python3 - << 'PYEOF'
+          import yaml
+          cfg = yaml.safe_load(open('/tmp/sub_full.yaml'))
+          names = cfg.get('proxies', [])
+          order = [p for p in names if 'VN' in p.get('name', '').upper()] + \
+                  [p for p in names if 'SG' in p.get('name', '').upper()]
+          keep = order[:6]
+          groups = [{'name': 'POOL', 'type': 'fallback',
+                     'proxies': [p['name'] for p in keep],
+                     'url': 'http://www.gstatic.com/generate_204',
+                     'interval': 120}]
+          out = {'mixed-port': 7891, 'allow-lan': False, 'mode': 'rule',
+                 'log-level': 'warning', 'proxies': keep,
+                 'proxy-groups': groups, 'rules': ['MATCH,POOL']}
+          yaml.safe_dump(out, open('/tmp/mihomo_run.yaml', 'w'), allow_unicode=True)
+          print('picked:', [p['name'] for p in keep])
+          PYEOF
+          $MH -d /tmp -f /tmp/mihomo_run.yaml > /tmp/mihomo.log 2>&1 &
+          for i in $(seq 1 20); do
+            if curl -s -m 3 -x socks5h://127.0.0.1:7891 https://api.ipify.org > /tmp/exit_ip; then
+              break
+            fi
+            sleep 1
+          done
+          if [ ! -s /tmp/exit_ip ]; then
+            echo "proxy did not come up"; cat /tmp/mihomo.log; exit 1
+          fi
+          echo "proxy exit IP: $(cat /tmp/exit_ip)"
+
+      - name: Scan and publish on change
         env:
           SCANNER_TOKEN: ${{ secrets.SCANNER_TOKEN }}
+          NAMHAU_PROXY: socks5://127.0.0.1:7891
           EPG_URLS: "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_AL1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CZ1.xml.gz"
         run: |
           python3 scanner.py \
@@ -34,3 +104,30 @@ jobs:
             --github-repo hanhk112023-jpg/M3u \
             --github-path Socolive.json \
             --epg "$EPG_URLS"
+
+      - name: Relay (self-reschedule next scan)
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          PAUSE_SECS: 570
+        run: |
+          set -euo pipefail
+          echo "waiting ${PAUSE_SECS}s to space scans..."
+          sleep "${PAUSE_SECS}"
+          echo "scheduling next scan via repository_dispatch..."
+          curl -sS -f -X POST \
+            -H "Authorization: Bearer ${GH_TOKEN}" \
+            -H "Accept: application/vnd.github+json" \
+            -d '{"event_type":"scan"}' \
+            "https://api.github.com/repos/${REPO}/dispatches" \
+            -o /dev/null -w "relay dispatch %{http_code}\n"
+
+      - name: Upload scan report on failure
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: scan-report-${{ github.run_id }}
+          path: Socolive.json
+          retention-days: 7
+          if-no-files-found: ignore

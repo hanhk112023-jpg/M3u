@@ -346,6 +346,8 @@ def atomic_write(path: str, data: bytes) -> None:
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--api", default=DEFAULT_API)
+    parser.add_argument("--proxy", default=os.environ.get("NAMHAU_PROXY", ""),
+                        help="HTTP/SOCKS5 proxy (e.g. socks5://127.0.0.1:7891)")
     parser.add_argument("--out", default="Socolive.json",
                         help="local IPTV JSON output path")
     parser.add_argument("--m3u-out", default="",
@@ -360,13 +362,22 @@ def main() -> int:
     parser.add_argument("--github-path", default="Socolive.json")
     parser.add_argument("--epg", default="",
                         help="comma-separated XMLTV URLs for url-tvg")
-    parser.add_argument("--tvg-logo",
-                        default=("https://raw.githubusercontent.com/"
-                                 "hanhk112023-jpg/M3u/main/logo.png"),
-                        help="channel logo URL overriding per-room covers")
+    parser.add_argument("--tvg-logo", default="",
+                        help="channel logo URL overriding per-room covers; empty keeps match covers")
     parser.add_argument("--force-publish-hours", type=float, default=4.0,
                         help="republish after idle hours to refresh tokens; 0 disables")
     args = parser.parse_args()
+
+    # Route HTTP through a proxy when configured (e.g. GitHub Actions runner
+    # hitting a residential exit node to bypass the CDN's datacenter IP block).
+    if getattr(args, "proxy", ""):
+        handler = urllib.request.ProxyHandler({
+            "http": args.proxy,
+            "https": args.proxy,
+        })
+        urllib.request.install_opener(urllib.request.build_opener(handler))
+        logging.info("using proxy %s", args.proxy)
+
 
     logging.basicConfig(level=logging.INFO,
                         format="%(asctime)s %(levelname)s %(message)s")
