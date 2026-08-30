@@ -3,40 +3,42 @@
 # SOCOLIVE LIVE PLAYLIST
 # ======================================
 # Status       : ONLINE
-# Channels     : 16
-# Updated      : 30/08/2026 15:36:18
+# Channels     : 17
+# Updated      : 30/08/2026 15:37:18
 # Player       : OTT Navigator / TiviMate
 # ======================================
 
+#EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg" group-logo="https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg" group-title="SocoLive",FIBA WCQL: Australia vs Jordan - A CHÈ
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=36982b1afc968e64bdc21cf84e78c527&txTime=6a94400d
 #EXTINF:-1 tvg-id="room-459401" tvg-logo="https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4.jpg" group-logo="https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4.jpg" group-title="SocoLive",ROM D2: Politehnica Timisoara vs FC ASA Tg. Mures - BLV BÉO
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=3ccf8a264e79817be229c129cc60a19b&txTime=6a943fd1
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=74de899abe0042d6c2995536dd81cc2a&txTime=6a94400d
 #EXTINF:-1 tvg-id="room-491873" tvg-logo="https://sta.vnres.co/file/common/20250723/6b83b847d8944b57cc13043bae9fa7a8.jpg" group-logo="https://sta.vnres.co/file/common/20250723/6b83b847d8944b57cc13043bae9fa7a8.jpg" group-title="SocoLive",JPN D3: Giravanz Kitakyushu vs Matsumoto Yamaga FC - BLV VIP
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=208984d81fdeceb8af6a004b92079166&txTime=6a943fd1
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=b3cbbd1346763d021fb40062b51e1522&txTime=6a94400d
 #EXTINF:-1 tvg-id="room-501412" tvg-logo="https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png" group-logo="https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png" group-title="SocoLive",AUS QPL1: Sunshine Coast Wanderers FC vs Ipswich City - XUÂN SON
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=54a4bbc8a34a6425968a42ff0ebc0aac&txTime=6a943fd1
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=93b3ce41871a53b11adbb543ab71d4fe&txTime=6a94400d
 #EXTINF:-1 tvg-id="room-511367" tvg-logo="https://sta.vnres.co/file/common/20251121/6d691b0b9dfd9eeb599401a2499400f0.png" group-logo="https://sta.vnres.co/file/common/20251121/6d691b0b9dfd9eeb599401a2499400f0.png" group-title="SocoLive",KOR D3: Siheung City vs Pocheon FC - BLV WUKONG
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1788082561-0-0-034cdb78a0c52e38520fc7d9cdc38997
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1788082621-0-0-e2803c092e0393a3314031b623d18f5c
 #EXTINF:-1 tvg-id="room-610518" tvg-logo="https://sta.vnres.co/file/common/20260628/336b2e008de11bb26c1d4e0e46bc9f95.jpg" group-logo="https://sta.vnres.co/file/common/20260628/336b2e008de11bb26c1d4e0e46bc9f95.jpg" group-title="SocoLive",RUS D2: Yenisey Krasnoyarsk vs Shinnik Yaroslavl - XUÂN TÓC ĐỎ
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=611a0941f32e7e2f759995e2a787a9e8&txTime=6a943fd1
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=1ed31d5305d14f8ed8e903e3d9be618f&txTime=6a94400d
 #EXTINF:-1 tvg-id="room-620084" tvg-logo="https://sta.vnres.co/file/common/20260713/cbd81ea71d49b5b5f074a5f56678a9b6.png" group-logo="https://sta.vnres.co/file/common/20260713/cbd81ea71d49b5b5f074a5f56678a9b6.png" group-title="SocoLive",KOR D3: Siheung City vs Pocheon FC - PEANUT
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1788082561-0-0-a06164de9522ca04d9ec3376063711e0
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1788082621-0-0-ce3c6b44be4cad874ca9fc36f595ee32
 #EXTINF:-1 tvg-id="room-620504" tvg-logo="https://sta.vnres.co/file/common/20260802/d0b756ac34b8f00d22a6d687f86fe8b2.jpg" group-logo="https://sta.vnres.co/file/common/20260802/d0b756ac34b8f00d22a6d687f86fe8b2.jpg" group-title="SocoLive",AUT D2: SK Sturm Graz II vs SK Rapid II - BOSS
-https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=eb2d46425fa89326f6d441ad5552bc43&txTime=6a943fd1
+https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=57602c355fe2468a493a405ba84a0e77&txTime=6a94400d
 #EXTINF:-1 tvg-id="room-622241" tvg-logo="https://sta.vnres.co/file/common/20260828/0a19e4efc148afbb5c57d9ee5f69d612.jpg" group-logo="https://sta.vnres.co/file/common/20260828/0a19e4efc148afbb5c57d9ee5f69d612.jpg" group-title="SocoLive",ROM D2: Politehnica Timisoara vs FC ASA Tg. Mures - BLV HEHE
-https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1788082561-0-0-eb7b564d16e688093b30c52e3cd35e41
+https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1788082621-0-0-116c3a956dffcd2923fef360f3c620c2
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-title="SocoLive",ACQ: Hong Kong vs Indonesia - BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788082561-0-0-71321b9fd08d5b7f81db42fb66d1a027
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788082621-0-0-1f90c0dae3f63ea6c53545aa65046451
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg" group-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg" group-title="SocoLive",ACQ: Hong Kong vs Indonesia - CHAN SENA
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788082561-0-0-d35005a3410df1a8080fce87e1aac27a
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788082621-0-0-e76ddfecf56fe1850f4a8988d582d9bf
 #EXTINF:-1 tvg-id="room-9912127" tvg-logo="https://sta.vnres.co/file/common/20250320/efe293015c817dee46ccc81fa5e934d7.jpg" group-logo="https://sta.vnres.co/file/common/20250320/efe293015c817dee46ccc81fa5e934d7.jpg" group-title="SocoLive",AUT D2: SK Sturm Graz II vs SK Rapid II - BLV PIRLO
-https://pull.niues.live/live/stream-9912127_lhd.m3u8?auth_key=1788082561-0-0-196ecbe97d46e0f230c81707d91f9988
+https://pull.niues.live/live/stream-9912127_lhd.m3u8?auth_key=1788082621-0-0-518f39643a0ada9523b626fa93042a62
 #EXTINF:-1 tvg-id="room-9912133" tvg-logo="https://sta.vnres.co/file/common/20260411/c1490960e7f4b63fdc78206c576d2da8.png" group-logo="https://sta.vnres.co/file/common/20260411/c1490960e7f4b63fdc78206c576d2da8.png" group-title="SocoLive",AUS NPLQ: Queensland Lions SC vs Peninsula Power - LOKA
-https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1788082561-0-0-80a6732b31143e5606da59df12933599
+https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1788082621-0-0-ee99351012e799a1cf2efdced3c9d873
 #EXTINF:-1 tvg-id="room-9912138" tvg-logo="https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg" group-logo="https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg" group-title="SocoLive",AUS QPL1: Sunshine Coast Wanderers FC vs Ipswich City - TUẤN CÙI
-https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1788082561-0-0-4a091000baee0061f66303f87170e340
+https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1788082621-0-0-a585412af3cb71ee1f103c560e83887e
 #EXTINF:-1 tvg-id="room-9912141" tvg-logo="https://sta.vnres.co/file/common/20260824/9579d2a0c143f2633fac665f96906c48.jpg" group-logo="https://sta.vnres.co/file/common/20260824/9579d2a0c143f2633fac665f96906c48.jpg" group-title="SocoLive",AUS NPLQ: Queensland Lions SC vs Peninsula Power - BLV MESSI
-https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1788082561-0-0-aa707c3ad639904b6ab9b34914a636dd
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1788082621-0-0-030e4a3fa8f58d0b5ecf471328af7de5
 #EXTINF:-1 tvg-id="room-9912142" tvg-logo="https://sta.vnres.co/file/common/20260830/e91f5714d632cd830570221bcffcd791.png" group-logo="https://sta.vnres.co/file/common/20260830/e91f5714d632cd830570221bcffcd791.png" group-title="SocoLive",AUS NPLQ: Queensland Lions SC vs Peninsula Power - A BỆU
-https://pull.niur.live/live/stream-9912142_lhd.m3u8?txSecret=b14c8018fde4085595ddcca473e0e2b2&txTime=6a943fd1
+https://pull.niur.live/live/stream-9912142_lhd.m3u8?txSecret=7dfd1b1b168332a3bd92f0e825c65478&txTime=6a94400d
 #EXTINF:-1 tvg-id="room-9912143" tvg-logo="https://sta.vnres.co/file/common/20260805/c8068dd64589d2890066f1eacc273ab0.png" group-logo="https://sta.vnres.co/file/common/20260805/c8068dd64589d2890066f1eacc273ab0.png" group-title="SocoLive",AUS NPLQ: Queensland Lions SC vs Peninsula Power - NGƯỜI CÁ
-https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1788082561-0-0-e70b325f5dc6a397e1a05212398a0ab0
+https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1788082621-0-0-c03c31ffc2706ef601c2c74e432ec4ec
