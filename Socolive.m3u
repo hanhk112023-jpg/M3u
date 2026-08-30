@@ -1,86 +1,89 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_AL1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CZ1.xml.gz"
 # ======================================
-# SOCOLIVE LIVE PLAYLIST
+# SportsTV LIVE PLAYLIST
 # ======================================
 # Status       : ONLINE
-# Channels     : 38
-# Updated      : 30/08/2026 15:38:58
+# Channels     : 39
+# Updated      : 30/08/2026 15:53:35
 # Player       : OTT Navigator / TiviMate
 # ======================================
+#PLAYLIST:SportsTV
 
 #EXTINF:-1 tvg-id="room-291277" tvg-logo="https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg" group-logo="https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg" group-title="SocoLive",ENG PR: Manchester United vs Ipswich Town - CÔNG CHẤT
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=08d9075a8790277633112301d953a2f8&txTime=6a94a2b9
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=9ee9602577508a4ed87ab601123700f9&txTime=6a94a63d
 #EXTINF:-1 tvg-id="room-304148" tvg-logo="https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg" group-logo="https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg" group-title="SocoLive",GER D1: FC Augsburg vs Schalke 04 - BLV LUCAS
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788107881-0-0-f42279d783ba3e5678acdd5b2bca7d33
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788108781-0-0-ab6b5ae4806f084fcd6fe40a16cac197
 #EXTINF:-1 tvg-id="room-321443" tvg-logo="https://sta.vnres.co/file/common/20260603/54289b9ef989aba74cff5bfdee1d4656.png" group-logo="https://sta.vnres.co/file/common/20260603/54289b9ef989aba74cff5bfdee1d4656.png" group-title="SocoLive",SPA D1: Real Madrid vs Malaga - BLV GIÓ
-https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=415f96bbd00487bc1cdf77fed685aa65&txTime=6a94a2b9
+https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=647173593fcb88536ec7a76f1ad878e5&txTime=6a94a63d
 #EXTINF:-1 tvg-id="room-327159" tvg-logo="https://sta.vnres.co/file/common/20260804/75681fd6aa001c1bb1b8d3946dd69271.jpg" group-logo="https://sta.vnres.co/file/common/20260804/75681fd6aa001c1bb1b8d3946dd69271.jpg" group-title="SocoLive",HOL D1: SC Telstar vs AFC Ajax - BLV COCA
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1788107881-0-0-fdcde6d61e485009f4fcdb5bd5afb725
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1788108781-0-0-4d8e0761d2b6c8697a98ebbd5a1ba0df
 #EXTINF:-1 tvg-id="room-387694" tvg-logo="https://sta.vnres.co/file/common/20260830/7300049d9d3aa3d9b2c77f9d9c273b64.png" group-logo="https://sta.vnres.co/file/common/20260830/7300049d9d3aa3d9b2c77f9d9c273b64.png" group-title="SocoLive",ENG PR: Manchester United vs Ipswich Town - CR Bưởi
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=cfac5461cbfcb206c45d197fe495c170&txTime=6a94a2b9
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=f4466bbad49b250bf3459f8178e42342&txTime=6a94a63d
 #EXTINF:-1 tvg-id="room-414317" tvg-logo="https://sta.vnres.co/file/common/20260806/4c726754b547e8d50d1f1dd3d1304c4f.jpg" group-logo="https://sta.vnres.co/file/common/20260806/4c726754b547e8d50d1f1dd3d1304c4f.jpg" group-title="SocoLive",SPA D1: Real Madrid vs Malaga - THOMAS
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=aaf029b07b8af8da6348ca842e604665&txTime=6a94a2b9
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=cd636d33fe9770bcc4f3a9ea137587ee&txTime=6a94a63d
 #EXTINF:-1 tvg-id="room-491873" tvg-logo="https://sta.vnres.co/file/common/20250723/6b83b847d8944b57cc13043bae9fa7a8.jpg" group-logo="https://sta.vnres.co/file/common/20250723/6b83b847d8944b57cc13043bae9fa7a8.jpg" group-title="SocoLive",KSA PR: Al Hazem vs Al Shabab - BLV VIP
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=1e9a19e2b9355b30b0210ae973d44486&txTime=6a94a2b9
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=51680d3ee668882bda042c89bced7aac&txTime=6a94a63d
 #EXTINF:-1 tvg-id="room-501412" tvg-logo="https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png" group-logo="https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png" group-title="SocoLive",FRA D1: Stade Rennais FC vs Le Mans - XUÂN SON
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=495f59ffd5023c70f128af704dc1db60&txTime=6a94a2b9
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=73c89a9347391074d9094e18802a2846&txTime=6a94a63d
 #EXTINF:-1 tvg-id="room-511367" tvg-logo="https://sta.vnres.co/file/common/20251121/6d691b0b9dfd9eeb599401a2499400f0.png" group-logo="https://sta.vnres.co/file/common/20251121/6d691b0b9dfd9eeb599401a2499400f0.png" group-title="SocoLive",HOL D1: SC Telstar vs AFC Ajax - BLV WUKONG
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1788107881-0-0-4af679649fa1bb0cfd8d0a216b9dda7c
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1788108781-0-0-a18e3573e26ff5bb6a6cbc9d8bdabf46
 #EXTINF:-1 tvg-id="room-527384" tvg-logo="https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg" group-logo="https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg" group-title="SocoLive",SPA D1: Real Madrid vs Malaga - LÃO LÂM
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1788107881-0-0-d952356b87d41e3c2c8590ffac52d78b
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1788108781-0-0-10b6f6f63ba6bd57da0282aa63858c9d
 #EXTINF:-1 tvg-id="room-536185" tvg-logo="https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg" group-logo="https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg" group-title="SocoLive",KSA PR: Al Hazem vs Al Shabab - BLV A WIN
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788107881-0-0-8b4e8c4f3cd9a88c709a9e3681dbffae
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788108781-0-0-32771df267b24558d480cdafa4d5388c
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg" group-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg" group-title="SocoLive",WCPEU: Latvia vs Israel - HUNTER
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=46b1d7fbffc0d4a18c237347c192362b&txTime=6a94a2b9
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=2a6527c73434ba2641bcea5a70281782&txTime=6a94a63d
 #EXTINF:-1 tvg-id="room-582342" tvg-logo="https://sta.vnres.co/file/common/20260721/f2855aef78044156ad9e45d7985403d0.jpg" group-logo="https://sta.vnres.co/file/common/20260721/f2855aef78044156ad9e45d7985403d0.jpg" group-title="SocoLive",FRA D1: Stade Rennais FC vs Le Mans - BLV CÒ
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1788107881-0-0-699087dc336e21d889113c962032cc13
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1788108781-0-0-e551b8d8c69cceee57bb7fd70e6342f7
 #EXTINF:-1 tvg-id="room-602019" tvg-logo="https://sta.vnres.co/file/common/20260329/46d787b8716ab82aff515db39b5a55a1.jpg" group-logo="https://sta.vnres.co/file/common/20260329/46d787b8716ab82aff515db39b5a55a1.jpg" group-title="SocoLive",FRA D1: Stade Rennais FC vs Le Mans - BLV RYO
-https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=c6a91e5871b4f1bbb27b99247fefa0ad&txTime=6a94a2b9
+https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=64efa586bccf15ce4e0723e9b1db6c4d&txTime=6a94a63d
 #EXTINF:-1 tvg-id="room-607552" tvg-logo="https://sta.vnres.co/file/common/20260522/f2b4ef051d1e02300d2d5bf24f3828f0.png" group-logo="https://sta.vnres.co/file/common/20260522/f2b4ef051d1e02300d2d5bf24f3828f0.png" group-title="SocoLive",GER D1: FC Augsburg vs Schalke 04 - ĐỖ TÚ TÀI
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1788107881-0-0-6c9c7907cb7023c097a70964171509e1
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1788108781-0-0-88c7f7900e9234c665040f20f963c128
 #EXTINF:-1 tvg-id="room-610518" tvg-logo="https://sta.vnres.co/file/common/20260628/336b2e008de11bb26c1d4e0e46bc9f95.jpg" group-logo="https://sta.vnres.co/file/common/20260628/336b2e008de11bb26c1d4e0e46bc9f95.jpg" group-title="SocoLive",GER D1: FC Augsburg vs Schalke 04 - XUÂN TÓC ĐỎ
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=78a98b757a101abc29712abfc7b5fcbc&txTime=6a94a2b9
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=4001c6f3bb67828c59e9021b21e922e6&txTime=6a94a63d
 #EXTINF:-1 tvg-id="room-619561" tvg-logo="https://sta.vnres.co/file/common/20260729/d06a0efe274bce28547238bec2a125b9.jpg" group-logo="https://sta.vnres.co/file/common/20260729/d06a0efe274bce28547238bec2a125b9.jpg" group-title="SocoLive",HOL D1: SC Telstar vs AFC Ajax - BÚN ĐẬU
-https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1788107881-0-0-8dd7a22fe9bf09cccb27ae694148b452
+https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1788108781-0-0-a59555369c71bd7c9d9f067b1195e27a
 #EXTINF:-1 tvg-id="room-620504" tvg-logo="https://sta.vnres.co/file/common/20260802/d0b756ac34b8f00d22a6d687f86fe8b2.jpg" group-logo="https://sta.vnres.co/file/common/20260802/d0b756ac34b8f00d22a6d687f86fe8b2.jpg" group-title="SocoLive",FRA D1: Stade Rennais FC vs Le Mans - BOSS
-https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=be1fc81b658c1a76a2c3031c7c3de6af&txTime=6a94a2b9
+https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=40979d92988c5b6e88caf3096ec53d63&txTime=6a94a63d
 #EXTINF:-1 tvg-id="room-620797" tvg-logo="https://sta.vnres.co/file/common/20260721/eae172928facf755dbf2027ca230e55e.png" group-logo="https://sta.vnres.co/file/common/20260721/eae172928facf755dbf2027ca230e55e.png" group-title="SocoLive",GER D1: FC Augsburg vs Schalke 04 - BÒ TƯƠI
-https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1788107881-0-0-3625725d96907ac30cb6a93cfe06c1b7
+https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1788108781-0-0-1c7593bdb87020cf2af425c9211ee0dd
 #EXTINF:-1 tvg-id="room-621840" tvg-logo="https://sta.vnres.co/file/common/20260810/042a00493898027e5f644f6f24e88c53.png" group-logo="https://sta.vnres.co/file/common/20260810/042a00493898027e5f644f6f24e88c53.png" group-title="SocoLive",HOL D1: SC Telstar vs AFC Ajax - MP3
-https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=64c89240da0ba3f3180bc63ea750d845&txTime=6a94a2b9
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=1f9cad768727e13ff42a3ea82082b4cb&txTime=6a94a63d
 #EXTINF:-1 tvg-id="room-621843" tvg-logo="https://sta.vnres.co/file/common/20260813/5d212275a6562e784f8ce4dd82466681.png" group-logo="https://sta.vnres.co/file/common/20260813/5d212275a6562e784f8ce4dd82466681.png" group-title="SocoLive",SCO PR: Aberdeen F.C. vs Rangers F.C. - BLV BẢY
-https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1788107881-0-0-358573597404f98add151f520522f27f
+https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1788108781-0-0-f44c0b3e00f1af25523c501ea3b8625e
 #EXTINF:-1 tvg-id="room-622093" tvg-logo="https://sta.vnres.co/file/common/20260703/fe517d18a8df723cee92683347d70be9.jpg" group-logo="https://sta.vnres.co/file/common/20260703/fe517d18a8df723cee92683347d70be9.jpg" group-title="SocoLive",GER D1: FC Augsburg vs Schalke 04 - GRAP
-https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=5ab886d11682d055b055813c70584eef&txTime=6a94a2b9
+https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=ec7fc1f50c6d89a62f724c9d7387bbc5&txTime=6a94a63d
 #EXTINF:-1 tvg-id="room-9912008" tvg-logo="https://sta.vnres.co/file/common/20260830/7cbdafc1d05e9805776b7248df6919df.jpg" group-logo="https://sta.vnres.co/file/common/20260830/7cbdafc1d05e9805776b7248df6919df.jpg" group-title="SocoLive",ENG PR: Manchester United vs Ipswich Town - BLV TOMIA
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1788107881-0-0-eccb5f0bf79e777827a9a50837155ba7
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1788108781-0-0-4fd92bd67fccebb05dccd0cc84c71097
 #EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56.jpg" group-logo="https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56.jpg" group-title="SocoLive",ENG PR: Manchester United vs Ipswich Town - BLV TAP
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=bc53c3260a5e5fbdba5488e1286c4de3&txTime=6a94a2b9
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=a723e32519a64e40ca78446f7bd391e0&txTime=6a94a63d
 #EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260830/7d4849af6cdd0f3765b4ac949e265374.jpg" group-logo="https://sta.vnres.co/file/common/20260830/7d4849af6cdd0f3765b4ac949e265374.jpg" group-title="SocoLive",SPA D1: Real Madrid vs Malaga - BLV Củ Cải
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788107881-0-0-2ecdbb197bc67be3c4742cd4ff3fbe9b
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788108781-0-0-f3389114761a63ab785da8f001fd0616
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-title="SocoLive",WCPAF: Guinea vs Cameroon - KING
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788107881-0-0-9a3d3a4cc4452f1d10d112450935952f
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788108781-0-0-eacc23f442c04a6b08574cc5d1106543
 #EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260830/fe1085d07fa4cbbffc2d78cca4076ffc.png" group-logo="https://sta.vnres.co/file/common/20260830/fe1085d07fa4cbbffc2d78cca4076ffc.png" group-title="SocoLive",ENG PR: Manchester United vs Ipswich Town - BLV ZOWIE
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788107881-0-0-d512c8b901d0a7e377c560d9a6508f1a
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788108781-0-0-f9fd5380bb0f76be461976366aa5757b
 #EXTINF:-1 tvg-id="room-9912119" tvg-logo="https://sta.vnres.co/file/common/20260829/f624027ec79ccc757bf8d5a663d63763.jpg" group-logo="https://sta.vnres.co/file/common/20260829/f624027ec79ccc757bf8d5a663d63763.jpg" group-title="SocoLive",ENG PR: Manchester United vs Ipswich Town - HẢI THANH
-https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1788107881-0-0-d27687775ac722fd8db92e32a528f7b0
+https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1788108781-0-0-0fc8b534572eedafab46195c373f7061
 #EXTINF:-1 tvg-id="room-9912122" tvg-logo="https://sta.vnres.co/file/common/20260620/4cbae14a2d06d1635a160fc8c2beb182.jpg" group-logo="https://sta.vnres.co/file/common/20260620/4cbae14a2d06d1635a160fc8c2beb182.jpg" group-title="SocoLive",ENG PR: Manchester United vs Ipswich Town - RICKHANTER
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=89c7b5f2dc88c2a044ae1ea71c736e8a&txTime=6a94a2b9
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=48994dabf122ec8c54be001f357c41db&txTime=6a94a63d
 #EXTINF:-1 tvg-id="room-9912127" tvg-logo="https://sta.vnres.co/file/common/20250320/efe293015c817dee46ccc81fa5e934d7.jpg" group-logo="https://sta.vnres.co/file/common/20250320/efe293015c817dee46ccc81fa5e934d7.jpg" group-title="SocoLive",GER D1: FC Augsburg vs Schalke 04 - BLV PIRLO
-https://pull.niues.live/live/stream-9912127_lhd.m3u8?auth_key=1788107881-0-0-3e7503d9536ed49e23f60d8390dad9df
+https://pull.niues.live/live/stream-9912127_lhd.m3u8?auth_key=1788108781-0-0-0c9c30f6bb83045f2d9d8374f3dbffeb
 #EXTINF:-1 tvg-id="room-9912129" tvg-logo="https://sta.vnres.co/file/common/20260830/b1595d8e0b9153429b86b8f55d78f446.jpg" group-logo="https://sta.vnres.co/file/common/20260830/b1595d8e0b9153429b86b8f55d78f446.jpg" group-title="SocoLive",ENG PR: Manchester United vs Ipswich Town - QUỐC KHÁNH
-https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=d012f729bc1ec8042c87228e1e6a6617&txTime=6a94a2b9
+https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=ecf76ab80e2650248c8ed54131d2ee5e&txTime=6a94a63d
+#EXTINF:-1 tvg-id="room-9912130" tvg-logo="https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png" group-logo="https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png" group-title="SocoLive",ITA D1: Napoli vs Como - BLV A TÚ
+https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788108781-0-0-2d5c1b29cb155901dc92bd24342c9c16
 #EXTINF:-1 tvg-id="room-9912131" tvg-logo="https://sta.vnres.co/file/common/20260609/b3e04b0f7d210d67052a911512e39f54.jpg" group-logo="https://sta.vnres.co/file/common/20260609/b3e04b0f7d210d67052a911512e39f54.jpg" group-title="SocoLive",TUR D1: Eyupspor vs Alanyaspor - CHÍ PHÈO
-https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1788107881-0-0-4125079b45247249248f9c19961487ea
+https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1788108781-0-0-2b10f93d6e8309489a06cc5e72139d44
 #EXTINF:-1 tvg-id="room-9912140" tvg-logo="https://sta.vnres.co/file/common/20260807/a76465a880a2789f42e440cf03e9db6b.jpg" group-logo="https://sta.vnres.co/file/common/20260807/a76465a880a2789f42e440cf03e9db6b.jpg" group-title="SocoLive",SPA D1: Real Madrid vs Malaga - SAO LA
-https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=062002aba1dd8a00ac2b4a8e53e965a1&txTime=6a94a2b9
+https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=1d98a4d8d300450011cabe12f358b647&txTime=6a94a63d
 #EXTINF:-1 tvg-id="room-9912142" tvg-logo="https://sta.vnres.co/file/common/20260830/683bbb96de277e28f88b1d08678ac124.png" group-logo="https://sta.vnres.co/file/common/20260830/683bbb96de277e28f88b1d08678ac124.png" group-title="SocoLive",SPA D1: Real Madrid vs Malaga - A BỆU
-https://pull.niur.live/live/stream-9912142_lhd.m3u8?txSecret=c698557b932776fd2c42c919b91ea880&txTime=6a94a2b9
+https://pull.niur.live/live/stream-9912142_lhd.m3u8?txSecret=7f2cdfb830b1cd5e7a5e0e2c514c677b&txTime=6a94a63d
 #EXTINF:-1 tvg-id="room-9912143" tvg-logo="https://sta.vnres.co/file/common/20260805/c8068dd64589d2890066f1eacc273ab0.png" group-logo="https://sta.vnres.co/file/common/20260805/c8068dd64589d2890066f1eacc273ab0.png" group-title="SocoLive",ENG PR: Manchester United vs Ipswich Town - NGƯỜI CÁ
-https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1788107881-0-0-d902729b94b6f818fc09cb9d6bb5be2c
+https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1788108781-0-0-0f9f70e808176f235a6fa83eb49fa2fc
 #EXTINF:-1 tvg-id="room-9912144" tvg-logo="https://sta.vnres.co/file/common/20260730/7804d6332c85f80cc4843609598de690.jpg" group-logo="https://sta.vnres.co/file/common/20260730/7804d6332c85f80cc4843609598de690.jpg" group-title="SocoLive",ENG PR: Manchester United vs Ipswich Town - BÁ PHÚ
-https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788107881-0-0-2ea601038f3ac025aa8855871464b14b
+https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788108781-0-0-e111fc00379399349eebf5b068a883aa
 #EXTINF:-1 tvg-id="room-9912145" tvg-logo="https://sta.vnres.co/file/common/20260830/2be3cbdedecca2a88d4b2acbd63b3ffd.jpg" group-logo="https://sta.vnres.co/file/common/20260830/2be3cbdedecca2a88d4b2acbd63b3ffd.jpg" group-title="SocoLive",ENG PR: Manchester United vs Ipswich Town - ZIDANE
-https://pull.niur.live/live/stream-9912145_lhd.m3u8?txSecret=77ddd1ac658ef1063f44b57e45a4bbe6&txTime=6a94a2b9
+https://pull.niur.live/live/stream-9912145_lhd.m3u8?txSecret=3c649247e34b1e7c594bc3cfe59ddbc6&txTime=6a94a63d
 #EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260829/f6903a1879b3c7cc22d27c658db14d94.png" group-logo="https://sta.vnres.co/file/common/20260829/f6903a1879b3c7cc22d27c658db14d94.png" group-title="SocoLive",ENG PR: Manchester United vs Ipswich Town - BLV CUỘI
-https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788107881-0-0-8ec0fc11acd3b3bc9b888258b3e5bc43
+https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788108781-0-0-92debbefe5dfd4ba29161cd02212d4d2
