@@ -3,45 +3,41 @@
 # SportsTV LIVE PLAYLIST
 # ======================================
 # Status       : ONLINE
-# Channels     : 18
-# Updated      : 31/08/2026 02:13:24
+# Channels     : 16
+# Updated      : 31/08/2026 02:28:28
 # Player       : OTT Navigator / TiviMate
 # ======================================
 #PLAYLIST:SportsTV
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260328/01acc641be84c58f2062ca50bf94b25a.jpg" group-logo="https://sta.vnres.co/file/common/20260328/01acc641be84c58f2062ca50bf94b25a.jpg" group-title="SocoLive",MEX D1: Rayados de Monterrey vs Atletico San Luis - A PÁO
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788145981-0-0-88efce280ca28fef8e2c4f1deae0c7e9
-#EXTINF:-1 tvg-id="room-327159" tvg-logo="https://sta.vnres.co/file/common/20260804/75681fd6aa001c1bb1b8d3946dd69271.jpg" group-logo="https://sta.vnres.co/file/common/20260804/75681fd6aa001c1bb1b8d3946dd69271.jpg" group-title="SocoLive",ARG D1: Independiente Rivadavia vs Racing Club de Avellaneda - BLV COCA
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1788145981-0-0-28dd26a452a2e7027f52fdab298a5716
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788146881-0-0-5d9e2d97d4d3c18deba30f04462026dd
 #EXTINF:-1 tvg-id="room-380460" tvg-logo="https://sta.vnres.co/file/common/20260827/1d4f9eca02a381435aaec138589dd9ef.jpg" group-logo="https://sta.vnres.co/file/common/20260827/1d4f9eca02a381435aaec138589dd9ef.jpg" group-title="SocoLive",USA MLSRv: San Jose Earthquakes Reserve vs Los Angeles FC II - BLV ENZO
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1788145981-0-0-3dbf7fe41bab2434060ba3122c9be162
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1788146881-0-0-3e2a7669f13d50ce7bf8c1dd02402e14
 #EXTINF:-1 tvg-id="room-387694" tvg-logo="https://sta.vnres.co/file/common/20260831/32aba348ae774ed3559295ed03a6723c.PNG" group-logo="https://sta.vnres.co/file/common/20260831/32aba348ae774ed3559295ed03a6723c.PNG" group-title="SocoLive",MEX D1: Rayados de Monterrey vs Atletico San Luis - CR Bưởi
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=82214542024e773f97b2c9db846477ab&txTime=6a95378d
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=8d6a90750211aba5f0548ceecff5c8ed&txTime=6a953b11
 #EXTINF:-1 tvg-id="room-414317" tvg-logo="https://sta.vnres.co/file/common/20260806/4c726754b547e8d50d1f1dd3d1304c4f.jpg" group-logo="https://sta.vnres.co/file/common/20260806/4c726754b547e8d50d1f1dd3d1304c4f.jpg" group-title="SocoLive",MEX D1: Rayados de Monterrey vs Atletico San Luis - THOMAS
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=dec77e257eb8da414eac743721b4ffeb&txTime=6a95378d
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=86ae37628e468a0d904b8b4735997d98&txTime=6a953b11
 #EXTINF:-1 tvg-id="room-552832" tvg-logo="https://sta.vnres.co/file/common/20251111/6a43978efb637082f6eb906c1e7f1621.jpg" group-logo="https://sta.vnres.co/file/common/20251111/6a43978efb637082f6eb906c1e7f1621.jpg" group-title="SocoLive",USA MLSRv: San Jose Earthquakes Reserve vs Los Angeles FC II - LOGAN
-https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=f5208bb6be05ef6b3c6665725d72c142&txTime=6a95378d
+https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=49a18ecc88ddce794e86c9c14adec2a2&txTime=6a953b11
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg" group-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg" group-title="SocoLive",LNBP: Gambusinos vs Lobos Plateados - HUNTER
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=1a5141e8d1a4761bc761772237994689&txTime=6a95378d
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=c2453efd5c8574f1b0116efe596aa2c3&txTime=6a953b11
 #EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg" group-logo="https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg" group-title="SocoLive",ARG D1: Independiente Rivadavia vs Racing Club de Avellaneda - CƠM NẾP
-https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788145981-0-0-9fa7b91d6ef74cbb80d65522c4b8cb0e
+https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788146778-0-0-28d8515b1b3614836ea5ae504f4e186b
 #EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260831/4cf809c9929194fa709341f9388f0aeb.png" group-logo="https://sta.vnres.co/file/common/20260831/4cf809c9929194fa709341f9388f0aeb.png" group-title="SocoLive",MEX D1: Rayados de Monterrey vs Atletico San Luis - BLV Củ Cải
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788145981-0-0-a7c45f936b641d5829d9968828ba5f85
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788146881-0-0-29ad9ed01fe294bdb262d141d79540db
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-title="SocoLive",LNBP: Gambusinos vs Lobos Plateados - KING
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788145981-0-0-7ff3224a27d68fa7bb6006635d8b00e2
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788146881-0-0-e484faf04ea3546d5d1c035f7f7861b8
 #EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg" group-logo="https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg" group-title="SocoLive",USA MLSRv: San Jose Earthquakes Reserve vs Los Angeles FC II - BLV RÔSI
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=fe9cd3e9c6bf9ce1cd658c0623da5494&txTime=6a95378d
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=a705a3e8cad1597aa51bd106a126e91c&txTime=6a953b11
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-title="SocoLive",WNBA: Dallas Wings W vs Connecticut Sun W - BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788145981-0-0-e2866a18781ebece9b5301060d313356
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788146881-0-0-8347413b723594db0b7c55278aa633a8
 #EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260831/caac4db30e51ab3213e882c77bf88da5.png" group-logo="https://sta.vnres.co/file/common/20260831/caac4db30e51ab3213e882c77bf88da5.png" group-title="SocoLive",MEX D1: Rayados de Monterrey vs Atletico San Luis - BLV ZOWIE
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788145981-0-0-1df172f14f788a1f3254e7b8269eadd3
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788146881-0-0-e1e1be7a909a4025c6aeb47004669818
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg" group-logo="https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg" group-title="SocoLive",WNBA: Dallas Wings W vs Connecticut Sun W - BLV HENRY
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788145981-0-0-faaaa833244a0b721bea292fe1ab4000
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788146881-0-0-a0eea57b604f4b64a37c9c26512fe883
 #EXTINF:-1 tvg-id="room-9912122" tvg-logo="https://sta.vnres.co/file/common/20260620/4cbae14a2d06d1635a160fc8c2beb182.jpg" group-logo="https://sta.vnres.co/file/common/20260620/4cbae14a2d06d1635a160fc8c2beb182.jpg" group-title="SocoLive",ARG D1: Independiente Rivadavia vs Racing Club de Avellaneda - RICKHANTER
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=2699e8504128a4366ad5713ea6b60fa4&txTime=6a95378d
-#EXTINF:-1 tvg-id="room-9912127" tvg-logo="https://sta.vnres.co/file/common/20250320/efe293015c817dee46ccc81fa5e934d7.jpg" group-logo="https://sta.vnres.co/file/common/20250320/efe293015c817dee46ccc81fa5e934d7.jpg" group-title="SocoLive",ARG D1: Independiente Rivadavia vs Racing Club de Avellaneda - BLV PIRLO
-https://pull.niues.live/live/stream-9912127_lhd.m3u8?auth_key=1788145981-0-0-67aa52567fbd73262fb400bfd710dfc7
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=ad37127ade5443b3712e69ff25169a22&txTime=6a953ae0
 #EXTINF:-1 tvg-id="room-9912129" tvg-logo="https://sta.vnres.co/file/common/20260831/3e123f795761f1e62f09740306f47083.jpg" group-logo="https://sta.vnres.co/file/common/20260831/3e123f795761f1e62f09740306f47083.jpg" group-title="SocoLive",USA MLSRv: San Jose Earthquakes Reserve vs Los Angeles FC II - QUỐC KHÁNH
-https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=2824fb64be6c7b0627bc1280d7e97c6a&txTime=6a95378d
+https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=c7f1dea46e619bb803d37ae8930e12b0&txTime=6a953b11
 #EXTINF:-1 tvg-id="room-9912144" tvg-logo="https://sta.vnres.co/file/common/20260730/7804d6332c85f80cc4843609598de690.jpg" group-logo="https://sta.vnres.co/file/common/20260730/7804d6332c85f80cc4843609598de690.jpg" group-title="SocoLive",MEX D1: Rayados de Monterrey vs Atletico San Luis - BÁ PHÚ
-https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788145981-0-0-4778c529dcaf98d66daa2f92479a48c3
+https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788146881-0-0-60588d59cc2c357f165a857a556d2e93
