@@ -3,27 +3,33 @@
 # SportsTV LIVE PLAYLIST
 # ======================================
 # Status       : ONLINE
-# Channels     : 9
-# Updated      : 31/08/2026 21:29:54
+# Channels     : 12
+# Updated      : 31/08/2026 21:34:44
 # Player       : OTT Navigator / TiviMate
 # ======================================
 #PLAYLIST:SportsTV
 
+#EXTINF:-1 tvg-id="room-602019" tvg-logo="https://sta.vnres.co/file/common/20260329/46d787b8716ab82aff515db39b5a55a1.jpg" group-logo="https://sta.vnres.co/file/common/20260329/46d787b8716ab82aff515db39b5a55a1.jpg" group-title="SocoLive",CHI D1: Union La Calera vs Deportes La Serena - BLV RYO
+https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=175bc3d7d0a42f3467357c3d3b6377de&txTime=6a9647a9
+#EXTINF:-1 tvg-id="room-603255" tvg-logo="https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7.png" group-logo="https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7.png" group-title="SocoLive",ARG D1: Defensa Y Justicia vs CA Platense - BLV LION
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1788215641-0-0-6a6f2546dc6cafc01f682492f7240a66
 #EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg" group-logo="https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg" group-title="SocoLive",ARG D1: Estudiantes La Plata vs Club Atlético Newell's Old Boys - HÀ DUY KIÊN
-https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=c8d65504f63dab06a900e65604dcfbb4&txTime=6a96467d
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=c494551e39da6480042f7bba371c5738&txTime=6a9647a9
+#EXTINF:-1 tvg-id="room-621887" tvg-logo="https://sta.vnres.co/file/common/20260728/c2935ca02d759ee77531ff32719f1b21.png" group-logo="https://sta.vnres.co/file/common/20260728/c2935ca02d759ee77531ff32719f1b21.png" group-title="SocoLive",ARG D1: Estudiantes La Plata vs Club Atlético Newell's Old Boys - CHAN ĐÊ
+https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1788215641-0-0-0d0768d8cdf5f290549804c733466f30
+#EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg" group-logo="https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg" group-title="SocoLive",CHI D1: Union La Calera vs Deportes La Serena - KENCHU
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788215641-0-0-c43ae030ee26e69287cc835bbb3545cd
 #EXTINF:-1 tvg-id="room-9912130" tvg-logo="https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png" group-logo="https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png" group-title="SocoLive",ARG D1: Defensa Y Justicia vs CA Platense - BLV A TÚ
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788215341-0-0-992b1fc099d349f82fabaed511cef807
+https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788215641-0-0-775b92915bc4542584800da1e2a854d2
 #EXTINF:-1 tvg-id="room-9912131" tvg-logo="https://sta.vnres.co/file/common/20260609/b3e04b0f7d210d67052a911512e39f54.jpg" group-logo="https://sta.vnres.co/file/common/20260609/b3e04b0f7d210d67052a911512e39f54.jpg" group-title="SocoLive",SPA D1: FC Barcelona vs Rayo Vallecano - CHÍ PHÈO
-https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1788215341-0-0-93889f244bc7caf8e461a653f8763c28
-#EXTINF:-1 tvg-id="room-9912132" tvg-logo="https://sta.vnres.co/file/common/20260613/cc7eb6fb9d74dfa083a48c861b135ae8.jpg" group-logo="https://sta.vnres.co/file/common/20260613/cc7eb6fb9d74dfa083a48c861b135ae8.jpg" group-title="SocoLive",SPA D1: FC Barcelona vs Rayo Vallecano - BLV XO
-https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=4d6657980cb192cd51cdd9b6e7523a04&txTime=6a96467d
+https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1788215641-0-0-55209441c6b8d098b23605a823499e05
 #EXTINF:-1 tvg-id="room-9912133" tvg-logo="https://sta.vnres.co/file/common/20260411/c1490960e7f4b63fdc78206c576d2da8.png" group-logo="https://sta.vnres.co/file/common/20260411/c1490960e7f4b63fdc78206c576d2da8.png" group-title="SocoLive",SPA D1: FC Barcelona vs Rayo Vallecano - LOKA
-https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1788215341-0-0-aaa0da274cf2ff07a76e5a15413b999a
+https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1788215651-0-0-b7d57fd4b5d513a0ea5a34fdc343f96b
 #EXTINF:-1 tvg-id="room-9912136" tvg-logo="https://sta.vnres.co/file/common/20260810/b792b2c329f2ffe44037f2d5973945de.jpg" group-logo="https://sta.vnres.co/file/common/20260810/b792b2c329f2ffe44037f2d5973945de.jpg" group-title="SocoLive",SPA D1: FC Barcelona vs Rayo Vallecano - BLV LONG
-https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=713b7dc2bff250a90d7787abbc314b50&txTime=6a96467d
+https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=5221a3e084d8343412709b8cf4109376&txTime=6a9647c8
 #EXTINF:-1 tvg-id="room-9912139" tvg-logo="https://sta.vnres.co/file/common/20260317/5be300857a15349a5324be170237948b.png" group-logo="https://sta.vnres.co/file/common/20260317/5be300857a15349a5324be170237948b.png" group-title="SocoLive",ARG D1: Estudiantes La Plata vs Club Atlético Newell's Old Boys - BLV A TINH
-https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=826c18a37acd7dcb4ba4e5f73492a1db&txTime=6a96467d
+https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=3c32c82f7b3c075c0aa30ff4a93625ee&txTime=6a9647a9
 #EXTINF:-1 tvg-id="room-9912141" tvg-logo="https://sta.vnres.co/file/common/20260824/9579d2a0c143f2633fac665f96906c48.jpg" group-logo="https://sta.vnres.co/file/common/20260824/9579d2a0c143f2633fac665f96906c48.jpg" group-title="SocoLive",SPA D1: FC Barcelona vs Rayo Vallecano - BLV MESSI
-https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1788215341-0-0-c3c7a749cf1a7b8fc5b1fe028df4799a
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1788215641-0-0-8b2a0bea728504dd5d5b532957b2d0f0
 #EXTINF:-1 tvg-id="room-9912142" tvg-logo="https://sta.vnres.co/file/common/20260830/683bbb96de277e28f88b1d08678ac124.png" group-logo="https://sta.vnres.co/file/common/20260830/683bbb96de277e28f88b1d08678ac124.png" group-title="SocoLive",SPA D1: FC Barcelona vs Rayo Vallecano - A BỆU
-https://pull.niur.live/live/stream-9912142_lhd.m3u8?txSecret=3eb543b20286b8c20a7208e70df5f54b&txTime=6a96467d
+https://pull.niur.live/live/stream-9912142_lhd.m3u8?txSecret=08370e00d5a405a7ecbdb763bd01e300&txTime=6a9647a9
