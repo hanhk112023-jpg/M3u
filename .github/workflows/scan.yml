@@ -86,9 +86,15 @@ jobs:
           yaml.safe_dump(out, open('/tmp/mihomo_run.yaml', 'w'), allow_unicode=True)
           print('picked (url-test):', [p['name'] for p in keep])
           PYEOF
-          $MH -d /tmp -f /tmp/mihomo_run.yaml > /tmp/mihomo.log 2>&1 &
-          for i in $(seq 1 20); do
-            if curl -s -m 3 -x socks5h://127.0.0.1:7891 https://api.ipify.org > /tmp/exit_ip; then
+          # IMPORTANT: dùng thư mục -d RIÊNG SẠCH (không reuse /tmp) — nếu không
+          # mihomo sẽ dùng config mặc định của thư mục đó và bỏ qua mixed-port,
+          # dẫn tới listen sai port + "proxy did not come up".
+          mkdir -p /tmp/mhd
+          cp /tmp/mihomo_run.yaml /tmp/mhd/mihomo_run.yaml
+          $MH -d /tmp/mhd -f /tmp/mhd/mihomo_run.yaml > /tmp/mihomo.log 2>&1 &
+          echo $! > /tmp/mhd.pid
+          for i in $(seq 1 30); do
+            if curl -s -m 5 -x socks5h://127.0.0.1:7891 http://api.ipify.org > /tmp/exit_ip 2>/dev/null; then
               break
             fi
             sleep 1
