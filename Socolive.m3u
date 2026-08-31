@@ -3,27 +3,19 @@
 # SportsTV LIVE PLAYLIST
 # ======================================
 # Status       : ONLINE
-# Channels     : 9
-# Updated      : 31/08/2026 04:26:31
+# Channels     : 5
+# Updated      : 31/08/2026 04:36:43
 # Player       : OTT Navigator / TiviMate
 # ======================================
 #PLAYLIST:SportsTV
 
 #EXTINF:-1 tvg-id="room-133277" tvg-logo="https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg" group-logo="https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg" group-title="SocoLive",Tường thuật: ENG PR - Manchester United vs Ipswich Town - Gà xào sả ớt
-https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=f174196e1603dbe944286d418e05decd&txTime=6a9556b9
+https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=92b1db011f494a86b03132c6961381d4&txTime=6a955911
 #EXTINF:-1 tvg-id="room-133824" tvg-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg" group-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg" group-title="SocoLive",Tường thuật: ENG PR - Sunderland vs Fulham - Bò leo rào
-https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=e3329dfd4d39d31a9210163fb9a1debb&txTime=6a9556b9
+https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=16a69d45b29d53c335936ba4e482cb1f&txTime=6a955911
 #EXTINF:-1 tvg-id="room-152898" tvg-logo="https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png" group-logo="https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png" group-title="SocoLive",Tường thuật: ENG PR - Leeds United vs Brentford - Thỏ giang hồ
-https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=640218e5ab6050cb4b9b98b2607f7823&txTime=6a9556b9
+https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=5fcd68d1614d6e74f610b1904b14c296&txTime=6a955911
 #EXTINF:-1 tvg-id="room-179093" tvg-logo="https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg" group-logo="https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg" group-title="SocoLive",Tường thuật: SPA D1 - RC Celta vs Athletic Club - Hươu đau cổ
-https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=dfa52c04b4b83f97e774f35a452ab4fb&txTime=6a9556b9
+https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=04e42d5f0d8d70fb2fb80f6c19d91383&txTime=6a955911
 #EXTINF:-1 tvg-id="room-343500" tvg-logo="https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg" group-logo="https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg" group-title="SocoLive",Tường thuật: ENG PR - Chelsea vs Brighton Hove Albion - Mèo méo meo
-https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=e70b6c96d88f064ce95aabcec28bcaef&txTime=6a9556b9
-#EXTINF:-1 tvg-id="room-380460" tvg-logo="https://sta.vnres.co/file/common/20260827/1d4f9eca02a381435aaec138589dd9ef.jpg" group-logo="https://sta.vnres.co/file/common/20260827/1d4f9eca02a381435aaec138589dd9ef.jpg" group-title="SocoLive",USA MLSRv: San Jose Earthquakes Reserve vs Los Angeles FC II - BLV ENZO
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1788153961-0-0-8edb1ad4a32858cf0fe6332097e8f20f
-#EXTINF:-1 tvg-id="room-552832" tvg-logo="https://sta.vnres.co/file/common/20251111/6a43978efb637082f6eb906c1e7f1621.jpg" group-logo="https://sta.vnres.co/file/common/20251111/6a43978efb637082f6eb906c1e7f1621.jpg" group-title="SocoLive",USA MLSRv: San Jose Earthquakes Reserve vs Los Angeles FC II - LOGAN
-https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=6d73bb524653963c7601b6bfea92ffd9&txTime=6a9556b9
-#EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg" group-logo="https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg" group-title="SocoLive",USA MLSRv: San Jose Earthquakes Reserve vs Los Angeles FC II - BLV RÔSI
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=8d49514e67333fa08e984c8f80ae806a&txTime=6a9556b9
-#EXTINF:-1 tvg-id="room-9912129" tvg-logo="https://sta.vnres.co/file/common/20260831/3e123f795761f1e62f09740306f47083.jpg" group-logo="https://sta.vnres.co/file/common/20260831/3e123f795761f1e62f09740306f47083.jpg" group-title="SocoLive",USA MLSRv: San Jose Earthquakes Reserve vs Los Angeles FC II - QUỐC KHÁNH
-https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=286623be91b46c020a78236d6030e0b5&txTime=6a9556b9
+https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=25db5990708bfda199aeaecddb21ebba&txTime=6a955911
