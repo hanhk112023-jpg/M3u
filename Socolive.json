@@ -5,16 +5,7 @@
     "name": "MEX D1: Rayados de Monterrey vs Atletico San Luis - A PÁO",
     "logo": "https://sta.vnres.co/file/common/20260328/01acc641be84c58f2062ca50bf94b25a.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788145381-0-0-25e90b863a057eab63b3c5ffdfa69e2d",
-    "type": "hls"
-  },
-  {
-    "id": "291277",
-    "tvg_id": "room-291277",
-    "name": "MEX D1: Toluca vs FC Juarez - CÔNG CHẤT",
-    "logo": "https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=b686a287457b34728a4581ca2eed358a\u0026txTime=6a953535",
+    "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788145681-0-0-f616d1ff094e1c8937d6a12239fcc12d",
     "type": "hls"
   },
   {
@@ -23,7 +14,7 @@
     "name": "ARG D1: Independiente Rivadavia vs Racing Club de Avellaneda - BLV COCA",
     "logo": "https://sta.vnres.co/file/common/20260804/75681fd6aa001c1bb1b8d3946dd69271.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1788145381-0-0-8cdc45ee83ec2d36054afd04241fc056",
+    "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1788145681-0-0-2ac6b21100a383d2eb536d9cb78e3aa6",
     "type": "hls"
   },
   {
@@ -32,7 +23,7 @@
     "name": "MEX D1: Rayados de Monterrey vs Atletico San Luis - CR Bưởi",
     "logo": "https://sta.vnres.co/file/common/20260831/32aba348ae774ed3559295ed03a6723c.PNG",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=03971c50fa2e571a070538bdd9677933\u0026txTime=6a953535",
+    "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=88a6f50dfc740489809813a505c0d57b\u0026txTime=6a953661",
     "type": "hls"
   },
   {
@@ -41,7 +32,7 @@
     "name": "MEX D1: Rayados de Monterrey vs Atletico San Luis - THOMAS",
     "logo": "https://sta.vnres.co/file/common/20260806/4c726754b547e8d50d1f1dd3d1304c4f.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=e40cffecf69698a0aef17cea5a696f0a\u0026txTime=6a953535",
+    "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=9f303ae773493fc5aa7b07b1a68f22d0\u0026txTime=6a953661",
     "type": "hls"
   },
   {
@@ -50,7 +41,7 @@
     "name": "USA MLSRv: San Jose Earthquakes Reserve vs Los Angeles FC II - LOGAN",
     "logo": "https://sta.vnres.co/file/common/20251111/6a43978efb637082f6eb906c1e7f1621.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=e692db485d5155ee71b809f78af11f65\u0026txTime=6a953535",
+    "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=11bbdc65bd50d9b4518d7ab42647fcda\u0026txTime=6a953661",
     "type": "hls"
   },
   {
@@ -59,7 +50,7 @@
     "name": "LNBP: Gambusinos vs Lobos Plateados - HUNTER",
     "logo": "https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=44b8d61e26c9fedc028c9dfc4e26cab4\u0026txTime=6a953535",
+    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=093b144e37213eb336617147cf661894\u0026txTime=6a953661",
     "type": "hls"
   },
   {
@@ -68,7 +59,16 @@
     "name": "ARG D1: Independiente Rivadavia vs Racing Club de Avellaneda - CƠM NẾP",
     "logo": "https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788145381-0-0-5bcd0ea2fd765bd498451fa696332574",
+    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788145681-0-0-922f730613f15f803db42ad6f6f7a738",
+    "type": "hls"
+  },
+  {
+    "id": "9912091",
+    "tvg_id": "room-9912091",
+    "name": "MEX D1: Rayados de Monterrey vs Atletico San Luis - BLV Củ Cải",
+    "logo": "https://sta.vnres.co/file/common/20260831/4cf809c9929194fa709341f9388f0aeb.png",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788145681-0-0-bd6aaf81c5450f77cc65e9d8b9a4421a",
     "type": "hls"
   },
   {
@@ -77,7 +77,7 @@
     "name": "LNBP: Gambusinos vs Lobos Plateados - KING",
     "logo": "https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788145381-0-0-9a204f2d84b0b11048c092b6b762173f",
+    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788145681-0-0-d890a33161180d2122d5e0ae8b85d5ff",
     "type": "hls"
   },
   {
@@ -86,7 +86,7 @@
     "name": "USA MLSRv: San Jose Earthquakes Reserve vs Los Angeles FC II - BLV RÔSI",
     "logo": "https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=13ffd26c271fef9930105119ee9e8ede\u0026txTime=6a953535",
+    "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=dc1d7bbf1b0ee89a8fbef9be13c7d7f4\u0026txTime=6a953661",
     "type": "hls"
   },
   {
@@ -95,7 +95,7 @@
     "name": "WNBA: Dallas Wings W vs Connecticut Sun W - BRIAN",
     "logo": "https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788145381-0-0-62c9b391b27f66988dac2d21509373a1",
+    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788145681-0-0-6a730a3610260e9be87a50dfc50bcdee",
     "type": "hls"
   },
   {
@@ -104,7 +104,16 @@
     "name": "MEX D1: Rayados de Monterrey vs Atletico San Luis - BLV ZOWIE",
     "logo": "https://sta.vnres.co/file/common/20260831/caac4db30e51ab3213e882c77bf88da5.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788145381-0-0-99726715b3e27dcf88b366c48ade54cd",
+    "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788145681-0-0-2064d6fd403006d3780682974e1e62ea",
+    "type": "hls"
+  },
+  {
+    "id": "9912112",
+    "tvg_id": "room-9912112",
+    "name": "WNBA: Dallas Wings W vs Connecticut Sun W - BLV HENRY",
+    "logo": "https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788145681-0-0-1c8df2ed1951367acdffcb797bf8e2f3",
     "type": "hls"
   },
   {
@@ -113,7 +122,7 @@
     "name": "ARG D1: Independiente Rivadavia vs Racing Club de Avellaneda - RICKHANTER",
     "logo": "https://sta.vnres.co/file/common/20260620/4cbae14a2d06d1635a160fc8c2beb182.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=ce8024e7b459d2cf35c736b52b2f12de\u0026txTime=6a953535",
+    "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=8fb3bcd0131c1b9d6a9dbf600e516c09\u0026txTime=6a953661",
     "type": "hls"
   },
   {
@@ -122,7 +131,25 @@
     "name": "ARG D1: Independiente Rivadavia vs Racing Club de Avellaneda - BLV PIRLO",
     "logo": "https://sta.vnres.co/file/common/20250320/efe293015c817dee46ccc81fa5e934d7.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912127_lhd.m3u8?auth_key=1788145381-0-0-4017ce056abeffc9ce716395c28eb418",
+    "url": "https://pull.niues.live/live/stream-9912127_lhd.m3u8?auth_key=1788145681-0-0-b97f8cd265680f0a3a1f94a5eb3108fd",
+    "type": "hls"
+  },
+  {
+    "id": "9912129",
+    "tvg_id": "room-9912129",
+    "name": "USA MLSRv: San Jose Earthquakes Reserve vs Los Angeles FC II - QUỐC KHÁNH",
+    "logo": "https://sta.vnres.co/file/common/20260831/3e123f795761f1e62f09740306f47083.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=4b9f0854d686697785176c058e488fd2\u0026txTime=6a953661",
+    "type": "hls"
+  },
+  {
+    "id": "9912144",
+    "tvg_id": "room-9912144",
+    "name": "MEX D1: Rayados de Monterrey vs Atletico San Luis - BÁ PHÚ",
+    "logo": "https://sta.vnres.co/file/common/20260730/7804d6332c85f80cc4843609598de690.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788145681-0-0-677ee9362abaaabb6edfff8c8d7ef633",
     "type": "hls"
   }
 ]
