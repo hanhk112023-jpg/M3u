@@ -3,53 +3,45 @@
 # SportsTV LIVE PLAYLIST
 # ======================================
 # Status       : ONLINE
-# Channels     : 22
-# Updated      : 31/08/2026 20:41:51
+# Channels     : 18
+# Updated      : 31/08/2026 20:46:39
 # Player       : OTT Navigator / TiviMate
 # ======================================
 #PLAYLIST:SportsTV
 
 #EXTINF:-1 tvg-id="room-291277" tvg-logo="https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg" group-logo="https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg" group-title="SocoLive",ENG PR: Aston Villa vs Arsenal - CÔNG CHẤT
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=fa422a4e0de0d7c4a02a0dd70ede7f53&txTime=6a963b3d
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=f3cccfa9f078697a11416df8ecab6d3f&txTime=6a963c69
 #EXTINF:-1 tvg-id="room-387694" tvg-logo="https://sta.vnres.co/file/common/20260901/206b0bedc9f40cce0bed4562c3bd474c.png" group-logo="https://sta.vnres.co/file/common/20260901/206b0bedc9f40cce0bed4562c3bd474c.png" group-title="SocoLive",ENG PR: Aston Villa vs Arsenal - CR Bưởi
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=358e7f42df9846923e8281188836db40&txTime=6a963b3d
-#EXTINF:-1 tvg-id="room-511367" tvg-logo="https://sta.vnres.co/file/common/20251121/6d691b0b9dfd9eeb599401a2499400f0.png" group-logo="https://sta.vnres.co/file/common/20251121/6d691b0b9dfd9eeb599401a2499400f0.png" group-title="SocoLive",ITA D1: Atalanta vs Bologna - BLV WUKONG
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1788212461-0-0-ee8b025399c028364ec566fc7cfb2947
-#EXTINF:-1 tvg-id="room-527384" tvg-logo="https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg" group-logo="https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg" group-title="SocoLive",ITA D1: Atalanta vs Bologna - LÃO LÂM
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1788212461-0-0-fbc1fa4bf39fb67fdb11db0a2307f43c
-#EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg" group-logo="https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg" group-title="SocoLive",ITA D1: Atalanta vs Bologna - BLV ALEX
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788212485-0-0-fbb51eef4d7d617775de446b80e9d67f
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=1175b3f33aea7974e7982e4629b1c492&txTime=6a963c69
 #EXTINF:-1 tvg-id="room-536185" tvg-logo="https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg" group-logo="https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg" group-title="SocoLive",POR D1: Benfica vs Estoril - BLV A WIN
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788212461-0-0-00e312c6fecfb432d2a80de847502ebb
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788212761-0-0-6a2003542d76222fc114bbb4742d3255
 #EXTINF:-1 tvg-id="room-610518" tvg-logo="https://sta.vnres.co/file/common/20260628/336b2e008de11bb26c1d4e0e46bc9f95.jpg" group-logo="https://sta.vnres.co/file/common/20260628/336b2e008de11bb26c1d4e0e46bc9f95.jpg" group-title="SocoLive",POR D1: Sporting Braga vs Vitoria Guimaraes - XUÂN TÓC ĐỎ
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=69b6eb0bb249cb639e77c9810f3086ab&txTime=6a963b3d
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=9b06762171460410287b15aa62cbfbf9&txTime=6a963c69
 #EXTINF:-1 tvg-id="room-621843" tvg-logo="https://sta.vnres.co/file/common/20260813/5d212275a6562e784f8ce4dd82466681.png" group-logo="https://sta.vnres.co/file/common/20260813/5d212275a6562e784f8ce4dd82466681.png" group-title="SocoLive",POR D1: Sporting Braga vs Vitoria Guimaraes - BLV BẢY
-https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1788212461-0-0-f2b37ac37082eb0e857e4abbb133576b
+https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1788212761-0-0-47a8710d2740c461c80f30fc945a6ff3
 #EXTINF:-1 tvg-id="room-622093" tvg-logo="https://sta.vnres.co/file/common/20260703/fe517d18a8df723cee92683347d70be9.jpg" group-logo="https://sta.vnres.co/file/common/20260703/fe517d18a8df723cee92683347d70be9.jpg" group-title="SocoLive",POR D1: Benfica vs Estoril - GRAP
-https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=717fcfb44aea6a47e852aefc816996f1&txTime=6a963b3d
+https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=a15e71a6e637ba29969d6aaa23ea9a20&txTime=6a963c69
 #EXTINF:-1 tvg-id="room-991140" tvg-logo="https://sta.vnres.co/file/common/20240614/d900dd8841b1223c7b58554cde34df75.jpg" group-logo="https://sta.vnres.co/file/common/20240614/d900dd8841b1223c7b58554cde34df75.jpg" group-title="SocoLive",ENG PR: Aston Villa vs Arsenal - BLV FIREMAN
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788212461-0-0-d75f27a505d5611650ff13637b2d7e6e
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788212761-0-0-5ba0ec41c554e7d9eee3c623783dae0b
 #EXTINF:-1 tvg-id="room-9912008" tvg-logo="https://sta.vnres.co/file/common/20260831/7c64c0a0fec3bf5cf09804100116876a.png" group-logo="https://sta.vnres.co/file/common/20260831/7c64c0a0fec3bf5cf09804100116876a.png" group-title="SocoLive",ENG PR: Aston Villa vs Arsenal - BLV TOMIA
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1788212461-0-0-aecdbba76af36b2cd74c005c2e046d9a
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1788212761-0-0-7e0248b94989692a14b0a9e5f8055874
 #EXTINF:-1 tvg-id="room-9912119" tvg-logo="https://sta.vnres.co/file/common/20260829/f624027ec79ccc757bf8d5a663d63763.jpg" group-logo="https://sta.vnres.co/file/common/20260829/f624027ec79ccc757bf8d5a663d63763.jpg" group-title="SocoLive",ENG PR: Aston Villa vs Arsenal - HẢI THANH
-https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1788212461-0-0-cd75c8c14e6cdfaddcae439c1ec0859e
+https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1788212761-0-0-be1b9badd1131a34f82320c86d3344c3
 #EXTINF:-1 tvg-id="room-9912122" tvg-logo="https://sta.vnres.co/file/common/20260620/4cbae14a2d06d1635a160fc8c2beb182.jpg" group-logo="https://sta.vnres.co/file/common/20260620/4cbae14a2d06d1635a160fc8c2beb182.jpg" group-title="SocoLive",ENG PR: Aston Villa vs Arsenal - RICKHANTER
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=c9a5ec0e7e105a5726a5e4f5ead3d14c&txTime=6a963b3d
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=4ce832eabc452a241b98841f1a9ecc28&txTime=6a963c69
 #EXTINF:-1 tvg-id="room-9912130" tvg-logo="https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png" group-logo="https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png" group-title="SocoLive",POR D1: Benfica vs Estoril - BLV A TÚ
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788212461-0-0-23a559525fe1b9b70436362fb0513398
+https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788212761-0-0-840c1dde7fc865ace07480e53381cd28
 #EXTINF:-1 tvg-id="room-9912131" tvg-logo="https://sta.vnres.co/file/common/20260609/b3e04b0f7d210d67052a911512e39f54.jpg" group-logo="https://sta.vnres.co/file/common/20260609/b3e04b0f7d210d67052a911512e39f54.jpg" group-title="SocoLive",SPA D1: FC Barcelona vs Rayo Vallecano - CHÍ PHÈO
-https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1788212461-0-0-5111dfdcf41d9ecb98344f31cca5a967
+https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1788212761-0-0-992c25f30dbef7534f240fbd7713c1e3
 #EXTINF:-1 tvg-id="room-9912132" tvg-logo="https://sta.vnres.co/file/common/20260613/cc7eb6fb9d74dfa083a48c861b135ae8.jpg" group-logo="https://sta.vnres.co/file/common/20260613/cc7eb6fb9d74dfa083a48c861b135ae8.jpg" group-title="SocoLive",SPA D1: FC Barcelona vs Rayo Vallecano - BLV XO
-https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=4708591ba8c5f2e1b833917add746298&txTime=6a963b3d
+https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=778c3290262b21b9bdcdf3e845763d91&txTime=6a963c69
 #EXTINF:-1 tvg-id="room-9912133" tvg-logo="https://sta.vnres.co/file/common/20260411/c1490960e7f4b63fdc78206c576d2da8.png" group-logo="https://sta.vnres.co/file/common/20260411/c1490960e7f4b63fdc78206c576d2da8.png" group-title="SocoLive",SPA D1: FC Barcelona vs Rayo Vallecano - LOKA
-https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1788212461-0-0-44e50d4cf2bf45bf925bb578e8caded5
+https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1788212761-0-0-0f9b972fb001379434f62d1c0682fecb
 #EXTINF:-1 tvg-id="room-9912136" tvg-logo="https://sta.vnres.co/file/common/20260810/b792b2c329f2ffe44037f2d5973945de.jpg" group-logo="https://sta.vnres.co/file/common/20260810/b792b2c329f2ffe44037f2d5973945de.jpg" group-title="SocoLive",SPA D1: FC Barcelona vs Rayo Vallecano - BLV LONG
-https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=196ae6b34abc252040cf04ee5d132dc8&txTime=6a963b3d
+https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=d6f9682dd809872aeade35de57ecbf3c&txTime=6a963c69
 #EXTINF:-1 tvg-id="room-9912138" tvg-logo="https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg" group-logo="https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg" group-title="SocoLive",POR D1: Benfica vs Estoril - TUẤN CÙI
-https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1788212461-0-0-62b8ca33b3f18de3b4edfbff6ccf8eb8
-#EXTINF:-1 tvg-id="room-9912139" tvg-logo="https://sta.vnres.co/file/common/20260317/5be300857a15349a5324be170237948b.png" group-logo="https://sta.vnres.co/file/common/20260317/5be300857a15349a5324be170237948b.png" group-title="SocoLive",ITA D1: Atalanta vs Bologna - BLV A TINH
-https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=0b35412fb7b3c91fe76ae782ec27bce4&txTime=6a963b0e
+https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1788212761-0-0-5e07f6990cede06bcaa2d9d9c7669873
 #EXTINF:-1 tvg-id="room-9912141" tvg-logo="https://sta.vnres.co/file/common/20260824/9579d2a0c143f2633fac665f96906c48.jpg" group-logo="https://sta.vnres.co/file/common/20260824/9579d2a0c143f2633fac665f96906c48.jpg" group-title="SocoLive",SPA D1: FC Barcelona vs Rayo Vallecano - BLV MESSI
-https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1788212461-0-0-9a043f437df560f80775ee3ab40d945a
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1788212761-0-0-4f65ff164ae4eea48e4396a4cf3fb86f
 #EXTINF:-1 tvg-id="room-9912142" tvg-logo="https://sta.vnres.co/file/common/20260830/683bbb96de277e28f88b1d08678ac124.png" group-logo="https://sta.vnres.co/file/common/20260830/683bbb96de277e28f88b1d08678ac124.png" group-title="SocoLive",SPA D1: FC Barcelona vs Rayo Vallecano - A BỆU
-https://pull.niur.live/live/stream-9912142_lhd.m3u8?txSecret=d11845da851799f1df27af57c15aac73&txTime=6a963b3d
+https://pull.niur.live/live/stream-9912142_lhd.m3u8?txSecret=1980c73b5dbafd81a80f0da66eaa8c90&txTime=6a963c69
