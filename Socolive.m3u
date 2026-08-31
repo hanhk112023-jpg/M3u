@@ -3,27 +3,29 @@
 # SportsTV LIVE PLAYLIST
 # ======================================
 # Status       : ONLINE
-# Channels     : 9
-# Updated      : 31/08/2026 07:36:17
+# Channels     : 10
+# Updated      : 31/08/2026 07:56:04
 # Player       : OTT Navigator / TiviMate
 # ======================================
 #PLAYLIST:SportsTV
 
 #EXTINF:-1 tvg-id="room-133277" tvg-logo="https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg" group-logo="https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg" group-title="SocoLive",Tường thuật: ENG PR - Manchester United vs Ipswich Town - Gà xào sả ớt
-https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=ea065ed1d02082ec3c4f35b07e3517f0&txTime=6a958341
+https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=d6083bc0a120e4651b082dbb8ca66f90&txTime=6a9587b5
 #EXTINF:-1 tvg-id="room-133824" tvg-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg" group-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg" group-title="SocoLive",Tường thuật: ENG PR - Sunderland vs Fulham - Bò leo rào
-https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=fb2be37afccbc75bbee7d6069ad2fbec&txTime=6a958341
+https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=39251b886050b10abc2fdc8879d8c6f0&txTime=6a9587b5
 #EXTINF:-1 tvg-id="room-152898" tvg-logo="https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png" group-logo="https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png" group-title="SocoLive",Tường thuật: ENG PR - Leeds United vs Brentford - Thỏ giang hồ
-https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=34fe4b3f2f4ffdfc3d216ca4f684c42d&txTime=6a958341
+https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=7883ddd0338774f909e49c18db75c900&txTime=6a9587b5
 #EXTINF:-1 tvg-id="room-179093" tvg-logo="https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg" group-logo="https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg" group-title="SocoLive",Tường thuật: SPA D1 - RC Celta vs Athletic Club - Hươu đau cổ
-https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=7dac438df3634527b2ef604c62669d84&txTime=6a958341
+https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=11980d2fec218e0eb62bb42daf33c63f&txTime=6a9587b5
 #EXTINF:-1 tvg-id="room-343500" tvg-logo="https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg" group-logo="https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg" group-title="SocoLive",Tường thuật: ENG PR - Chelsea vs Brighton Hove Albion - Mèo méo meo
-https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=f067ff6dfc552d3370d4b0b9d2ab0eec&txTime=6a958341
+https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=3e38de3ebc89be4994923c76ed0c6a90&txTime=6a9587b5
+#EXTINF:-1 tvg-id="room-527384" tvg-logo="https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg" group-logo="https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg" group-title="SocoLive",AFC U20: Iraq U20 vs Turkmenistan U20 - LÃO LÂM
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1788166501-0-0-7d8cd311fda5d3cdbdaf348220fdbf91
 #EXTINF:-1 tvg-id="room-9912079" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg" group-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg" group-title="SocoLive",Tường thuật: SPA D1 - RC Deportivo vs Valencia CF - Rắn ở đáy sông
-https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=f711e3f4052527ccf938d7bf88498be1&txTime=6a958341
+https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=b4be2567ad63f7450e995607099088e5&txTime=6a9587b5
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-title="SocoLive",ACQ: Hong Kong vs Singapore - KING
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788165361-0-0-5cb035e7c0506b9bbace1c29bcc2d143
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788166501-0-0-8848ff5916e18b583cf945fd68f949b8
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-title="SocoLive",ACQ: Vietnam vs Fiji - BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788165361-0-0-1066d45162406564383acbb2c2475e29
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788166501-0-0-4aada534fa3fa666d262af8bc9e8d15a
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg" group-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg" group-title="SocoLive",ACQ: Vietnam vs Fiji - CHAN SENA
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788165361-0-0-1beee6238a06a527c2eba40a63cf6a96
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788166501-0-0-fa988022755d6045a37612fa9f252697
