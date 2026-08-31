@@ -5,7 +5,7 @@
     "name": "Tường thuật: ENG PR - Sunderland vs Fulham - Bò leo rào",
     "logo": "https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=0292d17d9e90ce7feb870e882cdb3506\u0026txTime=6a95b749",
+    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=16758675da01bb8a466ba8a8ef9dd9d9\u0026txTime=6a95b839",
     "type": "hls"
   },
   {
@@ -14,7 +14,7 @@
     "name": "Tường thuật: ENG PR - Leeds United vs Brentford - Thỏ giang hồ",
     "logo": "https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=3f535b9f258d0ead195466e7f1a68c81\u0026txTime=6a95b749",
+    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=ba1cdd0c3107fddcfe7c7c90f6ef7e3b\u0026txTime=6a95b839",
     "type": "hls"
   },
   {
@@ -23,7 +23,7 @@
     "name": "AFC U20: Myanmar U20 vs Sri Lanka U20 - BLV COCA",
     "logo": "https://sta.vnres.co/file/common/20260804/75681fd6aa001c1bb1b8d3946dd69271.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1788178681-0-0-60743e9a6cd36a2d74350cf01d7b8537",
+    "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1788178921-0-0-309f5483cac88fed1ae1004144371693",
     "type": "hls"
   },
   {
@@ -32,7 +32,7 @@
     "name": "ACL2: Persib Bandung vs Manila Digger FC - BLV BÉO",
     "logo": "https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=fce28a044273bb9087e009ff92c022a8\u0026txTime=6a95b749",
+    "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=ea6952d23310d00032d4a92380fab5df\u0026txTime=6a95b839",
     "type": "hls"
   },
   {
@@ -41,7 +41,16 @@
     "name": "AFC U20: Myanmar U20 vs Sri Lanka U20 - BLV NOVA",
     "logo": "https://sta.vnres.co/file/common/20260720/9b537b664ce0364f46b19b262f29b1d6.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-619108_lhd.m3u8?auth_key=1788178681-0-0-32700dabc2d12a9a261f3d37f7d68f00",
+    "url": "https://pull.niues.live/live/stream-619108_lhd.m3u8?auth_key=1788178921-0-0-febf462460c45a6b2b140970997dd273",
+    "type": "hls"
+  },
+  {
+    "id": "627718",
+    "tvg_id": "room-627718",
+    "name": "ARM D1: Sadarakpat vs FC Syunik - A MÂN",
+    "logo": "https://sta.vnres.co/file/common/20260831/8c106fa0fe146cf7929663e53e921ba0.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1788178921-0-0-f05160729b24150bb420fc49e52c8ca9",
     "type": "hls"
   },
   {
@@ -50,7 +59,7 @@
     "name": "FIBA WCQL: South Korea vs Saudi Arabia - BRIAN",
     "logo": "https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788178681-0-0-3552f884c043a7caec97d8c5c85765db",
+    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788178921-0-0-a2ff242be00aefa2ed8dd75c48282d55",
     "type": "hls"
   },
   {
@@ -59,7 +68,16 @@
     "name": "FIBA WCQL: Japan vs Qatar - CHAN SENA",
     "logo": "https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788178681-0-0-a8c20bbef198abcfd35933590b4ba45f",
+    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788178921-0-0-e07c7884308f99453a75d0876f30a749",
+    "type": "hls"
+  },
+  {
+    "id": "9912143",
+    "tvg_id": "room-9912143",
+    "name": "AFC U20: Vietnam U20 vs Korea DPR U20 - NGƯỜI CÁ",
+    "logo": "https://sta.vnres.co/file/common/20260805/c8068dd64589d2890066f1eacc273ab0.png",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-9912143_lhd.m3u8?txSecret=e4cea9bbc3a8d5ebd45213247e248515\u0026txTime=6a95b839",
     "type": "hls"
   },
   {
@@ -68,7 +86,7 @@
     "name": "ACL2: Persib Bandung vs Manila Digger FC - BLV CUỘI",
     "logo": "https://sta.vnres.co/file/common/20260829/f6903a1879b3c7cc22d27c658db14d94.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788178681-0-0-2b5b917aae8f51a0835361819ac283bb",
+    "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788178921-0-0-54836dc7cc057255e8a261c7ce819029",
     "type": "hls"
   }
 ]
