@@ -86,6 +86,23 @@ jobs:
           yaml.safe_dump(out, open('/tmp/mihomo_run.yaml', 'w'), allow_unicode=True)
           print('picked (url-test):', [p['name'] for p in keep])
           PYEOF
+          # GitHub không cần proxy (không chặn datacenter) — đi trực tiếp để tránh
+          # TLS break khi publish. Chỉ traffic tới json.vnres.co / soco cần proxy.
+          python3 - << 'PYEOF'
+          import yaml
+          cfg = yaml.safe_load(open('/tmp/mihomo_run.yaml'))
+          rules = [
+              'DOMAIN-SUFFIX,github.com,DIRECT',
+              'DOMAIN-SUFFIX,githubusercontent.com,DIRECT',
+              'DOMAIN-SUFFIX,github.io,DIRECT',
+              'DOMAIN-SUFFIX,gstatic.com,DIRECT',
+              'DOMAIN-SUFFIX,ggpht.com,DIRECT',
+              'MATCH,POOL',
+          ]
+          cfg['rules'] = rules
+          cfg['log-level'] = 'info'
+          yaml.safe_dump(cfg, open('/tmp/mihomo_run.yaml', 'w'), allow_unicode=True)
+          PYEOF
           # IMPORTANT: dùng thư mục -d RIÊNG SẠCH (không reuse /tmp) — nếu không
           # mihomo sẽ dùng config mặc định của thư mục đó và bỏ qua mixed-port,
           # dẫn tới listen sai port + "proxy did not come up".
