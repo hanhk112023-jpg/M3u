@@ -3,41 +3,43 @@
 # SportsTV LIVE PLAYLIST
 # ======================================
 # Status       : ONLINE
-# Channels     : 16
-# Updated      : 31/08/2026 01:33:20
+# Channels     : 17
+# Updated      : 31/08/2026 01:38:53
 # Player       : OTT Navigator / TiviMate
 # ======================================
 #PLAYLIST:SportsTV
 
 #EXTINF:-1 tvg-id="room-291277" tvg-logo="https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg" group-logo="https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg" group-title="SocoLive",MEX D1: Toluca vs FC Juarez - CÔNG CHẤT
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=c8e1b2cf22ce799aa162a4fc46072e24&txTime=6a952e2d
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=f05509a557fd5f1d03b29e0050072b78&txTime=6a952f59
 #EXTINF:-1 tvg-id="room-327159" tvg-logo="https://sta.vnres.co/file/common/20260804/75681fd6aa001c1bb1b8d3946dd69271.jpg" group-logo="https://sta.vnres.co/file/common/20260804/75681fd6aa001c1bb1b8d3946dd69271.jpg" group-title="SocoLive",ARG D1: Independiente Rivadavia vs Racing Club de Avellaneda - BLV COCA
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1788143581-0-0-be169c9e3b4f5b9e69aa998e1b07a509
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1788143881-0-0-d528d7624f559dcb501253c88b24b196
 #EXTINF:-1 tvg-id="room-387694" tvg-logo="https://sta.vnres.co/file/common/20260831/32aba348ae774ed3559295ed03a6723c.PNG" group-logo="https://sta.vnres.co/file/common/20260831/32aba348ae774ed3559295ed03a6723c.PNG" group-title="SocoLive",MEX D1: Rayados de Monterrey vs Atletico San Luis - CR Bưởi
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=676a4609ac58d2416a3ac44c2bf5c629&txTime=6a952e2d
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=301d9aeeb16956b752c75d60886837ed&txTime=6a952f59
 #EXTINF:-1 tvg-id="room-414317" tvg-logo="https://sta.vnres.co/file/common/20260806/4c726754b547e8d50d1f1dd3d1304c4f.jpg" group-logo="https://sta.vnres.co/file/common/20260806/4c726754b547e8d50d1f1dd3d1304c4f.jpg" group-title="SocoLive",MEX D1: Toluca vs FC Juarez - THOMAS
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=00bdc14d59393778a68fe82df4f1a141&txTime=6a952e2d
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=a9f19f3c6664302b869a4a61dc3796ff&txTime=6a952f59
 #EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg" group-logo="https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg" group-title="SocoLive",CHI D1: Coquimbo Unido vs Huachipato - BLV RAMBO
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=e6b7b9ff3bce043084daced4f82316bf&txTime=6a952e2d
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=9ccedec3d8bfa53e443671d9479ddea6&txTime=6a952f59
+#EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg" group-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg" group-title="SocoLive",LNBP: Gambusinos vs Lobos Plateados - HUNTER
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=5d0d6586b3e15c1e732a1410176702a5&txTime=6a952f59
 #EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg" group-logo="https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg" group-title="SocoLive",CHI D1: Coquimbo Unido vs Huachipato - HÀ DUY KIÊN
-https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=4866e051f4f7d8e279b4a9502cbcdd38&txTime=6a952e2d
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=2f420edc0e5ceb3aff60d7f7fd36344d&txTime=6a952f59
 #EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg" group-logo="https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg" group-title="SocoLive",ARG D1: Independiente Rivadavia vs Racing Club de Avellaneda - CƠM NẾP
-https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788143581-0-0-799f66a0fddd0acb9dee70beb8cb5cfa
+https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788143881-0-0-7d5efd15c3932b298a7dfa4b05683328
 #EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56.jpg" group-logo="https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56.jpg" group-title="SocoLive",MEX D1: Toluca vs FC Juarez - BLV TAP
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=f4cf907f525386394469c8ca22c3ae3c&txTime=6a952e2d
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=073e7037a27faa391ad36d641a421148&txTime=6a952f59
 #EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260831/4cf809c9929194fa709341f9388f0aeb.png" group-logo="https://sta.vnres.co/file/common/20260831/4cf809c9929194fa709341f9388f0aeb.png" group-title="SocoLive",MEX D1: Toluca vs FC Juarez - BLV Củ Cải
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788143581-0-0-1da5ad7cfc00608c32288b3655caff91
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788143881-0-0-29d249a26170d737cc241e2f216c5ad4
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-title="SocoLive",LNBP: Gambusinos vs Lobos Plateados - KING
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788143581-0-0-ef359f0866d98b6b6ba9f4cf92d1e827
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788143881-0-0-906ea5ea4e1e6270249959b29f72dea0
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-title="SocoLive",WNBA: Dallas Wings W vs Connecticut Sun W - BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788143581-0-0-4446a704422a40507826da34d2661ecd
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788143881-0-0-4d71fbe2e48a1371418ebc8e98ffba25
 #EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260831/caac4db30e51ab3213e882c77bf88da5.png" group-logo="https://sta.vnres.co/file/common/20260831/caac4db30e51ab3213e882c77bf88da5.png" group-title="SocoLive",MEX D1: Toluca vs FC Juarez - BLV ZOWIE
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788143581-0-0-b90f8c81a2e25016147c37c56373370c
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788143881-0-0-7fefe2462d66184a1ee8e4e4e25e5e9b
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg" group-logo="https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg" group-title="SocoLive",WNBA: Dallas Wings W vs Connecticut Sun W - BLV HENRY
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788143581-0-0-0fbd839e842f02dd6a5b9aeff138167d
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788143881-0-0-4fcc3c4e35b5b0a57301f6d0795db41b
 #EXTINF:-1 tvg-id="room-9912122" tvg-logo="https://sta.vnres.co/file/common/20260620/4cbae14a2d06d1635a160fc8c2beb182.jpg" group-logo="https://sta.vnres.co/file/common/20260620/4cbae14a2d06d1635a160fc8c2beb182.jpg" group-title="SocoLive",ARG D1: Independiente Rivadavia vs Racing Club de Avellaneda - RICKHANTER
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=d73b71aa25fd5f82fc7a9c44792201fd&txTime=6a952e2d
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=50448054401759e307041cfe55202cf8&txTime=6a952f59
 #EXTINF:-1 tvg-id="room-9912127" tvg-logo="https://sta.vnres.co/file/common/20250320/efe293015c817dee46ccc81fa5e934d7.jpg" group-logo="https://sta.vnres.co/file/common/20250320/efe293015c817dee46ccc81fa5e934d7.jpg" group-title="SocoLive",ARG D1: Independiente Rivadavia vs Racing Club de Avellaneda - BLV PIRLO
-https://pull.niues.live/live/stream-9912127_lhd.m3u8?auth_key=1788143581-0-0-5e5a54227a0d48948ebf75de959bddd5
+https://pull.niues.live/live/stream-9912127_lhd.m3u8?auth_key=1788143881-0-0-1b0336eea0fa710c7bea88afa19836a4
 #EXTINF:-1 tvg-id="room-9912144" tvg-logo="https://sta.vnres.co/file/common/20260730/7804d6332c85f80cc4843609598de690.jpg" group-logo="https://sta.vnres.co/file/common/20260730/7804d6332c85f80cc4843609598de690.jpg" group-title="SocoLive",MEX D1: Toluca vs FC Juarez - BÁ PHÚ
-https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788143581-0-0-ca42079a9b274f1d5a96475da7f9dc33
+https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788143881-0-0-e4558ba512cdd1876beb59284cf3fae4
