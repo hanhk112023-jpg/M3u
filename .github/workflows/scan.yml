@@ -13,14 +13,12 @@
 name: socolive-scan
 
 on:
-  # Self-relay keeps the loop alive: the last step calls repository_dispatch
-  # with a real PAT (SAS_PAT) — GITHUB_TOKEN can be rate-limited on that
-  # endpoint, so we use a dedicated secret PAT instead, which GitHub doesn't
-  # throttle the same way.
+  # Self-relay is the single, reliable loop: the last step calls
+  # repository_dispatch with a real PAT (SAS_PAT). A schedule trigger was
+  # removed because it fired on the same minute boundary as the relay,
+  # spawning two concurrent runs. One driver only now.
   repository_dispatch:
     types: [scan]
-  schedule:
-    - cron: "*/5 * * * *" # best-effort backup; self-relay is the reliable loop
   workflow_dispatch:
     inputs:
       force:
@@ -31,6 +29,12 @@ on:
         description: "Concurrent room-detail requests"
         type: number
         default: 8
+
+# Serialise runs: if a previous run is still going (e.g. relay sleeping),
+# a newly dispatched run waits instead of overlapping.
+concurrency:
+  group: scan
+  cancel-in-progress: false
 
 permissions:
   contents: write # the scanner commits the playlist via the Contents API
