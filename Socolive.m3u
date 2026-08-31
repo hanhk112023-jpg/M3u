@@ -3,45 +3,41 @@
 # SportsTV LIVE PLAYLIST
 # ======================================
 # Status       : ONLINE
-# Channels     : 18
-# Updated      : 31/08/2026 03:56:32
+# Channels     : 16
+# Updated      : 31/08/2026 04:11:16
 # Player       : OTT Navigator / TiviMate
 # ======================================
 #PLAYLIST:SportsTV
 
 #EXTINF:-1 tvg-id="room-133277" tvg-logo="https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg" group-logo="https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg" group-title="SocoLive",Tường thuật: ENG PR - Manchester United vs Ipswich Town - Gà xào sả ớt
-https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=b632b5779bde814f1b51700675bf9620&txTime=6a954fb1
+https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=6b9b6aa9d960218ed6985fb402c30075&txTime=6a955335
 #EXTINF:-1 tvg-id="room-133824" tvg-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg" group-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg" group-title="SocoLive",Tường thuật: ENG PR - Sunderland vs Fulham - Bò leo rào
-https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=a0007d73b2ef320bc7bfde46e3875743&txTime=6a954fb1
+https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=6208225487060fbda38a6f2473f0dafb&txTime=6a955335
 #EXTINF:-1 tvg-id="room-152898" tvg-logo="https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png" group-logo="https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png" group-title="SocoLive",Tường thuật: ENG PR - Leeds United vs Brentford - Thỏ giang hồ
-https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=d4957a835be05e4241bb8a9b6a2cd60b&txTime=6a954fb1
+https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=a0a5ad0850e2e7d68a93a239ff50dddc&txTime=6a955335
 #EXTINF:-1 tvg-id="room-179093" tvg-logo="https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg" group-logo="https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg" group-title="SocoLive",Tường thuật: SPA D1 - RC Celta vs Athletic Club - Hươu đau cổ
-https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=6301d09212d69f59a118e8ee157cef35&txTime=6a954fb1
+https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=c13f6c9caa85fc3afd7ed03f184f5351&txTime=6a955335
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260328/01acc641be84c58f2062ca50bf94b25a.jpg" group-logo="https://sta.vnres.co/file/common/20260328/01acc641be84c58f2062ca50bf94b25a.jpg" group-title="SocoLive",MEX D1: Rayados de Monterrey vs Atletico San Luis - A PÁO
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788152161-0-0-d836d06570fe1967e04339f04811d216
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788153061-0-0-40af50dcec59ba22d7c3428d40b5516d
 #EXTINF:-1 tvg-id="room-343500" tvg-logo="https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg" group-logo="https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg" group-title="SocoLive",Tường thuật: ENG PR - Chelsea vs Brighton Hove Albion - Mèo méo meo
-https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=3db00ef0f8342546b57bc4dbb912d111&txTime=6a954fb1
+https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=5ff37445f5b3f6a2bd5f2ae172f72bcc&txTime=6a955335
 #EXTINF:-1 tvg-id="room-380460" tvg-logo="https://sta.vnres.co/file/common/20260827/1d4f9eca02a381435aaec138589dd9ef.jpg" group-logo="https://sta.vnres.co/file/common/20260827/1d4f9eca02a381435aaec138589dd9ef.jpg" group-title="SocoLive",USA MLSRv: San Jose Earthquakes Reserve vs Los Angeles FC II - BLV ENZO
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1788152161-0-0-02afbb5e8f4efe34cfc174904b04bca0
-#EXTINF:-1 tvg-id="room-387694" tvg-logo="https://sta.vnres.co/file/common/20260831/32aba348ae774ed3559295ed03a6723c.PNG" group-logo="https://sta.vnres.co/file/common/20260831/32aba348ae774ed3559295ed03a6723c.PNG" group-title="SocoLive",MEX D1: Rayados de Monterrey vs Atletico San Luis - CR Bưởi
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=d1314b6ebd0c5921e204887a23af0c65&txTime=6a954fb1
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1788153061-0-0-58a09c1d39e0e63ea88f0ee8945cda59
 #EXTINF:-1 tvg-id="room-414317" tvg-logo="https://sta.vnres.co/file/common/20260806/4c726754b547e8d50d1f1dd3d1304c4f.jpg" group-logo="https://sta.vnres.co/file/common/20260806/4c726754b547e8d50d1f1dd3d1304c4f.jpg" group-title="SocoLive",MEX D1: Rayados de Monterrey vs Atletico San Luis - THOMAS
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=233f141a6665416de8e30b211fb7b4f1&txTime=6a954fb1
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=fbdbfa297954e4194bae4a47201d7ca9&txTime=6a955335
 #EXTINF:-1 tvg-id="room-552832" tvg-logo="https://sta.vnres.co/file/common/20251111/6a43978efb637082f6eb906c1e7f1621.jpg" group-logo="https://sta.vnres.co/file/common/20251111/6a43978efb637082f6eb906c1e7f1621.jpg" group-title="SocoLive",USA MLSRv: San Jose Earthquakes Reserve vs Los Angeles FC II - LOGAN
-https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=0bb8e3b4e072eeb6302ba269c163bbf9&txTime=6a954fb1
+https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=02c656141fe26ef2fa7d0d8cdda688d3&txTime=6a955335
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg" group-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg" group-title="SocoLive",LNBP: Gambusinos vs Lobos Plateados - HUNTER
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=80b7490f4673be6803e19fec0404ba12&txTime=6a954fb1
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=12205289b0696c6fcc1ade49bcb0d110&txTime=6a955335
 #EXTINF:-1 tvg-id="room-9912079" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg" group-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg" group-title="SocoLive",Tường thuật: UEFA EL - Aarhus AGF vs Benfica - Rắn ở đáy sông
-https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=3ba3c4c7069ec1e3b63b30c215fa0df3&txTime=6a954fb1
+https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=c773c6d2856003cc50d9a3cb20556555&txTime=6a955335
 #EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260831/4cf809c9929194fa709341f9388f0aeb.png" group-logo="https://sta.vnres.co/file/common/20260831/4cf809c9929194fa709341f9388f0aeb.png" group-title="SocoLive",MEX D1: Rayados de Monterrey vs Atletico San Luis - BLV Củ Cải
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788152161-0-0-c79b40c12f888c1feb7f3a4ec92013a8
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788153061-0-0-46a6381a1212296e9de97723c8492749
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-title="SocoLive",LNBP: Gambusinos vs Lobos Plateados - KING
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788152161-0-0-d4891422725fcfb99e22475083019f25
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788153061-0-0-b447c3a463e728779d49c0d5499b8c59
 #EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg" group-logo="https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg" group-title="SocoLive",USA MLSRv: San Jose Earthquakes Reserve vs Los Angeles FC II - BLV RÔSI
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=6367a7ef490daae7c5dbb98a5f7281a7&txTime=6a954fb1
-#EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260831/caac4db30e51ab3213e882c77bf88da5.png" group-logo="https://sta.vnres.co/file/common/20260831/caac4db30e51ab3213e882c77bf88da5.png" group-title="SocoLive",MEX D1: Rayados de Monterrey vs Atletico San Luis - BLV ZOWIE
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788152161-0-0-6a67ed857fdd7f7efc9f9e05dd48d71f
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=674ca25533e20d4301d1e6317b7011b9&txTime=6a955335
 #EXTINF:-1 tvg-id="room-9912129" tvg-logo="https://sta.vnres.co/file/common/20260831/3e123f795761f1e62f09740306f47083.jpg" group-logo="https://sta.vnres.co/file/common/20260831/3e123f795761f1e62f09740306f47083.jpg" group-title="SocoLive",USA MLSRv: San Jose Earthquakes Reserve vs Los Angeles FC II - QUỐC KHÁNH
-https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=dbf4c0331e6453323fe345900efa6d16&txTime=6a954fb1
+https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=9e684a556b3ca68630fb56498ffdcf54&txTime=6a955335
 #EXTINF:-1 tvg-id="room-9912144" tvg-logo="https://sta.vnres.co/file/common/20260730/7804d6332c85f80cc4843609598de690.jpg" group-logo="https://sta.vnres.co/file/common/20260730/7804d6332c85f80cc4843609598de690.jpg" group-title="SocoLive",MEX D1: Rayados de Monterrey vs Atletico San Luis - BÁ PHÚ
-https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788152161-0-0-2e4e1a7a246e60807fdaa07c9f72c046
+https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788153061-0-0-9d3c011ddae065a788965a438ee0ee11
