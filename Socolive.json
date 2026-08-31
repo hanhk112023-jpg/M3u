@@ -1,56 +1,11 @@
 [
   {
-    "id": "133277",
-    "tvg_id": "room-133277",
-    "name": "Tường thuật: ENG PR - Manchester United vs Ipswich Town - Gà xào sả ớt",
-    "logo": "https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=68c6b515e53ec2bee33085ace7ae286b\u0026txTime=6a95918c",
-    "type": "hls"
-  },
-  {
-    "id": "133824",
-    "tvg_id": "room-133824",
-    "name": "Tường thuật: ENG PR - Sunderland vs Fulham - Bò leo rào",
-    "logo": "https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=eff6df7901e2f1de1ffc5fa313e403f2\u0026txTime=6a9590d5",
-    "type": "hls"
-  },
-  {
-    "id": "152898",
-    "tvg_id": "room-152898",
-    "name": "Tường thuật: ENG PR - Leeds United vs Brentford - Thỏ giang hồ",
-    "logo": "https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=8e84be9deae5e2395c9bca17d5738f24\u0026txTime=6a959115",
-    "type": "hls"
-  },
-  {
-    "id": "179093",
-    "tvg_id": "room-179093",
-    "name": "Tường thuật: SPA D1 - RC Celta vs Athletic Club - Hươu đau cổ",
-    "logo": "https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=1548d18eae2419d3d6d7a88b80bde59c\u0026txTime=6a9590d2",
-    "type": "hls"
-  },
-  {
     "id": "283501",
     "tvg_id": "room-283501",
     "name": "AFC U20: Iraq U20 vs Turkmenistan U20 - BLV KAN",
     "logo": "https://sta.vnres.co/file/common/20260831/8ec44a63a7b699ca418987a4ecff8ee5.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=c52a2ea228b2d2f585d4a3f8e5ae2f20\u0026txTime=6a9591c9",
-    "type": "hls"
-  },
-  {
-    "id": "343500",
-    "tvg_id": "room-343500",
-    "name": "Tường thuật: ENG PR - Chelsea vs Brighton Hove Albion - Mèo méo meo",
-    "logo": "https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=4690596d417d6e6ecbda04e324b494d6\u0026txTime=6a9590d2",
+    "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=d8bf6b9af8b4955efd29b2fabebef42f\u0026txTime=6a9592f5",
     "type": "hls"
   },
   {
@@ -59,7 +14,7 @@
     "name": "AFC U20: Indonesia U20 vs Malaysia U20 - BLV YONE",
     "logo": "https://sta.vnres.co/file/common/20260728/ba06eac3dc3ffeee0de25e8e0deaaceb.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788169081-0-0-02334cdb240e79d3252c21288ea041ff",
+    "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788169381-0-0-9247c56dbd1debff3775afddab7ce750",
     "type": "hls"
   },
   {
@@ -68,7 +23,7 @@
     "name": "AFC U20: Indonesia U20 vs Malaysia U20 - THOMAS",
     "logo": "https://sta.vnres.co/file/common/20260806/4c726754b547e8d50d1f1dd3d1304c4f.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=250801064fc80498b0268d2ac3c382bb\u0026txTime=6a9591c9",
+    "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=7bffccd6476bbf0e5116d28ec7abd71a\u0026txTime=6a9592f5",
     "type": "hls"
   },
   {
@@ -77,7 +32,7 @@
     "name": "AFC U20: Japan U20 vs Kuwait U20 - BLV ROBBEN",
     "logo": "https://sta.vnres.co/file/common/20260626/fcd1d9373f93de7ff3ebfbee3f073c7c.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1788169081-0-0-f0a6856035db060194fc0ed0e2ed4cb2",
+    "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1788169381-0-0-07ad156e93451e95a7f7265a6f6d198a",
     "type": "hls"
   },
   {
@@ -86,7 +41,16 @@
     "name": "AFC U20: Iraq U20 vs Turkmenistan U20 - LÃO LÂM",
     "logo": "https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1788169081-0-0-c7b8e9b44cf1f20f58e0bf250b2e88c1",
+    "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1788169381-0-0-4265c86a69983b27b1188e3b7d944934",
+    "type": "hls"
+  },
+  {
+    "id": "619672",
+    "tvg_id": "room-619672",
+    "name": "AFC U20: Indonesia U20 vs Malaysia U20 - T REX",
+    "logo": "https://sta.vnres.co/file/common/20260808/4818d723b5e85850f66dfc3b5aed49d8.png",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-619672_lhd.m3u8?txSecret=9ed2a859e9fa9f2a27b66be5d0e0d575\u0026txTime=6a9592f5",
     "type": "hls"
   },
   {
@@ -95,7 +59,7 @@
     "name": "AFC U20: Indonesia U20 vs Malaysia U20 - PEANUT",
     "logo": "https://sta.vnres.co/file/common/20260713/cbd81ea71d49b5b5f074a5f56678a9b6.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1788169081-0-0-c80b6081250fb794af362e878ba2c31f",
+    "url": "https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1788169381-0-0-7141f8b27dcd5fb0b07970f6b1d27afe",
     "type": "hls"
   },
   {
@@ -104,16 +68,7 @@
     "name": "AFC U20: Iraq U20 vs Turkmenistan U20 - CHAN ĐÊ",
     "logo": "https://sta.vnres.co/file/common/20260728/c2935ca02d759ee77531ff32719f1b21.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1788169081-0-0-a3d393b5b14814995c97b7accb94aa58",
-    "type": "hls"
-  },
-  {
-    "id": "9912079",
-    "tvg_id": "room-9912079",
-    "name": "Tường thuật: SPA D1 - RC Deportivo vs Valencia CF - Rắn ở đáy sông",
-    "logo": "https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=903fc03a121fb691ca6da9230ca817f0\u0026txTime=6a9590d5",
+    "url": "https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1788169381-0-0-adb3157baddd8a55b99393b4d4d10099",
     "type": "hls"
   },
   {
@@ -122,7 +77,7 @@
     "name": "ACQ: Hong Kong vs Singapore - KING",
     "logo": "https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788169081-0-0-907c91365d749b566c806308482e0e2d",
+    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788169381-0-0-64d1c08c9ef912b88e1a73cd6dc64f77",
     "type": "hls"
   },
   {
@@ -131,7 +86,7 @@
     "name": "ACQ: Vietnam vs Fiji - BRIAN",
     "logo": "https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788169081-0-0-d8b483f8c37fcfe657c3aff682ee6eb2",
+    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788169381-0-0-28cb8692ca9e378b6438113970e3f9e3",
     "type": "hls"
   },
   {
@@ -140,7 +95,7 @@
     "name": "AFC U20: Iran U20 vs Palestine U20 - BLV VOI",
     "logo": "https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1788169081-0-0-90f5b2e4d3d19cc0a3b86fbc2cced25c",
+    "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1788169381-0-0-9a508ab20f1b633fec051fe7de7281a5",
     "type": "hls"
   },
   {
@@ -149,7 +104,7 @@
     "name": "ACQ: Vietnam vs Fiji - CHAN SENA",
     "logo": "https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788169081-0-0-7fcb6aa86cd537b959fbf9b690133c5d",
+    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788169381-0-0-1a24c407006d13af20c4dd7f5cb67a0d",
     "type": "hls"
   },
   {
@@ -158,7 +113,7 @@
     "name": "AFC U20: Japan U20 vs Kuwait U20 - HẢI THANH",
     "logo": "https://sta.vnres.co/file/common/20260829/f624027ec79ccc757bf8d5a663d63763.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1788169081-0-0-d0a37d05074230110fd4042a5ad0f4f6",
+    "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1788169381-0-0-ec0846c68860cd9ff6a7d8915b214fb0",
     "type": "hls"
   },
   {
@@ -167,7 +122,7 @@
     "name": "AFC U20: Japan U20 vs Kuwait U20 - QUỐC KHÁNH",
     "logo": "https://sta.vnres.co/file/common/20260831/3e123f795761f1e62f09740306f47083.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=c9e916ba3ed2f09a236f8849dd60aa65\u0026txTime=6a9591c9",
+    "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=88acb34fee27fa8f7e534b19ee0dc335\u0026txTime=6a9592f5",
     "type": "hls"
   },
   {
@@ -176,7 +131,7 @@
     "name": "AFC U20: Iraq U20 vs Turkmenistan U20 - BLV A TÚ",
     "logo": "https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788169081-0-0-1332b8b55b9191419f7d47c8b976a662",
+    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788169381-0-0-6eddb8f55e4054285ab8d52146866c6c",
     "type": "hls"
   }
 ]
