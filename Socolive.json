@@ -1,11 +1,20 @@
 [
   {
+    "id": "485739",
+    "tvg_id": "room-485739",
+    "name": "ARG D1: Defensa Y Justicia vs CA Platense - BLV CHIVAS",
+    "logo": "https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=0833237ca16af724d98ef6f51f1fac6b\u0026txTime=6a9648d5",
+    "type": "hls"
+  },
+  {
     "id": "602019",
     "tvg_id": "room-602019",
     "name": "CHI D1: Union La Calera vs Deportes La Serena - BLV RYO",
     "logo": "https://sta.vnres.co/file/common/20260329/46d787b8716ab82aff515db39b5a55a1.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=175bc3d7d0a42f3467357c3d3b6377de\u0026txTime=6a9647a9",
+    "url": "https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=33c11769e7a8831b4bcabcbc2167aeb5\u0026txTime=6a9648d5",
     "type": "hls"
   },
   {
@@ -14,7 +23,7 @@
     "name": "ARG D1: Defensa Y Justicia vs CA Platense - BLV LION",
     "logo": "https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1788215641-0-0-6a6f2546dc6cafc01f682492f7240a66",
+    "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1788215941-0-0-ffe178b82b27a6dfd76340bf00706180",
     "type": "hls"
   },
   {
@@ -23,7 +32,16 @@
     "name": "ARG D1: Estudiantes La Plata vs Club Atlético Newell's Old Boys - HÀ DUY KIÊN",
     "logo": "https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=c494551e39da6480042f7bba371c5738\u0026txTime=6a9647a9",
+    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=8fe225176252dca73b25788ea673cb60\u0026txTime=6a9648d5",
+    "type": "hls"
+  },
+  {
+    "id": "618950",
+    "tvg_id": "room-618950",
+    "name": "ARG D1: Defensa Y Justicia vs CA Platense - CƠM NẾP",
+    "logo": "https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788215941-0-0-634497fc97fe32845e84126307f043f7",
     "type": "hls"
   },
   {
@@ -32,7 +50,7 @@
     "name": "ARG D1: Estudiantes La Plata vs Club Atlético Newell's Old Boys - CHAN ĐÊ",
     "logo": "https://sta.vnres.co/file/common/20260728/c2935ca02d759ee77531ff32719f1b21.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1788215641-0-0-0d0768d8cdf5f290549804c733466f30",
+    "url": "https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1788215941-0-0-e2e1eb3c7f2d43fd20a212705c92c4ac",
     "type": "hls"
   },
   {
@@ -41,7 +59,7 @@
     "name": "CHI D1: Union La Calera vs Deportes La Serena - KENCHU",
     "logo": "https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788215641-0-0-c43ae030ee26e69287cc835bbb3545cd",
+    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788215941-0-0-0c7334c4d3c987b2ec7625637f399965",
     "type": "hls"
   },
   {
@@ -50,34 +68,7 @@
     "name": "ARG D1: Defensa Y Justicia vs CA Platense - BLV A TÚ",
     "logo": "https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788215641-0-0-775b92915bc4542584800da1e2a854d2",
-    "type": "hls"
-  },
-  {
-    "id": "9912131",
-    "tvg_id": "room-9912131",
-    "name": "SPA D1: FC Barcelona vs Rayo Vallecano - CHÍ PHÈO",
-    "logo": "https://sta.vnres.co/file/common/20260609/b3e04b0f7d210d67052a911512e39f54.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1788215641-0-0-55209441c6b8d098b23605a823499e05",
-    "type": "hls"
-  },
-  {
-    "id": "9912133",
-    "tvg_id": "room-9912133",
-    "name": "SPA D1: FC Barcelona vs Rayo Vallecano - LOKA",
-    "logo": "https://sta.vnres.co/file/common/20260411/c1490960e7f4b63fdc78206c576d2da8.png",
-    "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1788215651-0-0-b7d57fd4b5d513a0ea5a34fdc343f96b",
-    "type": "hls"
-  },
-  {
-    "id": "9912136",
-    "tvg_id": "room-9912136",
-    "name": "SPA D1: FC Barcelona vs Rayo Vallecano - BLV LONG",
-    "logo": "https://sta.vnres.co/file/common/20260810/b792b2c329f2ffe44037f2d5973945de.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=5221a3e084d8343412709b8cf4109376\u0026txTime=6a9647c8",
+    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788215941-0-0-abfa9a4c76fb70a7ed857fed51f10eed",
     "type": "hls"
   },
   {
@@ -86,25 +77,7 @@
     "name": "ARG D1: Estudiantes La Plata vs Club Atlético Newell's Old Boys - BLV A TINH",
     "logo": "https://sta.vnres.co/file/common/20260317/5be300857a15349a5324be170237948b.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=3c32c82f7b3c075c0aa30ff4a93625ee\u0026txTime=6a9647a9",
-    "type": "hls"
-  },
-  {
-    "id": "9912141",
-    "tvg_id": "room-9912141",
-    "name": "SPA D1: FC Barcelona vs Rayo Vallecano - BLV MESSI",
-    "logo": "https://sta.vnres.co/file/common/20260824/9579d2a0c143f2633fac665f96906c48.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1788215641-0-0-8b2a0bea728504dd5d5b532957b2d0f0",
-    "type": "hls"
-  },
-  {
-    "id": "9912142",
-    "tvg_id": "room-9912142",
-    "name": "SPA D1: FC Barcelona vs Rayo Vallecano - A BỆU",
-    "logo": "https://sta.vnres.co/file/common/20260830/683bbb96de277e28f88b1d08678ac124.png",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912142_lhd.m3u8?txSecret=08370e00d5a405a7ecbdb763bd01e300\u0026txTime=6a9647a9",
+    "url": "https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=b064b15e5d5ccfd7f05d702b8bb92d0e\u0026txTime=6a9648d5",
     "type": "hls"
   }
 ]
