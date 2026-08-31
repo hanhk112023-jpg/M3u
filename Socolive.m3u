@@ -3,27 +3,29 @@
 # SportsTV LIVE PLAYLIST
 # ======================================
 # Status       : ONLINE
-# Channels     : 9
-# Updated      : 31/08/2026 21:39:34
+# Channels     : 10
+# Updated      : 31/08/2026 21:49:14
 # Player       : OTT Navigator / TiviMate
 # ======================================
 #PLAYLIST:SportsTV
 
 #EXTINF:-1 tvg-id="room-485739" tvg-logo="https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg" group-logo="https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg" group-title="SocoLive",ARG D1: Defensa Y Justicia vs CA Platense - BLV CHIVAS
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=0833237ca16af724d98ef6f51f1fac6b&txTime=6a9648d5
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=bdaf7b34c98aec5f7cd54ba8dad9ca3a&txTime=6a964b2d
 #EXTINF:-1 tvg-id="room-602019" tvg-logo="https://sta.vnres.co/file/common/20260329/46d787b8716ab82aff515db39b5a55a1.jpg" group-logo="https://sta.vnres.co/file/common/20260329/46d787b8716ab82aff515db39b5a55a1.jpg" group-title="SocoLive",CHI D1: Union La Calera vs Deportes La Serena - BLV RYO
-https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=33c11769e7a8831b4bcabcbc2167aeb5&txTime=6a9648d5
+https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=164ca037f5cd6e77027d970337b2dd4f&txTime=6a964b2d
 #EXTINF:-1 tvg-id="room-603255" tvg-logo="https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7.png" group-logo="https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7.png" group-title="SocoLive",ARG D1: Defensa Y Justicia vs CA Platense - BLV LION
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1788215941-0-0-ffe178b82b27a6dfd76340bf00706180
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1788216541-0-0-5ebc87c34ec395b2bdf9884281cdc687
 #EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg" group-logo="https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg" group-title="SocoLive",ARG D1: Estudiantes La Plata vs Club Atlético Newell's Old Boys - HÀ DUY KIÊN
-https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=8fe225176252dca73b25788ea673cb60&txTime=6a9648d5
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=4534218d5d0577c6691345283d46a2ce&txTime=6a964b2d
 #EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg" group-logo="https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg" group-title="SocoLive",ARG D1: Defensa Y Justicia vs CA Platense - CƠM NẾP
-https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788215941-0-0-634497fc97fe32845e84126307f043f7
+https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788216541-0-0-33ae46c031a94567ee938abddae11df8
 #EXTINF:-1 tvg-id="room-621887" tvg-logo="https://sta.vnres.co/file/common/20260728/c2935ca02d759ee77531ff32719f1b21.png" group-logo="https://sta.vnres.co/file/common/20260728/c2935ca02d759ee77531ff32719f1b21.png" group-title="SocoLive",ARG D1: Estudiantes La Plata vs Club Atlético Newell's Old Boys - CHAN ĐÊ
-https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1788215941-0-0-e2e1eb3c7f2d43fd20a212705c92c4ac
+https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1788216541-0-0-ddd33afb78d664c89ae81ad90424f9a1
+#EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151.png" group-logo="https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151.png" group-title="SocoLive",ARG D1: Estudiantes La Plata vs Club Atlético Newell's Old Boys - BLV VOI
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1788216541-0-0-2ba32d40271f4f733d9255f6b0bc6ac2
 #EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg" group-logo="https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg" group-title="SocoLive",CHI D1: Union La Calera vs Deportes La Serena - KENCHU
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788215941-0-0-0c7334c4d3c987b2ec7625637f399965
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788216541-0-0-2d031a6d24d4bed9282ef17dbac58921
 #EXTINF:-1 tvg-id="room-9912130" tvg-logo="https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png" group-logo="https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png" group-title="SocoLive",ARG D1: Defensa Y Justicia vs CA Platense - BLV A TÚ
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788215941-0-0-abfa9a4c76fb70a7ed857fed51f10eed
+https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788216541-0-0-ed386e0e02a9a1fb5e9d60473a33304f
 #EXTINF:-1 tvg-id="room-9912139" tvg-logo="https://sta.vnres.co/file/common/20260317/5be300857a15349a5324be170237948b.png" group-logo="https://sta.vnres.co/file/common/20260317/5be300857a15349a5324be170237948b.png" group-title="SocoLive",ARG D1: Estudiantes La Plata vs Club Atlético Newell's Old Boys - BLV A TINH
-https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=b064b15e5d5ccfd7f05d702b8bb92d0e&txTime=6a9648d5
+https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=602e37caa895276b6aa04cf6eb9b4118&txTime=6a964b2d
