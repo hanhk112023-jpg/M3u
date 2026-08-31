@@ -3,29 +3,37 @@
 # SportsTV LIVE PLAYLIST
 # ======================================
 # Status       : ONLINE
-# Channels     : 10
-# Updated      : 31/08/2026 11:23:00
+# Channels     : 14
+# Updated      : 31/08/2026 11:27:54
 # Player       : OTT Navigator / TiviMate
 # ======================================
 #PLAYLIST:SportsTV
 
 #EXTINF:-1 tvg-id="room-133824" tvg-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg" group-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg" group-title="SocoLive",Tường thuật: ENG PR - Sunderland vs Fulham - Bò leo rào
-https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=16758675da01bb8a466ba8a8ef9dd9d9&txTime=6a95b839
+https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=7139e2b7a0ddc37a113fc483ceda1325&txTime=6a95b965
 #EXTINF:-1 tvg-id="room-152898" tvg-logo="https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png" group-logo="https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png" group-title="SocoLive",Tường thuật: ENG PR - Leeds United vs Brentford - Thỏ giang hồ
-https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=ba1cdd0c3107fddcfe7c7c90f6ef7e3b&txTime=6a95b839
+https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=8bb9254ef008e2787156817c637ffd4b&txTime=6a95b893
 #EXTINF:-1 tvg-id="room-327159" tvg-logo="https://sta.vnres.co/file/common/20260804/75681fd6aa001c1bb1b8d3946dd69271.jpg" group-logo="https://sta.vnres.co/file/common/20260804/75681fd6aa001c1bb1b8d3946dd69271.jpg" group-title="SocoLive",AFC U20: Myanmar U20 vs Sri Lanka U20 - BLV COCA
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1788178921-0-0-309f5483cac88fed1ae1004144371693
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1788179221-0-0-b866e7deb1d31e3f7c3efc47ea89627e
+#EXTINF:-1 tvg-id="room-387694" tvg-logo="https://sta.vnres.co/file/common/20260831/c2d2f562437659d89d1b0230c52c1a0f.jpg" group-logo="https://sta.vnres.co/file/common/20260831/c2d2f562437659d89d1b0230c52c1a0f.jpg" group-title="SocoLive",ACL2: Persib Bandung vs Manila Digger FC - CR Bưởi
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=e88c4fd36a69b0a83ef925e9e57d3a0c&txTime=6a95b965
 #EXTINF:-1 tvg-id="room-459401" tvg-logo="https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4.jpg" group-logo="https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4.jpg" group-title="SocoLive",ACL2: Persib Bandung vs Manila Digger FC - BLV BÉO
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=ea6952d23310d00032d4a92380fab5df&txTime=6a95b839
-#EXTINF:-1 tvg-id="room-619108" tvg-logo="https://sta.vnres.co/file/common/20260720/9b537b664ce0364f46b19b262f29b1d6.jpg" group-logo="https://sta.vnres.co/file/common/20260720/9b537b664ce0364f46b19b262f29b1d6.jpg" group-title="SocoLive",AFC U20: Myanmar U20 vs Sri Lanka U20 - BLV NOVA
-https://pull.niues.live/live/stream-619108_lhd.m3u8?auth_key=1788178921-0-0-febf462460c45a6b2b140970997dd273
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=1ba7ecb8f7716c500028baccbc34c363&txTime=6a95b965
+#EXTINF:-1 tvg-id="room-619108" tvg-logo="https://sta.vnres.co/file/common/20260720/9b537b664ce0364f46b19b262f29b1d6.jpg" group-logo="https://sta.vnres.co/file/common/20260720/9b537b664ce0364f46b19b262f29b1d6.jpg" group-title="SocoLive",AFC U20: Australia U20 vs Laos U20 - BLV NOVA
+https://pull.niues.live/live/stream-619108_lhd.m3u8?auth_key=1788179221-0-0-86d8e202c14f176cd226c0e15d703abf
+#EXTINF:-1 tvg-id="room-620084" tvg-logo="https://sta.vnres.co/file/common/20260713/cbd81ea71d49b5b5f074a5f56678a9b6.png" group-logo="https://sta.vnres.co/file/common/20260713/cbd81ea71d49b5b5f074a5f56678a9b6.png" group-title="SocoLive",AFC U20: Yemen U20 vs Cambodia U20 - PEANUT
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1788179221-0-0-56141bf96cbd23ec3b434e4e6caea825
+#EXTINF:-1 tvg-id="room-622240" tvg-logo="https://sta.vnres.co/file/common/20260809/8d3ecd1339e9fe41608eb4b7f008436c.jpg" group-logo="https://sta.vnres.co/file/common/20260809/8d3ecd1339e9fe41608eb4b7f008436c.jpg" group-title="SocoLive",AFC U20: Australia U20 vs Laos U20 - CURRY
+https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1788179221-0-0-ecd801c37abfa015faef26177f6d4b17
 #EXTINF:-1 tvg-id="room-627718" tvg-logo="https://sta.vnres.co/file/common/20260831/8c106fa0fe146cf7929663e53e921ba0.jpg" group-logo="https://sta.vnres.co/file/common/20260831/8c106fa0fe146cf7929663e53e921ba0.jpg" group-title="SocoLive",ARM D1: Sadarakpat vs FC Syunik - A MÂN
-https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1788178921-0-0-f05160729b24150bb420fc49e52c8ca9
+https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1788179221-0-0-36f3c599b3d3cedbe7c73d85c7425c80
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-title="SocoLive",FIBA WCQL: South Korea vs Saudi Arabia - BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788178921-0-0-a2ff242be00aefa2ed8dd75c48282d55
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788179221-0-0-b281a1635b5c2901c6a0f9c43d9915b8
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg" group-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg" group-title="SocoLive",FIBA WCQL: Japan vs Qatar - CHAN SENA
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788178921-0-0-e07c7884308f99453a75d0876f30a749
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788179221-0-0-a089ae368a1f52852120759686ee5db0
+#EXTINF:-1 tvg-id="room-9912142" tvg-logo="https://sta.vnres.co/file/common/20260830/683bbb96de277e28f88b1d08678ac124.png" group-logo="https://sta.vnres.co/file/common/20260830/683bbb96de277e28f88b1d08678ac124.png" group-title="SocoLive",AFC U20: Vietnam U20 vs Korea DPR U20 - A BỆU
+https://pull.niur.live/live/stream-9912142_lhd.m3u8?txSecret=5fbc6b551fa224e98a3994bf558b39cf&txTime=6a95b965
 #EXTINF:-1 tvg-id="room-9912143" tvg-logo="https://sta.vnres.co/file/common/20260805/c8068dd64589d2890066f1eacc273ab0.png" group-logo="https://sta.vnres.co/file/common/20260805/c8068dd64589d2890066f1eacc273ab0.png" group-title="SocoLive",AFC U20: Vietnam U20 vs Korea DPR U20 - NGƯỜI CÁ
-https://pull.niur.live/live/stream-9912143_lhd.m3u8?txSecret=e4cea9bbc3a8d5ebd45213247e248515&txTime=6a95b839
+https://pull.niur.live/live/stream-9912143_lhd.m3u8?txSecret=4e78e9d3548ee5a33771224c51a98857&txTime=6a95b965
 #EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260829/f6903a1879b3c7cc22d27c658db14d94.png" group-logo="https://sta.vnres.co/file/common/20260829/f6903a1879b3c7cc22d27c658db14d94.png" group-title="SocoLive",ACL2: Persib Bandung vs Manila Digger FC - BLV CUỘI
-https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788178921-0-0-54836dc7cc057255e8a261c7ce819029
+https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788179221-0-0-8119cfd7333f81bc9ad4d6377417ac49
