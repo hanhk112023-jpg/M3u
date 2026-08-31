@@ -1,11 +1,29 @@
 [
   {
+    "id": "235232",
+    "tvg_id": "room-235232",
+    "name": "SPA D1: CA Osasuna vs Getafe - A PÁO",
+    "logo": "https://sta.vnres.co/file/common/20260328/01acc641be84c58f2062ca50bf94b25a.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788199621-0-0-d092db5c1ddb002addb54f9d92154293",
+    "type": "hls"
+  },
+  {
     "id": "291277",
     "tvg_id": "room-291277",
     "name": "ITA D1: Lecce vs AS Roma - CÔNG CHẤT",
     "logo": "https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=f085f8c20482ee6b5b896f3e51111c3e\u0026txTime=6a9606bd",
+    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=6505adb4411c0782de642e14c289ffb9\u0026txTime=6a960915",
+    "type": "hls"
+  },
+  {
+    "id": "321443",
+    "tvg_id": "room-321443",
+    "name": "SPA D1: CA Osasuna vs Getafe - BLV GIÓ",
+    "logo": "https://sta.vnres.co/file/common/20260603/54289b9ef989aba74cff5bfdee1d4656.png",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=8d223154b89ac750d9bc4bf8dc9fda59\u0026txTime=6a960915",
     "type": "hls"
   },
   {
@@ -14,7 +32,7 @@
     "name": "ITA D1: Lecce vs AS Roma - CR Bưởi",
     "logo": "https://sta.vnres.co/file/common/20260831/b6c5ce3edb100d5e0e13ca910804f84b.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=cbb993f6f78dae25182f015875846012\u0026txTime=6a9606bd",
+    "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=85e970935d9fec4bb34566c5deb73004\u0026txTime=6a960915",
     "type": "hls"
   },
   {
@@ -23,7 +41,7 @@
     "name": "BUL D1: FC Dunav Ruse vs Lokomotiv Sofia - BLV VIP",
     "logo": "https://sta.vnres.co/file/common/20250723/6b83b847d8944b57cc13043bae9fa7a8.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=a568057eb6edfb3fbb353da4e561b601\u0026txTime=6a9606bd",
+    "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=2dfbaeeaa7b436caa3d1100d894e46a2\u0026txTime=6a960915",
     "type": "hls"
   },
   {
@@ -32,7 +50,7 @@
     "name": "FIN D1: AC Oulu vs SJK Seinajoen - BLV WUKONG",
     "logo": "https://sta.vnres.co/file/common/20251121/6d691b0b9dfd9eeb599401a2499400f0.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1788199021-0-0-48c19b53bbda78f399b9a6f73aa733bf",
+    "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1788199621-0-0-ad4a499c5512854f349a9be785ee4ccc",
     "type": "hls"
   },
   {
@@ -41,7 +59,7 @@
     "name": "BUL D1: FC Dunav Ruse vs Lokomotiv Sofia - LÃO LÂM",
     "logo": "https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1788199021-0-0-2993d58a092232e698bfefbb241f862d",
+    "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1788199621-0-0-05ed12659fe91c653714eb13d8612e0c",
     "type": "hls"
   },
   {
@@ -50,7 +68,7 @@
     "name": "SWE D1: GAIS vs Brommapojkarna - BLV A WIN",
     "logo": "https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788199021-0-0-0662bdc2448bfa4c5dad0d575059f03d",
+    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788199621-0-0-b44c69ba87a88fb21ab3999b67d256c4",
     "type": "hls"
   },
   {
@@ -59,16 +77,7 @@
     "name": "FIN D1: IFK Mariehamn vs Jaro - BLV CÒ",
     "logo": "https://sta.vnres.co/file/common/20260721/f2855aef78044156ad9e45d7985403d0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1788199021-0-0-c87804207351e05c9ab2a76a46884714",
-    "type": "hls"
-  },
-  {
-    "id": "602019",
-    "tvg_id": "room-602019",
-    "name": "GEO D1: Gagra FC vs FC Iberia 1999 Tbilisi - BLV RYO",
-    "logo": "https://sta.vnres.co/file/common/20260329/46d787b8716ab82aff515db39b5a55a1.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=1a4d7ac0b33e323d01f5b047f4f12aab\u0026txTime=6a9606bd",
+    "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1788199621-0-0-32e33a4f3dea8a3a58509853d445ecb8",
     "type": "hls"
   },
   {
@@ -77,7 +86,7 @@
     "name": "FIN D1: AC Oulu vs SJK Seinajoen - ĐỖ TÚ TÀI",
     "logo": "https://sta.vnres.co/file/common/20260522/f2b4ef051d1e02300d2d5bf24f3828f0.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1788199021-0-0-e0b0196fbf1532bf90e7e676634be208",
+    "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1788199621-0-0-36a19325ce8a8ecebc467a62a27e2768",
     "type": "hls"
   },
   {
@@ -86,7 +95,7 @@
     "name": "FIN D1: Vaasa VPS vs Lahti - XUÂN TÓC ĐỎ",
     "logo": "https://sta.vnres.co/file/common/20260628/336b2e008de11bb26c1d4e0e46bc9f95.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=5e2c91f833718846453d4a4eba951dff\u0026txTime=6a9606bd",
+    "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=e1c528413b8f0e208c352005e22dba39\u0026txTime=6a960915",
     "type": "hls"
   },
   {
@@ -95,25 +104,25 @@
     "name": "FIN D1: Gnistan Helsinki vs TPS Turku - VINFAST",
     "logo": "https://sta.vnres.co/file/common/20260628/540cb58118f4c3201221b711e9a9cb7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1788199021-0-0-0d84dee76293df8ca7e344d0b2c347a3",
+    "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1788199621-0-0-466b3764fcf1e5573b1609499e095e46",
     "type": "hls"
   },
   {
     "id": "620504",
     "tvg_id": "room-620504",
-    "name": "GEO D1: Gagra FC vs FC Iberia 1999 Tbilisi - BOSS",
+    "name": "SWE D1: IK Sirius FK vs Malmo FF - BOSS",
     "logo": "https://sta.vnres.co/file/common/20260802/d0b756ac34b8f00d22a6d687f86fe8b2.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=cf2e7ad915e41c8f766e979e5eee8aeb\u0026txTime=6a9606bd",
+    "url": "https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=d817cb609812ab2b3086e2754c229f11\u0026txTime=6a960915",
     "type": "hls"
   },
   {
     "id": "620797",
     "tvg_id": "room-620797",
-    "name": "GEO D1: Torpedo Kutaisi vs FC Meshakhte Tkibuli - BÒ TƯƠI",
+    "name": "DEN SASL: FC Copenhagen vs Sonderjyske - BÒ TƯƠI",
     "logo": "https://sta.vnres.co/file/common/20260721/eae172928facf755dbf2027ca230e55e.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1788199021-0-0-3af4db9f8db5f20c8df54001eab08a04",
+    "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1788199621-0-0-fb483248d550dfac5ce5217ebf2b63be",
     "type": "hls"
   },
   {
@@ -122,7 +131,7 @@
     "name": "FIN D1: Vaasa VPS vs Lahti - BLV BẢY",
     "logo": "https://sta.vnres.co/file/common/20260813/5d212275a6562e784f8ce4dd82466681.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1788199021-0-0-852480f4ee4bd38e3bc5531c0d9dcab2",
+    "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1788199621-0-0-7b1472331343a1e98a35a5a52f2ff43c",
     "type": "hls"
   },
   {
@@ -131,16 +140,16 @@
     "name": "GRE D1: Levadiakos vs Panathinaikos - GRAP",
     "logo": "https://sta.vnres.co/file/common/20260703/fe517d18a8df723cee92683347d70be9.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=92719244d151ba03eb3a3d6e603062ba\u0026txTime=6a9606bd",
+    "url": "https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=96737b9694db09d277a77299059886be\u0026txTime=6a960915",
     "type": "hls"
   },
   {
     "id": "622240",
     "tvg_id": "room-622240",
-    "name": "GEO D1: Torpedo Kutaisi vs FC Meshakhte Tkibuli - CURRY",
+    "name": "DEN SASL: FC Copenhagen vs Sonderjyske - CURRY",
     "logo": "https://sta.vnres.co/file/common/20260809/8d3ecd1339e9fe41608eb4b7f008436c.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1788199021-0-0-def7f52c842144da3b9e5c99f7d70df7",
+    "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1788199621-0-0-47e081ef6ccd5db6642f3772cc5edfcf",
     "type": "hls"
   },
   {
@@ -149,7 +158,7 @@
     "name": "SPA D2: Burgos CF vs Real Sociedad B - NEKO",
     "logo": "https://sta.vnres.co/file/common/20260828/e0638aedd6aef31974244bd226615764.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1788199021-0-0-3147639a6141ae6c753719c6680e3d09",
+    "url": "https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1788199621-0-0-34d0cf74614f349cfa7c15775572a686",
     "type": "hls"
   },
   {
@@ -158,7 +167,7 @@
     "name": "FIN D1: Inter Turku vs KuPs - BLV FIREMAN",
     "logo": "https://sta.vnres.co/file/common/20240614/d900dd8841b1223c7b58554cde34df75.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788199021-0-0-9ef1da1b32d7a505c5f0d2b6ef5f01d7",
+    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788199621-0-0-19128766c26e258188b70ed3d6601a83",
     "type": "hls"
   },
   {
@@ -167,7 +176,7 @@
     "name": "ITA D1: Lecce vs AS Roma - BLV Củ Cải",
     "logo": "https://sta.vnres.co/file/common/20260831/213c9a6d3fcdb4faab0f9343f3fe8f31.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788199021-0-0-1affc9e69ad7debe45daea86444fb414",
+    "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788199621-0-0-c364a0b2f88bb5b543a6ade0d30bf52f",
     "type": "hls"
   },
   {
@@ -176,7 +185,7 @@
     "name": "ACQ: Kuwait vs Bahrain - BLV HENRY",
     "logo": "https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788199021-0-0-6881b2f7e8626b4b799c319b693c092e",
+    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788199621-0-0-b2ec12e3b552efa84a98fc7903bddf24",
     "type": "hls"
   },
   {
@@ -185,7 +194,7 @@
     "name": "ITA D1: Lecce vs AS Roma - RICKHANTER",
     "logo": "https://sta.vnres.co/file/common/20260620/4cbae14a2d06d1635a160fc8c2beb182.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=30342d655f9ba5e01dfa8fb5b90f6c7f\u0026txTime=6a9606bd",
+    "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=51276853b33bf7ad9a854b03d21a07dc\u0026txTime=6a960915",
     "type": "hls"
   },
   {
@@ -194,7 +203,16 @@
     "name": "FIN D1: IFK Mariehamn vs Jaro - RỒNG ĐẤT",
     "logo": "https://sta.vnres.co/file/common/20260725/0eb3315ecb9cf5c7f5f9b102d38e52f9.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1788199021-0-0-5561fe2b379c2301db2fd8109c2f6a4b",
+    "url": "https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1788199621-0-0-0d357f60e929721a0d65db9a17ac1f89",
+    "type": "hls"
+  },
+  {
+    "id": "9912126",
+    "tvg_id": "room-9912126",
+    "name": "SPA D1: CA Osasuna vs Getafe - SEVEN",
+    "logo": "https://sta.vnres.co/file/common/20260715/0e572fd7d0bfc5ce5cf538c09b8cace4.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=e329d26b17dde7ea53baf85eb1d8c399\u0026txTime=6a960915",
     "type": "hls"
   },
   {
@@ -203,7 +221,25 @@
     "name": "FIN D1: Gnistan Helsinki vs TPS Turku - BLV PIRLO",
     "logo": "https://sta.vnres.co/file/common/20250320/efe293015c817dee46ccc81fa5e934d7.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912127_lhd.m3u8?auth_key=1788199021-0-0-adfb80dad7f0a7b79f80b3874f613c96",
+    "url": "https://pull.niues.live/live/stream-9912127_lhd.m3u8?auth_key=1788199621-0-0-03e68ee5898df5a1433bd242da91f016",
+    "type": "hls"
+  },
+  {
+    "id": "9912129",
+    "tvg_id": "room-9912129",
+    "name": "SPA D1: CA Osasuna vs Getafe - QUỐC KHÁNH",
+    "logo": "https://sta.vnres.co/file/common/20260831/3e123f795761f1e62f09740306f47083.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=76c85e46d0e18d32272c97d08fa72976\u0026txTime=6a960915",
+    "type": "hls"
+  },
+  {
+    "id": "9912131",
+    "tvg_id": "room-9912131",
+    "name": "SPA D1: CA Osasuna vs Getafe - CHÍ PHÈO",
+    "logo": "https://sta.vnres.co/file/common/20260609/b3e04b0f7d210d67052a911512e39f54.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1788199621-0-0-95406079d4c8373b55847c50df0eb5b2",
     "type": "hls"
   },
   {
@@ -212,7 +248,7 @@
     "name": "FIN D1: Ilves Tampere vs HJK Helsinki - BLV XO",
     "logo": "https://sta.vnres.co/file/common/20260613/cc7eb6fb9d74dfa083a48c861b135ae8.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=5005f56627b65f85d794889ca786fb18\u0026txTime=6a9606bd",
+    "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=12aa7843cf8977f9600c321051dede87\u0026txTime=6a960915",
     "type": "hls"
   },
   {
@@ -221,7 +257,7 @@
     "name": "FIN D1: Inter Turku vs KuPs - LOKA",
     "logo": "https://sta.vnres.co/file/common/20260411/c1490960e7f4b63fdc78206c576d2da8.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1788199021-0-0-2e23b55ea89ec5d8818ce31a0d3ca7e0",
+    "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1788199621-0-0-85a262fc4972c88d60986b8551f6cee4",
     "type": "hls"
   },
   {
@@ -230,7 +266,7 @@
     "name": "GRE D1: Levadiakos vs Panathinaikos - TUẤN CÙI",
     "logo": "https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1788199021-0-0-90665c607331ae0c2e185f4242de52f3",
+    "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1788199621-0-0-12cc711effb3aebe5d8feff012472fb5",
     "type": "hls"
   },
   {
@@ -239,7 +275,7 @@
     "name": "FIN D1: Ilves Tampere vs HJK Helsinki - BLV A TINH",
     "logo": "https://sta.vnres.co/file/common/20260317/5be300857a15349a5324be170237948b.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=2493fe8fe540cb5cc5d4cf1e9363dca3\u0026txTime=6a9606bd",
+    "url": "https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=ba856d93656d49d01c6ebfd5a0d56a04\u0026txTime=6a960915",
     "type": "hls"
   },
   {
@@ -248,7 +284,16 @@
     "name": "FIN D1: Inter Turku vs KuPs - BLV MESSI",
     "logo": "https://sta.vnres.co/file/common/20260824/9579d2a0c143f2633fac665f96906c48.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1788199021-0-0-45fbcbb12fe8a26e6eef53b0bfa80ad6",
+    "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1788199621-0-0-9e793f32cb0c9f3d0683f34d7559e804",
+    "type": "hls"
+  },
+  {
+    "id": "9912142",
+    "tvg_id": "room-9912142",
+    "name": "SPA D1: CA Osasuna vs Getafe - A BỆU",
+    "logo": "https://sta.vnres.co/file/common/20260830/683bbb96de277e28f88b1d08678ac124.png",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-9912142_lhd.m3u8?txSecret=13c1fb0243e3726fe24243428a35d9e4\u0026txTime=6a960915",
     "type": "hls"
   },
   {
@@ -257,7 +302,7 @@
     "name": "ITA D1: Lecce vs AS Roma - BÁ PHÚ",
     "logo": "https://sta.vnres.co/file/common/20260730/7804d6332c85f80cc4843609598de690.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788199021-0-0-57c5a675cd5b19206f80fa61d5b24fb1",
+    "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788199621-0-0-e4770dd5ea685a2542086b1d88782c3d",
     "type": "hls"
   },
   {
@@ -266,7 +311,7 @@
     "name": "ITA D1: Lecce vs AS Roma - BLV CUỘI",
     "logo": "https://sta.vnres.co/file/common/20260829/f6903a1879b3c7cc22d27c658db14d94.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788199021-0-0-ced545120dfb206ecc2f10a4de95aef5",
+    "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788199621-0-0-fb68e73da403b875a2088a2ee99ebead",
     "type": "hls"
   }
 ]
