@@ -1,11 +1,56 @@
 [
   {
+    "id": "133277",
+    "tvg_id": "room-133277",
+    "name": "Tường thuật: ENG PR - Manchester United vs Ipswich Town - Gà xào sả ớt",
+    "logo": "https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=3b44c349f0c376f0055854a6fe9d8ac2\u0026txTime=6a954e85",
+    "type": "hls"
+  },
+  {
+    "id": "133824",
+    "tvg_id": "room-133824",
+    "name": "Tường thuật: ENG PR - Sunderland vs Fulham - Bò leo rào",
+    "logo": "https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=a125bf5d21a18ec532ee5bcb8c5dc710\u0026txTime=6a954e85",
+    "type": "hls"
+  },
+  {
+    "id": "152898",
+    "tvg_id": "room-152898",
+    "name": "Tường thuật: ENG PR - Leeds United vs Brentford - Thỏ giang hồ",
+    "logo": "https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=6eb4ad84b607c762aee504695596338a\u0026txTime=6a954e85",
+    "type": "hls"
+  },
+  {
+    "id": "179093",
+    "tvg_id": "room-179093",
+    "name": "Tường thuật: SPA D1 - RC Celta vs Athletic Club - Hươu đau cổ",
+    "logo": "https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=6f4347459e4eeb747076765edfa213a6\u0026txTime=6a954e85",
+    "type": "hls"
+  },
+  {
     "id": "235232",
     "tvg_id": "room-235232",
     "name": "MEX D1: Rayados de Monterrey vs Atletico San Luis - A PÁO",
     "logo": "https://sta.vnres.co/file/common/20260328/01acc641be84c58f2062ca50bf94b25a.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788147481-0-0-3abc41d1d8b2ab8159f295ae80ffbc4c",
+    "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788151861-0-0-9448addf7a8bf71240ac37282a6161e5",
+    "type": "hls"
+  },
+  {
+    "id": "343500",
+    "tvg_id": "room-343500",
+    "name": "Tường thuật: ENG PR - Chelsea vs Brighton Hove Albion - Mèo méo meo",
+    "logo": "https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=2be26fe932e4f3085c3222456650014b\u0026txTime=6a954e85",
     "type": "hls"
   },
   {
@@ -14,7 +59,7 @@
     "name": "USA MLSRv: San Jose Earthquakes Reserve vs Los Angeles FC II - BLV ENZO",
     "logo": "https://sta.vnres.co/file/common/20260827/1d4f9eca02a381435aaec138589dd9ef.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1788147481-0-0-a078f5597890e38f732e87edb8d8b1c5",
+    "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1788151861-0-0-7ee33a4371a9e6c711d99d7c88d7d246",
     "type": "hls"
   },
   {
@@ -23,7 +68,7 @@
     "name": "MEX D1: Rayados de Monterrey vs Atletico San Luis - CR Bưởi",
     "logo": "https://sta.vnres.co/file/common/20260831/32aba348ae774ed3559295ed03a6723c.PNG",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=989338ecbbf854cd4bcb78659137b885\u0026txTime=6a953d69",
+    "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=6b5a413fba712e4820df5bbbb4d1a21d\u0026txTime=6a954e85",
     "type": "hls"
   },
   {
@@ -32,7 +77,7 @@
     "name": "MEX D1: Rayados de Monterrey vs Atletico San Luis - THOMAS",
     "logo": "https://sta.vnres.co/file/common/20260806/4c726754b547e8d50d1f1dd3d1304c4f.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=1493dd1d48dee6eb7def5ca12cc3dee0\u0026txTime=6a953d69",
+    "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=d52f4cfc4adadbf582ed02e1553ffb93\u0026txTime=6a954e85",
     "type": "hls"
   },
   {
@@ -41,7 +86,7 @@
     "name": "USA MLSRv: San Jose Earthquakes Reserve vs Los Angeles FC II - LOGAN",
     "logo": "https://sta.vnres.co/file/common/20251111/6a43978efb637082f6eb906c1e7f1621.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=03f146404bc06fbc81d632daadb75a68\u0026txTime=6a953d69",
+    "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=219a9539c312c42d89f80eee34567b8b\u0026txTime=6a954e85",
     "type": "hls"
   },
   {
@@ -50,7 +95,7 @@
     "name": "LNBP: Gambusinos vs Lobos Plateados - HUNTER",
     "logo": "https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=c4307a4dc64bd7403cfb31c306634c5d\u0026txTime=6a953d69",
+    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=15bf57df16e54b96b658c6fa21b4087d\u0026txTime=6a954e85",
     "type": "hls"
   },
   {
@@ -59,7 +104,7 @@
     "name": "MEX D1: Rayados de Monterrey vs Atletico San Luis - BLV Củ Cải",
     "logo": "https://sta.vnres.co/file/common/20260831/4cf809c9929194fa709341f9388f0aeb.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788147481-0-0-474aa959432691c1d4625e4b68e39b93",
+    "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788151861-0-0-da1f9cae630e237ce4a2c37e7348f2aa",
     "type": "hls"
   },
   {
@@ -68,7 +113,7 @@
     "name": "LNBP: Gambusinos vs Lobos Plateados - KING",
     "logo": "https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788147481-0-0-714cedb15476fcf3b43fe0be884b205f",
+    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788151861-0-0-76f829674349a75ce2e2c388b3a57f9e",
     "type": "hls"
   },
   {
@@ -77,7 +122,7 @@
     "name": "USA MLSRv: San Jose Earthquakes Reserve vs Los Angeles FC II - BLV RÔSI",
     "logo": "https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=05490d9f37f4259fba5951d6a5d8d4d0\u0026txTime=6a953d69",
+    "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=a5fba49d9c381eb8340934ab32e977b6\u0026txTime=6a954e85",
     "type": "hls"
   },
   {
@@ -86,7 +131,7 @@
     "name": "MEX D1: Rayados de Monterrey vs Atletico San Luis - BLV ZOWIE",
     "logo": "https://sta.vnres.co/file/common/20260831/caac4db30e51ab3213e882c77bf88da5.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788147481-0-0-67a580e75830c543c66dd64ff3111d6d",
+    "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788151861-0-0-a03a5ac7095ce789fc10f4d7c2e40cfc",
     "type": "hls"
   },
   {
@@ -95,7 +140,7 @@
     "name": "USA MLSRv: San Jose Earthquakes Reserve vs Los Angeles FC II - QUỐC KHÁNH",
     "logo": "https://sta.vnres.co/file/common/20260831/3e123f795761f1e62f09740306f47083.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=97481056f271f417ee9679305b91c7ec\u0026txTime=6a953d69",
+    "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=8b968c5c4b3c320939e584a919393460\u0026txTime=6a954e85",
     "type": "hls"
   },
   {
@@ -104,7 +149,7 @@
     "name": "MEX D1: Rayados de Monterrey vs Atletico San Luis - BÁ PHÚ",
     "logo": "https://sta.vnres.co/file/common/20260730/7804d6332c85f80cc4843609598de690.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788147481-0-0-5a76bef48eb41e7de42d1e73248ec52f",
+    "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788151861-0-0-5de6dad7e2afabe4f872d2a2ebfe9d44",
     "type": "hls"
   }
 ]
