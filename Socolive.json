@@ -5,7 +5,7 @@
     "name": "COL D1: Deportivo Pasto vs Deportivo Pereira - BLV KAN",
     "logo": "https://sta.vnres.co/file/common/20260901/89bf74c388e7dbca903ef90eb42fe0a7.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=6a671f3ffbfd3be46f4c3ec5c618e814\u0026txTime=6a9661ad",
+    "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=0193002456b1bc8f135fff90913398e9\u0026txTime=6a966621",
     "type": "hls"
   },
   {
@@ -14,7 +14,7 @@
     "name": "BRA D1: Remo - PA vs Coritiba SAF - PR - BLV LUCAS",
     "logo": "https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788222301-0-0-0712037d71a68d0351a1f314ad71f047",
+    "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788223441-0-0-e4d4f32236cc37e5535cbe5d833482b0",
     "type": "hls"
   },
   {
@@ -23,7 +23,7 @@
     "name": "BRA D1: Remo - PA vs Coritiba SAF - PR - BLV COCA",
     "logo": "https://sta.vnres.co/file/common/20260804/75681fd6aa001c1bb1b8d3946dd69271.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1788222301-0-0-5d183f5372a5b7ec7ce07c43f5ea8d43",
+    "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1788223441-0-0-7c8fc94bbcf3ab61311aacc0835975ab",
     "type": "hls"
   },
   {
@@ -32,7 +32,7 @@
     "name": "BRA D1: Remo - PA vs Coritiba SAF - PR - BLV YONE",
     "logo": "https://sta.vnres.co/file/common/20260728/ba06eac3dc3ffeee0de25e8e0deaaceb.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788222301-0-0-7f129e0eded8309ee9e8584b48310ad6",
+    "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788223441-0-0-471c6b39a3f1ba4b667d159a24eea838",
     "type": "hls"
   },
   {
@@ -41,7 +41,7 @@
     "name": "ARG D1: Instituto de Córdoba vs CA San Lorenzo - BLV BÉO",
     "logo": "https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=830877b5884a86bacc1b707cdc678f1a\u0026txTime=6a9661ad",
+    "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=3dc92b6a614db9392ec59cbb626c2baf\u0026txTime=6a966621",
     "type": "hls"
   },
   {
@@ -50,7 +50,16 @@
     "name": "ARG D1: Defensa Y Justicia vs CA Platense - BLV CHIVAS",
     "logo": "https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=646634ff1238df77c0fa0c687a3f0ed9\u0026txTime=6a9661ad",
+    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=a7513cd11eb97db60a81c61ea7b14a51\u0026txTime=6a966621",
+    "type": "hls"
+  },
+  {
+    "id": "527383",
+    "tvg_id": "room-527383",
+    "name": "AFC U20: Thailand U20 vs United Arab Emirates U20 - BLV ROBBEN",
+    "logo": "https://sta.vnres.co/file/common/20260626/fcd1d9373f93de7ff3ebfbee3f073c7c.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1788223441-0-0-dcf4b4211408324eb9e9d59532714620",
     "type": "hls"
   },
   {
@@ -59,7 +68,16 @@
     "name": "COL D1: Deportivo Pasto vs Deportivo Pereira - BLV RAMBO",
     "logo": "https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=d5e6906eb15f9232bef52ccd83772c4c\u0026txTime=6a9661ad",
+    "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=c0f91279016f6a28e9929dd5ce94d889\u0026txTime=6a966621",
+    "type": "hls"
+  },
+  {
+    "id": "552832",
+    "tvg_id": "room-552832",
+    "name": "ARG D1: Instituto de Córdoba vs CA San Lorenzo - LOGAN",
+    "logo": "https://sta.vnres.co/file/common/20251111/6a43978efb637082f6eb906c1e7f1621.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=481160a55e1771e71b572da67f97807a\u0026txTime=6a966621",
     "type": "hls"
   },
   {
@@ -68,7 +86,7 @@
     "name": "CHI D1: Union La Calera vs Deportes La Serena - BLV RYO",
     "logo": "https://sta.vnres.co/file/common/20260329/46d787b8716ab82aff515db39b5a55a1.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=389d2c0cf5c5e57259b06ce52641e650\u0026txTime=6a9661ad",
+    "url": "https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=9667557fe5e9950b6298a69f176129eb\u0026txTime=6a966621",
     "type": "hls"
   },
   {
@@ -77,7 +95,7 @@
     "name": "ARG D1: Defensa Y Justicia vs CA Platense - BLV LION",
     "logo": "https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1788222301-0-0-c5bae0ef782ea4e5139857597bf510ee",
+    "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1788223441-0-0-1587512a7dac4e7b94ce9da850127f4d",
     "type": "hls"
   },
   {
@@ -86,7 +104,7 @@
     "name": "ARG D1: Estudiantes La Plata vs Club Atlético Newell's Old Boys - HÀ DUY KIÊN",
     "logo": "https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=8ba5ca5a39e3a02321c863a0202efd58\u0026txTime=6a9661ad",
+    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=517652debdb10d3dde9082958669d690\u0026txTime=6a966621",
     "type": "hls"
   },
   {
@@ -95,7 +113,7 @@
     "name": "ARG D1: Defensa Y Justicia vs CA Platense - CƠM NẾP",
     "logo": "https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788222301-0-0-7148411983d64dedea4120b47c4cf217",
+    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788223441-0-0-5dcec99f2436f0d7f66296b65daebfc3",
     "type": "hls"
   },
   {
@@ -104,7 +122,16 @@
     "name": "ARG D1: Estudiantes La Plata vs Club Atlético Newell's Old Boys - CHAN ĐÊ",
     "logo": "https://sta.vnres.co/file/common/20260728/c2935ca02d759ee77531ff32719f1b21.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1788222301-0-0-8d4206af97b16fdbb7ebeae81e7bd018",
+    "url": "https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1788223441-0-0-c4bcc0106b418568f0c18b14dcad77cf",
+    "type": "hls"
+  },
+  {
+    "id": "9912099",
+    "tvg_id": "room-9912099",
+    "name": "WCPAM: Dominican Republic vs Chile - KING",
+    "logo": "https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788223441-0-0-028b60f3a81a63e0934aa913376fac87",
     "type": "hls"
   },
   {
@@ -113,7 +140,7 @@
     "name": "ARG D1: Estudiantes La Plata vs Club Atlético Newell's Old Boys - BLV VOI",
     "logo": "https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1788222301-0-0-30ea0e17f7a1129b0bf813b8ad791060",
+    "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1788223441-0-0-2fbd834125be6bb889f196e1a48b2c62",
     "type": "hls"
   },
   {
@@ -122,7 +149,7 @@
     "name": "WCPAM: USA vs Colombia - CHAN SENA",
     "logo": "https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788222301-0-0-92130b20f847ad259a56e4f93b3c0f77",
+    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788223441-0-0-36bc87e12b0d71a04a0a00a5c856cd1e",
     "type": "hls"
   },
   {
@@ -131,7 +158,7 @@
     "name": "CHI D1: Union La Calera vs Deportes La Serena - KENCHU",
     "logo": "https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788222301-0-0-b3c70abe0261a2d2996cfab33cf4f21b",
+    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788223441-0-0-859e8ea1b321f4747916eaa4a66611e9",
     "type": "hls"
   },
   {
@@ -140,7 +167,7 @@
     "name": "ARG D1: Defensa Y Justicia vs CA Platense - BLV A TÚ",
     "logo": "https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788222301-0-0-f74a17d331a79036f790e0e57db8f64a",
+    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788223441-0-0-d0140a2983aefeb0a99f56d1da71e84e",
     "type": "hls"
   },
   {
@@ -149,7 +176,7 @@
     "name": "BRA D1: Remo - PA vs Coritiba SAF - PR - BLV LONG",
     "logo": "https://sta.vnres.co/file/common/20260810/b792b2c329f2ffe44037f2d5973945de.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=83c1d66dc7d5c9a0af5561dcfd42f2ae\u0026txTime=6a9661ad",
+    "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=5da73b171f1b3765fe2ebb0fa01960f4\u0026txTime=6a966621",
     "type": "hls"
   },
   {
@@ -158,7 +185,7 @@
     "name": "ARG D1: Estudiantes La Plata vs Club Atlético Newell's Old Boys - BLV A TINH",
     "logo": "https://sta.vnres.co/file/common/20260317/5be300857a15349a5324be170237948b.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=7d31993ace1e2d16cb6981a4cb03c1d8\u0026txTime=6a9661ad",
+    "url": "https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=c02676be840bcaaf4f904c0c47b24d55\u0026txTime=6a966621",
     "type": "hls"
   }
 ]
