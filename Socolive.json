@@ -1,11 +1,713 @@
 [
   {
+    "id": "235232",
+    "tvg_id": "room-235232",
+    "name": "UM-Damansara United vs Johor Darul Ta'zim FC - MAS FAC - BLV ZOWIE",
+    "logo": "https://sta.vnres.co/file/common/20260830/db0c457f0cfbae3d5adfe6a4aa1a0065.png",
+    "group": "Bóng đá · MAS FAC",
+    "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788208516-0-0-6045c2772cde50e13b1cbd9c0f9c536c",
+    "type": "hls"
+  },
+  {
+    "id": "283501",
+    "tvg_id": "room-283501",
+    "name": "Cerezo Osaka vs Kashiwa Reysol - JPN D1 - BLV RAMBO",
+    "logo": "https://sta.vnres.co/file/common/20260830/b509f25e05e3f46d76247ebd9933ab65.png",
+    "group": "Bóng đá · JPN D1",
+    "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=760a0ba98b45242b99fb8d83e1f9fd8b\u0026txTime=6a9685f1",
+    "type": "hls"
+  },
+  {
+    "id": "291277",
+    "tvg_id": "room-291277",
+    "name": "Deportes Tolima vs Cucuta Deportivo - COL D1 - CÔNG CHẤT",
+    "logo": "https://sta.vnres.co/file/common/20260827/5ed9b187534bdf199292155102495ea8.png",
+    "group": "Bóng đá · COL D1",
+    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=6a797fddfe248b2d978628ee04256eca\u0026txTime=6a968ccd",
+    "type": "hls"
+  },
+  {
+    "id": "304148",
+    "tvg_id": "room-304148",
+    "name": "Beijing Guoan vs Lanzhou Longyuan Athletic - CHA FACup - BLV ROBBEN",
+    "logo": "https://sta.vnres.co/file/common/20260829/b097e8c5adacf1cbe77fb09b7114ea2b.png",
+    "group": "Bóng đá · CHA FACup",
+    "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788228250-0-0-13c65edabdf76632fae553732484b7e4",
+    "type": "hls"
+  },
+  {
+    "id": "321443",
+    "tvg_id": "room-321443",
+    "name": "Shandong Taishan vs Shanghai Port - CHA FACup - BLV GIÓ",
+    "logo": "https://sta.vnres.co/file/common/20260829/d42a997c6df2a0674e9020dbbfd7cb46.png",
+    "group": "Bóng đá · CHA FACup",
+    "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=c746bec7c67660b4baba6955dbe8da61\u0026txTime=6a962af6",
+    "type": "hls"
+  },
+  {
+    "id": "327159",
+    "tvg_id": "room-327159",
+    "name": "Bandirmaspor vs Antalyaspor - TFF 1. Lig - LOGAN",
+    "logo": "https://sta.vnres.co/file/common/20260829/5022b2a29d21ebe4f0bae3ef59d21ef5.png",
+    "group": "Bóng đá · TFF 1. Lig",
+    "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1788228256-0-0-d6f6b9bf95437bc6f7fb8ec00255d904",
+    "type": "hls"
+  },
+  {
+    "id": "372746",
+    "tvg_id": "room-372746",
+    "name": "Bandirmaspor vs Antalyaspor - TFF 1. Lig - LOGAN",
+    "logo": "https://sta.vnres.co/file/common/20260829/5022b2a29d21ebe4f0bae3ef59d21ef5.png",
+    "group": "Bóng đá · TFF 1. Lig",
+    "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788228049-0-0-905455227405edd009c3574001583776",
+    "type": "hls"
+  },
+  {
+    "id": "380460",
+    "tvg_id": "room-380460",
+    "name": "Deportes Tolima vs Cucuta Deportivo - COL D1 - CÔNG CHẤT",
+    "logo": "https://sta.vnres.co/file/common/20260827/5ed9b187534bdf199292155102495ea8.png",
+    "group": "Bóng đá · COL D1",
+    "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1788233341-0-0-0ca49c45f85b2587c72b0f2b80a02edb",
+    "type": "hls"
+  },
+  {
+    "id": "387694",
+    "tvg_id": "room-387694",
+    "name": "UM-Damansara United vs Johor Darul Ta'zim FC - MAS FAC - BLV ZOWIE",
+    "logo": "https://sta.vnres.co/file/common/20260830/db0c457f0cfbae3d5adfe6a4aa1a0065.png",
+    "group": "Bóng đá · MAS FAC",
+    "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=0904d091fa376002e4d858176628853e\u0026txTime=6a96410e",
+    "type": "hls"
+  },
+  {
+    "id": "406865",
+    "tvg_id": "room-406865",
+    "name": "Kelantan Red Warrior vs Kuching City FC - MAS FAC - BLV ANH TÀI",
+    "logo": "https://sta.vnres.co/file/common/20260830/1868e5b8d3c831a56f5d2811e73a516d.png",
+    "group": "Bóng đá · MAS FAC",
+    "url": "https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=494dde9df216df0469df08c0b00210e4\u0026txTime=6a958cf6",
+    "type": "hls"
+  },
+  {
+    "id": "414317",
+    "tvg_id": "room-414317",
+    "name": "UM-Damansara United vs Johor Darul Ta'zim FC - MAS FAC - BLV ZOWIE",
+    "logo": "https://sta.vnres.co/file/common/20260830/db0c457f0cfbae3d5adfe6a4aa1a0065.png",
+    "group": "Bóng đá · MAS FAC",
+    "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=235aa07b4d8de2c39078c73975abdcbf\u0026txTime=6a9683fe",
+    "type": "hls"
+  },
+  {
+    "id": "459401",
+    "tvg_id": "room-459401",
+    "name": "Beijing Guoan vs Lanzhou Longyuan Athletic - CHA FACup - BLV ROBBEN",
+    "logo": "https://sta.vnres.co/file/common/20260829/b097e8c5adacf1cbe77fb09b7114ea2b.png",
+    "group": "Bóng đá · CHA FACup",
+    "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=572a5b81ab61fe9110bde2f7d877a85b\u0026txTime=6a9688b4",
+    "type": "hls"
+  },
+  {
+    "id": "485739",
+    "tvg_id": "room-485739",
+    "name": "Univ Catolica vs O.Higgins - CHI D1 - BLV CHIVAS",
+    "logo": "https://sta.vnres.co/file/common/20260829/9347776da2956bc579b5a3abe3881cac.png",
+    "group": "Bóng đá · CHI D1",
+    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=c8eb19e95070fead31913dd7a0d2eaa8\u0026txTime=6a968ccd",
+    "type": "hls"
+  },
+  {
+    "id": "491873",
+    "tvg_id": "room-491873",
+    "name": "Tala'ea El Gaish vs ZED FC - EGY D1 - BLV RYO",
+    "logo": "https://sta.vnres.co/file/common/20260829/ac240084f84c1bec8d6af152d78d2e42.png",
+    "group": "Bóng đá · EGY D1",
+    "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=ecd3a156b2404a7af303667bce7cd5e6\u0026txTime=6a96367d",
+    "type": "hls"
+  },
+  {
+    "id": "501412",
+    "tvg_id": "room-501412",
+    "name": "Perak FC vs Kuala Lumpur City FC - MAS FAC - XUÂN SON",
+    "logo": "https://sta.vnres.co/file/common/20260830/c5dca491aec66b17334a6596cddcbede.png",
+    "group": "Bóng đá · MAS FAC",
+    "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=b60f8aa695e88186a0e9eb0e1e1d44b4\u0026txTime=6a95e699",
+    "type": "hls"
+  },
+  {
+    "id": "511367",
+    "tvg_id": "room-511367",
+    "name": "Al-Orobah FC vs Al Zulfi - KSA D1 - BLV WUKONG",
+    "logo": "https://sta.vnres.co/file/common/20260829/b07363f3ff82e0f29274ffe42c05d45c.png",
+    "group": "Bóng đá · KSA D1",
+    "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1788212579-0-0-3b9e77e58a92693c3bba904a47dd3df1",
+    "type": "hls"
+  },
+  {
+    "id": "527383",
+    "tvg_id": "room-527383",
+    "name": "Beijing Guoan vs Lanzhou Longyuan Athletic - CHA FACup - BLV ROBBEN",
+    "logo": "https://sta.vnres.co/file/common/20260829/b097e8c5adacf1cbe77fb09b7114ea2b.png",
+    "group": "Bóng đá · CHA FACup",
+    "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1788232370-0-0-ca8ffc07c8b26a751ed4c92faf50f896",
+    "type": "hls"
+  },
+  {
+    "id": "527384",
+    "tvg_id": "room-527384",
+    "name": "Dalian Yingbo vs Shanghai Shenhua - CHA FACup - QUỐC KHÁNH",
+    "logo": "https://sta.vnres.co/file/common/20260829/2cfd89ae52f0b7a9e1790a5b0907c1c8.png",
+    "group": "Bóng đá · CHA FACup",
+    "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1788212732-0-0-145403e88d0963cbfd4828f700cc1114",
+    "type": "hls"
+  },
+  {
+    "id": "532081",
+    "tvg_id": "room-532081",
+    "name": "Dalian Yingbo vs Shanghai Shenhua - CHA FACup - QUỐC KHÁNH",
+    "logo": "https://sta.vnres.co/file/common/20260829/2cfd89ae52f0b7a9e1790a5b0907c1c8.png",
+    "group": "Bóng đá · CHA FACup",
+    "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788212485-0-0-fbb51eef4d7d617775de446b80e9d67f",
+    "type": "hls"
+  },
+  {
+    "id": "534055",
+    "tvg_id": "room-534055",
+    "name": "DPMM FC vs Terengganu FC - MAS FAC - BLV RAMBO",
+    "logo": "https://sta.vnres.co/file/common/20260830/178cc29e17a90f699279704e63068a36.png",
+    "group": "Bóng đá · MAS FAC",
+    "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=0f752d37822aa200bec496d795996827\u0026txTime=6a967756",
+    "type": "hls"
+  },
+  {
+    "id": "536185",
+    "tvg_id": "room-536185",
+    "name": "Sepsi Sf. Gheorghe vs CFR Cluj - ROM Cup - BLV A WIN",
+    "logo": "https://sta.vnres.co/file/common/20260831/e99e75f84a3df644a48381b66bb047b7.png",
+    "group": "Bóng đá · ROM Cup",
+    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788214386-0-0-827aab9ed0c931c2adc78d3c27625cf1",
+    "type": "hls"
+  },
+  {
+    "id": "552832",
+    "tvg_id": "room-552832",
+    "name": "Vizela U23 vs Santa Clara U23 - POR LRU23 - A MÂN",
+    "logo": "https://sta.vnres.co/file/common/20260829/aec74ddaeb1346e8a887023463ddc964.png",
+    "group": "Bóng đá · POR LRU23",
+    "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=ce2f8663e24aabb155a53ff8dc16b73d\u0026txTime=6a968906",
+    "type": "hls"
+  },
+  {
+    "id": "582342",
+    "tvg_id": "room-582342",
+    "name": "UM-Damansara United vs Johor Darul Ta'zim FC - MAS FAC - BLV ZOWIE",
+    "logo": "https://sta.vnres.co/file/common/20260830/db0c457f0cfbae3d5adfe6a4aa1a0065.png",
+    "group": "Bóng đá · MAS FAC",
+    "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1788211259-0-0-8ffbb4fb0f56c8ec4d42e4c5ccc4079b",
+    "type": "hls"
+  },
+  {
+    "id": "597929",
+    "tvg_id": "room-597929",
+    "name": "Akron Togliatti vs Lokomotiv Moscow - RUS Cup - A PÁO",
+    "logo": "https://sta.vnres.co/file/common/20260829/1c258095b0adbcc7079cd30dc2886fb0.png",
+    "group": "Bóng đá · RUS Cup",
+    "url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1788212426-0-0-52f8ac8915aae42942a007b1a579ae71",
+    "type": "hls"
+  },
+  {
+    "id": "602019",
+    "tvg_id": "room-602019",
+    "name": "Farense U23 vs Famalicao U23 - POR LRU23 - BLV RYO",
+    "logo": "https://sta.vnres.co/file/common/20260829/94afed08cc1e0cf1bc4b5b537ae818e0.png",
+    "group": "Bóng đá · POR LRU23",
+    "url": "https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=f85791f69f06566a9959c4243e39f01e\u0026txTime=6a966d17",
+    "type": "hls"
+  },
+  {
+    "id": "603255",
+    "tvg_id": "room-603255",
+    "name": "Kelantan City vs Negeri Sembilan - MAS FAC - BLV LION",
+    "logo": "https://sta.vnres.co/file/common/20260830/267b9b9f459509b10c541c99e9f57478.png",
+    "group": "Bóng đá · MAS FAC",
+    "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1788230297-0-0-41701fdb38432a6f40d25501929c05ee",
+    "type": "hls"
+  },
+  {
+    "id": "603914",
+    "tvg_id": "room-603914",
+    "name": "Barranquilla FC vs Boca Juniors De Cali - COL D2 - TRÀ ĐÁ",
+    "logo": "https://sta.vnres.co/file/common/20260830/b20d4d01c8ebe6f0ecb6dbb2dffeae26.png",
+    "group": "Bóng đá · COL D2",
+    "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1787859773-0-0-063d179b1c9b03cf766022c730a23054",
+    "type": "hls"
+  },
+  {
+    "id": "607400",
+    "tvg_id": "room-607400",
+    "name": "DPMM FC vs Terengganu FC - MAS FAC - BLV RAMBO",
+    "logo": "https://sta.vnres.co/file/common/20260830/178cc29e17a90f699279704e63068a36.png",
+    "group": "Bóng đá · MAS FAC",
+    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=9f1f82ccf491c062b61fe7fa9211d38b\u0026txTime=6a968911",
+    "type": "hls"
+  },
+  {
+    "id": "607552",
+    "tvg_id": "room-607552",
+    "name": "Al-Orobah FC vs Al Zulfi - KSA D1 - BLV WUKONG",
+    "logo": "https://sta.vnres.co/file/common/20260829/b07363f3ff82e0f29274ffe42c05d45c.png",
+    "group": "Bóng đá · KSA D1",
+    "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1788212390-0-0-7958b2165835134dc7134ad2b6f49b56",
+    "type": "hls"
+  },
+  {
+    "id": "610518",
+    "tvg_id": "room-610518",
+    "name": "Beijing Guoan vs Lanzhou Longyuan Athletic - CHA FACup - BLV ROBBEN",
+    "logo": "https://sta.vnres.co/file/common/20260829/b097e8c5adacf1cbe77fb09b7114ea2b.png",
+    "group": "Bóng đá · CHA FACup",
+    "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=cffba38e86efe3a068b9b17d709c25b4\u0026txTime=6a96429e",
+    "type": "hls"
+  },
+  {
+    "id": "617313",
+    "tvg_id": "room-617313",
+    "name": "Umraniyespor vs Muglaspor - TFF 1. Lig - VINFAST",
+    "logo": "https://sta.vnres.co/file/common/20260829/70c84a524147f8999f5a7c8e9f946fc1.png",
+    "group": "Bóng đá · TFF 1. Lig",
+    "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1788202399-0-0-bc63f668c4513405cf8c38f1debf9eec",
+    "type": "hls"
+  },
+  {
+    "id": "618950",
+    "tvg_id": "room-618950",
+    "name": "Univ Catolica vs O.Higgins - CHI D1 - BLV CHIVAS",
+    "logo": "https://sta.vnres.co/file/common/20260829/9347776da2956bc579b5a3abe3881cac.png",
+    "group": "Bóng đá · CHI D1",
+    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788233341-0-0-d23691fbddf234be136267f958a17946",
+    "type": "hls"
+  },
+  {
+    "id": "619561",
+    "tvg_id": "room-619561",
+    "name": "Bandirmaspor vs Antalyaspor - TFF 1. Lig - LOGAN",
+    "logo": "https://sta.vnres.co/file/common/20260829/5022b2a29d21ebe4f0bae3ef59d21ef5.png",
+    "group": "Bóng đá · TFF 1. Lig",
+    "url": "https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1788111506-0-0-0795396356eb79ce4d1f1a676c3fbc23",
+    "type": "hls"
+  },
+  {
+    "id": "619672",
+    "tvg_id": "room-619672",
+    "name": "Bandirmaspor vs Antalyaspor - TFF 1. Lig - LOGAN",
+    "logo": "https://sta.vnres.co/file/common/20260829/5022b2a29d21ebe4f0bae3ef59d21ef5.png",
+    "group": "Bóng đá · TFF 1. Lig",
+    "url": "https://pull.niur.live/live/stream-619672_lhd.m3u8?txSecret=d7ff2d83b8693610fba0b3b4cbcf5e1d\u0026txTime=6a95b285",
+    "type": "hls"
+  },
+  {
+    "id": "620084",
+    "tvg_id": "room-620084",
+    "name": "Shimizu S-Pulse vs FC Tokyo - JPN D1 - BLV WUKONG",
+    "logo": "https://sta.vnres.co/file/common/20260830/99663f41c1cdca45e416d1c656846d3d.png",
+    "group": "Bóng đá · JPN D1",
+    "url": "https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1788188214-0-0-ce27aa54dc5e95e0b4aa487cb1e3302f",
+    "type": "hls"
+  },
+  {
+    "id": "620504",
+    "tvg_id": "room-620504",
+    "name": "Kelantan City vs Negeri Sembilan - MAS FAC - BLV LION",
+    "logo": "https://sta.vnres.co/file/common/20260830/267b9b9f459509b10c541c99e9f57478.png",
+    "group": "Bóng đá · MAS FAC",
+    "url": "https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=45907c1c8ff773f7dc91245f6dfca14d\u0026txTime=6a962252",
+    "type": "hls"
+  },
+  {
+    "id": "620797",
+    "tvg_id": "room-620797",
+    "name": "Moreirense U23 vs Portimonense U23 - POR LRU23 - BLV VOI",
+    "logo": "https://sta.vnres.co/file/common/20260829/fecbee4f2266134cc2e18b3d590c92d5.png",
+    "group": "Bóng đá · POR LRU23",
+    "url": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1788206378-0-0-2fb4ae82a1f59c31885820232b99a37a",
+    "type": "hls"
+  },
+  {
+    "id": "621840",
+    "tvg_id": "room-621840",
+    "name": "Deportes Tolima vs Cucuta Deportivo - COL D1 - CÔNG CHẤT",
+    "logo": "https://sta.vnres.co/file/common/20260827/5ed9b187534bdf199292155102495ea8.png",
+    "group": "Bóng đá · COL D1",
+    "url": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=2a4595687b78e0474c450cf40edae291\u0026txTime=6a968ccd",
+    "type": "hls"
+  },
+  {
+    "id": "621843",
+    "tvg_id": "room-621843",
+    "name": "Farense U23 vs Famalicao U23 - POR LRU23 - BLV RYO",
+    "logo": "https://sta.vnres.co/file/common/20260829/94afed08cc1e0cf1bc4b5b537ae818e0.png",
+    "group": "Bóng đá · POR LRU23",
+    "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1788214534-0-0-45ccf92fe324c2c3c6843641561bd084",
+    "type": "hls"
+  },
+  {
+    "id": "621887",
+    "tvg_id": "room-621887",
+    "name": "Envigado FC vs Union Magdalena - COL D2 - CHAN ĐÊ",
+    "logo": "https://sta.vnres.co/file/common/20260830/a9aa3e364db539f3de5a10a96598f837.png",
+    "group": "Bóng đá · COL D2",
+    "url": "https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1788232324-0-0-41d4dba86c1294a9a3a13f218e236434",
+    "type": "hls"
+  },
+  {
+    "id": "622093",
+    "tvg_id": "room-622093",
+    "name": "Al Jeel vs Jeddah - KSA D1 - GRAP",
+    "logo": "https://sta.vnres.co/file/common/20260829/a431b4535153dc83b26f2e25474ffed6.png",
+    "group": "Bóng đá · KSA D1",
+    "url": "https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=9f8003126d93aff87fd0a7b105c19eac\u0026txTime=6a964268",
+    "type": "hls"
+  },
+  {
+    "id": "622240",
+    "tvg_id": "room-622240",
+    "name": "Ghazl El Mahallah vs Enppi - EGY D1 - CURRY",
+    "logo": "https://sta.vnres.co/file/common/20260829/fec87bc9c18c6b5a533aa75e517b2a64.png",
+    "group": "Bóng đá · EGY D1",
+    "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1788206500-0-0-db12f75ebdf5e2fb88714ba82b58c2ed",
+    "type": "hls"
+  },
+  {
+    "id": "622241",
+    "tvg_id": "room-622241",
+    "name": "Machida Zelvia vs Kawasaki Frontale - JPN D1 - THOMAS",
+    "logo": "https://sta.vnres.co/file/common/20260830/a216d8c8e8a7326c0d2e70f99fecf3e1.png",
+    "group": "Bóng đá · JPN D1",
+    "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1788142328-0-0-9708ee673e6468c4b1a431726f530941",
+    "type": "hls"
+  },
+  {
+    "id": "625920",
+    "tvg_id": "room-625920",
+    "name": "Tala'ea El Gaish vs ZED FC - EGY D1 - BLV RYO",
+    "logo": "https://sta.vnres.co/file/common/20260829/ac240084f84c1bec8d6af152d78d2e42.png",
+    "group": "Bóng đá · EGY D1",
+    "url": "https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1788206604-0-0-fd1ac1d0a67b94cfad2148cbc44e0d68",
+    "type": "hls"
+  },
+  {
+    "id": "627718",
+    "tvg_id": "room-627718",
+    "name": "Vizela U23 vs Santa Clara U23 - POR LRU23 - A MÂN",
+    "logo": "https://sta.vnres.co/file/common/20260829/aec74ddaeb1346e8a887023463ddc964.png",
+    "group": "Bóng đá · POR LRU23",
+    "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1788188393-0-0-9551f28ca96efbbefd66322a7accbcab",
+    "type": "hls"
+  },
+  {
+    "id": "991140",
+    "tvg_id": "room-991140",
+    "name": "Akron Togliatti vs Lokomotiv Moscow - RUS Cup - A PÁO",
+    "logo": "https://sta.vnres.co/file/common/20260829/1c258095b0adbcc7079cd30dc2886fb0.png",
+    "group": "Bóng đá · RUS Cup",
+    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788213740-0-0-d59b411d18673292999878f0512d5622",
+    "type": "hls"
+  },
+  {
+    "id": "9912008",
+    "tvg_id": "room-9912008",
+    "name": "UM-Damansara United vs Johor Darul Ta'zim FC - MAS FAC - BLV ZOWIE",
+    "logo": "https://sta.vnres.co/file/common/20260830/db0c457f0cfbae3d5adfe6a4aa1a0065.png",
+    "group": "Bóng đá · MAS FAC",
+    "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1788213615-0-0-3eb70ca5ffde5ac1073ed091691f4d08",
+    "type": "hls"
+  },
+  {
+    "id": "9912091",
+    "tvg_id": "room-9912091",
+    "name": "Deportes Tolima vs Cucuta Deportivo - COL D1 - CÔNG CHẤT",
+    "logo": "https://sta.vnres.co/file/common/20260827/5ed9b187534bdf199292155102495ea8.png",
+    "group": "Bóng đá · COL D1",
+    "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788233341-0-0-0d26c3f2f390152ee82572de89e51a30",
+    "type": "hls"
+  },
+  {
+    "id": "9912102",
+    "tvg_id": "room-9912102",
+    "name": "Fakel Voronezh vs FK Krasnodar - RUS Cup - BLV ENZO",
+    "logo": "https://sta.vnres.co/file/common/20260829/80b2cc3e4c533c73142ad132f677298c.png",
+    "group": "Bóng đá · RUS Cup",
+    "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=bc4297c65681a58a3ce85873ca767087\u0026txTime=6a9689bc",
+    "type": "hls"
+  },
+  {
+    "id": "9912110",
+    "tvg_id": "room-9912110",
+    "name": "Deportes Tolima vs Cucuta Deportivo - COL D1 - CÔNG CHẤT",
+    "logo": "https://sta.vnres.co/file/common/20260827/5ed9b187534bdf199292155102495ea8.png",
+    "group": "Bóng đá · COL D1",
+    "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788233341-0-0-699a197b04cc9127ff19df52dce0ff40",
+    "type": "hls"
+  },
+  {
+    "id": "9912114",
+    "tvg_id": "room-9912114",
+    "name": "Moreirense U23 vs Portimonense U23 - POR LRU23 - BLV VOI",
+    "logo": "https://sta.vnres.co/file/common/20260829/fecbee4f2266134cc2e18b3d590c92d5.png",
+    "group": "Bóng đá · POR LRU23",
+    "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1788224131-0-0-6d3173c1d95dc3ac29d70deb0e227bd5",
+    "type": "hls"
+  },
+  {
+    "id": "9912119",
+    "tvg_id": "room-9912119",
+    "name": "Al-Sadd vs Al-Gharafa SC - QAT CPC - BLV Củ Cải",
+    "logo": "https://sta.vnres.co/file/common/20260829/916c96ade7e4a7c4b7b7d80c761f5ccf.png",
+    "group": "Bóng đá · QAT CPC",
+    "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1788213543-0-0-9d186a80643c9cb4bb7ad1f402f411cb",
+    "type": "hls"
+  },
+  {
+    "id": "9912123",
+    "tvg_id": "room-9912123",
+    "name": "Umraniyespor vs Muglaspor - TFF 1. Lig - VINFAST",
+    "logo": "https://sta.vnres.co/file/common/20260829/70c84a524147f8999f5a7c8e9f946fc1.png",
+    "group": "Bóng đá · TFF 1. Lig",
+    "url": "https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1788202393-0-0-bb664bce595f3328832ad151d0633577",
+    "type": "hls"
+  },
+  {
+    "id": "9912124",
+    "tvg_id": "room-9912124",
+    "name": "Farense U23 vs Famalicao U23 - POR LRU23 - BLV RYO",
+    "logo": "https://sta.vnres.co/file/common/20260829/94afed08cc1e0cf1bc4b5b537ae818e0.png",
+    "group": "Bóng đá · POR LRU23",
+    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788225282-0-0-fae1f7ed73fd5fca52171593e7317227",
+    "type": "hls"
+  },
+  {
+    "id": "9912126",
+    "tvg_id": "room-9912126",
+    "name": "Dalian Yingbo vs Shanghai Shenhua - CHA FACup - QUỐC KHÁNH",
+    "logo": "https://sta.vnres.co/file/common/20260829/2cfd89ae52f0b7a9e1790a5b0907c1c8.png",
+    "group": "Bóng đá · CHA FACup",
+    "url": "https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=869493abe1a308e7b1596c54b6637424\u0026txTime=6a962b03",
+    "type": "hls"
+  },
+  {
+    "id": "9912127",
+    "tvg_id": "room-9912127",
+    "name": "Umraniyespor vs Muglaspor - TFF 1. Lig - VINFAST",
+    "logo": "https://sta.vnres.co/file/common/20260829/70c84a524147f8999f5a7c8e9f946fc1.png",
+    "group": "Bóng đá · TFF 1. Lig",
+    "url": "https://pull.niues.live/live/stream-9912127_lhd.m3u8?auth_key=1788212001-0-0-be92d5cf0329cb2ccc9dfd472cee7aeb",
+    "type": "hls"
+  },
+  {
+    "id": "9912128",
+    "tvg_id": "room-9912128",
+    "name": "Ghazl El Mahallah vs Enppi - EGY D1 - CURRY",
+    "logo": "https://sta.vnres.co/file/common/20260829/fec87bc9c18c6b5a533aa75e517b2a64.png",
+    "group": "Bóng đá · EGY D1",
+    "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1788211966-0-0-aba3dad89a1000b86d1e2431f383ba2c",
+    "type": "hls"
+  },
+  {
+    "id": "9912129",
+    "tvg_id": "room-9912129",
+    "name": "Dalian Yingbo vs Shanghai Shenhua - CHA FACup - QUỐC KHÁNH",
+    "logo": "https://sta.vnres.co/file/common/20260829/2cfd89ae52f0b7a9e1790a5b0907c1c8.png",
+    "group": "Bóng đá · CHA FACup",
+    "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=06fd953082240d407bca71bb26ce83d3\u0026txTime=6a962b60",
+    "type": "hls"
+  },
+  {
+    "id": "9912130",
+    "tvg_id": "room-9912130",
+    "name": "Al-Sadd vs Al-Gharafa SC - QAT CPC - BLV Củ Cải",
+    "logo": "https://sta.vnres.co/file/common/20260829/916c96ade7e4a7c4b7b7d80c761f5ccf.png",
+    "group": "Bóng đá · QAT CPC",
+    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788232263-0-0-c3a3108146b981b277b37ae91c2d3d01",
+    "type": "hls"
+  },
+  {
+    "id": "9912131",
+    "tvg_id": "room-9912131",
+    "name": "Parma vs Cremonese - ITA Cup - CHÍ PHÈO",
+    "logo": "https://sta.vnres.co/file/common/20260829/a5b169c0d8f3d6bffa0000559438ce33.png",
+    "group": "Bóng đá · ITA Cup",
+    "url": "https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1788215701-0-0-c56831c8bf925aa9abaecbb155f67478",
+    "type": "hls"
+  },
+  {
+    "id": "9912132",
+    "tvg_id": "room-9912132",
+    "name": "Fakel Voronezh vs FK Krasnodar - RUS Cup - BLV ENZO",
+    "logo": "https://sta.vnres.co/file/common/20260829/80b2cc3e4c533c73142ad132f677298c.png",
+    "group": "Bóng đá · RUS Cup",
+    "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=d5f5ef440a8405e7b4495d1012fe699e\u0026txTime=6a964760",
+    "type": "hls"
+  },
+  {
+    "id": "9912133",
+    "tvg_id": "room-9912133",
+    "name": "Akron Togliatti vs Lokomotiv Moscow - RUS Cup - A PÁO",
+    "logo": "https://sta.vnres.co/file/common/20260829/1c258095b0adbcc7079cd30dc2886fb0.png",
+    "group": "Bóng đá · RUS Cup",
+    "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1788215651-0-0-b7d57fd4b5d513a0ea5a34fdc343f96b",
+    "type": "hls"
+  },
+  {
+    "id": "9912135",
+    "tvg_id": "room-9912135",
+    "name": "Yokohama F. Marinos vs Kyoto Sanga - JPN D1 - A MÂN",
+    "logo": "https://sta.vnres.co/file/common/20260830/16428840f0f78cccf7dd56d1f9251561.png",
+    "group": "Bóng đá · JPN D1",
+    "url": "https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1788195454-0-0-bf57d5c4986342699d57a3464080929d",
+    "type": "hls"
+  },
+  {
+    "id": "9912136",
+    "tvg_id": "room-9912136",
+    "name": "Akron Togliatti vs Lokomotiv Moscow - RUS Cup - A PÁO",
+    "logo": "https://sta.vnres.co/file/common/20260829/1c258095b0adbcc7079cd30dc2886fb0.png",
+    "group": "Bóng đá · RUS Cup",
+    "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=8a2b0c6542ab1331e4ecba0ae5085aba\u0026txTime=6a9678a4",
+    "type": "hls"
+  },
+  {
+    "id": "9912138",
+    "tvg_id": "room-9912138",
+    "name": "Al Jeel vs Jeddah - KSA D1 - GRAP",
+    "logo": "https://sta.vnres.co/file/common/20260829/a431b4535153dc83b26f2e25474ffed6.png",
+    "group": "Bóng đá · KSA D1",
+    "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1788214514-0-0-c01f1eff06489b34ecd385f40e69fd92",
+    "type": "hls"
+  },
+  {
+    "id": "9912139",
+    "tvg_id": "room-9912139",
+    "name": "Avispa Fukuoka vs Urawa Red Diamonds - JPN D1 - BLV COCA",
+    "logo": "https://sta.vnres.co/file/common/20260830/f672bd81243b871e0ff80e4b36898315.png",
+    "group": "Bóng đá · JPN D1",
+    "url": "https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=e1bd215f20f907283fb1a50f382b49cb\u0026txTime=6a9668c5",
+    "type": "hls"
+  },
+  {
+    "id": "9912140",
+    "tvg_id": "room-9912140",
+    "name": "Shandong Taishan vs Shanghai Port - CHA FACup - BLV GIÓ",
+    "logo": "https://sta.vnres.co/file/common/20260829/d42a997c6df2a0674e9020dbbfd7cb46.png",
+    "group": "Bóng đá · CHA FACup",
+    "url": "https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=6bd96544dc0c51a05184e328200a8a5b\u0026txTime=6a95b1a2",
+    "type": "hls"
+  },
+  {
+    "id": "9912141",
+    "tvg_id": "room-9912141",
+    "name": "Shandong Taishan vs Shanghai Port - CHA FACup - BLV GIÓ",
+    "logo": "https://sta.vnres.co/file/common/20260829/d42a997c6df2a0674e9020dbbfd7cb46.png",
+    "group": "Bóng đá · CHA FACup",
+    "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1788215796-0-0-0b9c09c54f01e7b706f952c4cd822eba",
+    "type": "hls"
+  },
+  {
+    "id": "9912142",
+    "tvg_id": "room-9912142",
+    "name": "Shandong Taishan vs Shanghai Port - CHA FACup - BLV GIÓ",
+    "logo": "https://sta.vnres.co/file/common/20260829/d42a997c6df2a0674e9020dbbfd7cb46.png",
+    "group": "Bóng đá · CHA FACup",
+    "url": "https://pull.niur.live/live/stream-9912142_lhd.m3u8?txSecret=dad50cdbdb59bc074533a8f1dab5ac23\u0026txTime=6a9680dd",
+    "type": "hls"
+  },
+  {
+    "id": "9912144",
+    "tvg_id": "room-9912144",
+    "name": "Al-Shamal SC vs Al Rayyan - QAT CPC - BÁ PHÚ",
+    "logo": "https://sta.vnres.co/file/common/20260829/f435011ea3c9d60f601e52d345bc9351.png",
+    "group": "Bóng đá · QAT CPC",
+    "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788232351-0-0-4d7fc895bbbe5aa3fd76b898c5045deb",
+    "type": "hls"
+  },
+  {
+    "id": "9912145",
+    "tvg_id": "room-9912145",
+    "name": "Al-Sadd vs Al-Gharafa SC - QAT CPC - BLV Củ Cải",
+    "logo": "https://sta.vnres.co/file/common/20260829/916c96ade7e4a7c4b7b7d80c761f5ccf.png",
+    "group": "Bóng đá · QAT CPC",
+    "url": "https://pull.niur.live/live/stream-9912145_lhd.m3u8?txSecret=b040c1bf391e429b0e1c0530ead73bd9\u0026txTime=6a94bda7",
+    "type": "hls"
+  },
+  {
+    "id": "9912146",
+    "tvg_id": "room-9912146",
+    "name": "Deportes Tolima vs Cucuta Deportivo - COL D1 - CÔNG CHẤT",
+    "logo": "https://sta.vnres.co/file/common/20260827/5ed9b187534bdf199292155102495ea8.png",
+    "group": "Bóng đá · COL D1",
+    "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788233341-0-0-3af824216b7087acf22c85eeb04386bb",
+    "type": "hls"
+  },
+  {
+    "id": "356042",
+    "tvg_id": "room-356042",
+    "name": "Mexico vs Brazil - WCPAM - BLV HENRY",
+    "logo": "https://sta.vnres.co/file/common/20260830/d4ffb13f075af00b78a2aacd999ea301.png",
+    "group": "Bóng rổ · WCPAM",
+    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=0154c823b99dd81d6f0dd3985959f8c7\u0026txTime=6a968ccd",
+    "type": "hls"
+  },
+  {
+    "id": "558264",
+    "tvg_id": "room-558264",
+    "name": "Shanxi Loongs Fenjiu vs Tianjin Pioneers - CBASL - BLV HENRY",
+    "logo": "https://sta.vnres.co/file/common/20260831/d02079ea1481e8a7f71d2f3381a841e7.png",
+    "group": "Bóng rổ · CBASL",
+    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=6b5e6b7f2088dba969fe05b83617dafc\u0026txTime=6a95564b",
+    "type": "hls"
+  },
+  {
+    "id": "9912099",
+    "tvg_id": "room-9912099",
+    "name": "Mexico vs Brazil - WCPAM - BLV HENRY",
+    "logo": "https://sta.vnres.co/file/common/20260830/d4ffb13f075af00b78a2aacd999ea301.png",
+    "group": "Bóng rổ · WCPAM",
+    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788233341-0-0-b9663713df7e103a925ecb22b5f983c0",
+    "type": "hls"
+  },
+  {
+    "id": "9912106",
+    "tvg_id": "room-9912106",
+    "name": "Mexico vs Brazil - WCPAM - BLV HENRY",
+    "logo": "https://sta.vnres.co/file/common/20260830/d4ffb13f075af00b78a2aacd999ea301.png",
+    "group": "Bóng rổ · WCPAM",
+    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788233341-0-0-0922fb95a5917b971abc6b7299b55b70",
+    "type": "hls"
+  },
+  {
+    "id": "9912112",
+    "tvg_id": "room-9912112",
+    "name": "Mexico vs Brazil - WCPAM - BLV HENRY",
+    "logo": "https://sta.vnres.co/file/common/20260830/d4ffb13f075af00b78a2aacd999ea301.png",
+    "group": "Bóng rổ · WCPAM",
+    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788233341-0-0-00ac0c968a88c5d4dbb8b3f17b28f89a",
+    "type": "hls"
+  },
+  {
+    "id": "9912115",
+    "tvg_id": "room-9912115",
+    "name": "Mexico vs Brazil - WCPAM - BLV HENRY",
+    "logo": "https://sta.vnres.co/file/common/20260830/d4ffb13f075af00b78a2aacd999ea301.png",
+    "group": "Bóng rổ · WCPAM",
+    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788233341-0-0-d8ba03b34352a1adce54ee87ec35d22f",
+    "type": "hls"
+  },
+  {
     "id": "291277",
     "tvg_id": "room-291277",
     "name": "COL D1: Deportes Tolima vs Cucuta Deportivo - CÔNG CHẤT",
     "logo": "https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=3043b8f42f245dd473164e5e85919927\u0026txTime=6a968a75",
+    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=6a797fddfe248b2d978628ee04256eca\u0026txTime=6a968ccd",
     "type": "hls"
   },
   {
@@ -14,7 +716,7 @@
     "name": "WCPAM: Mexico vs Brazil - A CHÈ",
     "logo": "https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=a0b525ed6925589629b2bf2b963240a8\u0026txTime=6a968a75",
+    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=0154c823b99dd81d6f0dd3985959f8c7\u0026txTime=6a968ccd",
     "type": "hls"
   },
   {
@@ -23,7 +725,7 @@
     "name": "COL D1: Deportes Tolima vs Cucuta Deportivo - BLV ENZO",
     "logo": "https://sta.vnres.co/file/common/20260827/1d4f9eca02a381435aaec138589dd9ef.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1788232741-0-0-f44b2282edea268ec7fcb8230f03dfc2",
+    "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1788233341-0-0-0ca49c45f85b2587c72b0f2b80a02edb",
     "type": "hls"
   },
   {
@@ -32,7 +734,7 @@
     "name": "CHI D1: Univ Catolica vs O.Higgins - BLV CHIVAS",
     "logo": "https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=6ee96b5066d96e6c9c0230aa050795c6\u0026txTime=6a968a75",
+    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=c8eb19e95070fead31913dd7a0d2eaa8\u0026txTime=6a968ccd",
     "type": "hls"
   },
   {
@@ -41,7 +743,7 @@
     "name": "CHI D1: Univ Catolica vs O.Higgins - CƠM NẾP",
     "logo": "https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788232741-0-0-b1690c93bdf7ff022f0e476b9f9ccc09",
+    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788233341-0-0-d23691fbddf234be136267f958a17946",
     "type": "hls"
   },
   {
@@ -50,7 +752,7 @@
     "name": "COL D1: Deportes Tolima vs Cucuta Deportivo - MP3",
     "logo": "https://sta.vnres.co/file/common/20260810/042a00493898027e5f644f6f24e88c53.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=0907aed8f63cfca0ab476372b9ef8aaa\u0026txTime=6a968a75",
+    "url": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=2a4595687b78e0474c450cf40edae291\u0026txTime=6a968ccd",
     "type": "hls"
   },
   {
@@ -59,7 +761,7 @@
     "name": "COL D1: Deportes Tolima vs Cucuta Deportivo - BLV Củ Cải",
     "logo": "https://sta.vnres.co/file/common/20260901/9f9c621d17daaca34484130fa63771ff.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788232741-0-0-1427ca36796db73c84e6f3622cb36d85",
+    "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788233341-0-0-0d26c3f2f390152ee82572de89e51a30",
     "type": "hls"
   },
   {
@@ -68,7 +770,7 @@
     "name": "WCPAM: Mexico vs Brazil - KING",
     "logo": "https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788232741-0-0-25f8d69f6e9a743738fc0d946c61a49a",
+    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788233341-0-0-b9663713df7e103a925ecb22b5f983c0",
     "type": "hls"
   },
   {
@@ -77,7 +779,7 @@
     "name": "WCPAM: Mexico vs Brazil - BRIAN",
     "logo": "https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788232741-0-0-af497de2628b7de50e89122abb1abe88",
+    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788233341-0-0-0922fb95a5917b971abc6b7299b55b70",
     "type": "hls"
   },
   {
@@ -86,7 +788,7 @@
     "name": "COL D1: Deportes Tolima vs Cucuta Deportivo - BLV ZOWIE",
     "logo": "https://sta.vnres.co/file/common/20260831/caac4db30e51ab3213e882c77bf88da5.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788232741-0-0-daf8d7046e1d9c2e4c3d26d7d1836903",
+    "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788233341-0-0-699a197b04cc9127ff19df52dce0ff40",
     "type": "hls"
   },
   {
@@ -95,7 +797,7 @@
     "name": "WCPAM: Mexico vs Brazil - BLV HENRY",
     "logo": "https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788232741-0-0-feef995f3846baa73cde0d4fc21d1332",
+    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788233341-0-0-00ac0c968a88c5d4dbb8b3f17b28f89a",
     "type": "hls"
   },
   {
@@ -104,7 +806,7 @@
     "name": "WCPAM: Mexico vs Brazil - CHAN SENA",
     "logo": "https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788232741-0-0-6014030cbad7a7b6428ac014ad477e30",
+    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788233341-0-0-d8ba03b34352a1adce54ee87ec35d22f",
     "type": "hls"
   },
   {
@@ -113,7 +815,7 @@
     "name": "COL D1: Deportes Tolima vs Cucuta Deportivo - BLV CUỘI",
     "logo": "https://sta.vnres.co/file/common/20260829/f6903a1879b3c7cc22d27c658db14d94.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788232741-0-0-6b4a6057a5142e3325706da0e69455ce",
+    "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788233341-0-0-3af824216b7087acf22c85eeb04386bb",
     "type": "hls"
   }
 ]
