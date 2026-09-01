@@ -36,15 +36,6 @@
     "type": "hls"
   },
   {
-    "id": "321443",
-    "tvg_id": "room-321443",
-    "name": "Shandong Taishan vs Shanghai Port (CHA FACup)",
-    "logo": "https://sta.vnres.co/file/common/20260829/d42a997c6df2a0674e9020dbbfd7cb46.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=c746bec7c67660b4baba6955dbe8da61\u0026txTime=6a962af6",
-    "type": "hls"
-  },
-  {
     "id": "327159",
     "tvg_id": "room-327159",
     "name": "Bandirmaspor vs Antalyaspor (TFF 1. Lig)",
@@ -96,15 +87,6 @@
     "logo": "https://sta.vnres.co/file/common/20260830/db0c457f0cfbae3d5adfe6a4aa1a0065.png",
     "group": "Bóng đá",
     "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=235aa07b4d8de2c39078c73975abdcbf\u0026txTime=6a9683fe",
-    "type": "hls"
-  },
-  {
-    "id": "459401",
-    "tvg_id": "room-459401",
-    "name": "Beijing Guoan vs Lanzhou Longyuan Athletic (CHA FACup)",
-    "logo": "https://sta.vnres.co/file/common/20260829/b097e8c5adacf1cbe77fb09b7114ea2b.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=572a5b81ab61fe9110bde2f7d877a85b\u0026txTime=6a9688b4",
     "type": "hls"
   },
   {
@@ -222,15 +204,6 @@
     "logo": "https://sta.vnres.co/file/common/20260829/94afed08cc1e0cf1bc4b5b537ae818e0.png",
     "group": "Bóng đá",
     "url": "https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=f85791f69f06566a9959c4243e39f01e\u0026txTime=6a966d17",
-    "type": "hls"
-  },
-  {
-    "id": "603255",
-    "tvg_id": "room-603255",
-    "name": "Kelantan City vs Negeri Sembilan (MAS FAC)",
-    "logo": "https://sta.vnres.co/file/common/20260830/267b9b9f459509b10c541c99e9f57478.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1788230297-0-0-41701fdb38432a6f40d25501929c05ee",
     "type": "hls"
   },
   {
@@ -423,6 +396,15 @@
     "type": "hls"
   },
   {
+    "id": "9912041",
+    "tvg_id": "room-9912041",
+    "name": "Club America vs Rayados de Monterrey (CNCF LC)",
+    "logo": "https://sta.vnres.co/file/common/20260830/7b670f2dbd11ae214ce46603b5c47612.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=04532a7cfe09373e811a832ba3fa5bfe\u0026txTime=6a95f08b",
+    "type": "hls"
+  },
+  {
     "id": "9912091",
     "tvg_id": "room-9912091",
     "name": "Shandong Taishan vs Shanghai Port (CHA FACup)",
@@ -438,6 +420,15 @@
     "logo": "https://sta.vnres.co/file/common/20260829/80b2cc3e4c533c73142ad132f677298c.png",
     "group": "Bóng đá",
     "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=bc4297c65681a58a3ce85873ca767087\u0026txTime=6a9689bc",
+    "type": "hls"
+  },
+  {
+    "id": "9912110",
+    "tvg_id": "room-9912110",
+    "name": "UM-Damansara United vs Johor Darul Ta'zim FC (MAS FAC)",
+    "logo": "https://sta.vnres.co/file/common/20260830/db0c457f0cfbae3d5adfe6a4aa1a0065.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788235200-0-0-5388c31a83d4a03ca85ea52750c5b490",
     "type": "hls"
   },
   {
@@ -653,7 +644,7 @@
     "name": "Pasig City vs Marikina Shoemasters (MPBL)",
     "logo": "https://sta.vnres.co/file/common/20260830/f709c6c58ab961b8d635b798e4c85263.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=6718247fb9f12c881ce2871bb8e57d5d\u0026txTime=6a96d845",
+    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=e2a146b061b62187f006513f7851c9de\u0026txTime=6a96d971",
     "type": "hls"
   },
   {
@@ -671,7 +662,7 @@
     "name": "Pasig City vs Marikina Shoemasters (MPBL)",
     "logo": "https://sta.vnres.co/file/common/20260830/f709c6c58ab961b8d635b798e4c85263.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788252661-0-0-0f580f0bb93878413f7263a9ef732f6a",
+    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788252961-0-0-e0d654e9fe1c846c6c6e0eace895aa3f",
     "type": "hls"
   },
   {
@@ -689,7 +680,7 @@
     "name": "Pasig City vs Marikina Shoemasters (MPBL)",
     "logo": "https://sta.vnres.co/file/common/20260830/f709c6c58ab961b8d635b798e4c85263.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788252661-0-0-5a14b11162fe66a66311b948cfbf263c",
+    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788252961-0-0-ee5c4698fffb8787aabbd4c7a94aed00",
     "type": "hls"
   },
   {
@@ -707,7 +698,7 @@
     "name": "Tường thuật: COL D1 - Deportes Tolima vs Cucuta Deportivo - Gà xào sả ớt",
     "logo": "https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=90c2cf138ecff60fcb2e62992bfb8a3d\u0026txTime=6a96d845",
+    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=11205fd99b06954e97a804dcade7eba8\u0026txTime=6a96d971",
     "type": "hls"
   },
   {
@@ -716,7 +707,7 @@
     "name": "Tường thuật: ITA D1 - Lecce vs AS Roma - Bò leo rào",
     "logo": "https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=d066213c61837801ee27199b242c186f\u0026txTime=6a96d845",
+    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=19394392e0ef2dd3de4756e7b1725721\u0026txTime=6a96d971",
     "type": "hls"
   },
   {
@@ -725,7 +716,7 @@
     "name": "Tường thuật: SPA D1 - CA Osasuna vs Getafe - Thỏ giang hồ",
     "logo": "https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=afb6a0eb45332e4d948577d7c3dffec0\u0026txTime=6a96d845",
+    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=933dccba46e6d5518de5110edc1f9dda\u0026txTime=6a96d971",
     "type": "hls"
   },
   {
@@ -734,7 +725,7 @@
     "name": "Tường thuật: ENG PR - Aston Villa vs Arsenal - Hươu đau cổ",
     "logo": "https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=0ccf6c999750fad20da6405929ad261a\u0026txTime=6a96d845",
+    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=ccf43181708395ff86f84200dce90e73\u0026txTime=6a96d971",
     "type": "hls"
   },
   {
@@ -743,7 +734,7 @@
     "name": "Tường thuật: ITA D1 - Atalanta vs Bologna - Mèo méo meo",
     "logo": "https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=82bc20b77828c733e3e6580f943a350c\u0026txTime=6a96d845",
+    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=a545c2d63cd7507c49e88b4ce01c5ad3\u0026txTime=6a96d971",
     "type": "hls"
   },
   {
@@ -752,7 +743,7 @@
     "name": "MPBL: Pasig City vs Marikina Shoemasters - A CHÈ",
     "logo": "https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=6718247fb9f12c881ce2871bb8e57d5d\u0026txTime=6a96d845",
+    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=e2a146b061b62187f006513f7851c9de\u0026txTime=6a96d971",
     "type": "hls"
   },
   {
@@ -761,7 +752,7 @@
     "name": "Tường thuật: AFC U20 - Vietnam U20 vs Korea DPR U20 - Rắn ở đáy sông",
     "logo": "https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=0a839c6de3d3fa9ee0df20b944dee027\u0026txTime=6a96d845",
+    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=053aadafb94600289d332cff7da67278\u0026txTime=6a96d971",
     "type": "hls"
   },
   {
@@ -770,7 +761,7 @@
     "name": "MPBL: Pasig City vs Marikina Shoemasters - KING",
     "logo": "https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788252661-0-0-0f580f0bb93878413f7263a9ef732f6a",
+    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788252961-0-0-e0d654e9fe1c846c6c6e0eace895aa3f",
     "type": "hls"
   },
   {
@@ -779,7 +770,7 @@
     "name": "MPBL: Pasig City vs Marikina Shoemasters - BLV HENRY",
     "logo": "https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788252661-0-0-5a14b11162fe66a66311b948cfbf263c",
+    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788252961-0-0-ee5c4698fffb8787aabbd4c7a94aed00",
     "type": "hls"
   }
 ]
