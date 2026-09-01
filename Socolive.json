@@ -113,7 +113,7 @@
     "name": "Supra Du Quebec vs Forge FC (CAN CC)",
     "logo": "https://sta.vnres.co/file/common/20260831/d02f15b52884f7dba6c768b0a5cad678.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=51cfb79c3750e62704a49fcbca10ee28\u0026txTime=6a97a031",
+    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=ffca85aa22dbbc99ddf978c4e17edbfd\u0026txTime=6a97a15d",
     "type": "hls"
   },
   {
@@ -126,12 +126,30 @@
     "type": "hls"
   },
   {
+    "id": "501412",
+    "tvg_id": "room-501412",
+    "name": "FC Zbrojovka Brno vs FC Hradec Králové (CZE D1)",
+    "logo": "https://sta.vnres.co/file/common/20260830/df5a6bf84fe211592c68f0d3ef5a3c31.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=314040e00db63a42ca022dfd93d8b034\u0026txTime=6a9778c7",
+    "type": "hls"
+  },
+  {
     "id": "511367",
     "tvg_id": "room-511367",
     "name": "Shimizu S-Pulse vs FC Tokyo (JPN D1)",
     "logo": "https://sta.vnres.co/file/common/20260830/99663f41c1cdca45e416d1c656846d3d.png",
     "group": "Bóng đá",
     "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1788299231-0-0-70f528c8b21b3b23a9d74f1afdb66cdc",
+    "type": "hls"
+  },
+  {
+    "id": "527383",
+    "tvg_id": "room-527383",
+    "name": "Sanfrecce Hiroshima vs Nagoya Grampus (JPN D1)",
+    "logo": "https://sta.vnres.co/file/common/20260830/cc43ce79e83c358f35f6423287f36e16.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1788298960-0-0-d943412ee42f56df5a1f81d157fb5185",
     "type": "hls"
   },
   {
@@ -149,7 +167,7 @@
     "name": "Club Sportivo 2 de Mayo vs Sportivo Luqueno (PAR D1)",
     "logo": "https://sta.vnres.co/file/common/20260831/0f90435298b747015853e910d3313f06.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788303841-0-0-e416bbba5ffc6e641f405af1d7d09934",
+    "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788304141-0-0-79e4d6e17b6cbbe4c6284b91c569c346",
     "type": "hls"
   },
   {
@@ -158,7 +176,7 @@
     "name": "Londrina PR vs Esporte Clube Juventude (BRA D2)",
     "logo": "https://sta.vnres.co/file/common/20260830/2979a5478fe76d302f4dd8998d54fc80.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=de58dfd5e1fdbd4420ba9fea69fe5061\u0026txTime=6a97a031",
+    "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=afd7878dd168f5e9e65c63f9b27b1c7d\u0026txTime=6a97a169",
     "type": "hls"
   },
   {
@@ -167,7 +185,7 @@
     "name": "Club Sportivo 2 de Mayo vs Sportivo Luqueno (PAR D1)",
     "logo": "https://sta.vnres.co/file/common/20260831/0f90435298b747015853e910d3313f06.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788303841-0-0-d2cdd82fd68218c7db45c9eb8a392046",
+    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788304141-0-0-187b13ab61af9340b3533120088aa105",
     "type": "hls"
   },
   {
@@ -221,7 +239,7 @@
     "name": "Barranquilla FC vs Boca Juniors De Cali (COL D2)",
     "logo": "https://sta.vnres.co/file/common/20260830/b20d4d01c8ebe6f0ecb6dbb2dffeae26.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1788303841-0-0-4ca1e56f99c19a9ac5acf1ae3d80bdef",
+    "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1788304141-0-0-87f1e1c953c72aeefafdf7623547a27f",
     "type": "hls"
   },
   {
@@ -266,7 +284,7 @@
     "name": "Supra Du Quebec vs Forge FC (CAN CC)",
     "logo": "https://sta.vnres.co/file/common/20260831/d02f15b52884f7dba6c768b0a5cad678.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788303841-0-0-fdfe145461d229937fba2ef696e11897",
+    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788304141-0-0-c771145057cb448fb84c206b1ced2254",
     "type": "hls"
   },
   {
@@ -473,7 +491,7 @@
     "name": "Barranquilla FC vs Boca Juniors De Cali (COL D2)",
     "logo": "https://sta.vnres.co/file/common/20260830/b20d4d01c8ebe6f0ecb6dbb2dffeae26.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788303841-0-0-076511a1114d7b9d05e5d4a798ca1430",
+    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788304141-0-0-d494e66f7fcf3e5e0984bf26b653517c",
     "type": "hls"
   },
   {
@@ -702,21 +720,12 @@
     "type": "hls"
   },
   {
-    "id": "133277",
-    "tvg_id": "room-133277",
-    "name": "Tường thuật: COL D1 - Deportes Tolima vs Cucuta Deportivo - Gà xào sả ớt",
-    "logo": "https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=61de660415468a46c6b51428b8594e50\u0026txTime=6a979ff5",
-    "type": "hls"
-  },
-  {
     "id": "133824",
     "tvg_id": "room-133824",
     "name": "Tường thuật: ITA D1 - Lecce vs AS Roma - Bò leo rào",
     "logo": "https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=5e7aef8bda69cc3a6549709fc34bda51\u0026txTime=6a979ff5",
+    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=e8195ef02be3001515e6c25b45fb53d6\u0026txTime=6a97a15d",
     "type": "hls"
   },
   {
@@ -725,7 +734,7 @@
     "name": "Tường thuật: SPA D1 - CA Osasuna vs Getafe - Thỏ giang hồ",
     "logo": "https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=39d4c90277b50683b08454156308551c\u0026txTime=6a979ff5",
+    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=3c4ed63b562a01aa2f2361e9dd6031d3\u0026txTime=6a97a15d",
     "type": "hls"
   },
   {
@@ -734,7 +743,7 @@
     "name": "Tường thuật: ENG PR - Aston Villa vs Arsenal - Hươu đau cổ",
     "logo": "https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=dd244d9b95a8245884d45a41b8507f9e\u0026txTime=6a979ff5",
+    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=9e05bf7e3d88dad4b21208612a932fea\u0026txTime=6a97a15d",
     "type": "hls"
   },
   {
@@ -743,7 +752,7 @@
     "name": "Tường thuật: ITA D1 - Atalanta vs Bologna - Mèo méo meo",
     "logo": "https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=9b2b3ab8e748af2679d85f0d31315031\u0026txTime=6a979ff5",
+    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=1a71e9fd686fd45d63a5630deb175b8e\u0026txTime=6a97a15d",
     "type": "hls"
   },
   {
@@ -752,7 +761,7 @@
     "name": "CAN CC: Supra Du Quebec vs Forge FC - BLV CHIVAS",
     "logo": "https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=139a7cd1349d610189855cb30b298db5\u0026txTime=6a979ff5",
+    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=ffca85aa22dbbc99ddf978c4e17edbfd\u0026txTime=6a97a15d",
     "type": "hls"
   },
   {
@@ -761,7 +770,7 @@
     "name": "PAR D1: Club Sportivo 2 de Mayo vs Sportivo Luqueno - BLV ALEX",
     "logo": "https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788303781-0-0-3f77e43b2c1b4495dfd39425d193a060",
+    "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788304141-0-0-79e4d6e17b6cbbe4c6284b91c569c346",
     "type": "hls"
   },
   {
@@ -770,7 +779,7 @@
     "name": "BRA D2: Londrina PR vs Esporte Clube Juventude - BLV RAMBO",
     "logo": "https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=2a2a8e27221c4c0c08b38fdcf713f345\u0026txTime=6a979ff5",
+    "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=44080a96035cf59f8689fa384370f4e0\u0026txTime=6a97a15f",
     "type": "hls"
   },
   {
@@ -779,7 +788,7 @@
     "name": "PAR D1: Club Sportivo 2 de Mayo vs Sportivo Luqueno - BLV A WIN",
     "logo": "https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788303781-0-0-fd107b8a7b3da0a2a9ea6a5a5ad2e792",
+    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788304141-0-0-187b13ab61af9340b3533120088aa105",
     "type": "hls"
   },
   {
@@ -788,7 +797,7 @@
     "name": "COL D2: Barranquilla FC vs Boca Juniors De Cali - TRÀ ĐÁ",
     "logo": "https://sta.vnres.co/file/common/20260406/de5933be539e85bbac3c5fdbddfe54b7.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1788303781-0-0-499af63648f15f0ae55e714d108e89e1",
+    "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1788304141-0-0-87f1e1c953c72aeefafdf7623547a27f",
     "type": "hls"
   },
   {
@@ -797,7 +806,7 @@
     "name": "CAN CC: Supra Du Quebec vs Forge FC - CƠM NẾP",
     "logo": "https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788303781-0-0-e346030e25e7a95c6ea8ab3bec078129",
+    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788304141-0-0-c771145057cb448fb84c206b1ced2254",
     "type": "hls"
   },
   {
@@ -806,7 +815,7 @@
     "name": "Tường thuật: AFC U20 - Vietnam U20 vs Korea DPR U20 - Rắn ở đáy sông",
     "logo": "https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=a83f2356f01ec3d875872bdcbd2f2d1b\u0026txTime=6a979ff5",
+    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=3437421161e4e8da1848652784a392fe\u0026txTime=6a97a15d",
     "type": "hls"
   },
   {
@@ -815,7 +824,7 @@
     "name": "COL D2: Barranquilla FC vs Boca Juniors De Cali - KENCHU",
     "logo": "https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788303781-0-0-e02de1357370831a344f1330a2185aa6",
+    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788304141-0-0-d494e66f7fcf3e5e0984bf26b653517c",
     "type": "hls"
   }
 ]
