@@ -179,8 +179,8 @@ def fetch_matches(api: str, user_agent: str, timeout: int, days: int = 7):
         # trận đấu chỉ có ý nghĩa phát khi có ít nhất 1 BLV anchor phát trận
         anchors = m.get("anchors") or []
         room_nums = [a.get("anchor", {}).get("roomNum") for a in anchors if a.get("anchor")]
-        suffix = f" ({m.get('categoryName')})" if m.get("categoryName") and m.get("categoryName") != cat_name else ""
-        title = f"{host} vs {guest}{' - ' + sub if sub else ''}{suffix}"
+        suffix = f" ({sub})" if sub else ""
+        title = f"{host} vs {guest}{suffix}"
         logo = (m.get("hostIcon") or "").strip()
         for rn in (room_nums or [None]):
             num = str(rn or "")
@@ -190,10 +190,11 @@ def fetch_matches(api: str, user_agent: str, timeout: int, days: int = 7):
             rooms[key] = {
                 "room_num": num,
                 "title": title,
-                "anchor": next((a.get("nickName") for a in anchors if a.get("nickName")), ""),
+                "anchor": "",
                 "logo": logo,
-                "group": f"Bóng đá · {sub}" if cat_name == "Bóng đá"
-                         else (f"Bóng rổ · {sub}" if cat_name == "Bóng rổ" else f"Lịch thi đấu · {cat_name}"),
+                # Televizo: group-title gọn (môn chính), không tách từng giải
+                "group": "Bóng đá" if cat_name == "Bóng đá"
+                         else ("Bóng rổ" if cat_name == "Bóng rổ" else "Lịch thi đấu"),
                 "category": cat_name,
                 "sub_cat": sub,
                 "host": host, "guest": guest,
@@ -505,13 +506,14 @@ def main() -> int:
         channels = live_channels + match_chan
         errors = live_errors + match_errors
         # Gộp nhóm: tab "Bóng đá" / "Bóng rổ" / "Lịch thi đấu" lên đầu
+        # Televizo: nhóm chính gọn (Bóng đá / Bóng rổ / Lịch thi đấu)
         def group_sort_key(c):
             g = c["group"]
-            if g.startswith("Bóng đá"):
+            if g == "Bóng đá":
                 return 0
-            if g.startswith("Bóng rổ"):
+            if g == "Bóng rổ":
                 return 1
-            if g.startswith("Lịch thi đấu"):
+            if g == "Lịch thi đấu":
                 return 2
             return 3
         channels.sort(key=lambda c: (group_sort_key(c), c["room_num"]))
