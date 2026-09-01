@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 101
-# Updated: 01/09/2026 12:22:53
+# Channels: 103
+# Updated: 01/09/2026 12:28:03
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260829/1c258095b0adbcc7079cd30dc2886fb0.png" group-title="Bóng đá",Akron Togliatti vs Lokomotiv Moscow (RUS Cup)
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788259955-0-0-1323fa319ac2f8be72b89a753e166c91
@@ -10,15 +10,15 @@ https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=760a0ba98b45242b99fb
 #EXTINF:-1 tvg-id="room-291277" tvg-logo="https://sta.vnres.co/file/common/20260829/80b2cc3e4c533c73142ad132f677298c.png" group-title="Bóng đá",Fakel Voronezh vs FK Krasnodar (RUS Cup)
 https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=169ed7c96e2b9774cbbfe58252b1b8d7&txTime=6a9695e3
 #EXTINF:-1 tvg-id="room-304148" tvg-logo="https://sta.vnres.co/file/common/20260829/b097e8c5adacf1cbe77fb09b7114ea2b.png" group-title="Bóng đá",Beijing Guoan vs Lanzhou Longyuan Athletic (CHA FACup)
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788268921-0-0-9dd34618c18d25931dde59525b0096fb
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788269221-0-0-81b840e167f5c976f12b427b78255ac1
 #EXTINF:-1 tvg-id="room-321443" tvg-logo="https://sta.vnres.co/file/common/20260829/d42a997c6df2a0674e9020dbbfd7cb46.png" group-title="Bóng đá",Shandong Taishan vs Shanghai Port (CHA FACup)
-https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=38107193d92a6b70687c77a255f58da2&txTime=6a9717c9
+https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=5372f36760066acdde41dca2b615de50&txTime=6a9718f5
 #EXTINF:-1 tvg-id="room-327159" tvg-logo="https://sta.vnres.co/file/common/20260829/5022b2a29d21ebe4f0bae3ef59d21ef5.png" group-title="Bóng đá",Bandirmaspor vs Antalyaspor (TFF 1. Lig)
 https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1788228256-0-0-d6f6b9bf95437bc6f7fb8ec00255d904
 #EXTINF:-1 tvg-id="room-372746" tvg-logo="https://sta.vnres.co/file/common/20260829/5022b2a29d21ebe4f0bae3ef59d21ef5.png" group-title="Bóng đá",Bandirmaspor vs Antalyaspor (TFF 1. Lig)
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788268921-0-0-d5d3fd52a2f8279929c14c5d4798de00
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788269221-0-0-e3c6605d516bbaa173efb919659c2591
 #EXTINF:-1 tvg-id="room-380460" tvg-logo="https://sta.vnres.co/file/common/20260829/b097e8c5adacf1cbe77fb09b7114ea2b.png" group-title="Bóng đá",Beijing Guoan vs Lanzhou Longyuan Athletic (CHA FACup)
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1788268921-0-0-2298d111a8c7412eecbc9b2d693e1eb7
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1788269221-0-0-43424be4844dd24b3d7f941b318cd45a
 #EXTINF:-1 tvg-id="room-387694" tvg-logo="https://sta.vnres.co/file/common/20260829/80b2cc3e4c533c73142ad132f677298c.png" group-title="Bóng đá",Fakel Voronezh vs FK Krasnodar (RUS Cup)
 https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1788259788-0-0-85faa9e8712604012b88538bb907bf0f
 #EXTINF:-1 tvg-id="room-406865" tvg-logo="https://sta.vnres.co/file/common/20260830/1868e5b8d3c831a56f5d2811e73a516d.png" group-title="Bóng đá",Kelantan Red Warrior vs Kuching City FC (MAS FAC)
@@ -26,7 +26,7 @@ https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=30f5688c7aaeda2adfc3
 #EXTINF:-1 tvg-id="room-414317" tvg-logo="https://sta.vnres.co/file/common/20260830/b61f2095262f37bf8ab17cb81f37cadb.png" group-title="Bóng đá",Fortaleza F.C vs Deportiva Once Caldas (COL D1)
 https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=235aa07b4d8de2c39078c73975abdcbf&txTime=6a9683fe
 #EXTINF:-1 tvg-id="room-459401" tvg-logo="https://sta.vnres.co/file/common/20260829/b097e8c5adacf1cbe77fb09b7114ea2b.png" group-title="Bóng đá",Beijing Guoan vs Lanzhou Longyuan Athletic (CHA FACup)
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=e13b675e18ee1566410a193629f6fa1d&txTime=6a9717c9
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=24737d04d1d06d97ed653e74b3490ac6&txTime=6a9718f5
 #EXTINF:-1 tvg-id="room-485739" tvg-logo="https://sta.vnres.co/file/common/20260831/d02f15b52884f7dba6c768b0a5cad678.png" group-title="Bóng đá",Supra Du Quebec vs Forge FC (CAN CC)
 https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=696fb7057e7056b4c6144f79eec2ea25&txTime=6a9691e6
 #EXTINF:-1 tvg-id="room-491873" tvg-logo="https://sta.vnres.co/file/common/20260829/ac240084f84c1bec8d6af152d78d2e42.png" group-title="Bóng đá",Tala'ea El Gaish vs ZED FC (EGY D1)
@@ -36,19 +36,19 @@ https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=b60f8aa695e88186a0e9
 #EXTINF:-1 tvg-id="room-511367" tvg-logo="https://sta.vnres.co/file/common/20260829/b07363f3ff82e0f29274ffe42c05d45c.png" group-title="Bóng đá",Al-Orobah FC vs Al Zulfi (KSA D1)
 https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1788268264-0-0-f1f032c36cc8d22bf5d91da2d44e266d
 #EXTINF:-1 tvg-id="room-527383" tvg-logo="https://sta.vnres.co/file/common/20260829/b097e8c5adacf1cbe77fb09b7114ea2b.png" group-title="Bóng đá",Beijing Guoan vs Lanzhou Longyuan Athletic (CHA FACup)
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1788268921-0-0-0504f18488357fec863142485c0e7d51
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1788269221-0-0-5839e5dd8379c5698b7f76245c38d5cb
 #EXTINF:-1 tvg-id="room-527384" tvg-logo="https://sta.vnres.co/file/common/20260829/2cfd89ae52f0b7a9e1790a5b0907c1c8.png" group-title="Bóng đá",Dalian Yingbo vs Shanghai Shenhua (CHA FACup)
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1788268921-0-0-5f7acd8ccc721b664a5a65a81fc8eed9
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1788269221-0-0-6b2d697e6201ed30c164b4fbe03e50a4
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260829/2cfd89ae52f0b7a9e1790a5b0907c1c8.png" group-title="Bóng đá",Dalian Yingbo vs Shanghai Shenhua (CHA FACup)
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788268921-0-0-9b631c5f6f37e7c493a6adbcdeb777df
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788269221-0-0-5bbe4a3fbdaafbab01c9aa413b8988f3
 #EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260830/178cc29e17a90f699279704e63068a36.png" group-title="Bóng đá",DPMM FC vs Terengganu FC (MAS FAC)
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=ca3200b547789f3cab86072819051470&txTime=6a9717c9
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=11d149249e7338e26328b3182bac4da4&txTime=6a9718f5
 #EXTINF:-1 tvg-id="room-536185" tvg-logo="https://sta.vnres.co/file/common/20260831/e99e75f84a3df644a48381b66bb047b7.png" group-title="Bóng đá",Sepsi Sf. Gheorghe vs CFR Cluj (ROM Cup)
 https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788214386-0-0-827aab9ed0c931c2adc78d3c27625cf1
 #EXTINF:-1 tvg-id="room-552832" tvg-logo="https://sta.vnres.co/file/common/20260829/5022b2a29d21ebe4f0bae3ef59d21ef5.png" group-title="Bóng đá",Bandirmaspor vs Antalyaspor (TFF 1. Lig)
 https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=62a2077fbca1cbf39be56ea054c14a11&txTime=6a96f0b7
 #EXTINF:-1 tvg-id="room-582342" tvg-logo="https://sta.vnres.co/file/common/20260829/2cfd89ae52f0b7a9e1790a5b0907c1c8.png" group-title="Bóng đá",Dalian Yingbo vs Shanghai Shenhua (CHA FACup)
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1788268921-0-0-560c2aa51a1ae137f81df6b96bd03fdc
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1788269221-0-0-cdedf5f817ebee9e400cddac44698e8b
 #EXTINF:-1 tvg-id="room-597929" tvg-logo="https://sta.vnres.co/file/common/20260829/1c258095b0adbcc7079cd30dc2886fb0.png" group-title="Bóng đá",Akron Togliatti vs Lokomotiv Moscow (RUS Cup)
 https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1788212426-0-0-52f8ac8915aae42942a007b1a579ae71
 #EXTINF:-1 tvg-id="room-602019" tvg-logo="https://sta.vnres.co/file/common/20260829/ac240084f84c1bec8d6af152d78d2e42.png" group-title="Bóng đá",Tala'ea El Gaish vs ZED FC (EGY D1)
@@ -58,17 +58,17 @@ https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1788230297-0-0-4170
 #EXTINF:-1 tvg-id="room-603914" tvg-logo="https://sta.vnres.co/file/common/20260830/b20d4d01c8ebe6f0ecb6dbb2dffeae26.png" group-title="Bóng đá",Barranquilla FC vs Boca Juniors De Cali (COL D2)
 https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1787859773-0-0-063d179b1c9b03cf766022c730a23054
 #EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260830/178cc29e17a90f699279704e63068a36.png" group-title="Bóng đá",DPMM FC vs Terengganu FC (MAS FAC)
-https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=086232a21a178ed2613e430bcdb4a6d5&txTime=6a9717c9
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=1a24b47ff79dd9977eb12a37e72cdcd2&txTime=6a9718f5
 #EXTINF:-1 tvg-id="room-607552" tvg-logo="https://sta.vnres.co/file/common/20260829/b07363f3ff82e0f29274ffe42c05d45c.png" group-title="Bóng đá",Al-Orobah FC vs Al Zulfi (KSA D1)
 https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1788212390-0-0-7958b2165835134dc7134ad2b6f49b56
 #EXTINF:-1 tvg-id="room-610518" tvg-logo="https://sta.vnres.co/file/common/20260829/b097e8c5adacf1cbe77fb09b7114ea2b.png" group-title="Bóng đá",Beijing Guoan vs Lanzhou Longyuan Athletic (CHA FACup)
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=b611f26ba9c9c56bb9e58f6818b8e18a&txTime=6a9717c9
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=6589bdb8558884097fac758b9aef95da&txTime=6a9718f5
 #EXTINF:-1 tvg-id="room-617313" tvg-logo="https://sta.vnres.co/file/common/20260830/0967a607d33e30ffb8ab4a0291921591.png" group-title="Bóng đá",Yunnan Yukun vs Chongqing Tonglianglong (CHA FACup)
 https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1788202399-0-0-bc63f668c4513405cf8c38f1debf9eec
 #EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260831/d02f15b52884f7dba6c768b0a5cad678.png" group-title="Bóng đá",Supra Du Quebec vs Forge FC (CAN CC)
 https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788264078-0-0-59916b798e39691768a30271a4946cba
 #EXTINF:-1 tvg-id="room-619561" tvg-logo="https://sta.vnres.co/file/common/20260829/5022b2a29d21ebe4f0bae3ef59d21ef5.png" group-title="Bóng đá",Bandirmaspor vs Antalyaspor (TFF 1. Lig)
-https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1788268921-0-0-78d7a729d92e5a8f5e70544ba8ed4380
+https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1788269221-0-0-f2f8bbbb37769f7235dcd63354f22d25
 #EXTINF:-1 tvg-id="room-619672" tvg-logo="https://sta.vnres.co/file/common/20260829/5022b2a29d21ebe4f0bae3ef59d21ef5.png" group-title="Bóng đá",Bandirmaspor vs Antalyaspor (TFF 1. Lig)
 https://pull.niur.live/live/stream-619672_lhd.m3u8?txSecret=d7ff2d83b8693610fba0b3b4cbcf5e1d&txTime=6a95b285
 #EXTINF:-1 tvg-id="room-620084" tvg-logo="https://sta.vnres.co/file/common/20260830/99663f41c1cdca45e416d1c656846d3d.png" group-title="Bóng đá",Shimizu S-Pulse vs FC Tokyo (JPN D1)
@@ -92,7 +92,7 @@ https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1788142328-0-0-9708
 #EXTINF:-1 tvg-id="room-625920" tvg-logo="https://sta.vnres.co/file/common/20260829/ac240084f84c1bec8d6af152d78d2e42.png" group-title="Bóng đá",Tala'ea El Gaish vs ZED FC (EGY D1)
 https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1788206604-0-0-fd1ac1d0a67b94cfad2148cbc44e0d68
 #EXTINF:-1 tvg-id="room-627718" tvg-logo="https://sta.vnres.co/file/common/20260829/5022b2a29d21ebe4f0bae3ef59d21ef5.png" group-title="Bóng đá",Bandirmaspor vs Antalyaspor (TFF 1. Lig)
-https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1788267882-0-0-ede2d8375c895e61cd6236679b1bd80a
+https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1788269221-0-0-546d26b08e222cef4ae76ae8c12fcefa
 #EXTINF:-1 tvg-id="room-991140" tvg-logo="https://sta.vnres.co/file/common/20260829/1c258095b0adbcc7079cd30dc2886fb0.png" group-title="Bóng đá",Akron Togliatti vs Lokomotiv Moscow (RUS Cup)
 https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788259772-0-0-714247efe07dadd5d2696ca57b75e429
 #EXTINF:-1 tvg-id="room-9912008" tvg-logo="https://sta.vnres.co/file/common/20260829/f435011ea3c9d60f601e52d345bc9351.png" group-title="Bóng đá",Al-Shamal SC vs Al Rayyan (QAT CPC)
@@ -100,11 +100,11 @@ https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1788259899-0-0-8b6
 #EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260830/9c7fe117e73c2d948b722b5688365087.png" group-title="Bóng đá",Atlético Mineiro - MG vs Cruzeiro - MG (BRA Cup)
 https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=04532a7cfe09373e811a832ba3fa5bfe&txTime=6a95f08b
 #EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260829/d42a997c6df2a0674e9020dbbfd7cb46.png" group-title="Bóng đá",Shandong Taishan vs Shanghai Port (CHA FACup)
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788268921-0-0-682eb85208a9516fe990c763c216a32b
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788269221-0-0-d952ba29d59260a6721b592f61c8d440
 #EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260829/80b2cc3e4c533c73142ad132f677298c.png" group-title="Bóng đá",Fakel Voronezh vs FK Krasnodar (RUS Cup)
 https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=8468dcc14fb0a9cabbf6741c254c4ab4&txTime=6a9710d1
 #EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260829/1c258095b0adbcc7079cd30dc2886fb0.png" group-title="Bóng đá",Akron Togliatti vs Lokomotiv Moscow (RUS Cup)
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788268921-0-0-e08ae62adc3eb0286fc1fd0abb07cce0
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788269221-0-0-b631d1bb663b5cbec14051b0bafb8ccf
 #EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260830/24e8cccbc211d2186f507c826a87761f.png" group-title="Bóng đá",International Miami B vs New York City Team B (USA MLSRv)
 https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1788267155-0-0-be3b240c274b599bfd2de0f849d057e3
 #EXTINF:-1 tvg-id="room-9912119" tvg-logo="https://sta.vnres.co/file/common/20260829/916c96ade7e4a7c4b7b7d80c761f5ccf.png" group-title="Bóng đá",Al-Sadd vs Al-Gharafa SC (QAT CPC)
@@ -112,13 +112,15 @@ https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1788213543-0-0-9d1
 #EXTINF:-1 tvg-id="room-9912123" tvg-logo="https://sta.vnres.co/file/common/20260829/70c84a524147f8999f5a7c8e9f946fc1.png" group-title="Bóng đá",Umraniyespor vs Muglaspor (TFF 1. Lig)
 https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1788202393-0-0-bb664bce595f3328832ad151d0633577
 #EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260830/1868e5b8d3c831a56f5d2811e73a516d.png" group-title="Bóng đá",Kelantan Red Warrior vs Kuching City FC (MAS FAC)
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788268921-0-0-c2870e379ff66cf51081ba874f2d4cbe
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788269221-0-0-ad1380064b126cdb45c96a55fae7d17f
 #EXTINF:-1 tvg-id="room-9912126" tvg-logo="https://sta.vnres.co/file/common/20260829/2cfd89ae52f0b7a9e1790a5b0907c1c8.png" group-title="Bóng đá",Dalian Yingbo vs Shanghai Shenhua (CHA FACup)
-https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=dcc4a15b68a2b04668c1a33c47bb2a64&txTime=6a9717c9
+https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=6e7a1d74decf24fbafdcce1d15bb376c&txTime=6a9718f5
 #EXTINF:-1 tvg-id="room-9912127" tvg-logo="https://sta.vnres.co/file/common/20260829/70c84a524147f8999f5a7c8e9f946fc1.png" group-title="Bóng đá",Umraniyespor vs Muglaspor (TFF 1. Lig)
 https://pull.niues.live/live/stream-9912127_lhd.m3u8?auth_key=1788212001-0-0-be92d5cf0329cb2ccc9dfd472cee7aeb
+#EXTINF:-1 tvg-id="room-9912128" tvg-logo="https://sta.vnres.co/file/common/20260829/fec87bc9c18c6b5a533aa75e517b2a64.png" group-title="Bóng đá",Ghazl El Mahallah vs Enppi (EGY D1)
+https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1788211966-0-0-aba3dad89a1000b86d1e2431f383ba2c
 #EXTINF:-1 tvg-id="room-9912129" tvg-logo="https://sta.vnres.co/file/common/20260829/2cfd89ae52f0b7a9e1790a5b0907c1c8.png" group-title="Bóng đá",Dalian Yingbo vs Shanghai Shenhua (CHA FACup)
-https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=a61d6c8242f3ad52d3ed6f0f84f5f19e&txTime=6a9717c9
+https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=8e9cfc59bbc7c5a20a28719ed5dabbb6&txTime=6a9718f5
 #EXTINF:-1 tvg-id="room-9912130" tvg-logo="https://sta.vnres.co/file/common/20260829/916c96ade7e4a7c4b7b7d80c761f5ccf.png" group-title="Bóng đá",Al-Sadd vs Al-Gharafa SC (QAT CPC)
 https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788232263-0-0-c3a3108146b981b277b37ae91c2d3d01
 #EXTINF:-1 tvg-id="room-9912131" tvg-logo="https://sta.vnres.co/file/common/20260829/a5b169c0d8f3d6bffa0000559438ce33.png" group-title="Bóng đá",Parma vs Cremonese (ITA Cup)
@@ -136,11 +138,11 @@ https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1788214514-0-0-c01
 #EXTINF:-1 tvg-id="room-9912139" tvg-logo="https://sta.vnres.co/file/common/20260830/f672bd81243b871e0ff80e4b36898315.png" group-title="Bóng đá",Avispa Fukuoka vs Urawa Red Diamonds (JPN D1)
 https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=e1bd215f20f907283fb1a50f382b49cb&txTime=6a9668c5
 #EXTINF:-1 tvg-id="room-9912140" tvg-logo="https://sta.vnres.co/file/common/20260829/d42a997c6df2a0674e9020dbbfd7cb46.png" group-title="Bóng đá",Shandong Taishan vs Shanghai Port (CHA FACup)
-https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=9aec4deab2452c25fc9482ee759fe534&txTime=6a9717c9
+https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=07241d5270ee1b6a798fc4827a25b2af&txTime=6a971931
 #EXTINF:-1 tvg-id="room-9912141" tvg-logo="https://sta.vnres.co/file/common/20260829/d42a997c6df2a0674e9020dbbfd7cb46.png" group-title="Bóng đá",Shandong Taishan vs Shanghai Port (CHA FACup)
-https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1788268921-0-0-8d1a1f7428c29056181076cc739be300
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1788269281-0-0-311d8e2b40f201f4b2a77ef9545077ad
 #EXTINF:-1 tvg-id="room-9912142" tvg-logo="https://sta.vnres.co/file/common/20260829/d42a997c6df2a0674e9020dbbfd7cb46.png" group-title="Bóng đá",Shandong Taishan vs Shanghai Port (CHA FACup)
-https://pull.niur.live/live/stream-9912142_lhd.m3u8?txSecret=de7a18035ba115e8cf762fdbca10d8a3&txTime=6a9717c9
+https://pull.niur.live/live/stream-9912142_lhd.m3u8?txSecret=047c001126c5645e26327b5e59173f2f&txTime=6a971931
 #EXTINF:-1 tvg-id="room-9912143" tvg-logo="https://sta.vnres.co/file/common/20260830/c42e87e8a584c2852adf52a705163645.png" group-title="Bóng đá",Santos FC - SP vs Palmeiras - SP (BRA Cup)
 https://pull.niur.live/live/stream-9912143_lhd.m3u8?txSecret=4f54cae784bd02caeb4fad6fbd688d6e&txTime=6a95dcd7
 #EXTINF:-1 tvg-id="room-9912144" tvg-logo="https://sta.vnres.co/file/common/20260829/f435011ea3c9d60f601e52d345bc9351.png" group-title="Bóng đá",Al-Shamal SC vs Al Rayyan (QAT CPC)
@@ -148,7 +150,7 @@ https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788232351-0-0-4d7
 #EXTINF:-1 tvg-id="room-9912145" tvg-logo="https://sta.vnres.co/file/common/20260829/916c96ade7e4a7c4b7b7d80c761f5ccf.png" group-title="Bóng đá",Al-Sadd vs Al-Gharafa SC (QAT CPC)
 https://pull.niur.live/live/stream-9912145_lhd.m3u8?txSecret=b040c1bf391e429b0e1c0530ead73bd9&txTime=6a94bda7
 #EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260829/d42a997c6df2a0674e9020dbbfd7cb46.png" group-title="Bóng đá",Shandong Taishan vs Shanghai Port (CHA FACup)
-https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788268921-0-0-d686d806f71a822051678dc37ab5ce75
+https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788269281-0-0-abc4108e6a75aa5c9668a70430d0cc34
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260831/229ca41f562259fb13fd8241674ae593.png" group-title="Bóng rổ",Liaoning Flying Leopards vs Fujian Xunxing Sturgeons (CBASL)
 https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=62eddda9ef7179331c41ea8c50907a9c&txTime=6a96e5ec
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260831/d02079ea1481e8a7f71d2f3381a841e7.png" group-title="Bóng rổ",Shanxi Loongs Fenjiu vs Tianjin Pioneers (CBASL)
@@ -162,46 +164,48 @@ https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788256302-0-0-b59
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260831/d785a704d4e1f720bd5a670e04f37a9d.png" group-title="Bóng rổ",Cairns Taipans vs Perth Wildcats (NBL)
 https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788263917-0-0-48ed8da92e67b8c1d7650f6ea3bebf5a
 #EXTINF:-1 tvg-id="room-304148" tvg-logo="https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg" group-title="SocoLive",CHA FACup: Beijing Guoan vs Lanzhou Longyuan Athletic - BLV LUCAS
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788268921-0-0-9dd34618c18d25931dde59525b0096fb
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788269221-0-0-81b840e167f5c976f12b427b78255ac1
 #EXTINF:-1 tvg-id="room-321443" tvg-logo="https://sta.vnres.co/file/common/20260603/54289b9ef989aba74cff5bfdee1d4656.png" group-title="SocoLive",CHA FACup: Shandong Taishan vs Shanghai Port - BLV GIÓ
-https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=38107193d92a6b70687c77a255f58da2&txTime=6a9717c9
+https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=5372f36760066acdde41dca2b615de50&txTime=6a9718f5
 #EXTINF:-1 tvg-id="room-372746" tvg-logo="https://sta.vnres.co/file/common/20260728/ba06eac3dc3ffeee0de25e8e0deaaceb.jpg" group-title="SocoLive",TFF 1. Lig: Bandirmaspor vs Antalyaspor - BLV YONE
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788268921-0-0-d5d3fd52a2f8279929c14c5d4798de00
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788269221-0-0-e3c6605d516bbaa173efb919659c2591
 #EXTINF:-1 tvg-id="room-380460" tvg-logo="https://sta.vnres.co/file/common/20260827/1d4f9eca02a381435aaec138589dd9ef.jpg" group-title="SocoLive",CHA FACup: Beijing Guoan vs Lanzhou Longyuan Athletic - BLV ENZO
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1788268921-0-0-2298d111a8c7412eecbc9b2d693e1eb7
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1788269221-0-0-43424be4844dd24b3d7f941b318cd45a
 #EXTINF:-1 tvg-id="room-459401" tvg-logo="https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4.jpg" group-title="SocoLive",CHA FACup: Beijing Guoan vs Lanzhou Longyuan Athletic - BLV BÉO
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=e13b675e18ee1566410a193629f6fa1d&txTime=6a9717c9
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=24737d04d1d06d97ed653e74b3490ac6&txTime=6a9718f5
 #EXTINF:-1 tvg-id="room-527383" tvg-logo="https://sta.vnres.co/file/common/20260626/fcd1d9373f93de7ff3ebfbee3f073c7c.jpg" group-title="SocoLive",CHA FACup: Beijing Guoan vs Lanzhou Longyuan Athletic - BLV ROBBEN
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1788268921-0-0-0504f18488357fec863142485c0e7d51
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1788269221-0-0-5839e5dd8379c5698b7f76245c38d5cb
 #EXTINF:-1 tvg-id="room-527384" tvg-logo="https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg" group-title="SocoLive",CHA FACup: Dalian Yingbo vs Shanghai Shenhua - LÃO LÂM
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1788268921-0-0-5f7acd8ccc721b664a5a65a81fc8eed9
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1788269221-0-0-6b2d697e6201ed30c164b4fbe03e50a4
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg" group-title="SocoLive",CHA FACup: Dalian Yingbo vs Shanghai Shenhua - BLV ALEX
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788268921-0-0-9b631c5f6f37e7c493a6adbcdeb777df
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788269221-0-0-5bbe4a3fbdaafbab01c9aa413b8988f3
 #EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg" group-title="SocoLive",MAS FAC: DPMM FC vs Terengganu FC - BLV RAMBO
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=ca3200b547789f3cab86072819051470&txTime=6a9717c9
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=11d149249e7338e26328b3182bac4da4&txTime=6a9718f5
 #EXTINF:-1 tvg-id="room-582342" tvg-logo="https://sta.vnres.co/file/common/20260721/f2855aef78044156ad9e45d7985403d0.jpg" group-title="SocoLive",CHA FACup: Dalian Yingbo vs Shanghai Shenhua - BLV CÒ
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1788268921-0-0-560c2aa51a1ae137f81df6b96bd03fdc
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1788269221-0-0-cdedf5f817ebee9e400cddac44698e8b
 #EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg" group-title="SocoLive",MAS FAC: DPMM FC vs Terengganu FC - HÀ DUY KIÊN
-https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=086232a21a178ed2613e430bcdb4a6d5&txTime=6a9717c9
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=1a24b47ff79dd9977eb12a37e72cdcd2&txTime=6a9718f5
 #EXTINF:-1 tvg-id="room-610518" tvg-logo="https://sta.vnres.co/file/common/20260628/336b2e008de11bb26c1d4e0e46bc9f95.jpg" group-title="SocoLive",CHA FACup: Beijing Guoan vs Lanzhou Longyuan Athletic - XUÂN TÓC ĐỎ
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=b611f26ba9c9c56bb9e58f6818b8e18a&txTime=6a9717c9
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=6589bdb8558884097fac758b9aef95da&txTime=6a9718f5
 #EXTINF:-1 tvg-id="room-619561" tvg-logo="https://sta.vnres.co/file/common/20260729/d06a0efe274bce28547238bec2a125b9.jpg" group-title="SocoLive",TFF 1. Lig: Bandirmaspor vs Antalyaspor - BÚN ĐẬU
-https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1788268921-0-0-78d7a729d92e5a8f5e70544ba8ed4380
+https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1788269221-0-0-f2f8bbbb37769f7235dcd63354f22d25
+#EXTINF:-1 tvg-id="room-627718" tvg-logo="https://sta.vnres.co/file/common/20260831/8c106fa0fe146cf7929663e53e921ba0.jpg" group-title="SocoLive",TFF 1. Lig: Bandirmaspor vs Antalyaspor - A MÂN
+https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1788269221-0-0-546d26b08e222cef4ae76ae8c12fcefa
 #EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260901/9f9c621d17daaca34484130fa63771ff.png" group-title="SocoLive",CHA FACup: Shandong Taishan vs Shanghai Port - BLV Củ Cải
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788268921-0-0-682eb85208a9516fe990c763c216a32b
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788269221-0-0-d952ba29d59260a6721b592f61c8d440
 #EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260831/caac4db30e51ab3213e882c77bf88da5.png" group-title="SocoLive",RUS Cup: Akron Togliatti vs Lokomotiv Moscow - BLV ZOWIE
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788268921-0-0-e08ae62adc3eb0286fc1fd0abb07cce0
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788269221-0-0-b631d1bb663b5cbec14051b0bafb8ccf
 #EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg" group-title="SocoLive",MAS FAC: Kelantan Red Warrior vs Kuching City FC - KENCHU
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788268921-0-0-c2870e379ff66cf51081ba874f2d4cbe
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788269221-0-0-ad1380064b126cdb45c96a55fae7d17f
 #EXTINF:-1 tvg-id="room-9912126" tvg-logo="https://sta.vnres.co/file/common/20260715/0e572fd7d0bfc5ce5cf538c09b8cace4.jpg" group-title="SocoLive",CHA FACup: Dalian Yingbo vs Shanghai Shenhua - SEVEN
-https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=dcc4a15b68a2b04668c1a33c47bb2a64&txTime=6a9717c9
+https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=6e7a1d74decf24fbafdcce1d15bb376c&txTime=6a9718f5
 #EXTINF:-1 tvg-id="room-9912129" tvg-logo="https://sta.vnres.co/file/common/20260831/3e123f795761f1e62f09740306f47083.jpg" group-title="SocoLive",CHA FACup: Dalian Yingbo vs Shanghai Shenhua - QUỐC KHÁNH
-https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=a61d6c8242f3ad52d3ed6f0f84f5f19e&txTime=6a9717c9
+https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=8e9cfc59bbc7c5a20a28719ed5dabbb6&txTime=6a9718f5
 #EXTINF:-1 tvg-id="room-9912140" tvg-logo="https://sta.vnres.co/file/common/20260807/a76465a880a2789f42e440cf03e9db6b.jpg" group-title="SocoLive",CHA FACup: Shandong Taishan vs Shanghai Port - SAO LA
-https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=9aec4deab2452c25fc9482ee759fe534&txTime=6a9717c9
+https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=1e5a7e5ab2627aa4f3c9f2a74e27c5d0&txTime=6a9718f5
 #EXTINF:-1 tvg-id="room-9912141" tvg-logo="https://sta.vnres.co/file/common/20260824/9579d2a0c143f2633fac665f96906c48.jpg" group-title="SocoLive",CHA FACup: Shandong Taishan vs Shanghai Port - BLV MESSI
-https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1788268921-0-0-8d1a1f7428c29056181076cc739be300
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1788269221-0-0-c0110e5ce10bad0ba379734b3a9a8069
 #EXTINF:-1 tvg-id="room-9912142" tvg-logo="https://sta.vnres.co/file/common/20260830/683bbb96de277e28f88b1d08678ac124.png" group-title="SocoLive",CHA FACup: Shandong Taishan vs Shanghai Port - A BỆU
-https://pull.niur.live/live/stream-9912142_lhd.m3u8?txSecret=de7a18035ba115e8cf762fdbca10d8a3&txTime=6a9717c9
+https://pull.niur.live/live/stream-9912142_lhd.m3u8?txSecret=b5df20d19e02c15ed56867ff644a8d8d&txTime=6a9718f5
 #EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260829/f6903a1879b3c7cc22d27c658db14d94.png" group-title="SocoLive",CHA FACup: Shandong Taishan vs Shanghai Port - BLV CUỘI
-https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788268921-0-0-d686d806f71a822051678dc37ab5ce75
+https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788269221-0-0-8156ce729183132d9cc7c90533c685a6
