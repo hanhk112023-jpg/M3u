@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 91
-# Updated: 01/09/2026 22:04:25
+# Channels: 92
+# Updated: 01/09/2026 22:09:49
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260830/9c7fe117e73c2d948b722b5688365087.png" group-title="Bóng đá",Atlético Mineiro - MG vs Cruzeiro - MG (BRA Cup)
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788288923-0-0-20d2971649fd6ea792eef3dff926abfe
@@ -28,19 +28,23 @@ https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=235aa07b4d8de2c39078
 #EXTINF:-1 tvg-id="room-459401" tvg-logo="https://sta.vnres.co/file/common/20260830/9c7fe117e73c2d948b722b5688365087.png" group-title="Bóng đá",Atlético Mineiro - MG vs Cruzeiro - MG (BRA Cup)
 https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=63cf803680daf5ac8c6b321e083fc508&txTime=6a9728ae
 #EXTINF:-1 tvg-id="room-485739" tvg-logo="https://sta.vnres.co/file/common/20260831/d02f15b52884f7dba6c768b0a5cad678.png" group-title="Bóng đá",Supra Du Quebec vs Forge FC (CAN CC)
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=51cfb79c3750e62704a49fcbca10ee28&txTime=6a97a031
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=ffca85aa22dbbc99ddf978c4e17edbfd&txTime=6a97a15d
 #EXTINF:-1 tvg-id="room-491873" tvg-logo="https://sta.vnres.co/file/common/20260830/9c7fe117e73c2d948b722b5688365087.png" group-title="Bóng đá",Atlético Mineiro - MG vs Cruzeiro - MG (BRA Cup)
 https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=3383a5f820dd7bb807ccd33a81a47ded&txTime=6a974c14
+#EXTINF:-1 tvg-id="room-501412" tvg-logo="https://sta.vnres.co/file/common/20260830/df5a6bf84fe211592c68f0d3ef5a3c31.png" group-title="Bóng đá",FC Zbrojovka Brno vs FC Hradec Králové (CZE D1)
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=314040e00db63a42ca022dfd93d8b034&txTime=6a9778c7
 #EXTINF:-1 tvg-id="room-511367" tvg-logo="https://sta.vnres.co/file/common/20260830/99663f41c1cdca45e416d1c656846d3d.png" group-title="Bóng đá",Shimizu S-Pulse vs FC Tokyo (JPN D1)
 https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1788299231-0-0-70f528c8b21b3b23a9d74f1afdb66cdc
+#EXTINF:-1 tvg-id="room-527383" tvg-logo="https://sta.vnres.co/file/common/20260830/cc43ce79e83c358f35f6423287f36e16.png" group-title="Bóng đá",Sanfrecce Hiroshima vs Nagoya Grampus (JPN D1)
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1788298960-0-0-d943412ee42f56df5a1f81d157fb5185
 #EXTINF:-1 tvg-id="room-527384" tvg-logo="https://sta.vnres.co/file/common/20260830/a216d8c8e8a7326c0d2e70f99fecf3e1.png" group-title="Bóng đá",Machida Zelvia vs Kawasaki Frontale (JPN D1)
 https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1788300303-0-0-8b7f2b866a6d43c6102ae41f0a5d7342
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260831/0f90435298b747015853e910d3313f06.png" group-title="Bóng đá",Club Sportivo 2 de Mayo vs Sportivo Luqueno (PAR D1)
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788303841-0-0-e416bbba5ffc6e641f405af1d7d09934
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788304141-0-0-79e4d6e17b6cbbe4c6284b91c569c346
 #EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260830/2979a5478fe76d302f4dd8998d54fc80.png" group-title="Bóng đá",Londrina PR vs Esporte Clube Juventude (BRA D2)
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=de58dfd5e1fdbd4420ba9fea69fe5061&txTime=6a97a031
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=afd7878dd168f5e9e65c63f9b27b1c7d&txTime=6a97a169
 #EXTINF:-1 tvg-id="room-536185" tvg-logo="https://sta.vnres.co/file/common/20260831/0f90435298b747015853e910d3313f06.png" group-title="Bóng đá",Club Sportivo 2 de Mayo vs Sportivo Luqueno (PAR D1)
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788303841-0-0-d2cdd82fd68218c7db45c9eb8a392046
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788304141-0-0-187b13ab61af9340b3533120088aa105
 #EXTINF:-1 tvg-id="room-552832" tvg-logo="https://sta.vnres.co/file/common/20260830/ba1afee313e6e375965d530eb6bb53d2.png" group-title="Bóng đá",Mito Hollyhock vs Kashima Antlers (JPN D1)
 https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=3fdd2f65b3f07f3f1ef03fcf91704908&txTime=6a978b2e
 #EXTINF:-1 tvg-id="room-582342" tvg-logo="https://sta.vnres.co/file/common/20260830/24e8cccbc211d2186f507c826a87761f.png" group-title="Bóng đá",International Miami B vs New York City Team B (USA MLSRv)
@@ -52,7 +56,7 @@ https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=e6e85272cfb7ff3fb5c5
 #EXTINF:-1 tvg-id="room-603255" tvg-logo="https://sta.vnres.co/file/common/20260830/267b9b9f459509b10c541c99e9f57478.png" group-title="Bóng đá",Kelantan City vs Negeri Sembilan (MAS FAC)
 https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1788230297-0-0-41701fdb38432a6f40d25501929c05ee
 #EXTINF:-1 tvg-id="room-603914" tvg-logo="https://sta.vnres.co/file/common/20260830/b20d4d01c8ebe6f0ecb6dbb2dffeae26.png" group-title="Bóng đá",Barranquilla FC vs Boca Juniors De Cali (COL D2)
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1788303841-0-0-4ca1e56f99c19a9ac5acf1ae3d80bdef
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1788304141-0-0-87f1e1c953c72aeefafdf7623547a27f
 #EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260830/2979a5478fe76d302f4dd8998d54fc80.png" group-title="Bóng đá",Londrina PR vs Esporte Clube Juventude (BRA D2)
 https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=399de6e1897940b11c8a81803cdc6938&txTime=6a9719bd
 #EXTINF:-1 tvg-id="room-607552" tvg-logo="https://sta.vnres.co/file/common/20260830/ed59db75e8894b9537237fa6aedeb2cc.png" group-title="Bóng đá",FC Flora Tallinn vs Tartu JK Maag Tammeka (EST D1)
@@ -62,7 +66,7 @@ https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=d854ac9dfc3c7cce025b
 #EXTINF:-1 tvg-id="room-617313" tvg-logo="https://sta.vnres.co/file/common/20260830/0967a607d33e30ffb8ab4a0291921591.png" group-title="Bóng đá",Yunnan Yukun vs Chongqing Tonglianglong (CHA FACup)
 https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1788202399-0-0-bc63f668c4513405cf8c38f1debf9eec
 #EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260831/d02f15b52884f7dba6c768b0a5cad678.png" group-title="Bóng đá",Supra Du Quebec vs Forge FC (CAN CC)
-https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788303841-0-0-fdfe145461d229937fba2ef696e11897
+https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788304141-0-0-c771145057cb448fb84c206b1ced2254
 #EXTINF:-1 tvg-id="room-619561" tvg-logo="https://sta.vnres.co/file/common/20260830/2307997c8c1f9c5f1b2e9358bf033f01.png" group-title="Bóng đá",Deportes Quindio vs Llaneros FC (COL Cup)
 https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1788278269-0-0-8281f750429eaefa1a379b94754c371e
 #EXTINF:-1 tvg-id="room-619672" tvg-logo="https://sta.vnres.co/file/common/20260831/e99e75f84a3df644a48381b66bb047b7.png" group-title="Bóng đá",Sepsi Sf. Gheorghe vs CFR Cluj (ROM Cup)
@@ -108,7 +112,7 @@ https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1788296475-0-0-2bf
 #EXTINF:-1 tvg-id="room-9912123" tvg-logo="https://sta.vnres.co/file/common/20260829/70c84a524147f8999f5a7c8e9f946fc1.png" group-title="Bóng đá",Umraniyespor vs Muglaspor (TFF 1. Lig)
 https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1788298689-0-0-f4e590a85b61320c3016e57ea065d522
 #EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260830/b20d4d01c8ebe6f0ecb6dbb2dffeae26.png" group-title="Bóng đá",Barranquilla FC vs Boca Juniors De Cali (COL D2)
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788303841-0-0-076511a1114d7b9d05e5d4a798ca1430
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788304141-0-0-d494e66f7fcf3e5e0984bf26b653517c
 #EXTINF:-1 tvg-id="room-9912126" tvg-logo="https://sta.vnres.co/file/common/20260829/70c84a524147f8999f5a7c8e9f946fc1.png" group-title="Bóng đá",Umraniyespor vs Muglaspor (TFF 1. Lig)
 https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=2598d7b45331727e5a241fd4d1380326&txTime=6a979e9e
 #EXTINF:-1 tvg-id="room-9912127" tvg-logo="https://sta.vnres.co/file/common/20260829/70c84a524147f8999f5a7c8e9f946fc1.png" group-title="Bóng đá",Umraniyespor vs Muglaspor (TFF 1. Lig)
@@ -159,29 +163,27 @@ https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788264000-0-0-645
 https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788256302-0-0-b59f82ddf572f4098aa38326a767ad6d
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260831/d785a704d4e1f720bd5a670e04f37a9d.png" group-title="Bóng rổ",Cairns Taipans vs Perth Wildcats (NBL)
 https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788263917-0-0-48ed8da92e67b8c1d7650f6ea3bebf5a
-#EXTINF:-1 tvg-id="room-133277" tvg-logo="https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg" group-title="SocoLive",Tường thuật: COL D1 - Deportes Tolima vs Cucuta Deportivo - Gà xào sả ớt
-https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=61de660415468a46c6b51428b8594e50&txTime=6a979ff5
 #EXTINF:-1 tvg-id="room-133824" tvg-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg" group-title="SocoLive",Tường thuật: ITA D1 - Lecce vs AS Roma - Bò leo rào
-https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=5e7aef8bda69cc3a6549709fc34bda51&txTime=6a979ff5
+https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=e8195ef02be3001515e6c25b45fb53d6&txTime=6a97a15d
 #EXTINF:-1 tvg-id="room-152898" tvg-logo="https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png" group-title="SocoLive",Tường thuật: SPA D1 - CA Osasuna vs Getafe - Thỏ giang hồ
-https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=39d4c90277b50683b08454156308551c&txTime=6a979ff5
+https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=3c4ed63b562a01aa2f2361e9dd6031d3&txTime=6a97a15d
 #EXTINF:-1 tvg-id="room-179093" tvg-logo="https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg" group-title="SocoLive",Tường thuật: ENG PR - Aston Villa vs Arsenal - Hươu đau cổ
-https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=dd244d9b95a8245884d45a41b8507f9e&txTime=6a979ff5
+https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=9e05bf7e3d88dad4b21208612a932fea&txTime=6a97a15d
 #EXTINF:-1 tvg-id="room-343500" tvg-logo="https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg" group-title="SocoLive",Tường thuật: ITA D1 - Atalanta vs Bologna - Mèo méo meo
-https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=9b2b3ab8e748af2679d85f0d31315031&txTime=6a979ff5
+https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=1a71e9fd686fd45d63a5630deb175b8e&txTime=6a97a15d
 #EXTINF:-1 tvg-id="room-485739" tvg-logo="https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg" group-title="SocoLive",CAN CC: Supra Du Quebec vs Forge FC - BLV CHIVAS
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=139a7cd1349d610189855cb30b298db5&txTime=6a979ff5
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=ffca85aa22dbbc99ddf978c4e17edbfd&txTime=6a97a15d
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg" group-title="SocoLive",PAR D1: Club Sportivo 2 de Mayo vs Sportivo Luqueno - BLV ALEX
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788303781-0-0-3f77e43b2c1b4495dfd39425d193a060
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788304141-0-0-79e4d6e17b6cbbe4c6284b91c569c346
 #EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg" group-title="SocoLive",BRA D2: Londrina PR vs Esporte Clube Juventude - BLV RAMBO
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=2a2a8e27221c4c0c08b38fdcf713f345&txTime=6a979ff5
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=44080a96035cf59f8689fa384370f4e0&txTime=6a97a15f
 #EXTINF:-1 tvg-id="room-536185" tvg-logo="https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg" group-title="SocoLive",PAR D1: Club Sportivo 2 de Mayo vs Sportivo Luqueno - BLV A WIN
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788303781-0-0-fd107b8a7b3da0a2a9ea6a5a5ad2e792
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788304141-0-0-187b13ab61af9340b3533120088aa105
 #EXTINF:-1 tvg-id="room-603914" tvg-logo="https://sta.vnres.co/file/common/20260406/de5933be539e85bbac3c5fdbddfe54b7.jpg" group-title="SocoLive",COL D2: Barranquilla FC vs Boca Juniors De Cali - TRÀ ĐÁ
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1788303781-0-0-499af63648f15f0ae55e714d108e89e1
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1788304141-0-0-87f1e1c953c72aeefafdf7623547a27f
 #EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg" group-title="SocoLive",CAN CC: Supra Du Quebec vs Forge FC - CƠM NẾP
-https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788303781-0-0-e346030e25e7a95c6ea8ab3bec078129
+https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788304141-0-0-c771145057cb448fb84c206b1ced2254
 #EXTINF:-1 tvg-id="room-9912079" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg" group-title="SocoLive",Tường thuật: AFC U20 - Vietnam U20 vs Korea DPR U20 - Rắn ở đáy sông
-https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=a83f2356f01ec3d875872bdcbd2f2d1b&txTime=6a979ff5
+https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=3437421161e4e8da1848652784a392fe&txTime=6a97a15d
 #EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg" group-title="SocoLive",COL D2: Barranquilla FC vs Boca Juniors De Cali - KENCHU
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788303781-0-0-e02de1357370831a344f1330a2185aa6
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788304141-0-0-d494e66f7fcf3e5e0984bf26b653517c
