@@ -99,6 +99,15 @@
     "type": "hls"
   },
   {
+    "id": "459401",
+    "tvg_id": "room-459401",
+    "name": "Beijing Guoan vs Lanzhou Longyuan Athletic (CHA FACup)",
+    "logo": "https://sta.vnres.co/file/common/20260829/b097e8c5adacf1cbe77fb09b7114ea2b.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=572a5b81ab61fe9110bde2f7d877a85b\u0026txTime=6a9688b4",
+    "type": "hls"
+  },
+  {
     "id": "485739",
     "tvg_id": "room-485739",
     "name": "Supra Du Quebec vs Forge FC (CAN CC)",
@@ -204,6 +213,15 @@
     "logo": "https://sta.vnres.co/file/common/20260829/1c258095b0adbcc7079cd30dc2886fb0.png",
     "group": "Bóng đá",
     "url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1788212426-0-0-52f8ac8915aae42942a007b1a579ae71",
+    "type": "hls"
+  },
+  {
+    "id": "602019",
+    "tvg_id": "room-602019",
+    "name": "Farense U23 vs Famalicao U23 (POR LRU23)",
+    "logo": "https://sta.vnres.co/file/common/20260829/94afed08cc1e0cf1bc4b5b537ae818e0.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=f85791f69f06566a9959c4243e39f01e\u0026txTime=6a966d17",
     "type": "hls"
   },
   {
@@ -644,7 +662,7 @@
     "name": "Pasig City vs Marikina Shoemasters (MPBL)",
     "logo": "https://sta.vnres.co/file/common/20260830/f709c6c58ab961b8d635b798e4c85263.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788247801-0-0-d87f3a16f073bbaa46b9d4efc953cb6b",
+    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788248101-0-0-171d763d6682c4e477e7145c568d949e",
     "type": "hls"
   },
   {
@@ -680,7 +698,7 @@
     "name": "Tường thuật: COL D1 - Deportes Tolima vs Cucuta Deportivo - Gà xào sả ớt",
     "logo": "https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=b0d9d9e3b602815c8710a294a41ee86f\u0026txTime=6a96c50d",
+    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=e14476a49ba033221f07c1c1eed3e43e\u0026txTime=6a96c639",
     "type": "hls"
   },
   {
@@ -689,7 +707,7 @@
     "name": "Tường thuật: ITA D1 - Lecce vs AS Roma - Bò leo rào",
     "logo": "https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=9512b880935e8e5a59329b49151911b2\u0026txTime=6a96c50d",
+    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=7eb941219b71c2587a3a45473e01201b\u0026txTime=6a96c639",
     "type": "hls"
   },
   {
@@ -698,7 +716,7 @@
     "name": "Tường thuật: SPA D1 - CA Osasuna vs Getafe - Thỏ giang hồ",
     "logo": "https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=7a3752985b0713e85ea61d62fc46863b\u0026txTime=6a96c50d",
+    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=6d4a0bd5afce4949026dae3e60613df7\u0026txTime=6a96c639",
     "type": "hls"
   },
   {
@@ -707,7 +725,7 @@
     "name": "Tường thuật: ENG PR - Aston Villa vs Arsenal - Hươu đau cổ",
     "logo": "https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=9b7c2656ad13192cac2017b21813506d\u0026txTime=6a96c50d",
+    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=7221e4d3baca08522d0c8f098c20ef31\u0026txTime=6a96c639",
     "type": "hls"
   },
   {
@@ -716,7 +734,7 @@
     "name": "Tường thuật: ITA D1 - Atalanta vs Bologna - Mèo méo meo",
     "logo": "https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=2e06e48ab5174edeb4bbb7ac8a801194\u0026txTime=6a96c50d",
+    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=8331f7a6d1ed90f5b46a3ca2f6416c9c\u0026txTime=6a96c639",
     "type": "hls"
   },
   {
@@ -725,7 +743,16 @@
     "name": "Tường thuật: AFC U20 - Vietnam U20 vs Korea DPR U20 - Rắn ở đáy sông",
     "logo": "https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=577516e58f9591874365c65b879f8272\u0026txTime=6a96c50d",
+    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=7daa813907493b38675d5ee195aace60\u0026txTime=6a96c639",
+    "type": "hls"
+  },
+  {
+    "id": "9912099",
+    "tvg_id": "room-9912099",
+    "name": "MPBL: Pasig City vs Marikina Shoemasters - KING",
+    "logo": "https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788248041-0-0-9effe07140d2fab207d8fc4109de405f",
     "type": "hls"
   }
 ]
