@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 86
-# Updated: 01/09/2026 07:57:06
+# Channels: 89
+# Updated: 01/09/2026 08:02:10
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260830/db0c457f0cfbae3d5adfe6a4aa1a0065.png" group-title="Bóng đá",UM-Damansara United vs Johor Darul Ta'zim FC (MAS FAC)
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788208516-0-0-6045c2772cde50e13b1cbd9c0f9c536c
@@ -11,6 +11,8 @@ https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=760a0ba98b45242b99fb
 https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=169ed7c96e2b9774cbbfe58252b1b8d7&txTime=6a9695e3
 #EXTINF:-1 tvg-id="room-304148" tvg-logo="https://sta.vnres.co/file/common/20260829/b097e8c5adacf1cbe77fb09b7114ea2b.png" group-title="Bóng đá",Beijing Guoan vs Lanzhou Longyuan Athletic (CHA FACup)
 https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788228250-0-0-13c65edabdf76632fae553732484b7e4
+#EXTINF:-1 tvg-id="room-321443" tvg-logo="https://sta.vnres.co/file/common/20260829/d42a997c6df2a0674e9020dbbfd7cb46.png" group-title="Bóng đá",Shandong Taishan vs Shanghai Port (CHA FACup)
+https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=c746bec7c67660b4baba6955dbe8da61&txTime=6a962af6
 #EXTINF:-1 tvg-id="room-327159" tvg-logo="https://sta.vnres.co/file/common/20260829/5022b2a29d21ebe4f0bae3ef59d21ef5.png" group-title="Bóng đá",Bandirmaspor vs Antalyaspor (TFF 1. Lig)
 https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1788228256-0-0-d6f6b9bf95437bc6f7fb8ec00255d904
 #EXTINF:-1 tvg-id="room-372746" tvg-logo="https://sta.vnres.co/file/common/20260829/5022b2a29d21ebe4f0bae3ef59d21ef5.png" group-title="Bóng đá",Bandirmaspor vs Antalyaspor (TFF 1. Lig)
@@ -23,6 +25,8 @@ https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=0904d091fa376002e4d8
 https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=494dde9df216df0469df08c0b00210e4&txTime=6a958cf6
 #EXTINF:-1 tvg-id="room-414317" tvg-logo="https://sta.vnres.co/file/common/20260830/db0c457f0cfbae3d5adfe6a4aa1a0065.png" group-title="Bóng đá",UM-Damansara United vs Johor Darul Ta'zim FC (MAS FAC)
 https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=235aa07b4d8de2c39078c73975abdcbf&txTime=6a9683fe
+#EXTINF:-1 tvg-id="room-459401" tvg-logo="https://sta.vnres.co/file/common/20260829/b097e8c5adacf1cbe77fb09b7114ea2b.png" group-title="Bóng đá",Beijing Guoan vs Lanzhou Longyuan Athletic (CHA FACup)
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=572a5b81ab61fe9110bde2f7d877a85b&txTime=6a9688b4
 #EXTINF:-1 tvg-id="room-485739" tvg-logo="https://sta.vnres.co/file/common/20260831/d02f15b52884f7dba6c768b0a5cad678.png" group-title="Bóng đá",Supra Du Quebec vs Forge FC (CAN CC)
 https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=696fb7057e7056b4c6144f79eec2ea25&txTime=6a9691e6
 #EXTINF:-1 tvg-id="room-491873" tvg-logo="https://sta.vnres.co/file/common/20260829/ac240084f84c1bec8d6af152d78d2e42.png" group-title="Bóng đá",Tala'ea El Gaish vs ZED FC (EGY D1)
@@ -49,6 +53,8 @@ https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1788211259-0-0-8ffb
 https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1788212426-0-0-52f8ac8915aae42942a007b1a579ae71
 #EXTINF:-1 tvg-id="room-602019" tvg-logo="https://sta.vnres.co/file/common/20260829/94afed08cc1e0cf1bc4b5b537ae818e0.png" group-title="Bóng đá",Farense U23 vs Famalicao U23 (POR LRU23)
 https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=f85791f69f06566a9959c4243e39f01e&txTime=6a966d17
+#EXTINF:-1 tvg-id="room-603255" tvg-logo="https://sta.vnres.co/file/common/20260830/267b9b9f459509b10c541c99e9f57478.png" group-title="Bóng đá",Kelantan City vs Negeri Sembilan (MAS FAC)
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1788230297-0-0-41701fdb38432a6f40d25501929c05ee
 #EXTINF:-1 tvg-id="room-603914" tvg-logo="https://sta.vnres.co/file/common/20260830/b20d4d01c8ebe6f0ecb6dbb2dffeae26.png" group-title="Bóng đá",Barranquilla FC vs Boca Juniors De Cali (COL D2)
 https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1787859773-0-0-063d179b1c9b03cf766022c730a23054
 #EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260830/178cc29e17a90f699279704e63068a36.png" group-title="Bóng đá",DPMM FC vs Terengganu FC (MAS FAC)
@@ -146,32 +152,32 @@ https://pull.niur.live/live/stream-9912145_lhd.m3u8?txSecret=b040c1bf391e429b0e1
 #EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260829/d42a997c6df2a0674e9020dbbfd7cb46.png" group-title="Bóng đá",Shandong Taishan vs Shanghai Port (CHA FACup)
 https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788235680-0-0-4b3285b0ad0875808b8961786ba561a7
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260830/f709c6c58ab961b8d635b798e4c85263.png" group-title="Bóng rổ",Pasig City vs Marikina Shoemasters (MPBL)
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=e2a146b061b62187f006513f7851c9de&txTime=6a96d971
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=fe667e534a285d9ba14c84dcf4ee0cb4&txTime=6a96dad9
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260831/d02079ea1481e8a7f71d2f3381a841e7.png" group-title="Bóng rổ",Shanxi Loongs Fenjiu vs Tianjin Pioneers (CBASL)
 https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=6b5e6b7f2088dba969fe05b83617dafc&txTime=6a95564b
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260830/f709c6c58ab961b8d635b798e4c85263.png" group-title="Bóng rổ",Pasig City vs Marikina Shoemasters (MPBL)
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788252961-0-0-e0d654e9fe1c846c6c6e0eace895aa3f
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788253321-0-0-2a124f0ae4ff25a8307159d479cf422a
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260830/11d7589baab8b0e275725f173cdb63c1.jpg" group-title="Bóng rổ",Mindoro Tamaraws vs San Juan Knights (MPBL)
 https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788239903-0-0-d4d7db354ce9e9257e06e3049aad5624
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260830/f709c6c58ab961b8d635b798e4c85263.png" group-title="Bóng rổ",Pasig City vs Marikina Shoemasters (MPBL)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788252961-0-0-ee5c4698fffb8787aabbd4c7a94aed00
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788253321-0-0-f60d461ba68adf70565ac037a9a15c88
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260830/11d7589baab8b0e275725f173cdb63c1.jpg" group-title="Bóng rổ",Mindoro Tamaraws vs San Juan Knights (MPBL)
 https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788239941-0-0-659dbf370f93655b26c69a60d85f510d
 #EXTINF:-1 tvg-id="room-133277" tvg-logo="https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg" group-title="SocoLive",Tường thuật: COL D1 - Deportes Tolima vs Cucuta Deportivo - Gà xào sả ớt
-https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=11205fd99b06954e97a804dcade7eba8&txTime=6a96d971
+https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=77d223b715d46f1208737499be0f181e&txTime=6a96da9d
 #EXTINF:-1 tvg-id="room-133824" tvg-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg" group-title="SocoLive",Tường thuật: ITA D1 - Lecce vs AS Roma - Bò leo rào
-https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=19394392e0ef2dd3de4756e7b1725721&txTime=6a96d971
+https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=42615ade18ffc1c119f04d47ebf8314e&txTime=6a96da9d
 #EXTINF:-1 tvg-id="room-152898" tvg-logo="https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png" group-title="SocoLive",Tường thuật: SPA D1 - CA Osasuna vs Getafe - Thỏ giang hồ
-https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=933dccba46e6d5518de5110edc1f9dda&txTime=6a96d971
+https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=0677ffa94c84230e6a0e5d8a3ae19e61&txTime=6a96da9d
 #EXTINF:-1 tvg-id="room-179093" tvg-logo="https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg" group-title="SocoLive",Tường thuật: ENG PR - Aston Villa vs Arsenal - Hươu đau cổ
-https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=ccf43181708395ff86f84200dce90e73&txTime=6a96d971
+https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=2ead27aaab407f949a685c0cb82fb4a3&txTime=6a96da9d
 #EXTINF:-1 tvg-id="room-343500" tvg-logo="https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg" group-title="SocoLive",Tường thuật: ITA D1 - Atalanta vs Bologna - Mèo méo meo
-https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=a545c2d63cd7507c49e88b4ce01c5ad3&txTime=6a96d971
+https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=53018598cb2c5141094c3a61da606898&txTime=6a96da9d
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg" group-title="SocoLive",MPBL: Pasig City vs Marikina Shoemasters - A CHÈ
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=e2a146b061b62187f006513f7851c9de&txTime=6a96d971
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=cf319ce4c53b00a2252c7e4e126ee647&txTime=6a96da9d
 #EXTINF:-1 tvg-id="room-9912079" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg" group-title="SocoLive",Tường thuật: AFC U20 - Vietnam U20 vs Korea DPR U20 - Rắn ở đáy sông
-https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=053aadafb94600289d332cff7da67278&txTime=6a96d971
+https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=4e9bbaddacb38c8825b71156036d5566&txTime=6a96da9d
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-title="SocoLive",MPBL: Pasig City vs Marikina Shoemasters - KING
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788252961-0-0-e0d654e9fe1c846c6c6e0eace895aa3f
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788253261-0-0-c5af19bea13f767691c0c15761cd7e7d
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg" group-title="SocoLive",MPBL: Pasig City vs Marikina Shoemasters - BLV HENRY
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788252961-0-0-ee5c4698fffb8787aabbd4c7a94aed00
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788253261-0-0-b41b285e62bc77aa63343444181a9f46
