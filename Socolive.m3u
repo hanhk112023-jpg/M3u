@@ -3,37 +3,35 @@
 # SportsTV LIVE PLAYLIST
 # ======================================
 # Status       : ONLINE
-# Channels     : 14
-# Updated      : 01/09/2026 02:14:41
+# Channels     : 13
+# Updated      : 01/09/2026 02:19:34
 # Player       : OTT Navigator / TiviMate
 # ======================================
 #PLAYLIST:SportsTV
 
 #EXTINF:-1 tvg-id="room-291277" tvg-logo="https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg" group-logo="https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg" group-title="SocoLive",COL D1: Deportes Tolima vs Cucuta Deportivo - CÔNG CHẤT
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=f0d707525de28b86052f11cfd958c4e1&txTime=6a968949
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=3043b8f42f245dd473164e5e85919927&txTime=6a968a75
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg" group-logo="https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg" group-title="SocoLive",WCPAM: Mexico vs Brazil - A CHÈ
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=47b812dd31b42a3f26cd05199c8859c4&txTime=6a968949
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=a0b525ed6925589629b2bf2b963240a8&txTime=6a968a75
 #EXTINF:-1 tvg-id="room-380460" tvg-logo="https://sta.vnres.co/file/common/20260827/1d4f9eca02a381435aaec138589dd9ef.jpg" group-logo="https://sta.vnres.co/file/common/20260827/1d4f9eca02a381435aaec138589dd9ef.jpg" group-title="SocoLive",COL D1: Deportes Tolima vs Cucuta Deportivo - BLV ENZO
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1788232441-0-0-66a5203629507e2688eefa27678b4e28
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1788232741-0-0-f44b2282edea268ec7fcb8230f03dfc2
 #EXTINF:-1 tvg-id="room-485739" tvg-logo="https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg" group-logo="https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg" group-title="SocoLive",CHI D1: Univ Catolica vs O.Higgins - BLV CHIVAS
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=a36563a3dcd675d9f11b3479baacb061&txTime=6a968949
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=6ee96b5066d96e6c9c0230aa050795c6&txTime=6a968a75
 #EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg" group-logo="https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg" group-title="SocoLive",CHI D1: Univ Catolica vs O.Higgins - CƠM NẾP
-https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788232441-0-0-406b24c920b2201d5b72b42591fc4f00
+https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788232741-0-0-b1690c93bdf7ff022f0e476b9f9ccc09
 #EXTINF:-1 tvg-id="room-621840" tvg-logo="https://sta.vnres.co/file/common/20260810/042a00493898027e5f644f6f24e88c53.png" group-logo="https://sta.vnres.co/file/common/20260810/042a00493898027e5f644f6f24e88c53.png" group-title="SocoLive",COL D1: Deportes Tolima vs Cucuta Deportivo - MP3
-https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=5f364d367903c188612f4e6f680330e4&txTime=6a968949
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=0907aed8f63cfca0ab476372b9ef8aaa&txTime=6a968a75
 #EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260901/9f9c621d17daaca34484130fa63771ff.png" group-logo="https://sta.vnres.co/file/common/20260901/9f9c621d17daaca34484130fa63771ff.png" group-title="SocoLive",COL D1: Deportes Tolima vs Cucuta Deportivo - BLV Củ Cải
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788232441-0-0-575e10c6d4bbbc10c02d0e209fd4dc35
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788232741-0-0-1427ca36796db73c84e6f3622cb36d85
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-title="SocoLive",WCPAM: Mexico vs Brazil - KING
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788232441-0-0-bb400a732d8d54005030a1cb48c1f220
-#EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg" group-logo="https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg" group-title="SocoLive",ARG D1: Instituto de Córdoba vs CA San Lorenzo - BLV RÔSI
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=8123f3c81f49ea746d8a9acc10c750f0&txTime=6a968949
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788232741-0-0-25f8d69f6e9a743738fc0d946c61a49a
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-title="SocoLive",WCPAM: Mexico vs Brazil - BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788232441-0-0-bf3a6f76d7d7bc7c0b4fbf1dcaa43c23
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788232741-0-0-af497de2628b7de50e89122abb1abe88
 #EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260831/caac4db30e51ab3213e882c77bf88da5.png" group-logo="https://sta.vnres.co/file/common/20260831/caac4db30e51ab3213e882c77bf88da5.png" group-title="SocoLive",COL D1: Deportes Tolima vs Cucuta Deportivo - BLV ZOWIE
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788232441-0-0-83048a72832fa9cb867c70f77d88aeb0
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788232741-0-0-daf8d7046e1d9c2e4c3d26d7d1836903
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg" group-logo="https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg" group-title="SocoLive",WCPAM: Mexico vs Brazil - BLV HENRY
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788232441-0-0-e71c578800f7910bd40826ee3d3a9a59
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788232741-0-0-feef995f3846baa73cde0d4fc21d1332
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg" group-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg" group-title="SocoLive",WCPAM: Mexico vs Brazil - CHAN SENA
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788232441-0-0-b21ac50b970d6088bbfd15c5d440c7f5
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788232741-0-0-6014030cbad7a7b6428ac014ad477e30
 #EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260829/f6903a1879b3c7cc22d27c658db14d94.png" group-logo="https://sta.vnres.co/file/common/20260829/f6903a1879b3c7cc22d27c658db14d94.png" group-title="SocoLive",COL D1: Deportes Tolima vs Cucuta Deportivo - BLV CUỘI
-https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788232441-0-0-8fa34ed97a529e003f2a4d5534bd521b
+https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788232741-0-0-6b4a6057a5142e3325706da0e69455ce
