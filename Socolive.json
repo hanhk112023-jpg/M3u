@@ -5,7 +5,7 @@
     "name": "Parma vs Cremonese (ITA Cup)",
     "logo": "https://sta.vnres.co/file/common/20260829/a5b169c0d8f3d6bffa0000559438ce33.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788283141-0-0-3f50b23a57e5a5382ab130b2e20bdb42",
+    "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788283501-0-0-b20bc5a8b15a6a005d3d775a63846a01",
     "type": "hls"
   },
   {
@@ -23,7 +23,7 @@
     "name": "Fakel Voronezh vs FK Krasnodar (RUS Cup)",
     "logo": "https://sta.vnres.co/file/common/20260829/80b2cc3e4c533c73142ad132f677298c.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=9ca55c5f96a62c836686884815362064\u0026txTime=6a974f55",
+    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=517fd59c3a9d15a14a5a0538069e821e\u0026txTime=6a9750bd",
     "type": "hls"
   },
   {
@@ -32,7 +32,7 @@
     "name": "Fakel Voronezh vs FK Krasnodar (RUS Cup)",
     "logo": "https://sta.vnres.co/file/common/20260829/80b2cc3e4c533c73142ad132f677298c.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788283141-0-0-a7ffdfb1a968c1b522a538af4a78792a",
+    "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788283501-0-0-46bfea72d3b4f6736f046679d96f10ba",
     "type": "hls"
   },
   {
@@ -56,10 +56,10 @@
   {
     "id": "372746",
     "tvg_id": "room-372746",
-    "name": "Club Sportivo 2 de Mayo vs Sportivo Luqueno (PAR D1)",
-    "logo": "https://sta.vnres.co/file/common/20260831/0f90435298b747015853e910d3313f06.png",
+    "name": "Al-Shamal SC vs Al Rayyan (QAT CPC)",
+    "logo": "https://sta.vnres.co/file/common/20260829/f435011ea3c9d60f601e52d345bc9351.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788283141-0-0-e17460b3ffb90bd3e46519fd03e5284b",
+    "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788283501-0-0-aa402752a030bce8d9a1e39c096fcaf9",
     "type": "hls"
   },
   {
@@ -68,7 +68,7 @@
     "name": "Fakel Voronezh vs FK Krasnodar (RUS Cup)",
     "logo": "https://sta.vnres.co/file/common/20260829/80b2cc3e4c533c73142ad132f677298c.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1788283141-0-0-8d057422a425fc4a0f8417de7bca3828",
+    "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1788283501-0-0-fe60d55d6c51e0eef662496b6c6621e8",
     "type": "hls"
   },
   {
@@ -77,7 +77,7 @@
     "name": "Fakel Voronezh vs FK Krasnodar (RUS Cup)",
     "logo": "https://sta.vnres.co/file/common/20260829/80b2cc3e4c533c73142ad132f677298c.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=cbece1800e3c72f28acdb42bd458eb8a\u0026txTime=6a974f55",
+    "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=1502fac4ff5f6a75e54e43d2ba0128d5\u0026txTime=6a9750bd",
     "type": "hls"
   },
   {
@@ -126,12 +126,21 @@
     "type": "hls"
   },
   {
+    "id": "501412",
+    "tvg_id": "room-501412",
+    "name": "Parma vs Cremonese (ITA Cup)",
+    "logo": "https://sta.vnres.co/file/common/20260829/a5b169c0d8f3d6bffa0000559438ce33.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=a4cb64aa7f3eefa0c48538b908720697\u0026txTime=6a9750bd",
+    "type": "hls"
+  },
+  {
     "id": "511367",
     "tvg_id": "room-511367",
     "name": "Al-Orobah FC vs Al Zulfi (KSA D1)",
     "logo": "https://sta.vnres.co/file/common/20260829/b07363f3ff82e0f29274ffe42c05d45c.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1788283141-0-0-8affb7b79305b555fdd59dc2b7fbbbbd",
+    "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1788283501-0-0-f252e37addb699f570e04327349e0385",
     "type": "hls"
   },
   {
@@ -158,7 +167,7 @@
     "name": "Parma vs Cremonese (ITA Cup)",
     "logo": "https://sta.vnres.co/file/common/20260829/a5b169c0d8f3d6bffa0000559438ce33.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788283141-0-0-102d0490b8b045182735e54436a0522f",
+    "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788283501-0-0-347663f5757190b65c131279585056c8",
     "type": "hls"
   },
   {
@@ -176,7 +185,7 @@
     "name": "Sepsi Sf. Gheorghe vs CFR Cluj (ROM Cup)",
     "logo": "https://sta.vnres.co/file/common/20260831/e99e75f84a3df644a48381b66bb047b7.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788283141-0-0-adb6719e8b9d0e022bb2ffc21840f115",
+    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788283501-0-0-b447fc0cec0d15384366a45386c868b1",
     "type": "hls"
   },
   {
@@ -248,7 +257,7 @@
     "name": "Al-Orobah FC vs Al Zulfi (KSA D1)",
     "logo": "https://sta.vnres.co/file/common/20260829/b07363f3ff82e0f29274ffe42c05d45c.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1788283141-0-0-0c9d073d98b7336fba0f4688768fb7da",
+    "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1788283501-0-0-8bbc074d787dd3a157602347cc8101e4",
     "type": "hls"
   },
   {
@@ -293,7 +302,7 @@
     "name": "Sepsi Sf. Gheorghe vs CFR Cluj (ROM Cup)",
     "logo": "https://sta.vnres.co/file/common/20260831/e99e75f84a3df644a48381b66bb047b7.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1788283141-0-0-27b31dd3ea47a9443628cee7b56a9776",
+    "url": "https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1788283501-0-0-792c81bdc0a8874a8e33a406e6da51bf",
     "type": "hls"
   },
   {
@@ -356,7 +365,7 @@
     "name": "Al Jeel vs Jeddah (KSA D1)",
     "logo": "https://sta.vnres.co/file/common/20260829/a431b4535153dc83b26f2e25474ffed6.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=56cdc55d8ede9e45625cb2b9d8ef75dd\u0026txTime=6a974f55",
+    "url": "https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=23712cdff413e86089ac4997a1203a65\u0026txTime=6a9750bd",
     "type": "hls"
   },
   {
@@ -365,7 +374,7 @@
     "name": "Ghazl El Mahallah vs Enppi (EGY D1)",
     "logo": "https://sta.vnres.co/file/common/20260829/fec87bc9c18c6b5a533aa75e517b2a64.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1788282502-0-0-93d3b532f1638fdb632c380b61d9385b",
+    "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1788283501-0-0-2d6ff36402fd1dc959eb14dc00936e41",
     "type": "hls"
   },
   {
@@ -401,7 +410,7 @@
     "name": "Parma vs Cremonese (ITA Cup)",
     "logo": "https://sta.vnres.co/file/common/20260829/a5b169c0d8f3d6bffa0000559438ce33.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788283141-0-0-47ebf78702622cb7d2008331fa4f215c",
+    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788283501-0-0-ebc12169638c84690019765652179fe5",
     "type": "hls"
   },
   {
@@ -410,7 +419,7 @@
     "name": "Al-Shamal SC vs Al Rayyan (QAT CPC)",
     "logo": "https://sta.vnres.co/file/common/20260829/f435011ea3c9d60f601e52d345bc9351.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1788283141-0-0-386256566c625f39228ae1ea5c2d929e",
+    "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1788283501-0-0-fa54d827fca588233dbe17af85cda8cf",
     "type": "hls"
   },
   {
@@ -437,7 +446,7 @@
     "name": "Fakel Voronezh vs FK Krasnodar (RUS Cup)",
     "logo": "https://sta.vnres.co/file/common/20260829/80b2cc3e4c533c73142ad132f677298c.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=54aa74f44be9cfb76189e04e3e1dd894\u0026txTime=6a974f91",
+    "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=917011cd8d544db6e1d76a551090958c\u0026txTime=6a9750bd",
     "type": "hls"
   },
   {
@@ -464,7 +473,7 @@
     "name": "Parma vs Cremonese (ITA Cup)",
     "logo": "https://sta.vnres.co/file/common/20260829/a5b169c0d8f3d6bffa0000559438ce33.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1788283201-0-0-5a21679b93a6d4b28936b8ff3f5dc392",
+    "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1788283501-0-0-0130717c5a883e5199f67a95acf2b91f",
     "type": "hls"
   },
   {
@@ -527,7 +536,7 @@
     "name": "Al-Sadd vs Al-Gharafa SC (QAT CPC)",
     "logo": "https://sta.vnres.co/file/common/20260829/916c96ade7e4a7c4b7b7d80c761f5ccf.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788283201-0-0-fc36c3da37c2a13eb3c266970815cf89",
+    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788283501-0-0-d38873b949d96454f0053a0901882fed",
     "type": "hls"
   },
   {
@@ -545,7 +554,7 @@
     "name": "Fakel Voronezh vs FK Krasnodar (RUS Cup)",
     "logo": "https://sta.vnres.co/file/common/20260829/80b2cc3e4c533c73142ad132f677298c.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=8fd310f529757507f9b7ec6416160263\u0026txTime=6a974f91",
+    "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=67cea8902ee665d6fb10e6eb4e7de136\u0026txTime=6a9750bd",
     "type": "hls"
   },
   {
@@ -554,7 +563,7 @@
     "name": "Parma vs Cremonese (ITA Cup)",
     "logo": "https://sta.vnres.co/file/common/20260829/a5b169c0d8f3d6bffa0000559438ce33.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1788283201-0-0-ac716f3e70e2f6a34430a57a873f32a8",
+    "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1788283501-0-0-c2efddb2ff3329d7c53ef8332087cce0",
     "type": "hls"
   },
   {
@@ -581,7 +590,7 @@
     "name": "Al Jeel vs Jeddah (KSA D1)",
     "logo": "https://sta.vnres.co/file/common/20260829/a431b4535153dc83b26f2e25474ffed6.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1788283201-0-0-f9871d722c7d52f89bce4393cd6f8049",
+    "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1788283501-0-0-b32d268a974a6f2b21273a3248c30f55",
     "type": "hls"
   },
   {
@@ -635,7 +644,7 @@
     "name": "Al-Shamal SC vs Al Rayyan (QAT CPC)",
     "logo": "https://sta.vnres.co/file/common/20260829/f435011ea3c9d60f601e52d345bc9351.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788283201-0-0-44053ffc8bce6e37fa69c9d249358158",
+    "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788283501-0-0-342cc59b86e06f68c035345046148cc4",
     "type": "hls"
   },
   {
@@ -716,7 +725,7 @@
     "name": "ITA Cup: Parma vs Cremonese - A PÁO",
     "logo": "https://sta.vnres.co/file/common/20260901/921c602e305ac39c8393daeda2378a18.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788283141-0-0-3f50b23a57e5a5382ab130b2e20bdb42",
+    "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788283501-0-0-b20bc5a8b15a6a005d3d775a63846a01",
     "type": "hls"
   },
   {
@@ -725,7 +734,7 @@
     "name": "RUS Cup: Fakel Voronezh vs FK Krasnodar - CÔNG CHẤT",
     "logo": "https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=9ca55c5f96a62c836686884815362064\u0026txTime=6a974f55",
+    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=517fd59c3a9d15a14a5a0538069e821e\u0026txTime=6a9750bd",
     "type": "hls"
   },
   {
@@ -734,7 +743,7 @@
     "name": "RUS Cup: Fakel Voronezh vs FK Krasnodar - BLV LUCAS",
     "logo": "https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788283141-0-0-a7ffdfb1a968c1b522a538af4a78792a",
+    "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788283501-0-0-46bfea72d3b4f6736f046679d96f10ba",
     "type": "hls"
   },
   {
@@ -743,7 +752,7 @@
     "name": "QAT CPC: Al-Shamal SC vs Al Rayyan - BLV YONE",
     "logo": "https://sta.vnres.co/file/common/20260728/ba06eac3dc3ffeee0de25e8e0deaaceb.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788283141-0-0-e17460b3ffb90bd3e46519fd03e5284b",
+    "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788283501-0-0-aa402752a030bce8d9a1e39c096fcaf9",
     "type": "hls"
   },
   {
@@ -752,7 +761,7 @@
     "name": "RUS Cup: Fakel Voronezh vs FK Krasnodar - BLV ENZO",
     "logo": "https://sta.vnres.co/file/common/20260827/1d4f9eca02a381435aaec138589dd9ef.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1788283141-0-0-8d057422a425fc4a0f8417de7bca3828",
+    "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1788283501-0-0-fe60d55d6c51e0eef662496b6c6621e8",
     "type": "hls"
   },
   {
@@ -761,7 +770,7 @@
     "name": "RUS Cup: Fakel Voronezh vs FK Krasnodar - CR Bưởi",
     "logo": "https://sta.vnres.co/file/common/20260901/79c107ceeca1856508b493922a897881.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=cbece1800e3c72f28acdb42bd458eb8a\u0026txTime=6a974f55",
+    "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=1502fac4ff5f6a75e54e43d2ba0128d5\u0026txTime=6a9750bd",
     "type": "hls"
   },
   {
@@ -770,7 +779,7 @@
     "name": "ITA Cup: Parma vs Cremonese - XUÂN SON",
     "logo": "https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=8d3fbcc8356eb572ae5288a014453547\u0026txTime=6a974f55",
+    "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=a4cb64aa7f3eefa0c48538b908720697\u0026txTime=6a9750bd",
     "type": "hls"
   },
   {
@@ -779,7 +788,7 @@
     "name": "KSA D1: Al-Orobah FC vs Al Zulfi - BLV WUKONG",
     "logo": "https://sta.vnres.co/file/common/20251121/6d691b0b9dfd9eeb599401a2499400f0.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1788283141-0-0-8affb7b79305b555fdd59dc2b7fbbbbd",
+    "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1788283501-0-0-f252e37addb699f570e04327349e0385",
     "type": "hls"
   },
   {
@@ -788,7 +797,7 @@
     "name": "ITA Cup: Parma vs Cremonese - BLV ALEX",
     "logo": "https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788283141-0-0-102d0490b8b045182735e54436a0522f",
+    "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788283501-0-0-347663f5757190b65c131279585056c8",
     "type": "hls"
   },
   {
@@ -797,7 +806,7 @@
     "name": "ROM Cup: Sepsi Sf. Gheorghe vs CFR Cluj - BLV A WIN",
     "logo": "https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788283141-0-0-adb6719e8b9d0e022bb2ffc21840f115",
+    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788283501-0-0-b447fc0cec0d15384366a45386c868b1",
     "type": "hls"
   },
   {
@@ -806,7 +815,7 @@
     "name": "KSA D1: Al-Orobah FC vs Al Zulfi - ĐỖ TÚ TÀI",
     "logo": "https://sta.vnres.co/file/common/20260522/f2b4ef051d1e02300d2d5bf24f3828f0.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1788283141-0-0-0c9d073d98b7336fba0f4688768fb7da",
+    "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1788283501-0-0-8bbc074d787dd3a157602347cc8101e4",
     "type": "hls"
   },
   {
@@ -815,7 +824,7 @@
     "name": "ROM Cup: Sepsi Sf. Gheorghe vs CFR Cluj - T REX",
     "logo": "https://sta.vnres.co/file/common/20260808/4818d723b5e85850f66dfc3b5aed49d8.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1788283141-0-0-27b31dd3ea47a9443628cee7b56a9776",
+    "url": "https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1788283501-0-0-792c81bdc0a8874a8e33a406e6da51bf",
     "type": "hls"
   },
   {
@@ -824,7 +833,7 @@
     "name": "KSA D1: Al Jeel vs Jeddah - GRAP",
     "logo": "https://sta.vnres.co/file/common/20260703/fe517d18a8df723cee92683347d70be9.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=56cdc55d8ede9e45625cb2b9d8ef75dd\u0026txTime=6a974f55",
+    "url": "https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=23712cdff413e86089ac4997a1203a65\u0026txTime=6a9750bd",
     "type": "hls"
   },
   {
@@ -833,7 +842,7 @@
     "name": "ITA Cup: Parma vs Cremonese - BLV FIREMAN",
     "logo": "https://sta.vnres.co/file/common/20240614/d900dd8841b1223c7b58554cde34df75.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788283141-0-0-47ebf78702622cb7d2008331fa4f215c",
+    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788283501-0-0-ebc12169638c84690019765652179fe5",
     "type": "hls"
   },
   {
@@ -842,7 +851,7 @@
     "name": "QAT CPC: Al-Shamal SC vs Al Rayyan - BLV TOMIA",
     "logo": "https://sta.vnres.co/file/common/20260831/7c64c0a0fec3bf5cf09804100116876a.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1788283141-0-0-386256566c625f39228ae1ea5c2d929e",
+    "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1788283501-0-0-fa54d827fca588233dbe17af85cda8cf",
     "type": "hls"
   },
   {
@@ -851,7 +860,7 @@
     "name": "RUS Cup: Fakel Voronezh vs FK Krasnodar - BLV RÔSI",
     "logo": "https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=056f935a48250dfe908ee0d032585658\u0026txTime=6a974f55",
+    "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=917011cd8d544db6e1d76a551090958c\u0026txTime=6a9750bd",
     "type": "hls"
   },
   {
@@ -860,7 +869,7 @@
     "name": "ITA Cup: Parma vs Cremonese - HẢI THANH",
     "logo": "https://sta.vnres.co/file/common/20260829/f624027ec79ccc757bf8d5a663d63763.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1788283141-0-0-b71e3ee433ea4861ec37a115b3d4fe3b",
+    "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1788283501-0-0-0130717c5a883e5199f67a95acf2b91f",
     "type": "hls"
   },
   {
@@ -869,7 +878,7 @@
     "name": "TFF 1. Lig: Sariyer vs Pendikspor - BLV A TÚ",
     "logo": "https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788283141-0-0-36fd8926e6ff3f6574807c53cc42e1c0",
+    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788283501-0-0-d38873b949d96454f0053a0901882fed",
     "type": "hls"
   },
   {
@@ -878,7 +887,7 @@
     "name": "RUS Cup: Fakel Voronezh vs FK Krasnodar - BLV XO",
     "logo": "https://sta.vnres.co/file/common/20260613/cc7eb6fb9d74dfa083a48c861b135ae8.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=59285310111dcde207a0f0778c8ff1bd\u0026txTime=6a974f55",
+    "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=67cea8902ee665d6fb10e6eb4e7de136\u0026txTime=6a9750bd",
     "type": "hls"
   },
   {
@@ -887,7 +896,7 @@
     "name": "ITA Cup: Parma vs Cremonese - LOKA",
     "logo": "https://sta.vnres.co/file/common/20260411/c1490960e7f4b63fdc78206c576d2da8.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1788283141-0-0-f0774dd46eacfc54b25760d504c87e6f",
+    "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1788283501-0-0-c2efddb2ff3329d7c53ef8332087cce0",
     "type": "hls"
   },
   {
@@ -896,7 +905,7 @@
     "name": "KSA D1: Al Jeel vs Jeddah - TUẤN CÙI",
     "logo": "https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1788283141-0-0-90261a9421e22a7775b54d4588ddfb62",
+    "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1788283501-0-0-b32d268a974a6f2b21273a3248c30f55",
     "type": "hls"
   },
   {
@@ -905,7 +914,7 @@
     "name": "QAT CPC: Al-Shamal SC vs Al Rayyan - BÁ PHÚ",
     "logo": "https://sta.vnres.co/file/common/20260730/7804d6332c85f80cc4843609598de690.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788283141-0-0-a88fab85d75ac8a1b3740b4ada4c3f61",
+    "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788283501-0-0-342cc59b86e06f68c035345046148cc4",
     "type": "hls"
   }
 ]
