@@ -1,14 +1,14 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 91
-# Updated: 01/09/2026 03:04:58
+# Channels: 89
+# Updated: 01/09/2026 03:10:02
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260830/db0c457f0cfbae3d5adfe6a4aa1a0065.png" group-title="Bóng đá",UM-Damansara United vs Johor Darul Ta'zim FC (MAS FAC)
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788208516-0-0-6045c2772cde50e13b1cbd9c0f9c536c
 #EXTINF:-1 tvg-id="room-283501" tvg-logo="https://sta.vnres.co/file/common/20260830/b509f25e05e3f46d76247ebd9933ab65.png" group-title="Bóng đá",Cerezo Osaka vs Kashiwa Reysol (JPN D1)
 https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=760a0ba98b45242b99fb8d83e1f9fd8b&txTime=6a9685f1
-#EXTINF:-1 tvg-id="room-291277" tvg-logo="https://sta.vnres.co/file/common/20260827/5ed9b187534bdf199292155102495ea8.png" group-title="Bóng đá",Deportes Tolima vs Cucuta Deportivo (COL D1)
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=65dd471d278e85281ec4085aa47184f9&txTime=6a969501
+#EXTINF:-1 tvg-id="room-291277" tvg-logo="https://sta.vnres.co/file/common/20260829/80b2cc3e4c533c73142ad132f677298c.png" group-title="Bóng đá",Fakel Voronezh vs FK Krasnodar (RUS Cup)
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=169ed7c96e2b9774cbbfe58252b1b8d7&txTime=6a9695e3
 #EXTINF:-1 tvg-id="room-304148" tvg-logo="https://sta.vnres.co/file/common/20260829/b097e8c5adacf1cbe77fb09b7114ea2b.png" group-title="Bóng đá",Beijing Guoan vs Lanzhou Longyuan Athletic (CHA FACup)
 https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788228250-0-0-13c65edabdf76632fae553732484b7e4
 #EXTINF:-1 tvg-id="room-321443" tvg-logo="https://sta.vnres.co/file/common/20260829/d42a997c6df2a0674e9020dbbfd7cb46.png" group-title="Bóng đá",Shandong Taishan vs Shanghai Port (CHA FACup)
@@ -17,7 +17,7 @@ https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=c746bec7c67660b4baba
 https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1788228256-0-0-d6f6b9bf95437bc6f7fb8ec00255d904
 #EXTINF:-1 tvg-id="room-372746" tvg-logo="https://sta.vnres.co/file/common/20260829/5022b2a29d21ebe4f0bae3ef59d21ef5.png" group-title="Bóng đá",Bandirmaspor vs Antalyaspor (TFF 1. Lig)
 https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788228049-0-0-905455227405edd009c3574001583776
-#EXTINF:-1 tvg-id="room-380460" tvg-logo="https://sta.vnres.co/file/common/20260827/5ed9b187534bdf199292155102495ea8.png" group-title="Bóng đá",Deportes Tolima vs Cucuta Deportivo (COL D1)
+#EXTINF:-1 tvg-id="room-380460" tvg-logo="https://sta.vnres.co/file/common/20260829/b097e8c5adacf1cbe77fb09b7114ea2b.png" group-title="Bóng đá",Beijing Guoan vs Lanzhou Longyuan Athletic (CHA FACup)
 https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1788235318-0-0-2aebec15c25592cfab9134e450a4342b
 #EXTINF:-1 tvg-id="room-387694" tvg-logo="https://sta.vnres.co/file/common/20260830/db0c457f0cfbae3d5adfe6a4aa1a0065.png" group-title="Bóng đá",UM-Damansara United vs Johor Darul Ta'zim FC (MAS FAC)
 https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=0904d091fa376002e4d858176628853e&txTime=6a96410e
@@ -77,8 +77,8 @@ https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1788188214-0-0-ce27
 https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=45907c1c8ff773f7dc91245f6dfca14d&txTime=6a962252
 #EXTINF:-1 tvg-id="room-620797" tvg-logo="https://sta.vnres.co/file/common/20260829/fecbee4f2266134cc2e18b3d590c92d5.png" group-title="Bóng đá",Moreirense U23 vs Portimonense U23 (POR LRU23)
 https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1788206378-0-0-2fb4ae82a1f59c31885820232b99a37a
-#EXTINF:-1 tvg-id="room-621840" tvg-logo="https://sta.vnres.co/file/common/20260827/5ed9b187534bdf199292155102495ea8.png" group-title="Bóng đá",Deportes Tolima vs Cucuta Deportivo (COL D1)
-https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=6e31ffa72faae485a1a024164e8677ac&txTime=6a969501
+#EXTINF:-1 tvg-id="room-621840" tvg-logo="https://sta.vnres.co/file/common/20260829/ac240084f84c1bec8d6af152d78d2e42.png" group-title="Bóng đá",Tala'ea El Gaish vs ZED FC (EGY D1)
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=0dd96960418ffae4812362ce1bc107de&txTime=6a96962d
 #EXTINF:-1 tvg-id="room-621843" tvg-logo="https://sta.vnres.co/file/common/20260829/94afed08cc1e0cf1bc4b5b537ae818e0.png" group-title="Bóng đá",Farense U23 vs Famalicao U23 (POR LRU23)
 https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1788214534-0-0-45ccf92fe324c2c3c6843641561bd084
 #EXTINF:-1 tvg-id="room-621887" tvg-logo="https://sta.vnres.co/file/common/20260830/a9aa3e364db539f3de5a10a96598f837.png" group-title="Bóng đá",Envigado FC vs Union Magdalena (COL D2)
@@ -97,11 +97,11 @@ https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1788188393-0-0-9551
 https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788213740-0-0-d59b411d18673292999878f0512d5622
 #EXTINF:-1 tvg-id="room-9912008" tvg-logo="https://sta.vnres.co/file/common/20260830/db0c457f0cfbae3d5adfe6a4aa1a0065.png" group-title="Bóng đá",UM-Damansara United vs Johor Darul Ta'zim FC (MAS FAC)
 https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1788213615-0-0-3eb70ca5ffde5ac1073ed091691f4d08
-#EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260827/5ed9b187534bdf199292155102495ea8.png" group-title="Bóng đá",Deportes Tolima vs Cucuta Deportivo (COL D1)
+#EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260829/d42a997c6df2a0674e9020dbbfd7cb46.png" group-title="Bóng đá",Shandong Taishan vs Shanghai Port (CHA FACup)
 https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788235422-0-0-57e67e4c84abbf63d2daa5deb33a400f
 #EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260829/80b2cc3e4c533c73142ad132f677298c.png" group-title="Bóng đá",Fakel Voronezh vs FK Krasnodar (RUS Cup)
 https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=bc4297c65681a58a3ce85873ca767087&txTime=6a9689bc
-#EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260827/5ed9b187534bdf199292155102495ea8.png" group-title="Bóng đá",Deportes Tolima vs Cucuta Deportivo (COL D1)
+#EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260830/db0c457f0cfbae3d5adfe6a4aa1a0065.png" group-title="Bóng đá",UM-Damansara United vs Johor Darul Ta'zim FC (MAS FAC)
 https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788235200-0-0-5388c31a83d4a03ca85ea52750c5b490
 #EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260829/fecbee4f2266134cc2e18b3d590c92d5.png" group-title="Bóng đá",Moreirense U23 vs Portimonense U23 (POR LRU23)
 https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1788224131-0-0-6d3173c1d95dc3ac29d70deb0e227bd5
@@ -145,43 +145,39 @@ https://pull.niur.live/live/stream-9912142_lhd.m3u8?txSecret=dad50cdbdb59bc07453
 https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788232351-0-0-4d7fc895bbbe5aa3fd76b898c5045deb
 #EXTINF:-1 tvg-id="room-9912145" tvg-logo="https://sta.vnres.co/file/common/20260829/916c96ade7e4a7c4b7b7d80c761f5ccf.png" group-title="Bóng đá",Al-Sadd vs Al-Gharafa SC (QAT CPC)
 https://pull.niur.live/live/stream-9912145_lhd.m3u8?txSecret=b040c1bf391e429b0e1c0530ead73bd9&txTime=6a94bda7
-#EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260827/5ed9b187534bdf199292155102495ea8.png" group-title="Bóng đá",Deportes Tolima vs Cucuta Deportivo (COL D1)
-https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788235441-0-0-a9a92504017ec38a7270765f5b5d17fb
+#EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260829/d42a997c6df2a0674e9020dbbfd7cb46.png" group-title="Bóng đá",Shandong Taishan vs Shanghai Port (CHA FACup)
+https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788235680-0-0-4b3285b0ad0875808b8961786ba561a7
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260830/d4ffb13f075af00b78a2aacd999ea301.png" group-title="Bóng rổ",Mexico vs Brazil (WCPAM)
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=b01ba39750dfe5963ebaf98bf21e7c3f&txTime=6a969501
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=863ce9651c1b0b6e3e9f6e2bf7f7f925&txTime=6a96962d
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260831/d02079ea1481e8a7f71d2f3381a841e7.png" group-title="Bóng rổ",Shanxi Loongs Fenjiu vs Tianjin Pioneers (CBASL)
 https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=6b5e6b7f2088dba969fe05b83617dafc&txTime=6a95564b
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260830/d4ffb13f075af00b78a2aacd999ea301.png" group-title="Bóng rổ",Mexico vs Brazil (WCPAM)
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788235441-0-0-dc5f4c2a3ff0ebb65e3c6c3cb6adf625
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788235741-0-0-5cbe69f444690761b9aacc2898db0bfd
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260830/d4ffb13f075af00b78a2aacd999ea301.png" group-title="Bóng rổ",Mexico vs Brazil (WCPAM)
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788235441-0-0-141f5beefc18417e625543b9f1a7cc7a
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788235741-0-0-f42fa3ddc56efd186b757c3f3afb70d3
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260830/d4ffb13f075af00b78a2aacd999ea301.png" group-title="Bóng rổ",Mexico vs Brazil (WCPAM)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788235441-0-0-169cbf994cbb905640b3e29297b8f4d3
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788235741-0-0-00e6edc080bf6f94af98fd6fa8b07d82
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260830/d4ffb13f075af00b78a2aacd999ea301.png" group-title="Bóng rổ",Mexico vs Brazil (WCPAM)
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788235441-0-0-b67ac6666ed18cbdf7459b9f5d969d16
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788235741-0-0-0bdd52f09cd4106c61284d86c9806198
 #EXTINF:-1 tvg-id="room-133824" tvg-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg" group-title="SocoLive",Tường thuật: ITA D1 - Lecce vs AS Roma - Bò leo rào
-https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=37e0c412ccf5aa4a52fd24b0d450f782&txTime=6a969501
+https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=95e23d3425b2d0d8855585b5222dedc0&txTime=6a96962d
 #EXTINF:-1 tvg-id="room-152898" tvg-logo="https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png" group-title="SocoLive",Tường thuật: SPA D1 - CA Osasuna vs Getafe - Thỏ giang hồ
-https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=2502aed866f587c7d9a9be071ba62878&txTime=6a969501
+https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=72ec5347909a7c2dec6bf014f56c7e0b&txTime=6a96962d
 #EXTINF:-1 tvg-id="room-179093" tvg-logo="https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg" group-title="SocoLive",Tường thuật: ENG PR - Aston Villa vs Arsenal - Hươu đau cổ
-https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=9e20a3aee1c4ac486edb188e40c2b5d1&txTime=6a969501
-#EXTINF:-1 tvg-id="room-291277" tvg-logo="https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg" group-title="SocoLive",COL D1: Deportes Tolima vs Cucuta Deportivo - CÔNG CHẤT
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=65dd471d278e85281ec4085aa47184f9&txTime=6a969501
+https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=6bb305509066dea6d1c05e472ea3367f&txTime=6a96962d
 #EXTINF:-1 tvg-id="room-343500" tvg-logo="https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg" group-title="SocoLive",Tường thuật: ITA D1 - Atalanta vs Bologna - Mèo méo meo
-https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=86a6cab85be7071b79c217a98517e2d4&txTime=6a969501
+https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=c822a97323b3195c063d4391c246b9a3&txTime=6a96962d
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg" group-title="SocoLive",WCPAM: Mexico vs Brazil - A CHÈ
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=b01ba39750dfe5963ebaf98bf21e7c3f&txTime=6a969501
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=863ce9651c1b0b6e3e9f6e2bf7f7f925&txTime=6a96962d
 #EXTINF:-1 tvg-id="room-621840" tvg-logo="https://sta.vnres.co/file/common/20260810/042a00493898027e5f644f6f24e88c53.png" group-title="SocoLive",COL D1: Deportes Tolima vs Cucuta Deportivo - MP3
-https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=6e31ffa72faae485a1a024164e8677ac&txTime=6a969501
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=0dd96960418ffae4812362ce1bc107de&txTime=6a96962d
 #EXTINF:-1 tvg-id="room-9912079" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg" group-title="SocoLive",Tường thuật: AFC U20 - Vietnam U20 vs Korea DPR U20 - Rắn ở đáy sông
-https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=fbdc947d51121b31b1c6bbef5117ed87&txTime=6a969501
+https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=64555649840a4a98f35da41906c84c99&txTime=6a96962d
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-title="SocoLive",WCPAM: Mexico vs Brazil - KING
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788235441-0-0-dc5f4c2a3ff0ebb65e3c6c3cb6adf625
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788235741-0-0-5cbe69f444690761b9aacc2898db0bfd
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-title="SocoLive",WCPAM: Mexico vs Brazil - BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788235441-0-0-141f5beefc18417e625543b9f1a7cc7a
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788235741-0-0-f42fa3ddc56efd186b757c3f3afb70d3
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg" group-title="SocoLive",WCPAM: Mexico vs Brazil - BLV HENRY
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788235441-0-0-169cbf994cbb905640b3e29297b8f4d3
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788235741-0-0-00e6edc080bf6f94af98fd6fa8b07d82
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg" group-title="SocoLive",WCPAM: Mexico vs Brazil - CHAN SENA
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788235441-0-0-b67ac6666ed18cbdf7459b9f5d969d16
-#EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260829/f6903a1879b3c7cc22d27c658db14d94.png" group-title="SocoLive",COL D1: Deportes Tolima vs Cucuta Deportivo - BLV CUỘI
-https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788235441-0-0-a9a92504017ec38a7270765f5b5d17fb
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788235741-0-0-0bdd52f09cd4106c61284d86c9806198
