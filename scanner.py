@@ -331,19 +331,19 @@ def escape_m3u(s: str) -> str:
 
 
 def m3u_bytes(channels: list[dict], epg: str, channel_logo: str = "") -> bytes:
-    out = ["#EXTM3U"]
+    # Televizo là parser nghiêm ngặt: header #EXTM3U phải NGẮN (không gộp nhiều
+    # url-tvg EPG vào 1 dòng — 549 ký tự làm nó fail), và KHÔNG dùng attribute
+    # group-logo (không chuẩn M3U). Chỉ giữ tvg-id / tvg-logo / group-title.
     epg = (epg or "").strip()
+    if epg:
+        epg = epg.split(",")[0].strip()  # chỉ lấy 1 URL XMLTV đầu tiên
+    out = ["#EXTM3U"]
     if epg:
         out[0] += f' url-tvg="{escape_m3u(epg)}"'
     out += [
-        "# ======================================",
         "# SOCOLIVE LIVE PLAYLIST",
-        "# ======================================",
-        "# Status       : ONLINE",
-        f"# Channels     : {len(channels)}",
-        "# Updated      : " + datetime.now().strftime("%d/%m/%Y %H:%M:%S"),
-        "# Player       : OTT Navigator / TiviMate",
-        "# ======================================",
+        f"# Channels: {len(channels)}",
+        f"# Updated: {datetime.now().strftime('%d/%m/%Y %H:%M:%S')}",
         "",
     ]
     lines = "\n".join(out) + "\n"
@@ -357,7 +357,6 @@ def m3u_bytes(channels: list[dict], epg: str, channel_logo: str = "") -> bytes:
         chunks.append(
             f'#EXTINF:-1 tvg-id="{escape_m3u("room-" + c["room_num"])}" '
             f'tvg-logo="{escape_m3u(logo)}" '
-            f'group-logo="{escape_m3u(logo)}" '
             f'group-title="{escape_m3u(group)}",{escape_m3u(name)}\n'
         )
         chunks.append(c["url"] + "\n")
