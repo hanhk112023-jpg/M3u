@@ -24,7 +24,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
 log = logging.getLogger("scanner")
 
@@ -160,6 +160,115 @@ def scan_channels(api: str, user_agent: str, timeout: int, workers: int):
 
 
 # ---------------------------------------------------------------------------
+# Match/sports schedule — Bóng đá, Bóng rổ, Lịch thi đấu
+# ---------------------------------------------------------------------------
+
+def fetch_matches(api: str, user_agent: str, timeout: int, days: int = 7):
+    """Đọc lịch thi đấu: /match_recommend.json + /match/matches_YYYYMMDD.json.
+
+    Mỗi trận map tới phòng live qua anchors[].anchor.roomNum. Trả list dict
+    {room_num, title, anchor, logo, group, category, sub_cat, host, guest,
+     host_icon, guest_icon, match_time}.
+    """
+    rooms: dict[str, dict] = {}
+
+    def add_match(m: dict, cat_name: str):
+        sub = m.get("subCateName") or ""
+        host = m.get("hostName") or ""
+        guest = m.get("guestName") or ""
+        # trận đấu chỉ có ý nghĩa phát khi có ít nhất 1 BLV anchor phát trận
+        anchors = m.get("anchors") or []
+        room_nums = [a.get("anchor", {}).get("roomNum") for a in anchors if a.get("anchor")]
+        suffix = f" ({m.get('categoryName')})" if m.get("categoryName") and m.get("categoryName") != cat_name else ""
+        title = f"{host} vs {guest}{' - ' + sub if sub else ''}{suffix}"
+        logo = (m.get("hostIcon") or "").strip()
+        for rn in (room_nums or [None]):
+            num = str(rn or "")
+            key = num or f"match-{m.get('scheduleId')}"
+            if key in rooms:
+                continue
+            rooms[key] = {
+                "room_num": num,
+                "title": title,
+                "anchor": next((a.get("nickName") for a in anchors if a.get("nickName")), ""),
+                "logo": logo,
+                "group": f"Bóng đá · {sub}" if cat_name == "Bóng đá"
+                         else (f"Bóng rổ · {sub}" if cat_name == "Bóng rổ" else f"Lịch thi đấu · {cat_name}"),
+                "category": cat_name,
+                "sub_cat": sub,
+                "host": host, "guest": guest,
+                "host_icon": m.get("hostIcon") or "",
+                "guest_icon": m.get("guestIcon") or "",
+                "match_time": m.get("matchTime") or 0,
+            }
+
+    # match_recommend
+    try:
+        rec = get_jsonp(api_url(api, "/match_recommend.json", "match_recommend"),
+                        user_agent, timeout)
+        for m in (rec.get("data") or {}).get("matches") or []:
+            add_match(m, m.get("categoryName") or "Thể thao")
+    except Exception as exc:  # noqa: BLE001 — non-fatal
+        log.warning("match_recommend: %s", exc)
+
+    # matches_YYYYMMDD (hôm nay + `days` ngày tới)
+    for i in range(days):
+        d = datetime.now(timezone.utc).date() + timedelta(days=i)
+        dstr = d.strftime("%Y%m%d")
+        try:
+            payload = get_jsonp(api_url(api, f"/match/matches_{dstr}.json", "matches"),
+                                user_agent, timeout)
+            for m in (payload.get("data") or []):
+                add_match(m, m.get("categoryName") or "Thể thao")
+        except Exception as exc:  # noqa: BLE001 — non-fatal
+            log.warning("matches_%s: %s", dstr, exc)
+
+    log.info("sport matches: %d entries (%d có room)", len(rooms),
+             sum(1 for r in rooms.values() if r["room_num"]))
+    return [rooms[k] for k in sorted(rooms)]
+
+
+def match_channels(api: str, matches: list[dict], user_agent: str, timeout: int,
+                   workers: int) -> tuple[list[dict], list[str]]:
+    """Lấy stream cho từng trận (room của BLV) → channel giống scan_channels.
+
+    Chỉ giữ trận có stream phát được. group-title theo môn + giải.
+    """
+    def work(m):
+        num = m["room_num"]
+        if not num:
+            return None, f"match {m.get('title')}: no room"
+        try:
+            det = get_jsonp(api_url(api, f"/room/{num}/detail.json", "detail"),
+                            user_agent, timeout)
+            if det.get("code") != 200:
+                return None, f"room {num}: code {det.get('code')}"
+            data = det.get("data") or {}
+            url, fmt = pick_stream(data.get("stream") or {})
+            if not url:
+                return None, f"room {num}: no stream"
+            return {
+                "room_num": num, "title": m["title"], "anchor": m["anchor"],
+                "logo": m["logo"] or (data.get("room") or {}).get("cover") or "",
+                "group": m["group"], "url": url, "format": fmt,
+            }, None
+        except Exception as exc:  # noqa: BLE001
+            return None, f"room {num}: {exc}"
+
+    errors: list[str] = []
+    channels: list[dict] = []
+    alive = [m for m in matches if m["room_num"]]
+    with ThreadPoolExecutor(max_workers=max(1, workers)) as pool:
+        for channel, err in pool.map(work, alive):
+            if err:
+                errors.append(err)
+            else:
+                channels.append(channel)
+    channels.sort(key=lambda c: c["room_num"])
+    return channels, errors
+
+
+# ---------------------------------------------------------------------------
 # Renderers — kept byte-compatible with the Go implementation
 # ---------------------------------------------------------------------------
 
@@ -227,14 +336,13 @@ def m3u_bytes(channels: list[dict], epg: str, channel_logo: str = "") -> bytes:
         out[0] += f' url-tvg="{escape_m3u(epg)}"'
     out += [
         "# ======================================",
-        "# SportsTV LIVE PLAYLIST",
+        "# SOCOLIVE LIVE PLAYLIST",
         "# ======================================",
         "# Status       : ONLINE",
         f"# Channels     : {len(channels)}",
         "# Updated      : " + datetime.now().strftime("%d/%m/%Y %H:%M:%S"),
         "# Player       : OTT Navigator / TiviMate",
         "# ======================================",
-        "#PLAYLIST:SportsTV",
         "",
     ]
     lines = "\n".join(out) + "\n"
@@ -243,7 +351,7 @@ def m3u_bytes(channels: list[dict], epg: str, channel_logo: str = "") -> bytes:
         name = c["title"] or f"Room {c['room_num']}"
         if c["anchor"]:
             name += f" - {c['anchor']}"
-        group = c["group"] or "SportsTV"
+        group = c["group"] or "SocoLive"
         logo = channel_logo or c["logo"]
         chunks.append(
             f'#EXTINF:-1 tvg-id="{escape_m3u("room-" + c["room_num"])}" '
@@ -354,6 +462,8 @@ def main() -> int:
     parser.add_argument("--m3u-out", default="",
                         help="optional local M3U output path")
     parser.add_argument("--workers", type=int, default=8)
+    parser.add_argument("--match-days", type=int, default=7,
+                        help="số ngày đọc lịch thi đấu (match/matches_*)" if False else "days de lich thi dau")
     parser.add_argument("--timeout", type=int, default=15)
     parser.add_argument("--user-agent", default=DEFAULT_UA)
     parser.add_argument("--publish", action="store_true")
@@ -384,8 +494,29 @@ def main() -> int:
                         format="%(asctime)s %(levelname)s %(message)s")
 
     try:
-        channels, errors = scan_channels(args.api, args.user_agent,
-                                         args.timeout, args.workers)
+        live_channels, live_errors = scan_channels(args.api, args.user_agent,
+                                                   args.timeout, args.workers)
+        # Nguồn thể thao: Bóng đá / Bóng rổ / Lịch thi đấu từ match API.
+        match_entries = fetch_matches(args.api, args.user_agent, args.timeout,
+                                      getattr(args, "match_days", 7))
+        match_chan, match_errors = match_channels(args.api, match_entries,
+                                                  args.user_agent, args.timeout,
+                                                  args.workers)
+        channels = live_channels + match_chan
+        errors = live_errors + match_errors
+        # Gộp nhóm: tab "Bóng đá" / "Bóng rổ" / "Lịch thi đấu" lên đầu
+        def group_sort_key(c):
+            g = c["group"]
+            if g.startswith("Bóng đá"):
+                return 0
+            if g.startswith("Bóng rổ"):
+                return 1
+            if g.startswith("Lịch thi đấu"):
+                return 2
+            return 3
+        channels.sort(key=lambda c: (group_sort_key(c), c["room_num"]))
+        log.info("total channels: %d (live=%d + sport=%d)",
+                 len(channels), len(live_channels), len(match_chan))
     except APIError as exc:
         log.error("%s", exc)
         return 1
