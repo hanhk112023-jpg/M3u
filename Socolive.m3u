@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 84
-# Updated: 02/09/2026 21:21:44
+# Channels: 87
+# Updated: 02/09/2026 21:27:07
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260830/c42e87e8a584c2852adf52a705163645.png" group-title="Bóng đá",Santos FC - SP vs Palmeiras - SP (BRA Cup)
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788375470-0-0-501bc1be86de6b559b704fcadcafb7ee
@@ -66,7 +66,7 @@ https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=c118534bc3561f288853
 #EXTINF:-1 tvg-id="room-617313" tvg-logo="https://sta.vnres.co/file/common/20260830/24a22a70bb5b0ef54d381b9089112212.png" group-title="Bóng đá",Laos U20 vs Indonesia U20 (AFC U20)
 https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1788375066-0-0-200f994d8feea5a65f2a1dfc27d13f79
 #EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260830/71cbff45935dc515d21e16804a698a47.png" group-title="Bóng đá",Coquimbo Unido vs Universidad de Concepcion (CHI D1)
-https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788368068-0-0-2458395428b8e8abef4a683fae891f6a
+https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788387961-0-0-bf7bf5cbd3cdcdfbbd68b30dc6a23147
 #EXTINF:-1 tvg-id="room-619561" tvg-logo="https://sta.vnres.co/file/common/20260830/bbf969a0e9a0c81b136312e23ed16b13.png" group-title="Bóng đá",Korea DPR U20 vs Iran U20 (AFC U20)
 https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1788278269-0-0-8281f750429eaefa1a379b94754c371e
 #EXTINF:-1 tvg-id="room-619672" tvg-logo="https://sta.vnres.co/file/common/20260830/9273f2c09683eb0253475bb151989b93.png" group-title="Bóng đá",Velez Sarsfield vs Boca Juniors (ARG Cup)
@@ -151,6 +151,8 @@ https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788375505-0-0-a0a
 https://pull.niur.live/live/stream-9912145_lhd.m3u8?txSecret=b040c1bf391e429b0e1c0530ead73bd9&txTime=6a94bda7
 #EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260830/594b4bd7808ac1a049bcf00565c47dcd.png" group-title="Bóng đá",Zenit St. Petersburg vs Dynamo Makhachkala (RUS Cup)
 https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788373876-0-0-7c5b4456ea69556ac7599a1aec586067
+#EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260901/353d0b23698a39409c66399b0b58e57b.png" group-title="Bóng rổ",Negros Muscovados vs Imus Agimat (MPBL)
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=a476584b9a4392b8feefc10d0a7ddeda&txTime=6a981f68
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260901/353d0b23698a39409c66399b0b58e57b.png" group-title="Bóng rổ",Negros Muscovados vs Imus Agimat (MPBL)
 https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=5589523de24bb2a9a962104f4e4ec363&txTime=6a98a7d5
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260901/6f8d4075f0023c77978b5438e0dd3577.png" group-title="Bóng rổ",Shandong Hi-Speed Kirin vs Liaoning Flying Leopards (CBASL)
@@ -161,13 +163,17 @@ https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788359598-0-0-adb
 https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788345210-0-0-71d1c1593f19eeea0138502a654acc8a
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260901/10c631da14c62ac260f910b3d76f266e.png" group-title="Bóng rổ",Brisbane Bullets vs Tasmania JackJumpers (NBL)
 https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788359560-0-0-5c70712ad7e25827909196e1bf276584
+#EXTINF:-1 tvg-id="room-133277" tvg-logo="https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg" group-title="SocoLive",Tường thuật: KSA PR - Al Hilal vs Al Ahli SC - Gà xào sả ớt
+https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=1ba7a513d79b73852cf945b81ca71882&txTime=6a98e8c9
 #EXTINF:-1 tvg-id="room-133824" tvg-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg" group-title="SocoLive",Tường thuật: COL D1 - Fortaleza F.C vs Deportiva Once Caldas - Bò leo rào
-https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=0139e87c2ad41bf161af79f0f86f206b&txTime=6a98e761
+https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=7dcc113db4f38076265bbb0968fd99ec&txTime=6a98e8c9
 #EXTINF:-1 tvg-id="room-152898" tvg-logo="https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png" group-title="SocoLive",Tường thuật: BRA Cup - Atlético Mineiro - MG vs Cruzeiro - MG - Thỏ giang hồ
-https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=b96d6228ee0b49138ca3f57f1856e4f4&txTime=6a98e761
+https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=1a95c715fbc3c073df10b0abacf13856&txTime=6a98e8c9
 #EXTINF:-1 tvg-id="room-179093" tvg-logo="https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg" group-title="SocoLive",Tường thuật: RUS Cup - Fakel Voronezh vs FK Krasnodar - Hươu đau cổ
-https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=f1c57b4d36421b141ebf1cf7b006becc&txTime=6a98e761
+https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=2c664e49567bb29cd4cf23cb985688f4&txTime=6a98e8c9
 #EXTINF:-1 tvg-id="room-343500" tvg-logo="https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg" group-title="SocoLive",Tường thuật: ENG LCH - West Ham United vs Wolverhampton Wanderers - Mèo méo meo
-https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=1f7fa82394d4f5d98e4a9b600b05b326&txTime=6a98e761
+https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=17d62008b7c0092d315de4b20ea101a5&txTime=6a98e8c9
+#EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg" group-title="SocoLive",CHI D1: Coquimbo Unido vs Universidad de Concepcion - CƠM NẾP
+https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788387961-0-0-bf7bf5cbd3cdcdfbbd68b30dc6a23147
 #EXTINF:-1 tvg-id="room-9912079" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg" group-title="SocoLive",Tường thuật: GERC - HEBC Hamburg vs Borussia Dortmund - Rắn ở đáy sông
-https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=b901cc807d883ba05a288670fb619843&txTime=6a98e761
+https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=7c74ca4b604e5dc1378831d19d996e7c&txTime=6a98e8c9
