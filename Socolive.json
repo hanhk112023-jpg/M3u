@@ -95,7 +95,7 @@
     "name": "Machida Zelvia vs Kawasaki Frontale (JPN D1)",
     "logo": "https://sta.vnres.co/file/common/20260830/a216d8c8e8a7326c0d2e70f99fecf3e1.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=2a65f2d7ffda84b703e00122b7c5fcdc\u0026txTime=6a983d4a",
+    "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=7d6842629f28522fadf3e936b8f106c7\u0026txTime=6a983ea1",
     "type": "hls"
   },
   {
@@ -194,7 +194,7 @@
     "name": "Mito Hollyhock vs Kashima Antlers (JPN D1)",
     "logo": "https://sta.vnres.co/file/common/20260830/ba1afee313e6e375965d530eb6bb53d2.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=3fdd2f65b3f07f3f1ef03fcf91704908\u0026txTime=6a978b2e",
+    "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=ca0942b309c670fbd94a5a992595a670\u0026txTime=6a983ea1",
     "type": "hls"
   },
   {
@@ -218,8 +218,8 @@
   {
     "id": "602019",
     "tvg_id": "room-602019",
-    "name": "JEF United Ichihara Chiba vs Fagiano Okayama (JPN D1)",
-    "logo": "https://sta.vnres.co/file/common/20260830/cc9f67f2249ced71af70e51b560d3419.png",
+    "name": "Charleston Battery vs Hartford Athletic (USLC)",
+    "logo": "https://sta.vnres.co/file/common/20260830/ad1b07560bb3c13a8667f07237c144e7.png",
     "group": "Bóng đá",
     "url": "https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=e6e85272cfb7ff3fb5c541d59711f34c\u0026txTime=6a9789e4",
     "type": "hls"
@@ -401,7 +401,7 @@
     "name": "Yokohama F. Marinos vs Kyoto Sanga (JPN D1)",
     "logo": "https://sta.vnres.co/file/common/20260830/16428840f0f78cccf7dd56d1f9251561.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1788278316-0-0-6f32e2b63a996a6c76b95d6ef77110ca",
+    "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1788344401-0-0-189671a23b79670a51e152d2b002c0ac",
     "type": "hls"
   },
   {
@@ -410,7 +410,7 @@
     "name": "Mito Hollyhock vs Kashima Antlers (JPN D1)",
     "logo": "https://sta.vnres.co/file/common/20260830/ba1afee313e6e375965d530eb6bb53d2.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788344041-0-0-f32ceaf441e1ed76e22c8146dd9428b3",
+    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788344401-0-0-75b7a173edde6efd367d75d68c02ab6b",
     "type": "hls"
   },
   {
@@ -432,6 +432,15 @@
     "type": "hls"
   },
   {
+    "id": "9912091",
+    "tvg_id": "room-9912091",
+    "name": "Sanfrecce Hiroshima vs Nagoya Grampus (JPN D1)",
+    "logo": "https://sta.vnres.co/file/common/20260830/cc43ce79e83c358f35f6423287f36e16.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788321475-0-0-98348e7d805cd1741bc4e38a09878de8",
+    "type": "hls"
+  },
+  {
     "id": "9912102",
     "tvg_id": "room-9912102",
     "name": "Belediye Vanspor vs Batman Petrolspor (TFF 1. Lig)",
@@ -446,7 +455,7 @@
     "name": "Machida Zelvia vs Kawasaki Frontale (JPN D1)",
     "logo": "https://sta.vnres.co/file/common/20260830/a216d8c8e8a7326c0d2e70f99fecf3e1.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788344041-0-0-3b66b849f76bde216b36f589ecb46e39",
+    "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788344401-0-0-202116e22f580cec588b608874211a1f",
     "type": "hls"
   },
   {
@@ -482,7 +491,7 @@
     "name": "JEF United Ichihara Chiba vs Fagiano Okayama (JPN D1)",
     "logo": "https://sta.vnres.co/file/common/20260830/cc9f67f2249ced71af70e51b560d3419.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788343803-0-0-3bea5f1807d2523c68d562531dee7c97",
+    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788344401-0-0-95d1949a24ddff77217ee78ecefd3b53",
     "type": "hls"
   },
   {
@@ -527,7 +536,7 @@
     "name": "Mito Hollyhock vs Kashima Antlers (JPN D1)",
     "logo": "https://sta.vnres.co/file/common/20260830/ba1afee313e6e375965d530eb6bb53d2.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788299752-0-0-cf9e90a2385c237028dd9b13e4cbc170",
+    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788344401-0-0-73059625a82af8677dac703e3bc0ddf2",
     "type": "hls"
   },
   {
@@ -671,7 +680,7 @@
     "name": "Cairns Taipans vs Perth Wildcats (NBL)",
     "logo": "https://sta.vnres.co/file/common/20260831/d785a704d4e1f720bd5a670e04f37a9d.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=c91b8c1d7eb1742aeeb264366db0d43e\u0026txTime=6a983d39",
+    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=43fca31fb20c76f902c07ca89b665027\u0026txTime=6a983ea1",
     "type": "hls"
   },
   {
@@ -680,7 +689,7 @@
     "name": "Cairns Taipans vs Perth Wildcats (NBL)",
     "logo": "https://sta.vnres.co/file/common/20260831/d785a704d4e1f720bd5a670e04f37a9d.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788344041-0-0-6f26dff74009f46e9350096f99333a57",
+    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788344401-0-0-a8feac144e915857cff74b131d0bd1ee",
     "type": "hls"
   },
   {
@@ -689,7 +698,7 @@
     "name": "Cairns Taipans vs Perth Wildcats (NBL)",
     "logo": "https://sta.vnres.co/file/common/20260831/d785a704d4e1f720bd5a670e04f37a9d.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788344041-0-0-e2d25df8e6f4dbbf8a677ce4a3937dec",
+    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788344401-0-0-8a0d661ff1f7678aee1371f636633b3a",
     "type": "hls"
   },
   {
@@ -698,7 +707,7 @@
     "name": "Cairns Taipans vs Perth Wildcats (NBL)",
     "logo": "https://sta.vnres.co/file/common/20260831/d785a704d4e1f720bd5a670e04f37a9d.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788344041-0-0-9ac031471c8689d0e2d829556c9f739d",
+    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788344401-0-0-5e5ebb92f59876331b5aef8184c6b891",
     "type": "hls"
   },
   {
@@ -707,7 +716,7 @@
     "name": "Cairns Taipans vs Perth Wildcats (NBL)",
     "logo": "https://sta.vnres.co/file/common/20260831/d785a704d4e1f720bd5a670e04f37a9d.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788344041-0-0-87662ba9ee1f660640b076f8527121c4",
+    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788344401-0-0-e72e79ec5cc63bcd6405ce2f903428e4",
     "type": "hls"
   },
   {
@@ -716,7 +725,7 @@
     "name": "Tường thuật: KSA PR - Al Hilal vs Al Ahli SC - Gà xào sả ớt",
     "logo": "https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=e3c04275d508b19d12d785cb7bcb3fdb\u0026txTime=6a983d39",
+    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=f1f3d4e4ce166d583aabf6abe4fda586\u0026txTime=6a983e65",
     "type": "hls"
   },
   {
@@ -725,7 +734,7 @@
     "name": "Tường thuật: COL D1 - Fortaleza F.C vs Deportiva Once Caldas - Bò leo rào",
     "logo": "https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=7c1b3ed15b5bfb4ac59b1556caf840a1\u0026txTime=6a983d39",
+    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=05e2dee6007fbd57180af7eb6c1b1ae0\u0026txTime=6a983e65",
     "type": "hls"
   },
   {
@@ -734,7 +743,7 @@
     "name": "Tường thuật: BRA Cup - Atlético Mineiro - MG vs Cruzeiro - MG - Thỏ giang hồ",
     "logo": "https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=09afd9f051f511bb1f84585938f6d403\u0026txTime=6a983d39",
+    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=2df11977b488e6ba4b20837557abc8c3\u0026txTime=6a983e65",
     "type": "hls"
   },
   {
@@ -743,7 +752,7 @@
     "name": "Tường thuật: RUS Cup - Fakel Voronezh vs FK Krasnodar - Hươu đau cổ",
     "logo": "https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=becf5eabaa3943df5dad2eec546b41e1\u0026txTime=6a983d39",
+    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=57eb0da82fbde39478a8256c7cdaec8b\u0026txTime=6a983e65",
     "type": "hls"
   },
   {
@@ -752,7 +761,25 @@
     "name": "Tường thuật: ENG LCH - West Ham United vs Wolverhampton Wanderers - Mèo méo meo",
     "logo": "https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=ac544e95040523f0778c6859b46dc723\u0026txTime=6a983d39",
+    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=fe988de35db5c8e5b8501f33c2571e6d\u0026txTime=6a983e65",
+    "type": "hls"
+  },
+  {
+    "id": "414317",
+    "tvg_id": "room-414317",
+    "name": "JPN D1: Machida Zelvia vs Kawasaki Frontale - THOMAS",
+    "logo": "https://sta.vnres.co/file/common/20260806/4c726754b547e8d50d1f1dd3d1304c4f.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=6c6056f6457da0b576201aaf5409d53b\u0026txTime=6a983e65",
+    "type": "hls"
+  },
+  {
+    "id": "552832",
+    "tvg_id": "room-552832",
+    "name": "JPN D1: Mito Hollyhock vs Kashima Antlers - LOGAN",
+    "logo": "https://sta.vnres.co/file/common/20251111/6a43978efb637082f6eb906c1e7f1621.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=2c3dfc21e46ed529c024c19436c4ca78\u0026txTime=6a983e65",
     "type": "hls"
   },
   {
@@ -761,7 +788,16 @@
     "name": "NBL: Cairns Taipans vs Perth Wildcats - HUNTER",
     "logo": "https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=c91b8c1d7eb1742aeeb264366db0d43e\u0026txTime=6a983d39",
+    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=6a29344752d30f1d16a2831a62d923f9\u0026txTime=6a983e65",
+    "type": "hls"
+  },
+  {
+    "id": "627718",
+    "tvg_id": "room-627718",
+    "name": "JPN D1: Yokohama F. Marinos vs Kyoto Sanga - A MÂN",
+    "logo": "https://sta.vnres.co/file/common/20260831/8c106fa0fe146cf7929663e53e921ba0.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1788344341-0-0-a40243ef876591d53554e2fe2483245c",
     "type": "hls"
   },
   {
@@ -770,7 +806,7 @@
     "name": "JPN D1: Mito Hollyhock vs Kashima Antlers - BLV FIREMAN",
     "logo": "https://sta.vnres.co/file/common/20240614/d900dd8841b1223c7b58554cde34df75.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788344041-0-0-f32ceaf441e1ed76e22c8146dd9428b3",
+    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788344341-0-0-0afa55f74862c76c98a7abd0d901cf17",
     "type": "hls"
   },
   {
@@ -779,7 +815,7 @@
     "name": "Tường thuật: GERC - HEBC Hamburg vs Borussia Dortmund - Rắn ở đáy sông",
     "logo": "https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=ceb5e811a035a6ffcad299f0d3400c4a\u0026txTime=6a983d39",
+    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=5545752c490528d4e262e43e9e8b1057\u0026txTime=6a983e65",
     "type": "hls"
   },
   {
@@ -788,7 +824,7 @@
     "name": "NBL: Cairns Taipans vs Perth Wildcats - KING",
     "logo": "https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788344041-0-0-6f26dff74009f46e9350096f99333a57",
+    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788344341-0-0-5989a0253ef3613a9f37f6b0db43f637",
     "type": "hls"
   },
   {
@@ -797,7 +833,7 @@
     "name": "NBL: Cairns Taipans vs Perth Wildcats - BRIAN",
     "logo": "https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788344041-0-0-e2d25df8e6f4dbbf8a677ce4a3937dec",
+    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788344341-0-0-68009e114aeb45dc39e5cf3c641d625e",
     "type": "hls"
   },
   {
@@ -806,7 +842,7 @@
     "name": "JPN D1: Machida Zelvia vs Kawasaki Frontale - BLV ZOWIE",
     "logo": "https://sta.vnres.co/file/common/20260831/caac4db30e51ab3213e882c77bf88da5.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788344041-0-0-3b66b849f76bde216b36f589ecb46e39",
+    "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788344341-0-0-be48f893fbf23d61bdc2beef9c383761",
     "type": "hls"
   },
   {
@@ -815,7 +851,7 @@
     "name": "NBL: Cairns Taipans vs Perth Wildcats - BLV HENRY",
     "logo": "https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788344041-0-0-9ac031471c8689d0e2d829556c9f739d",
+    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788344341-0-0-8f6cffc0c0261a6aec49826eb31b87cd",
     "type": "hls"
   },
   {
@@ -824,7 +860,16 @@
     "name": "NBL: Cairns Taipans vs Perth Wildcats - CHAN SENA",
     "logo": "https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788344041-0-0-87662ba9ee1f660640b076f8527121c4",
+    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788344341-0-0-3e573490196f15092ea6a60e0d771284",
+    "type": "hls"
+  },
+  {
+    "id": "9912124",
+    "tvg_id": "room-9912124",
+    "name": "JPN D1: JEF United Ichihara Chiba vs Fagiano Okayama - KENCHU",
+    "logo": "https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788344341-0-0-c6052421046a0ca0bde6f6a5d6308a03",
     "type": "hls"
   }
 ]
