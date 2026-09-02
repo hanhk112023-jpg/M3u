@@ -72,6 +72,15 @@
     "type": "hls"
   },
   {
+    "id": "387694",
+    "tvg_id": "room-387694",
+    "name": "Sanfrecce Hiroshima vs Nagoya Grampus (JPN D1)",
+    "logo": "https://sta.vnres.co/file/common/20260830/cc43ce79e83c358f35f6423287f36e16.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=c8c9628f3dd60cb22446e811289ae579\u0026txTime=6a97e451",
+    "type": "hls"
+  },
+  {
     "id": "406865",
     "tvg_id": "room-406865",
     "name": "Sabah FC vs Selangor FC (MAS FAC)",
@@ -114,15 +123,6 @@
     "logo": "https://sta.vnres.co/file/common/20260830/cc43ce79e83c358f35f6423287f36e16.png",
     "group": "Bóng đá",
     "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=6985a4c87131d20c89cb79f42db707af\u0026txTime=6a97da3f",
-    "type": "hls"
-  },
-  {
-    "id": "501412",
-    "tvg_id": "room-501412",
-    "name": "FC Zbrojovka Brno vs FC Hradec Králové (CZE D1)",
-    "logo": "https://sta.vnres.co/file/common/20260830/df5a6bf84fe211592c68f0d3ef5a3c31.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=314040e00db63a42ca022dfd93d8b034\u0026txTime=6a9778c7",
     "type": "hls"
   },
   {
@@ -662,7 +662,7 @@
     "name": "Quezon City Galeries Taipan vs Sarangani (MPBL)",
     "logo": "https://sta.vnres.co/file/common/20260831/f7ed10670aa503a89f974c56b6b65ceb.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=665ae664b397a89dca9b7890e7f8bdae\u0026txTime=6a9810b1",
+    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=28a6324f3f465b3d3e3930b3dd0f28c4\u0026txTime=6a9811dd",
     "type": "hls"
   },
   {
@@ -671,7 +671,7 @@
     "name": "Shanxi Loongs Fenjiu vs Tianjin Pioneers (CBASL)",
     "logo": "https://sta.vnres.co/file/common/20260831/d02079ea1481e8a7f71d2f3381a841e7.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=b9ce139302e35951e889dd2732e73529\u0026txTime=6a9810b1",
+    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=3146b94868dc7727de6af7691eab0bcc\u0026txTime=6a981219",
     "type": "hls"
   },
   {
@@ -680,7 +680,7 @@
     "name": "Shanxi Loongs Fenjiu vs Tianjin Pioneers (CBASL)",
     "logo": "https://sta.vnres.co/file/common/20260831/d02079ea1481e8a7f71d2f3381a841e7.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788332641-0-0-803a2ed1bc5efbf9ceb36c5f5e88f888",
+    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788333001-0-0-f121c420cc4050c0e150df9d5b46fa20",
     "type": "hls"
   },
   {
@@ -698,7 +698,7 @@
     "name": "Shanxi Loongs Fenjiu vs Tianjin Pioneers (CBASL)",
     "logo": "https://sta.vnres.co/file/common/20260831/d02079ea1481e8a7f71d2f3381a841e7.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788332641-0-0-6d44eb4f68a609777d87853df6022b1b",
+    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788333001-0-0-acc27a5b337ac57e9bea1a86cb0fb911",
     "type": "hls"
   },
   {
@@ -716,7 +716,7 @@
     "name": "Tường thuật: KSA PR - Al Hilal vs Al Ahli SC - Gà xào sả ớt",
     "logo": "https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=a3dee227df47de16d01c3d1f3013b4d9\u0026txTime=6a9810b1",
+    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=73353e5b04b9d04267826bef4b401308\u0026txTime=6a9811dd",
     "type": "hls"
   },
   {
@@ -725,7 +725,7 @@
     "name": "Tường thuật: COL D1 - Fortaleza F.C vs Deportiva Once Caldas - Bò leo rào",
     "logo": "https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=39f1c9602b5d9dfbbb2b15ed8299b6ba\u0026txTime=6a9810b1",
+    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=fa7208ebbf524f8363a1b07f5cb0ed47\u0026txTime=6a9811dd",
     "type": "hls"
   },
   {
@@ -734,7 +734,7 @@
     "name": "Tường thuật: BRA Cup - Atlético Mineiro - MG vs Cruzeiro - MG - Thỏ giang hồ",
     "logo": "https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=3f73be1276754903d09352b62730adb0\u0026txTime=6a9810b1",
+    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=e2cfadefd684d41e75dcfea9eeefc312\u0026txTime=6a9811dd",
     "type": "hls"
   },
   {
@@ -743,7 +743,7 @@
     "name": "Tường thuật: RUS Cup - Fakel Voronezh vs FK Krasnodar - Hươu đau cổ",
     "logo": "https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=75630ee7cfc9a98f728acd3afbb915f7\u0026txTime=6a9810b1",
+    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=95d4b4243ea8a91889dce8e87025aff3\u0026txTime=6a9811dd",
     "type": "hls"
   },
   {
@@ -752,7 +752,7 @@
     "name": "Tường thuật: ENG LCH - West Ham United vs Wolverhampton Wanderers - Mèo méo meo",
     "logo": "https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=062dc75e7d65f17159e1a0d7835418ee\u0026txTime=6a9810b1",
+    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=36bc2254a8f8d99d6be1bd708d6e877d\u0026txTime=6a9811dd",
     "type": "hls"
   },
   {
@@ -761,7 +761,7 @@
     "name": "MPBL: Quezon City Galeries Taipan vs Sarangani - A CHÈ",
     "logo": "https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=665ae664b397a89dca9b7890e7f8bdae\u0026txTime=6a9810b1",
+    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=28a6324f3f465b3d3e3930b3dd0f28c4\u0026txTime=6a9811dd",
     "type": "hls"
   },
   {
@@ -770,7 +770,7 @@
     "name": "CBASL: Shanxi Loongs Fenjiu vs Tianjin Pioneers - HUNTER",
     "logo": "https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=b9ce139302e35951e889dd2732e73529\u0026txTime=6a9810b1",
+    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=ee786220a09e91764d40f96d98b93743\u0026txTime=6a9811dd",
     "type": "hls"
   },
   {
@@ -779,7 +779,7 @@
     "name": "Tường thuật: GERC - HEBC Hamburg vs Borussia Dortmund - Rắn ở đáy sông",
     "logo": "https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=40c9b60fa44340c71597608a02dc0689\u0026txTime=6a9810b1",
+    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=880f118007859b2ab5a78eae76056780\u0026txTime=6a9811dd",
     "type": "hls"
   },
   {
@@ -788,7 +788,7 @@
     "name": "CBASL: Shanxi Loongs Fenjiu vs Tianjin Pioneers - KING",
     "logo": "https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788332641-0-0-803a2ed1bc5efbf9ceb36c5f5e88f888",
+    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788332941-0-0-a77cf1364619a742e5074e6a0d2f5850",
     "type": "hls"
   },
   {
@@ -797,7 +797,7 @@
     "name": "CBASL: Shanxi Loongs Fenjiu vs Tianjin Pioneers - BLV HENRY",
     "logo": "https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788332641-0-0-6d44eb4f68a609777d87853df6022b1b",
+    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788332941-0-0-a7baecd9a902d016fbf54a465251b08e",
     "type": "hls"
   }
 ]
