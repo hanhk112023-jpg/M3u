@@ -1,30 +1,28 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 86
-# Updated: 02/09/2026 02:24:57
+# Channels: 88
+# Updated: 02/09/2026 02:35:13
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260830/f7e8bba96a2d38c6f8692e9bc24bbde9.png" group-title="Bóng đá",Udinese vs Venezia (ITA Cup)
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788318961-0-0-b94e92eba9de926fae6f26781cbdc287
 #EXTINF:-1 tvg-id="room-283501" tvg-logo="https://sta.vnres.co/file/common/20260830/b509f25e05e3f46d76247ebd9933ab65.png" group-title="Bóng đá",Cerezo Osaka vs Kashiwa Reysol (JPN D1)
 https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=760a0ba98b45242b99fb8d83e1f9fd8b&txTime=6a9685f1
 #EXTINF:-1 tvg-id="room-291277" tvg-logo="https://sta.vnres.co/file/common/20260830/b61f2095262f37bf8ab17cb81f37cadb.png" group-title="Bóng đá",Fortaleza F.C vs Deportiva Once Caldas (COL D1)
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=1f81cfb262c0a330a866478b48f1a625&txTime=6a97dd21
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=5156d80e2cdc80729634a968a674581d&txTime=6a97df79
 #EXTINF:-1 tvg-id="room-304148" tvg-logo="https://sta.vnres.co/file/common/20260830/8f53a3622ccdb2cbe1158bd27515bc3d.png" group-title="Bóng đá",Tokyo Verdy vs Vissel Kobe (JPN D1)
 https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788298747-0-0-b138baf6294841a74421c436bf2e7192
 #EXTINF:-1 tvg-id="room-321443" tvg-logo="https://sta.vnres.co/file/common/20260830/b509f25e05e3f46d76247ebd9933ab65.png" group-title="Bóng đá",Cerezo Osaka vs Kashiwa Reysol (JPN D1)
 https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=fb3a6c7238cc6a712fd8756ad6253c92&txTime=6a9749f1
 #EXTINF:-1 tvg-id="room-327159" tvg-logo="https://sta.vnres.co/file/common/20260830/f672bd81243b871e0ff80e4b36898315.png" group-title="Bóng đá",Avispa Fukuoka vs Urawa Red Diamonds (JPN D1)
 https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1788278291-0-0-d018187b4d4f01967865ffea43076b5b
-#EXTINF:-1 tvg-id="room-372746" tvg-logo="https://sta.vnres.co/file/common/20260830/ba1afee313e6e375965d530eb6bb53d2.png" group-title="Bóng đá",Mito Hollyhock vs Kashima Antlers (JPN D1)
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788291495-0-0-5aee9ce630c6304b4ef7ae774149d325
 #EXTINF:-1 tvg-id="room-380460" tvg-logo="https://sta.vnres.co/file/common/20260830/7dd683d7f629e4ce88809e56b1a84870.png" group-title="Bóng đá",Toluca vs Club Leon (CNCF LC)
 https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1788286103-0-0-11ff612dc9eb60b54b72ec8edf0f08dc
 #EXTINF:-1 tvg-id="room-387694" tvg-logo="https://sta.vnres.co/file/common/20260830/b61f2095262f37bf8ab17cb81f37cadb.png" group-title="Bóng đá",Fortaleza F.C vs Deportiva Once Caldas (COL D1)
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=33af20c0eaee33855158d4e285480928&txTime=6a97dd21
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=521e5c2fd7ac3d4d8ef535ef57e89655&txTime=6a97df79
 #EXTINF:-1 tvg-id="room-406865" tvg-logo="https://sta.vnres.co/file/common/20260830/24d3cd1ff7bfa005b80eb44bded6d7aa.png" group-title="Bóng đá",Sabah FC vs Selangor FC (MAS FAC)
 https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=d0e5b775af0626f8d54aa44b6ce7cb8e&txTime=6a978ff9
 #EXTINF:-1 tvg-id="room-414317" tvg-logo="https://sta.vnres.co/file/common/20260830/b61f2095262f37bf8ab17cb81f37cadb.png" group-title="Bóng đá",Fortaleza F.C vs Deportiva Once Caldas (COL D1)
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=87589bac13f74200689725552b97d1b1&txTime=6a97dd21
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=ec5a18b6a237db5041e8dc2b226e6b21&txTime=6a97df79
 #EXTINF:-1 tvg-id="room-459401" tvg-logo="https://sta.vnres.co/file/common/20260830/f7e8bba96a2d38c6f8692e9bc24bbde9.png" group-title="Bóng đá",Udinese vs Venezia (ITA Cup)
 https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=90096f1f55daa3d86048cf52c8f1145b&txTime=6a97db19
 #EXTINF:-1 tvg-id="room-485739" tvg-logo="https://sta.vnres.co/file/common/20260830/8f53a3622ccdb2cbe1158bd27515bc3d.png" group-title="Bóng đá",Tokyo Verdy vs Vissel Kobe (JPN D1)
@@ -100,11 +98,11 @@ https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1788298530-0-0-a97
 #EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260830/a216d8c8e8a7326c0d2e70f99fecf3e1.png" group-title="Bóng đá",Machida Zelvia vs Kawasaki Frontale (JPN D1)
 https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=4e3adff0e7267cdfdade02b27ba6f56d&txTime=6a97da39
 #EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260830/b61f2095262f37bf8ab17cb81f37cadb.png" group-title="Bóng đá",Fortaleza F.C vs Deportiva Once Caldas (COL D1)
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788319441-0-0-24b38bac1937ecbfcd61fad881a2a653
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788320101-0-0-21691728bd4fdabbc121ab2810355c17
 #EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260830/d8f7c8f420f7c8c1779ed1b5327f8042.png" group-title="Bóng đá",Belediye Vanspor vs Batman Petrolspor (TFF 1. Lig)
 https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=b7119d74689ddd139cf427e8490ec9b9&txTime=6a975c3e
 #EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260830/b61f2095262f37bf8ab17cb81f37cadb.png" group-title="Bóng đá",Fortaleza F.C vs Deportiva Once Caldas (COL D1)
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788319441-0-0-2c0c93ea06bfc2cb14462c2b4f9562b5
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788320101-0-0-89c279920ad37639b786396a5da9f46c
 #EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260830/16428840f0f78cccf7dd56d1f9251561.png" group-title="Bóng đá",Yokohama F. Marinos vs Kyoto Sanga (JPN D1)
 https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1788316500-0-0-d022810f43c6a18597a98d7c16b914a8
 #EXTINF:-1 tvg-id="room-9912119" tvg-logo="https://sta.vnres.co/file/common/20260830/16428840f0f78cccf7dd56d1f9251561.png" group-title="Bóng đá",Yokohama F. Marinos vs Kyoto Sanga (JPN D1)
@@ -146,32 +144,38 @@ https://pull.niur.live/live/stream-9912142_lhd.m3u8?txSecret=02bc90c5119d44345ac
 #EXTINF:-1 tvg-id="room-9912143" tvg-logo="https://sta.vnres.co/file/common/20260830/c42e87e8a584c2852adf52a705163645.png" group-title="Bóng đá",Santos FC - SP vs Palmeiras - SP (BRA Cup)
 https://pull.niur.live/live/stream-9912143_lhd.m3u8?txSecret=4f54cae784bd02caeb4fad6fbd688d6e&txTime=6a95dcd7
 #EXTINF:-1 tvg-id="room-9912144" tvg-logo="https://sta.vnres.co/file/common/20260830/b61f2095262f37bf8ab17cb81f37cadb.png" group-title="Bóng đá",Fortaleza F.C vs Deportiva Once Caldas (COL D1)
-https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788319441-0-0-afffd40be9d5a7c0f5c695463abc88c8
+https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788320101-0-0-138b4c4e9ab3f2498c824f5a7d0dd526
 #EXTINF:-1 tvg-id="room-9912145" tvg-logo="https://sta.vnres.co/file/common/20260830/2ba295102261427056f8764102626df9.png" group-title="Bóng đá",Malaysia U20 vs Australia U20 (AFC U20)
 https://pull.niur.live/live/stream-9912145_lhd.m3u8?txSecret=b040c1bf391e429b0e1c0530ead73bd9&txTime=6a94bda7
 #EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260830/0967a607d33e30ffb8ab4a0291921591.png" group-title="Bóng đá",Yunnan Yukun vs Chongqing Tonglianglong (CHA FACup)
 https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788319160-0-0-bf158b053f467b878f4b2a98af53afd3
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260831/229ca41f562259fb13fd8241674ae593.png" group-title="Bóng rổ",Liaoning Flying Leopards vs Fujian Xunxing Sturgeons (CBASL)
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=62eddda9ef7179331c41ea8c50907a9c&txTime=6a96e5ec
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=123d1b93f371569e48efa217d3f67bac&txTime=6a97df79
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260831/d02079ea1481e8a7f71d2f3381a841e7.png" group-title="Bóng rổ",Shanxi Loongs Fenjiu vs Tianjin Pioneers (CBASL)
 https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=6b5e6b7f2088dba969fe05b83617dafc&txTime=6a95564b
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260831/229ca41f562259fb13fd8241674ae593.png" group-title="Bóng rổ",Liaoning Flying Leopards vs Fujian Xunxing Sturgeons (CBASL)
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788256282-0-0-9e836a7aabb61338ca54f41f2ae9a03e
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788320101-0-0-25ee474e606641a2f30de563154743fb
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260831/d785a704d4e1f720bd5a670e04f37a9d.png" group-title="Bóng rổ",Cairns Taipans vs Perth Wildcats (NBL)
 https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788264000-0-0-645881c1d17e9e6d90ee76d431a8a38c
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260831/229ca41f562259fb13fd8241674ae593.png" group-title="Bóng rổ",Liaoning Flying Leopards vs Fujian Xunxing Sturgeons (CBASL)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788256302-0-0-b59f82ddf572f4098aa38326a767ad6d
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788320101-0-0-ab72407c38a488fb3fc3c9414404bbf1
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260831/d785a704d4e1f720bd5a670e04f37a9d.png" group-title="Bóng rổ",Cairns Taipans vs Perth Wildcats (NBL)
 https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788263917-0-0-48ed8da92e67b8c1d7650f6ea3bebf5a
 #EXTINF:-1 tvg-id="room-291277" tvg-logo="https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg" group-title="SocoLive",COL D1: Fortaleza F.C vs Deportiva Once Caldas - CÔNG CHẤT
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=1f81cfb262c0a330a866478b48f1a625&txTime=6a97dd21
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=5156d80e2cdc80729634a968a674581d&txTime=6a97df79
+#EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg" group-title="SocoLive",CBASL: Liaoning Flying Leopards vs Fujian Xunxing Sturgeons - A CHÈ
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=123d1b93f371569e48efa217d3f67bac&txTime=6a97df79
 #EXTINF:-1 tvg-id="room-387694" tvg-logo="https://sta.vnres.co/file/common/20260902/c34bc3e8220402485e4034ec03c49b83.PNG" group-title="SocoLive",COL D1: Fortaleza F.C vs Deportiva Once Caldas - CR Bưởi
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=33af20c0eaee33855158d4e285480928&txTime=6a97dd21
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=521e5c2fd7ac3d4d8ef535ef57e89655&txTime=6a97df79
 #EXTINF:-1 tvg-id="room-414317" tvg-logo="https://sta.vnres.co/file/common/20260806/4c726754b547e8d50d1f1dd3d1304c4f.jpg" group-title="SocoLive",COL D1: Fortaleza F.C vs Deportiva Once Caldas - THOMAS
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=87589bac13f74200689725552b97d1b1&txTime=6a97dd21
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=ec5a18b6a237db5041e8dc2b226e6b21&txTime=6a97df79
 #EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260901/9f9c621d17daaca34484130fa63771ff.png" group-title="SocoLive",COL D1: Fortaleza F.C vs Deportiva Once Caldas - BLV Củ Cải
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788319441-0-0-24b38bac1937ecbfcd61fad881a2a653
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788320041-0-0-11da8731b75ddf2a0e0eb7b1296a54c8
+#EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-title="SocoLive",CBASL: Liaoning Flying Leopards vs Fujian Xunxing Sturgeons - KING
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788320041-0-0-5fe091ce78d17ec3aada913c7ad78062
 #EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260831/caac4db30e51ab3213e882c77bf88da5.png" group-title="SocoLive",COL D1: Fortaleza F.C vs Deportiva Once Caldas - BLV ZOWIE
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788319441-0-0-2c0c93ea06bfc2cb14462c2b4f9562b5
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788320041-0-0-4b80b480cddfec792adb44f46a0806dc
+#EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg" group-title="SocoLive",CBASL: Liaoning Flying Leopards vs Fujian Xunxing Sturgeons - BLV HENRY
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788320041-0-0-da81a39250cd289e229e755c7fb8316f
 #EXTINF:-1 tvg-id="room-9912144" tvg-logo="https://sta.vnres.co/file/common/20260730/7804d6332c85f80cc4843609598de690.jpg" group-title="SocoLive",COL D1: Fortaleza F.C vs Deportiva Once Caldas - BÁ PHÚ
-https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788319441-0-0-afffd40be9d5a7c0f5c695463abc88c8
+https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788320041-0-0-27eeadbca8ca2a55c2c94cb6b61ed195
