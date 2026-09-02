@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 90
-# Updated: 02/09/2026 07:17:01
+# Channels: 91
+# Updated: 02/09/2026 07:22:04
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260830/f7e8bba96a2d38c6f8692e9bc24bbde9.png" group-title="Bóng đá",Udinese vs Venezia (ITA Cup)
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788318961-0-0-b94e92eba9de926fae6f26781cbdc287
@@ -77,6 +77,8 @@ https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1788188214-0-0-ce27
 https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=45907c1c8ff773f7dc91245f6dfca14d&txTime=6a962252
 #EXTINF:-1 tvg-id="room-620797" tvg-logo="https://sta.vnres.co/file/common/20260830/8f53a3622ccdb2cbe1158bd27515bc3d.png" group-title="Bóng đá",Tokyo Verdy vs Vissel Kobe (JPN D1)
 https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1788298723-0-0-5abef47b9ea3d3a86852532bfd90f993
+#EXTINF:-1 tvg-id="room-621840" tvg-logo="https://sta.vnres.co/file/common/20260830/c97ed686df9281c1c7140b3631556505.png" group-title="Bóng đá",Sivasspor vs Mardin 1969 Spor (TFF 1. Lig)
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=e14f4cc66c400bc686e8c7ef5463ce7c&txTime=6a9773ce
 #EXTINF:-1 tvg-id="room-621843" tvg-logo="https://sta.vnres.co/file/common/20260830/4bad1e4a3b0a8c3cf76fbc338ab72c29.png" group-title="Bóng đá",Austria Vienna vs WSG Tirol (AUT D1)
 https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1788299210-0-0-c1070ab22c6a0ae9ffbb36fffd31a7a5
 #EXTINF:-1 tvg-id="room-621887" tvg-logo="https://sta.vnres.co/file/common/20260830/5444aced66b0aa4b460049c0b9844798.png" group-title="Bóng đá",Flamengo - RJ vs Mirassol - SP (BRA D1)
@@ -149,37 +151,37 @@ https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788321702-0-0-598
 https://pull.niur.live/live/stream-9912145_lhd.m3u8?txSecret=b040c1bf391e429b0e1c0530ead73bd9&txTime=6a94bda7
 #EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260830/0967a607d33e30ffb8ab4a0291921591.png" group-title="Bóng đá",Yunnan Yukun vs Chongqing Tonglianglong (CHA FACup)
 https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788319160-0-0-bf158b053f467b878f4b2a98af53afd3
-#EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260831/f7ed10670aa503a89f974c56b6b65ceb.png" group-title="Bóng rổ",Quezon City Galeries Taipan vs Sarangani (MPBL)
+#EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260831/2a14fc984a6895cf0aea70093789adce.png" group-title="Bóng rổ",Pasay Voyagers vs Bulacan Kuyas (MPBL)
 https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=a476584b9a4392b8feefc10d0a7ddeda&txTime=6a981f68
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260831/d02079ea1481e8a7f71d2f3381a841e7.png" group-title="Bóng rổ",Shanxi Loongs Fenjiu vs Tianjin Pioneers (CBASL)
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=7d3154cd1353452ce730b61b1919fc55&txTime=6a982191
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=1e234cb988f964e67ef9b03b4afabfd1&txTime=6a9822bd
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260831/d02079ea1481e8a7f71d2f3381a841e7.png" group-title="Bóng rổ",Shanxi Loongs Fenjiu vs Tianjin Pioneers (CBASL)
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788336961-0-0-6087e2baf5e042eb445beec040bcb55a
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788337261-0-0-05029b5e0c8e8aa8d815e5664f1917cc
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260831/d785a704d4e1f720bd5a670e04f37a9d.png" group-title="Bóng rổ",Cairns Taipans vs Perth Wildcats (NBL)
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788336961-0-0-1f8020876f0a221bde95179d164156e1
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788337261-0-0-73db42dfd4c9020527051c5b94497b13
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260831/d02079ea1481e8a7f71d2f3381a841e7.png" group-title="Bóng rổ",Shanxi Loongs Fenjiu vs Tianjin Pioneers (CBASL)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788336961-0-0-3826802a728be84ede190d76bca5f0eb
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788337261-0-0-897b2b6f24fd8bd01de7b32f2dc110a9
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260831/d785a704d4e1f720bd5a670e04f37a9d.png" group-title="Bóng rổ",Cairns Taipans vs Perth Wildcats (NBL)
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788336961-0-0-b46fbf90781e97516a9576c145088163
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788337261-0-0-88f1397d1fbee86e615d0cafd496abbd
 #EXTINF:-1 tvg-id="room-133277" tvg-logo="https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg" group-title="SocoLive",Tường thuật: KSA PR - Al Hilal vs Al Ahli SC - Gà xào sả ớt
-https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=6753c6ff7a47f176f7139ec5aeeddaec&txTime=6a982191
+https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=cd371a39a325f181be14a21401f07557&txTime=6a9822bd
 #EXTINF:-1 tvg-id="room-133824" tvg-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg" group-title="SocoLive",Tường thuật: COL D1 - Fortaleza F.C vs Deportiva Once Caldas - Bò leo rào
-https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=82f44d0c15d1af654d7f708c97a05da8&txTime=6a982191
+https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=741db00b157b83061d321dba514b2209&txTime=6a9822bd
 #EXTINF:-1 tvg-id="room-152898" tvg-logo="https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png" group-title="SocoLive",Tường thuật: BRA Cup - Atlético Mineiro - MG vs Cruzeiro - MG - Thỏ giang hồ
-https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=655cc196832073504fae68b5b6d37797&txTime=6a982191
+https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=d73439c2353bebfa9d112524d685f6c9&txTime=6a9822bd
 #EXTINF:-1 tvg-id="room-179093" tvg-logo="https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg" group-title="SocoLive",Tường thuật: RUS Cup - Fakel Voronezh vs FK Krasnodar - Hươu đau cổ
-https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=ce82c5bf1a252a2331b7bc406372561b&txTime=6a982191
+https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=736153ef9a4ff44eec7b354bca39c19f&txTime=6a9822bd
 #EXTINF:-1 tvg-id="room-343500" tvg-logo="https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg" group-title="SocoLive",Tường thuật: ENG LCH - West Ham United vs Wolverhampton Wanderers - Mèo méo meo
-https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=0d9ff5d4bec01dd0b7f4d1e664df620b&txTime=6a982191
+https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=7285b3004115cdb673bf7c7fe57202b7&txTime=6a9822bd
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg" group-title="SocoLive",CBASL: Shanxi Loongs Fenjiu vs Tianjin Pioneers - HUNTER
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=7d3154cd1353452ce730b61b1919fc55&txTime=6a982191
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=1e234cb988f964e67ef9b03b4afabfd1&txTime=6a9822bd
 #EXTINF:-1 tvg-id="room-9912079" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg" group-title="SocoLive",Tường thuật: GERC - HEBC Hamburg vs Borussia Dortmund - Rắn ở đáy sông
-https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=1427299678b9c99a524a36a1343beb17&txTime=6a982191
+https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=308361fa780ccf69545319c44a4fe2b8&txTime=6a9822bd
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-title="SocoLive",CBASL: Shanxi Loongs Fenjiu vs Tianjin Pioneers - KING
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788336961-0-0-6087e2baf5e042eb445beec040bcb55a
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788337261-0-0-05029b5e0c8e8aa8d815e5664f1917cc
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-title="SocoLive",NBL: Cairns Taipans vs Perth Wildcats - BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788336961-0-0-1f8020876f0a221bde95179d164156e1
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788337261-0-0-73db42dfd4c9020527051c5b94497b13
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg" group-title="SocoLive",CBASL: Shanxi Loongs Fenjiu vs Tianjin Pioneers - BLV HENRY
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788336961-0-0-3826802a728be84ede190d76bca5f0eb
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788337261-0-0-897b2b6f24fd8bd01de7b32f2dc110a9
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg" group-title="SocoLive",NBL: Cairns Taipans vs Perth Wildcats - CHAN SENA
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788336961-0-0-b46fbf90781e97516a9576c145088163
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788337261-0-0-88f1397d1fbee86e615d0cafd496abbd
