@@ -99,15 +99,6 @@
     "type": "hls"
   },
   {
-    "id": "459401",
-    "tvg_id": "room-459401",
-    "name": "Udinese vs Venezia (ITA Cup)",
-    "logo": "https://sta.vnres.co/file/common/20260830/f7e8bba96a2d38c6f8692e9bc24bbde9.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=90096f1f55daa3d86048cf52c8f1145b\u0026txTime=6a97db19",
-    "type": "hls"
-  },
-  {
     "id": "485739",
     "tvg_id": "room-485739",
     "name": "Tokyo Verdy vs Vissel Kobe (JPN D1)",
@@ -668,8 +659,8 @@
   {
     "id": "356042",
     "tvg_id": "room-356042",
-    "name": "Liaoning Flying Leopards vs Fujian Xunxing Sturgeons (CBASL)",
-    "logo": "https://sta.vnres.co/file/common/20260831/229ca41f562259fb13fd8241674ae593.png",
+    "name": "Quezon City Galeries Taipan vs Sarangani (MPBL)",
+    "logo": "https://sta.vnres.co/file/common/20260831/f7ed10670aa503a89f974c56b6b65ceb.png",
     "group": "Bóng rổ",
     "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=a663c66e86f88e15932255a6cc722ef2\u0026txTime=6a97feb8",
     "type": "hls"
@@ -686,10 +677,10 @@
   {
     "id": "9912099",
     "tvg_id": "room-9912099",
-    "name": "Liaoning Flying Leopards vs Fujian Xunxing Sturgeons (CBASL)",
-    "logo": "https://sta.vnres.co/file/common/20260831/229ca41f562259fb13fd8241674ae593.png",
+    "name": "Shanxi Loongs Fenjiu vs Tianjin Pioneers (CBASL)",
+    "logo": "https://sta.vnres.co/file/common/20260831/d02079ea1481e8a7f71d2f3381a841e7.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788328681-0-0-0e35e24c12eeb388c2fde3598e419a1f",
+    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788328981-0-0-7306da03e3ad99c1bfa3df5533f334f3",
     "type": "hls"
   },
   {
@@ -704,10 +695,10 @@
   {
     "id": "9912112",
     "tvg_id": "room-9912112",
-    "name": "Liaoning Flying Leopards vs Fujian Xunxing Sturgeons (CBASL)",
-    "logo": "https://sta.vnres.co/file/common/20260831/229ca41f562259fb13fd8241674ae593.png",
+    "name": "Shanxi Loongs Fenjiu vs Tianjin Pioneers (CBASL)",
+    "logo": "https://sta.vnres.co/file/common/20260831/d02079ea1481e8a7f71d2f3381a841e7.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788328681-0-0-819e94d8b5a6c0a2e014d8a71db353e6",
+    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788328981-0-0-94acf2dc7f91941d57bed549ca8afb58",
     "type": "hls"
   },
   {
@@ -725,7 +716,7 @@
     "name": "Tường thuật: KSA PR - Al Hilal vs Al Ahli SC - Gà xào sả ớt",
     "logo": "https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=3e6e4d4079c9532520a14778eedb2eec\u0026txTime=6a980139",
+    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=6de1fe10de14456b89f6a10ce22dc72c\u0026txTime=6a980265",
     "type": "hls"
   },
   {
@@ -734,7 +725,7 @@
     "name": "Tường thuật: COL D1 - Fortaleza F.C vs Deportiva Once Caldas - Bò leo rào",
     "logo": "https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=41524a58f863e901ec8e3777874aeae2\u0026txTime=6a980139",
+    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=08c98fad7b10376f22250d83432a2762\u0026txTime=6a980265",
     "type": "hls"
   },
   {
@@ -743,7 +734,7 @@
     "name": "Tường thuật: BRA Cup - Atlético Mineiro - MG vs Cruzeiro - MG - Thỏ giang hồ",
     "logo": "https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=6d4789bb35bdfaa24fdff1753c46a0ac\u0026txTime=6a980139",
+    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=c87890004e0ffd4a12dfe15b57aeeaf9\u0026txTime=6a980265",
     "type": "hls"
   },
   {
@@ -752,7 +743,7 @@
     "name": "Tường thuật: RUS Cup - Fakel Voronezh vs FK Krasnodar - Hươu đau cổ",
     "logo": "https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=df0313b45769fb4e7da26a606ae5fe8e\u0026txTime=6a980139",
+    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=0b713b1b2b5b73652496fe79966b268b\u0026txTime=6a980265",
     "type": "hls"
   },
   {
@@ -761,7 +752,7 @@
     "name": "Tường thuật: ENG LCH - West Ham United vs Wolverhampton Wanderers - Mèo méo meo",
     "logo": "https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=b1fbf43244d915fff7fc23e2a28b4bfc\u0026txTime=6a980139",
+    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=7894739e503932d1a6da1ffa7e8daeca\u0026txTime=6a980265",
     "type": "hls"
   },
   {
@@ -770,7 +761,7 @@
     "name": "Tường thuật: GERC - HEBC Hamburg vs Borussia Dortmund - Rắn ở đáy sông",
     "logo": "https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=6367b10b919dbf4037629c335ab403b7\u0026txTime=6a980139",
+    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=33cd71ec7d5178477b58f801c433cb58\u0026txTime=6a980265",
     "type": "hls"
   },
   {
@@ -779,7 +770,7 @@
     "name": "CBASL: Shanxi Loongs Fenjiu vs Tianjin Pioneers - KING",
     "logo": "https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788328681-0-0-0e35e24c12eeb388c2fde3598e419a1f",
+    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788328981-0-0-7306da03e3ad99c1bfa3df5533f334f3",
     "type": "hls"
   },
   {
@@ -788,7 +779,7 @@
     "name": "CBASL: Shanxi Loongs Fenjiu vs Tianjin Pioneers - BLV HENRY",
     "logo": "https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788328681-0-0-819e94d8b5a6c0a2e014d8a71db353e6",
+    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788328981-0-0-94acf2dc7f91941d57bed549ca8afb58",
     "type": "hls"
   }
 ]
