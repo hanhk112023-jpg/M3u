@@ -335,8 +335,8 @@
   {
     "id": "621840",
     "tvg_id": "room-621840",
-    "name": "El Gounah vs El Mokawloon El Arab (EGY D1)",
-    "logo": "https://sta.vnres.co/file/common/20260830/0bea6c714923e172a3fd4c00ad0ccd62.png",
+    "name": "Sivasspor vs Mardin 1969 Spor (TFF 1. Lig)",
+    "logo": "https://sta.vnres.co/file/common/20260830/c97ed686df9281c1c7140b3631556505.png",
     "group": "Bóng đá",
     "url": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=e14f4cc66c400bc686e8c7ef5463ce7c\u0026txTime=6a9773ce",
     "type": "hls"
@@ -549,6 +549,15 @@
     "type": "hls"
   },
   {
+    "id": "9912132",
+    "tvg_id": "room-9912132",
+    "name": "Mito Hollyhock vs Kashima Antlers (JPN D1)",
+    "logo": "https://sta.vnres.co/file/common/20260830/ba1afee313e6e375965d530eb6bb53d2.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=a9e27a75b89b0a4a045edbdde99d2e71\u0026txTime=6a978ca4",
+    "type": "hls"
+  },
+  {
     "id": "9912133",
     "tvg_id": "room-9912133",
     "name": "Zenit St. Petersburg vs Dynamo Makhachkala (RUS Cup)",
@@ -662,7 +671,7 @@
     "name": "Liaoning Flying Leopards vs Fujian Xunxing Sturgeons (CBASL)",
     "logo": "https://sta.vnres.co/file/common/20260831/229ca41f562259fb13fd8241674ae593.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=a1782efb9b954bf13bd5cb25131aa941\u0026txTime=6a97ea7d",
+    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=fafb822d2d9b18525f0735b2d3518e4c\u0026txTime=6a97eba9",
     "type": "hls"
   },
   {
@@ -680,7 +689,7 @@
     "name": "Liaoning Flying Leopards vs Fujian Xunxing Sturgeons (CBASL)",
     "logo": "https://sta.vnres.co/file/common/20260831/229ca41f562259fb13fd8241674ae593.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788322861-0-0-b4d6420026697aa201cc7a9883e7cfc1",
+    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788323161-0-0-d0219029cb91c8076eed1d362ded3477",
     "type": "hls"
   },
   {
@@ -698,7 +707,7 @@
     "name": "Liaoning Flying Leopards vs Fujian Xunxing Sturgeons (CBASL)",
     "logo": "https://sta.vnres.co/file/common/20260831/229ca41f562259fb13fd8241674ae593.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788322861-0-0-afd81a6762c9e13efad7c7ce1bcaf71c",
+    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788323161-0-0-1efa8ca229723f00dd051d31a4edd8d3",
     "type": "hls"
   },
   {
@@ -716,7 +725,7 @@
     "name": "Tường thuật: KSA PR - Al Hilal vs Al Ahli SC - Gà xào sả ớt",
     "logo": "https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=d21287e6a79aa357af35dd9bb7e36593\u0026txTime=6a97ea41",
+    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=a583c30352b94211119827e2c025ed40\u0026txTime=6a97eba9",
     "type": "hls"
   },
   {
@@ -725,7 +734,7 @@
     "name": "Tường thuật: COL D1 - Fortaleza F.C vs Deportiva Once Caldas - Bò leo rào",
     "logo": "https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=840586ba14575e7613e44dbe4ff2c726\u0026txTime=6a97ea41",
+    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=066ea1fb3840ceafba31c7f06c0dd2c7\u0026txTime=6a97eba9",
     "type": "hls"
   },
   {
@@ -734,7 +743,7 @@
     "name": "Tường thuật: BRA Cup - Atlético Mineiro - MG vs Cruzeiro - MG - Thỏ giang hồ",
     "logo": "https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=c007544856633291c7a09967209a2570\u0026txTime=6a97ea41",
+    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=ab75c607f022d1bfd82597048fd2eb17\u0026txTime=6a97eba9",
     "type": "hls"
   },
   {
@@ -743,7 +752,7 @@
     "name": "Tường thuật: RUS Cup - Fakel Voronezh vs FK Krasnodar - Hươu đau cổ",
     "logo": "https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=7f9e98dbb4d454dc075e34f613731c72\u0026txTime=6a97ea41",
+    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=caeb30e50bdaf9fb87630d7ce4e1a897\u0026txTime=6a97eba9",
     "type": "hls"
   },
   {
@@ -752,7 +761,7 @@
     "name": "Tường thuật: ENG LCH - West Ham United vs Wolverhampton Wanderers - Mèo méo meo",
     "logo": "https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=2dd40be4292ef9201c35a3d96b660b5d\u0026txTime=6a97ea41",
+    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=e558c719d6624854609743a5c7527378\u0026txTime=6a97eba9",
     "type": "hls"
   },
   {
@@ -761,7 +770,7 @@
     "name": "CBASL: Liaoning Flying Leopards vs Fujian Xunxing Sturgeons - A CHÈ",
     "logo": "https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=511c1216d3ff4d4a23264ff2e3cdd22b\u0026txTime=6a97ea41",
+    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=fafb822d2d9b18525f0735b2d3518e4c\u0026txTime=6a97eba9",
     "type": "hls"
   },
   {
@@ -770,7 +779,7 @@
     "name": "Tường thuật: GERC - HEBC Hamburg vs Borussia Dortmund - Rắn ở đáy sông",
     "logo": "https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=c5faf76ae128b072348895bd996631d5\u0026txTime=6a97ea41",
+    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=f236121acb8d7d229aa021ead0fbde28\u0026txTime=6a97eba9",
     "type": "hls"
   },
   {
@@ -779,7 +788,7 @@
     "name": "CBASL: Liaoning Flying Leopards vs Fujian Xunxing Sturgeons - KING",
     "logo": "https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788322801-0-0-f5954efdabc977ac3866d5aefe8a9a90",
+    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788323161-0-0-d0219029cb91c8076eed1d362ded3477",
     "type": "hls"
   },
   {
@@ -788,7 +797,7 @@
     "name": "CBASL: Liaoning Flying Leopards vs Fujian Xunxing Sturgeons - BLV HENRY",
     "logo": "https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788322801-0-0-6cb26d04fc832ac8a7a964986ced5c12",
+    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788323161-0-0-1efa8ca229723f00dd051d31a4edd8d3",
     "type": "hls"
   }
 ]
