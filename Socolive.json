@@ -23,7 +23,7 @@
     "name": "America de Cali vs Alianza (COL D1)",
     "logo": "https://sta.vnres.co/file/common/20260901/3265aa4cb697a53f462c05c74c5aa45b.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=91c3422c7bcaccf4d744d8f83053b70a\u0026txTime=6a9a3869",
+    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=8e2e8fea36d43c3dcf07d398bccdc261\u0026txTime=6a9a39d1",
     "type": "hls"
   },
   {
@@ -194,7 +194,7 @@
     "name": "America de Cali vs Alianza (COL D1)",
     "logo": "https://sta.vnres.co/file/common/20260901/3265aa4cb697a53f462c05c74c5aa45b.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=2e5733db6965dbb1b4cbdfc04aa0b938\u0026txTime=6a9a3869",
+    "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=5a4f144f67277135e7546d5c4e295f4d\u0026txTime=6a9a39d1",
     "type": "hls"
   },
   {
@@ -248,7 +248,7 @@
     "name": "Deportivo Recoleta vs Cerro Porteno (PAR D1)",
     "logo": "https://sta.vnres.co/file/common/20260902/5a381dc8592b15f6d721b81e0f9086c8.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=8a418dcc562be4752d9c2a9b48291d68\u0026txTime=6a9a3869",
+    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=624f67c593b6f9626d6f6aa48d5767f7\u0026txTime=6a9a39d1",
     "type": "hls"
   },
   {
@@ -284,7 +284,7 @@
     "name": "America de Cali vs Alianza (COL D1)",
     "logo": "https://sta.vnres.co/file/common/20260901/3265aa4cb697a53f462c05c74c5aa45b.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788473881-0-0-e0e5947f689a3b3337c13ac8360f9e03",
+    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788474241-0-0-5d9a7024d7063b844b5da0ff86d44956",
     "type": "hls"
   },
   {
@@ -356,7 +356,7 @@
     "name": "Deportivo Recoleta vs Cerro Porteno (PAR D1)",
     "logo": "https://sta.vnres.co/file/common/20260902/5a381dc8592b15f6d721b81e0f9086c8.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1788473881-0-0-1eadf2480389e09ec982d1529107c184",
+    "url": "https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1788474241-0-0-1936556587bce32cc337ce8cdf36c42f",
     "type": "hls"
   },
   {
@@ -491,7 +491,7 @@
     "name": "America de Cali vs Alianza (COL D1)",
     "logo": "https://sta.vnres.co/file/common/20260901/3265aa4cb697a53f462c05c74c5aa45b.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788473881-0-0-09dc60870a603e025d5e828711a3dd26",
+    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788474241-0-0-4dd32bc4160cd0876117a406cdeee063",
     "type": "hls"
   },
   {
@@ -527,7 +527,7 @@
     "name": "America de Cali vs Alianza (COL D1)",
     "logo": "https://sta.vnres.co/file/common/20260901/3265aa4cb697a53f462c05c74c5aa45b.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=cd4c2786a353d3c868408f21c21b39c3\u0026txTime=6a9a3869",
+    "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=1b8a6fcc632d85a9ddf655ca4833d8f8\u0026txTime=6a9a39d1",
     "type": "hls"
   },
   {
@@ -555,6 +555,15 @@
     "logo": "https://sta.vnres.co/file/common/20260901/a2478bfe094eb1f9a51a9149a12e9a63.png",
     "group": "Bóng đá",
     "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=040219346b7f8e6d8e902cb25b76c92b\u0026txTime=6a9a264b",
+    "type": "hls"
+  },
+  {
+    "id": "9912133",
+    "tvg_id": "room-9912133",
+    "name": "Abha vs Al Ettifaq (KSA PR)",
+    "logo": "https://sta.vnres.co/file/common/20260901/df727dab07875de304479b5072b090eb.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1788472953-0-0-11f5acb5c2f3665c765243a9037a29a0",
     "type": "hls"
   },
   {
@@ -626,7 +635,7 @@
     "name": "America de Cali vs Alianza (COL D1)",
     "logo": "https://sta.vnres.co/file/common/20260901/3265aa4cb697a53f462c05c74c5aa45b.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1788473881-0-0-22ae39b7913f2997ed8db9845944a418",
+    "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1788474241-0-0-6a60e691d7683a77ee8d5f6f7242acc2",
     "type": "hls"
   },
   {
@@ -716,7 +725,7 @@
     "name": "Tường thuật: KSA PR - Al Hilal vs Al Ahli SC - Gà xào sả ớt",
     "logo": "https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=f6131bacd847dc6dd08f0ff9d725ff16\u0026txTime=6a9a3869",
+    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=bc5f19f0f8135d73483e3ec4e64097a6\u0026txTime=6a9a3995",
     "type": "hls"
   },
   {
@@ -725,7 +734,7 @@
     "name": "Tường thuật: COL D1 - Fortaleza F.C vs Deportiva Once Caldas - Bò leo rào",
     "logo": "https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=e6d9673570f5f31d2b793db175912d67\u0026txTime=6a9a3869",
+    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=d1e5c7d012b21a90358c55a660fb8313\u0026txTime=6a9a3995",
     "type": "hls"
   },
   {
@@ -734,7 +743,7 @@
     "name": "Tường thuật: BRA Cup - Atlético Mineiro - MG vs Cruzeiro - MG - Thỏ giang hồ",
     "logo": "https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=a7a1a5b4f8b3afc2b5cf93ee37f3c2ea\u0026txTime=6a9a3869",
+    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=8a759f09570d0d5703217baecdc27343\u0026txTime=6a9a3995",
     "type": "hls"
   },
   {
@@ -743,7 +752,7 @@
     "name": "Tường thuật: RUS Cup - Fakel Voronezh vs FK Krasnodar - Hươu đau cổ",
     "logo": "https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=533b3ce600b6216978602cb981aeca5b\u0026txTime=6a9a3869",
+    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=a2abd95be9e6cda7a0bac453a7bafe9c\u0026txTime=6a9a3995",
     "type": "hls"
   },
   {
@@ -752,7 +761,7 @@
     "name": "COL D1: America de Cali vs Alianza - CÔNG CHẤT",
     "logo": "https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=91c3422c7bcaccf4d744d8f83053b70a\u0026txTime=6a9a3869",
+    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=b33e74a32c2426aa5b4bfb00cb34318a\u0026txTime=6a9a3995",
     "type": "hls"
   },
   {
@@ -761,7 +770,7 @@
     "name": "Tường thuật: ENG LCH - West Ham United vs Wolverhampton Wanderers - Mèo méo meo",
     "logo": "https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=fdb634a4c40907b939ffee355a4e11d0\u0026txTime=6a9a3869",
+    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=f51acda9d1666f55ca7401cf2a373615\u0026txTime=6a9a3995",
     "type": "hls"
   },
   {
@@ -770,7 +779,7 @@
     "name": "COL D1: America de Cali vs Alianza - LOGAN",
     "logo": "https://sta.vnres.co/file/common/20251111/6a43978efb637082f6eb906c1e7f1621.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=2e5733db6965dbb1b4cbdfc04aa0b938\u0026txTime=6a9a3869",
+    "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=1d97797b674b21d77b02b8766c58cd76\u0026txTime=6a9a3995",
     "type": "hls"
   },
   {
@@ -779,7 +788,7 @@
     "name": "PAR D1: Deportivo Recoleta vs Cerro Porteno - HÀ DUY KIÊN",
     "logo": "https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=8a418dcc562be4752d9c2a9b48291d68\u0026txTime=6a9a3869",
+    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=08d9f6cdefb27cda766ee68d2eb9afb9\u0026txTime=6a9a3995",
     "type": "hls"
   },
   {
@@ -788,7 +797,7 @@
     "name": "COL D1: America de Cali vs Alianza - CƠM NẾP",
     "logo": "https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788473881-0-0-e0e5947f689a3b3337c13ac8360f9e03",
+    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788474181-0-0-7410e93a4f71b80dab55a91efb6e3f27",
     "type": "hls"
   },
   {
@@ -797,7 +806,7 @@
     "name": "PAR D1: Deportivo Recoleta vs Cerro Porteno - CHAN ĐÊ",
     "logo": "https://sta.vnres.co/file/common/20260728/c2935ca02d759ee77531ff32719f1b21.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1788473881-0-0-1eadf2480389e09ec982d1529107c184",
+    "url": "https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1788474181-0-0-d0ea1dfc815be07efb4176dd8b82dd18",
     "type": "hls"
   },
   {
@@ -806,7 +815,7 @@
     "name": "Tường thuật: GERC - HEBC Hamburg vs Borussia Dortmund - Rắn ở đáy sông",
     "logo": "https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=1e87d76ec607dd941e9f3af8a8ecffe8\u0026txTime=6a9a3869",
+    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=327adc3cf2628543be587b94c2f7dddf\u0026txTime=6a9a3995",
     "type": "hls"
   },
   {
@@ -815,7 +824,7 @@
     "name": "COL D1: America de Cali vs Alianza - KENCHU",
     "logo": "https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788473881-0-0-09dc60870a603e025d5e828711a3dd26",
+    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788474181-0-0-b33f4493020f0647d8ffa5b8348d1a4b",
     "type": "hls"
   },
   {
@@ -824,7 +833,7 @@
     "name": "COL D1: America de Cali vs Alianza - QUỐC KHÁNH",
     "logo": "https://sta.vnres.co/file/common/20260831/3e123f795761f1e62f09740306f47083.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=cd4c2786a353d3c868408f21c21b39c3\u0026txTime=6a9a3869",
+    "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=2392b3a9ccc04ae1d9d64473685339b3\u0026txTime=6a9a3995",
     "type": "hls"
   },
   {
@@ -833,7 +842,7 @@
     "name": "COL D1: America de Cali vs Alianza - NGƯỜI CÁ",
     "logo": "https://sta.vnres.co/file/common/20260805/c8068dd64589d2890066f1eacc273ab0.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1788473881-0-0-22ae39b7913f2997ed8db9845944a418",
+    "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1788474181-0-0-e4d72d062ae26c6cfcdbec8c6655df50",
     "type": "hls"
   }
 ]
