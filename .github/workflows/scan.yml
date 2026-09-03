@@ -47,15 +47,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Set up proxy (mihomo through YUNA subscription)
+      - name: Set up proxy (mihomo — node tĩnh Yuna, sub làm fallback)
         env:
           SUB_URL: ${{ secrets.YUNA_SUB_URL }}
+          STATIC_YAML: ${{ secrets.YUNA_PROXY_YAML }}
         run: |
           set -euo pipefail
-          if [ -z "$SUB_URL" ]; then
-            echo "YUNA_SUB_URL secret not set; cannot bypass CDN IP block"
-            exit 1
-          fi
           MH=$(ls /usr/local/bin/mihomo 2>/dev/null || true)
           if [ -z "$MH" ]; then
             VER=v1.19.30
@@ -65,47 +62,22 @@ jobs:
             install -m 0755 /tmp/mihomo /usr/local/bin/mihomo
             MH=/usr/local/bin/mihomo
           fi
-          curl -sSL -H 'User-Agent: clash-verge/1.6.6' -o /tmp/sub_full.yaml "$SUB_URL"
-          python3 - << 'PYEOF'
-          import yaml
-          cfg = yaml.safe_load(open('/tmp/sub_full.yaml'))
-          names = cfg.get('proxies', [])
-          order = [p for p in names if 'VN' in p.get('name', '').upper()] + \
-                  [p for p in names if 'SG' in p.get('name', '').upper()]
-          keep = order[:10]
-          # url-test group: mihomo probes every node every interval and routes
-          # through the one with the lowest latency, falling back automatically.
-          groups = [{'name': 'POOL', 'type': 'url-test',
-                     'proxies': [p['name'] for p in keep],
-                     'url': 'http://www.gstatic.com/generate_204',
-                     'interval': 120,
-                     'tolerance': 50}]
-          out = {'mixed-port': 7891, 'allow-lan': False, 'mode': 'rule',
-                 'log-level': 'warning', 'proxies': keep,
-                 'proxy-groups': groups, 'rules': ['MATCH,POOL']}
-          yaml.safe_dump(out, open('/tmp/mihomo_run.yaml', 'w'), allow_unicode=True)
-          print('picked (url-test):', [p['name'] for p in keep])
-          PYEOF
-          # GitHub không cần proxy (không chặn datacenter) — đi trực tiếp để tránh
-          # TLS break khi publish. Chỉ traffic tới json.vnres.co / soco cần proxy.
-          python3 - << 'PYEOF'
-          import yaml
-          cfg = yaml.safe_load(open('/tmp/mihomo_run.yaml'))
-          rules = [
-              'DOMAIN-SUFFIX,github.com,DIRECT',
-              'DOMAIN-SUFFIX,githubusercontent.com,DIRECT',
-              'DOMAIN-SUFFIX,github.io,DIRECT',
-              'DOMAIN-SUFFIX,gstatic.com,DIRECT',
-              'DOMAIN-SUFFIX,ggpht.com,DIRECT',
-              'MATCH,POOL',
-          ]
-          cfg['rules'] = rules
-          cfg['log-level'] = 'info'
-          yaml.safe_dump(cfg, open('/tmp/mihomo_run.yaml', 'w'), allow_unicode=True)
-          PYEOF
-          # IMPORTANT: dùng thư mục -d RIÊNG SẠCH (không reuse /tmp) — nếu không
-          # mihomo sẽ dùng config mặc định của thư mục đó và bỏ qua mixed-port,
-          # dẫn tới listen sai port + "proxy did not come up".
+          if [ -n "$STATIC_YAML" ]; then
+            echo "dung node tinh YUNA_PROXY_YAML (khong phu thuoc dashboard.yunagrp.com)"
+            printf '%s\n' "$STATIC_YAML" > /tmp/mihomo_run.yaml
+          elif [ -n "$SUB_URL" ]; then
+            OK=0
+            for try in 1 2 3 4; do
+              if curl -sSL -m 40 -H 'User-Agent: clash-verge/1.6.6' -o /tmp/sub_full.yaml "$SUB_URL" && [ -s /tmp/sub_full.yaml ] && grep -q proxies /tmp/sub_full.yaml; then OK=1; break; fi
+              echo "sub attempt $try fail, retry 20s"; sleep 20
+            done
+            [ "$OK" = "1" ] || { echo "khong tai duoc sub sau 4 lan"; exit 1; }
+            python3 sub_to_mihomo.py
+          else
+            echo "khong co STATIC_YAML cung nhu SUB_URL"; exit 1
+          fi
+          python3 mihomo_github_direct.py
+          # IMPORTANT: thư mục -d RIÊNG SẠCH — không reuse /tmp (mihomo sẽ lấy config mặc định, bỏ mixed-port)
           mkdir -p /tmp/mhd
           cp /tmp/mihomo_run.yaml /tmp/mhd/mihomo_run.yaml
           $MH -d /tmp/mhd -f /tmp/mhd/mihomo_run.yaml > /tmp/mihomo.log 2>&1 &
