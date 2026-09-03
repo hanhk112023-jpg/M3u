@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 103
-# Updated: 03/09/2026 08:34:00
+# Channels: 102
+# Updated: 03/09/2026 08:39:08
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260902/52d6fd6167b64e7a54402674d4b06af7.jpg" group-title="Bóng đá",Kyrgyzstan U20 vs Lebanon U20 (AFC U20)
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788406309-0-0-3daf9d31d0a0d0c0bba8a4d1d47dc831
 #EXTINF:-1 tvg-id="room-283501" tvg-logo="https://sta.vnres.co/file/common/20260830/eeb986a913bb2ff6bd46ab1624320578.png" group-title="Bóng đá",Kuwait U20 vs Yemen U20 (AFC U20)
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=10dd075dda7f0968097af439dd3c8e11&txTime=6a99851d
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=c7404046a6c5f34e726b482bc4a1a6b8&txTime=6a998649
 #EXTINF:-1 tvg-id="room-291277" tvg-logo="https://sta.vnres.co/file/common/20260830/8574d24e139c9d8a3c6b1272f149b78d.png" group-title="Bóng đá",Cambodia U20 vs Japan U20 (AFC U20)
 https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=8a78ad6c3ed28e4a37445ee4af41dd5c&txTime=6a98e391
 #EXTINF:-1 tvg-id="room-304148" tvg-logo="https://sta.vnres.co/file/common/20260830/8574d24e139c9d8a3c6b1272f149b78d.png" group-title="Bóng đá",Cambodia U20 vs Japan U20 (AFC U20)
@@ -24,7 +24,7 @@ https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=d6c9f5af2d535908dac4
 #EXTINF:-1 tvg-id="room-406865" tvg-logo="https://sta.vnres.co/file/common/20260830/394b2d95bf377b7f259d21e151b7d129.png" group-title="Bóng đá",Al Fayha vs Al Kholood (KSA PR)
 https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=d52a7e58f94e59428ed55a91db58809b&txTime=6a98c63a
 #EXTINF:-1 tvg-id="room-414317" tvg-logo="https://sta.vnres.co/file/common/20260830/2ba295102261427056f8764102626df9.png" group-title="Bóng đá",Malaysia U20 vs Australia U20 (AFC U20)
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=a1b80a24725f03394b3589faf6a3d90e&txTime=6a99851d
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=02f813b2d120d0c09e6d638dc3f0b4ee&txTime=6a998649
 #EXTINF:-1 tvg-id="room-459401" tvg-logo="https://sta.vnres.co/file/common/20260830/b807ca58518759b324db4e95e4376c07.png" group-title="Bóng đá",FC OKMK Olmaliq vs Xorazm Urganch (UZB PFL)
 https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=118f5a71c4a973039058a5c54f2c617f&txTime=6a98daab
 #EXTINF:-1 tvg-id="room-485739" tvg-logo="https://sta.vnres.co/file/common/20260901/616a1168fa37cc2d321d247b8778e74b.png" group-title="Bóng đá",Grêmio - RS vs Internacional - RS (BRA Cup)
@@ -54,7 +54,7 @@ https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1788368150-0-0-2b71
 #EXTINF:-1 tvg-id="room-602019" tvg-logo="https://sta.vnres.co/file/common/20260830/1761d47bc152bc1a352e2d65c8668e78.png" group-title="Bóng đá",Brunei Darussalam U20 vs Myanmar U20 (AFC U20)
 https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=1926526b796e8c3f4660b5997f759fc6&txTime=6a991d49
 #EXTINF:-1 tvg-id="room-603255" tvg-logo="https://sta.vnres.co/file/common/20260831/9ac1ca4e120c672320551c27cd243b7f.png" group-title="Bóng đá",Macau U20 vs Singapore U20 (AFC U20)
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1788427981-0-0-3d531feb9b072ad5c11f427396820f4e
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1788428281-0-0-3f069569ab8883c99e6f9f4cca68d398
 #EXTINF:-1 tvg-id="room-603914" tvg-logo="https://sta.vnres.co/file/common/20260830/841aef7f8f502d6cbf7de1440fdfb803.png" group-title="Bóng đá",Turkmenistan U20 vs Thailand U20 (AFC U20)
 https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1788405864-0-0-79cb995b4a9bab6ddff5a6a9c56ad76c
 #EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260902/5a381dc8592b15f6d721b81e0f9086c8.png" group-title="Bóng đá",Deportivo Recoleta vs Cerro Porteno (PAR D1)
@@ -68,11 +68,11 @@ https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1788375066-0-0-200f
 #EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260901/616a1168fa37cc2d321d247b8778e74b.png" group-title="Bóng đá",Grêmio - RS vs Internacional - RS (BRA Cup)
 https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788406325-0-0-cd862141c8061f843098d19dce04f83d
 #EXTINF:-1 tvg-id="room-619561" tvg-logo="https://sta.vnres.co/file/common/20260830/bbf969a0e9a0c81b136312e23ed16b13.png" group-title="Bóng đá",Korea DPR U20 vs Iran U20 (AFC U20)
-https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1788427981-0-0-04556f3a095afefcaa4b91d3d46163e2
+https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1788428341-0-0-1f7679367821672760598ec657a3e197
 #EXTINF:-1 tvg-id="room-619672" tvg-logo="https://sta.vnres.co/file/common/20260902/52d6fd6167b64e7a54402674d4b06af7.jpg" group-title="Bóng đá",Kyrgyzstan U20 vs Lebanon U20 (AFC U20)
 https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1788406289-0-0-7a503830b2ee13c8ea4980f88f9b93d7
 #EXTINF:-1 tvg-id="room-620084" tvg-logo="https://sta.vnres.co/file/common/20260830/231ffe394d9e714113c1e1d3e99a70ea.png" group-title="Bóng đá",United Arab Emirates U20 vs Iraq U20 (AFC U20)
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1788427981-0-0-0abac3e16cf82fdc3a58563d38f8947d
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1788428341-0-0-71ae995d8fcaf519490eae0f43e6519e
 #EXTINF:-1 tvg-id="room-620504" tvg-logo="https://sta.vnres.co/file/common/20260901/9a986cf3a48e16bf94907403954995e7.png" group-title="Bóng đá",Iğdır FK vs Manisa Futbol Kulübü (TFF 1. Lig)
 https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=afb6182b94886d3a719bc36590035e54&txTime=6a98da77
 #EXTINF:-1 tvg-id="room-620797" tvg-logo="https://sta.vnres.co/file/common/20260831/ac72a8aec10835d933c35aab5874a1c4.png" group-title="Bóng đá",Rakow Czestochowa vs Gornik Zabrze (POL D1)
@@ -86,7 +86,7 @@ https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1788409467-0-0-3912
 #EXTINF:-1 tvg-id="room-622093" tvg-logo="https://sta.vnres.co/file/common/20260831/ac72a8aec10835d933c35aab5874a1c4.png" group-title="Bóng đá",Rakow Czestochowa vs Gornik Zabrze (POL D1)
 https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=e97b9c0497b29f99e84ea066fe9066a8&txTime=6a9893b6
 #EXTINF:-1 tvg-id="room-622240" tvg-logo="https://sta.vnres.co/file/common/20260830/bbf969a0e9a0c81b136312e23ed16b13.png" group-title="Bóng đá",Korea DPR U20 vs Iran U20 (AFC U20)
-https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1788427981-0-0-b2bf39bb7f9939515992d632f3625df2
+https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1788428341-0-0-afd07bc2a58d802322ed231347c8acac
 #EXTINF:-1 tvg-id="room-622241" tvg-logo="https://sta.vnres.co/file/common/20260831/e13d745a882f04106f5e50bf884a50ae.png" group-title="Bóng đá",Bangladesh U20 vs Syria U20 (AFC U20)
 https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1788418382-0-0-5691730324863794af1e04f05f03e3eb
 #EXTINF:-1 tvg-id="room-625920" tvg-logo="https://sta.vnres.co/file/common/20260830/2471d4e59f882d2f85ee6735cc7b50bd.png" group-title="Bóng đá",Al-Sailiya vs Al-Arabi SC (QAT D1)
@@ -94,7 +94,7 @@ https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1788385209-0-0-f71e
 #EXTINF:-1 tvg-id="room-627718" tvg-logo="https://sta.vnres.co/file/common/20260831/985d2353ea2963954b4663b7e7830cd1.png" group-title="Bóng đá",Bhutan U20 vs Chinese Taipei U20 (AFC U20)
 https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1788364801-0-0-8a9da07e70c5142a996fe9cf7b486c21
 #EXTINF:-1 tvg-id="room-991140" tvg-logo="https://sta.vnres.co/file/common/20260830/231ffe394d9e714113c1e1d3e99a70ea.png" group-title="Bóng đá",United Arab Emirates U20 vs Iraq U20 (AFC U20)
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788427981-0-0-0926902e8d40a6483b43d4faba4233bc
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788428341-0-0-71d81fd95d752d970457f5a0d89627f7
 #EXTINF:-1 tvg-id="room-9912008" tvg-logo="https://sta.vnres.co/file/common/20260830/6c0b0b9141c9068df4e6e0acd7a3824b.png" group-title="Bóng đá",Al-Ahli Doha vs Qatar SC (QAT D1)
 https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1788418296-0-0-b7fc47e568d6ee6c91318fc2d75c3de3
 #EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260830/e149eb8ff3a1405e5a4020dc77a370e7.png" group-title="Bóng đá",Palestine U20 vs Vietnam U20 (AFC U20)
@@ -102,12 +102,12 @@ https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=61fd44b056bad978334
 #EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260830/e149eb8ff3a1405e5a4020dc77a370e7.png" group-title="Bóng đá",Palestine U20 vs Vietnam U20 (AFC U20)
 https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788406374-0-0-84ae99e68028e844858592f437e3f802
 #EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260830/eeb986a913bb2ff6bd46ab1624320578.png" group-title="Bóng đá",Kuwait U20 vs Yemen U20 (AFC U20)
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=9249a5be5468afe22c3e7c7871076886&txTime=6a99851d
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=2e5df7f80f236c3bac3009f79e19bb12&txTime=6a998685
 #EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260830/bbf969a0e9a0c81b136312e23ed16b13.png" group-title="Bóng đá",Korea DPR U20 vs Iran U20 (AFC U20)
 https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788418235-0-0-bd0f0ffb988fd94f02b7d88830e9603b
 #EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260830/2ba295102261427056f8764102626df9.png" group-title="Bóng đá",Malaysia U20 vs Australia U20 (AFC U20)
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1788427981-0-0-1ea54ab13404a97143474fabad320e6b
-#EXTINF:-1 tvg-id="room-9912119" tvg-logo="https://sta.vnres.co/file/common/20260830/2ba295102261427056f8764102626df9.png" group-title="Bóng đá",Malaysia U20 vs Australia U20 (AFC U20)
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1788428341-0-0-f796ac83739846b0a418500b9d89cf3a
+#EXTINF:-1 tvg-id="room-9912119" tvg-logo="https://sta.vnres.co/file/common/20260830/6c0b0b9141c9068df4e6e0acd7a3824b.png" group-title="Bóng đá",Al-Ahli Doha vs Qatar SC (QAT D1)
 https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1788406156-0-0-5db06b2c409d23befd3e738c72751202
 #EXTINF:-1 tvg-id="room-9912123" tvg-logo="https://sta.vnres.co/file/common/20260830/a26137ec7f294d4b1e7c1e2b7fa3a8ab.png" group-title="Bóng đá",Neom SC vs Al Khaleej (KSA PR)
 https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1788378955-0-0-ab0ff0a8cebcde9cc4ceab0d52d92e8d
@@ -122,23 +122,23 @@ https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1788385158-0-0-c98
 #EXTINF:-1 tvg-id="room-9912129" tvg-logo="https://sta.vnres.co/file/common/20260901/3265aa4cb697a53f462c05c74c5aa45b.png" group-title="Bóng đá",America de Cali vs Alianza (COL D1)
 https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=499b78e45e0f4f26ec80f5cea6e0b3b1&txTime=6a996e7b
 #EXTINF:-1 tvg-id="room-9912130" tvg-logo="https://sta.vnres.co/file/common/20260831/9ac1ca4e120c672320551c27cd243b7f.png" group-title="Bóng đá",Macau U20 vs Singapore U20 (AFC U20)
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788427981-0-0-6991541b1e80f8503dca681d6ca456e3
+https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788428341-0-0-73aa08c366dc7802df465b62d4c16b4b
 #EXTINF:-1 tvg-id="room-9912131" tvg-logo="https://sta.vnres.co/file/common/20260901/9a986cf3a48e16bf94907403954995e7.png" group-title="Bóng đá",Iğdır FK vs Manisa Futbol Kulübü (TFF 1. Lig)
 https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1788378990-0-0-727fbf3f2baa6cbd64022ca2e9d07bf6
 #EXTINF:-1 tvg-id="room-9912132" tvg-logo="https://sta.vnres.co/file/common/20260830/231ffe394d9e714113c1e1d3e99a70ea.png" group-title="Bóng đá",United Arab Emirates U20 vs Iraq U20 (AFC U20)
-https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=bf5886b87dc911622e685000ed1bac84&txTime=6a99851d
+https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=4a5d411aac82fc9f64150ba068452d61&txTime=6a998685
 #EXTINF:-1 tvg-id="room-9912133" tvg-logo="https://sta.vnres.co/file/common/20260830/8574d24e139c9d8a3c6b1272f149b78d.png" group-title="Bóng đá",Cambodia U20 vs Japan U20 (AFC U20)
 https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1788385307-0-0-ce4de4fbd52c397411a3a7f7320b89e5
 #EXTINF:-1 tvg-id="room-9912135" tvg-logo="https://sta.vnres.co/file/common/20260901/f1e2f52168ccfdcbdd9183a750e59687.png" group-title="Bóng đá",Al-Shamal SC vs Al Shahaniya (QAT D1)
 https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1788375601-0-0-29d41e54d3398c1cb48f3df4c44ae370
 #EXTINF:-1 tvg-id="room-9912136" tvg-logo="https://sta.vnres.co/file/common/20260830/ddca0f41b275362927089972497e66ed.png" group-title="Bóng đá",Dynamo Moscow vs Akhmat Grozny (RUS Cup)
 https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=09b0585d6fcc772104e76d947bd8c679&txTime=6a98ddf3
-#EXTINF:-1 tvg-id="room-9912138" tvg-logo="https://sta.vnres.co/file/common/20260830/a26137ec7f294d4b1e7c1e2b7fa3a8ab.png" group-title="Bóng đá",Neom SC vs Al Khaleej (KSA PR)
+#EXTINF:-1 tvg-id="room-9912138" tvg-logo="https://sta.vnres.co/file/common/20260830/2ba295102261427056f8764102626df9.png" group-title="Bóng đá",Malaysia U20 vs Australia U20 (AFC U20)
 https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1788384247-0-0-9a9027e79e6cf9110bee7d36be29b8b8
 #EXTINF:-1 tvg-id="room-9912139" tvg-logo="https://sta.vnres.co/file/common/20260831/c6b606d5ddc59b728d20a27fb597ae08.png" group-title="Bóng đá",India U20 vs Uzbekistan U20 (AFC U20)
 https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=44b1c8ccd56e59b77dd479e9e528fb80&txTime=6a98e156
 #EXTINF:-1 tvg-id="room-9912140" tvg-logo="https://sta.vnres.co/file/common/20260830/bbf969a0e9a0c81b136312e23ed16b13.png" group-title="Bóng đá",Korea DPR U20 vs Iran U20 (AFC U20)
-https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=9aedf26d5eeadd8842e7ee117e11b27e&txTime=6a99472c
+https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=6f55d37bdcf7e86bfb852745a471790c&txTime=6a998685
 #EXTINF:-1 tvg-id="room-9912141" tvg-logo="https://sta.vnres.co/file/common/20260901/25734f9bdbb8e11a9cebf7637446b32a.png" group-title="Bóng đá",Deportivo Pereira vs Dep.Independiente Medellin (COL D1)
 https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1788418728-0-0-16cd825120aa1ebcbff2ccd9048c8b98
 #EXTINF:-1 tvg-id="room-9912142" tvg-logo="https://sta.vnres.co/file/common/20260830/e149eb8ff3a1405e5a4020dc77a370e7.png" group-title="Bóng đá",Palestine U20 vs Vietnam U20 (AFC U20)
@@ -146,66 +146,64 @@ https://pull.niur.live/live/stream-9912142_lhd.m3u8?txSecret=a520d9efbf0c6b51785
 #EXTINF:-1 tvg-id="room-9912143" tvg-logo="https://sta.vnres.co/file/common/20260901/3265aa4cb697a53f462c05c74c5aa45b.png" group-title="Bóng đá",America de Cali vs Alianza (COL D1)
 https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1788422004-0-0-84964dd1f9368e6f0fed283fde43f9c6
 #EXTINF:-1 tvg-id="room-9912144" tvg-logo="https://sta.vnres.co/file/common/20260830/231ffe394d9e714113c1e1d3e99a70ea.png" group-title="Bóng đá",United Arab Emirates U20 vs Iraq U20 (AFC U20)
-https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788427981-0-0-b1a7138c5b182dffc3fbf9ade0edfe53
+https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788428341-0-0-bbd00025a51f7550673e0841964ac678
 #EXTINF:-1 tvg-id="room-9912145" tvg-logo="https://sta.vnres.co/file/common/20260830/6c0b0b9141c9068df4e6e0acd7a3824b.png" group-title="Bóng đá",Al-Ahli Doha vs Qatar SC (QAT D1)
 https://pull.niur.live/live/stream-9912145_lhd.m3u8?txSecret=b040c1bf391e429b0e1c0530ead73bd9&txTime=6a94bda7
 #EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260830/e149eb8ff3a1405e5a4020dc77a370e7.png" group-title="Bóng đá",Palestine U20 vs Vietnam U20 (AFC U20)
 https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788418858-0-0-dc79b9afc744c3f7b37bb9342879b5fa
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260901/353d0b23698a39409c66399b0b58e57b.png" group-title="Bóng rổ",Negros Muscovados vs Imus Agimat (MPBL)
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=638df175827fd734e1cf68de6d0a27f8&txTime=6a99851d
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=bf937dd01ea46b650397f0ff37a29177&txTime=6a998649
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260901/353d0b23698a39409c66399b0b58e57b.png" group-title="Bóng rổ",Negros Muscovados vs Imus Agimat (MPBL)
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=aa4a55d6102e99fa1b6d5a9634937c3c&txTime=6a99851d
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=50e7fe32f94c535b2fa9ab291999e118&txTime=6a9985fd
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260901/10c631da14c62ac260f910b3d76f266e.png" group-title="Bóng rổ",Brisbane Bullets vs Tasmania JackJumpers (NBL)
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788427981-0-0-412ad1141f63a019d784c54d7de980c6
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788428341-0-0-eeef3b68844c5229f7fbf6a0cc3987b4
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260901/10c631da14c62ac260f910b3d76f266e.png" group-title="Bóng rổ",Brisbane Bullets vs Tasmania JackJumpers (NBL)
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788427981-0-0-2cc64fb5684bdfe828ee69fbe867836e
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788428341-0-0-3861d236cebbcccb6528e7caad5290a5
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260902/d90d41ce70300a2cac3742d2d0877dcd.png" group-title="Bóng rổ",New Zealand Breakers vs Sydney Kings (NBL)
 https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788425104-0-0-3ab433369f87d83cf7e83d2307da8c51
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260901/10c631da14c62ac260f910b3d76f266e.png" group-title="Bóng rổ",Brisbane Bullets vs Tasmania JackJumpers (NBL)
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788427981-0-0-18576546d6ebffa48357a5d42f29b5a4
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788428341-0-0-21f6f786ddb76cdcfe1162e0244c7411
 #EXTINF:-1 tvg-id="room-133277" tvg-logo="https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg" group-title="SocoLive",Tường thuật: KSA PR - Al Hilal vs Al Ahli SC - Gà xào sả ớt
-https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=c3762188bb2d79eb3cd2a263f668aa5d&txTime=6a99851d
+https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=cf736f6490b5c5d2f7a533dda4ba9b5e&txTime=6a998649
 #EXTINF:-1 tvg-id="room-133824" tvg-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg" group-title="SocoLive",Tường thuật: COL D1 - Fortaleza F.C vs Deportiva Once Caldas - Bò leo rào
-https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=1cf573f005a8cc82a09c6a328052a135&txTime=6a99851d
+https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=280e34b77d042a407bcc37c7e2cc960e&txTime=6a998649
 #EXTINF:-1 tvg-id="room-152898" tvg-logo="https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png" group-title="SocoLive",Tường thuật: BRA Cup - Atlético Mineiro - MG vs Cruzeiro - MG - Thỏ giang hồ
-https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=ad9ac25f66a31b085ce4d08565dbed4c&txTime=6a99851d
+https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=adef48c3c5856904ba779ce77d890749&txTime=6a998649
 #EXTINF:-1 tvg-id="room-179093" tvg-logo="https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg" group-title="SocoLive",Tường thuật: RUS Cup - Fakel Voronezh vs FK Krasnodar - Hươu đau cổ
-https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=d42ee28c4dc3d79a0ef934ffc0f4ec27&txTime=6a99851d
+https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=062315e1c246ec3c434c5ce35e5281fa&txTime=6a998649
 #EXTINF:-1 tvg-id="room-283501" tvg-logo="https://sta.vnres.co/file/common/20260903/b42380e6dc153c3b49df40499a20d9be.png" group-title="SocoLive",AFC U20: Kuwait U20 vs Yemen U20 - BLV KAN
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=10dd075dda7f0968097af439dd3c8e11&txTime=6a99851d
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=c7404046a6c5f34e726b482bc4a1a6b8&txTime=6a998649
 #EXTINF:-1 tvg-id="room-343500" tvg-logo="https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg" group-title="SocoLive",Tường thuật: ENG LCH - West Ham United vs Wolverhampton Wanderers - Mèo méo meo
-https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=7a9d598fbff779fe7d157743104da283&txTime=6a99851d
-#EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg" group-title="SocoLive",MPBL: Negros Muscovados vs Imus Agimat - A CHÈ
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=638df175827fd734e1cf68de6d0a27f8&txTime=6a99851d
+https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=2022223ed0ab1c3e2cd5c247f4e04546&txTime=6a998649
 #EXTINF:-1 tvg-id="room-414317" tvg-logo="https://sta.vnres.co/file/common/20260806/4c726754b547e8d50d1f1dd3d1304c4f.jpg" group-title="SocoLive",AFC U20: Malaysia U20 vs Australia U20 - THOMAS
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=a1b80a24725f03394b3589faf6a3d90e&txTime=6a99851d
-#EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg" group-title="SocoLive",MPBL: Negros Muscovados vs Imus Agimat - HUNTER
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=aa4a55d6102e99fa1b6d5a9634937c3c&txTime=6a99851d
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=02f813b2d120d0c09e6d638dc3f0b4ee&txTime=6a998649
 #EXTINF:-1 tvg-id="room-603255" tvg-logo="https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7.png" group-title="SocoLive",AFC U20: Macau U20 vs Singapore U20 - BLV LION
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1788427981-0-0-3d531feb9b072ad5c11f427396820f4e
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1788428281-0-0-3f069569ab8883c99e6f9f4cca68d398
 #EXTINF:-1 tvg-id="room-619561" tvg-logo="https://sta.vnres.co/file/common/20260729/d06a0efe274bce28547238bec2a125b9.jpg" group-title="SocoLive",AFC U20: Korea DPR U20 vs Iran U20 - BÚN ĐẬU
-https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1788427981-0-0-04556f3a095afefcaa4b91d3d46163e2
+https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1788428281-0-0-37887764e2879fede2a4ee47b9d20ba5
 #EXTINF:-1 tvg-id="room-620084" tvg-logo="https://sta.vnres.co/file/common/20260713/cbd81ea71d49b5b5f074a5f56678a9b6.png" group-title="SocoLive",AFC U20: United Arab Emirates U20 vs Iraq U20 - PEANUT
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1788427981-0-0-0abac3e16cf82fdc3a58563d38f8947d
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1788428281-0-0-bb98a42ff4fc3c46adfeee8bbdad150e
 #EXTINF:-1 tvg-id="room-622240" tvg-logo="https://sta.vnres.co/file/common/20260809/8d3ecd1339e9fe41608eb4b7f008436c.jpg" group-title="SocoLive",AFC U20: Korea DPR U20 vs Iran U20 - CURRY
-https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1788427981-0-0-b2bf39bb7f9939515992d632f3625df2
+https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1788428281-0-0-ba4986e4996e6d8327729d6b925e0711
 #EXTINF:-1 tvg-id="room-991140" tvg-logo="https://sta.vnres.co/file/common/20240614/d900dd8841b1223c7b58554cde34df75.jpg" group-title="SocoLive",AFC U20: United Arab Emirates U20 vs Iraq U20 - BLV FIREMAN
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788427981-0-0-0926902e8d40a6483b43d4faba4233bc
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788428281-0-0-0f64dc9ac7bfa7c3985df730a4ab4b28
 #EXTINF:-1 tvg-id="room-9912079" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg" group-title="SocoLive",Tường thuật: GERC - HEBC Hamburg vs Borussia Dortmund - Rắn ở đáy sông
-https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=92d98d05faa31f7aa6cf09956daa028b&txTime=6a99851d
+https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=99c5ab7d953042fec37bd35bff39b05c&txTime=6a998649
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-title="SocoLive",NBL: Brisbane Bullets vs Tasmania JackJumpers - KING
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788427981-0-0-412ad1141f63a019d784c54d7de980c6
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788428281-0-0-50e3df33c4731167baa1fd3e8df69981
 #EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg" group-title="SocoLive",AFC U20: Kuwait U20 vs Yemen U20 - BLV RÔSI
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=9249a5be5468afe22c3e7c7871076886&txTime=6a99851d
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=73913e020edd32fdf19894de6bb93f6b&txTime=6a998649
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-title="SocoLive",NBL: Brisbane Bullets vs Tasmania JackJumpers - BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788427981-0-0-2cc64fb5684bdfe828ee69fbe867836e
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788428281-0-0-0d1cf1bfcc0889c12d26597d0493f076
 #EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151.png" group-title="SocoLive",AFC U20: Malaysia U20 vs Australia U20 - BLV VOI
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1788427981-0-0-1ea54ab13404a97143474fabad320e6b
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1788428281-0-0-2c23af7e463a36a5c5a6124d22eac9f6
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg" group-title="SocoLive",NBL: Brisbane Bullets vs Tasmania JackJumpers - CHAN SENA
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788427981-0-0-18576546d6ebffa48357a5d42f29b5a4
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788428281-0-0-e1037bd39a960b70557e41cf911ff3cc
 #EXTINF:-1 tvg-id="room-9912130" tvg-logo="https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png" group-title="SocoLive",AFC U20: Macau U20 vs Singapore U20 - BLV A TÚ
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788427981-0-0-6991541b1e80f8503dca681d6ca456e3
+https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788428281-0-0-d6242057de70fae61e7ab38fa3c53c20
 #EXTINF:-1 tvg-id="room-9912132" tvg-logo="https://sta.vnres.co/file/common/20260613/cc7eb6fb9d74dfa083a48c861b135ae8.jpg" group-title="SocoLive",AFC U20: United Arab Emirates U20 vs Iraq U20 - BLV XO
-https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=bf5886b87dc911622e685000ed1bac84&txTime=6a99851d
+https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=b44bcb347f9d6b46ea4127985ca1f9e8&txTime=6a998649
+#EXTINF:-1 tvg-id="room-9912140" tvg-logo="https://sta.vnres.co/file/common/20260807/a76465a880a2789f42e440cf03e9db6b.jpg" group-title="SocoLive",AFC U20: Korea DPR U20 vs Iran U20 - SAO LA
+https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=76b61271e8fec7657af5fdad94aa24ee&txTime=6a998649
 #EXTINF:-1 tvg-id="room-9912144" tvg-logo="https://sta.vnres.co/file/common/20260730/7804d6332c85f80cc4843609598de690.jpg" group-title="SocoLive",AFC U20: United Arab Emirates U20 vs Iraq U20 - BÁ PHÚ
-https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788427981-0-0-b1a7138c5b182dffc3fbf9ade0edfe53
+https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788428281-0-0-e86b647b6b61677bdcfa841b951bde25
