@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 102
-# Updated: 03/09/2026 03:11:42
+# Channels: 100
+# Updated: 03/09/2026 03:16:48
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260902/52d6fd6167b64e7a54402674d4b06af7.jpg" group-title="Bóng đá",Kyrgyzstan U20 vs Lebanon U20 (AFC U20)
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788406309-0-0-3daf9d31d0a0d0c0bba8a4d1d47dc831
@@ -16,15 +16,15 @@ https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=2faacc87dc2fcb58133c
 #EXTINF:-1 tvg-id="room-327159" tvg-logo="https://sta.vnres.co/file/common/20260830/24a22a70bb5b0ef54d381b9089112212.png" group-title="Bóng đá",Laos U20 vs Indonesia U20 (AFC U20)
 https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1788386039-0-0-21f673cb8ac56c3c41d42f8ae765cc58
 #EXTINF:-1 tvg-id="room-372746" tvg-logo="https://sta.vnres.co/file/common/20260830/3af92a05c89afa21be887192de367a8f.png" group-title="Bóng đá",Independiente Santa Fe vs Millonarios (COL D1)
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788408661-0-0-f1db73395db93059bcb3cbbafea253dd
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788408961-0-0-f90b9251f0ae735968f4064f27cd7e6c
 #EXTINF:-1 tvg-id="room-380460" tvg-logo="https://sta.vnres.co/file/common/20260831/2557c131223ce7340068749331e70f7f.png" group-title="Bóng đá",Guam U20 vs Northern Mariana Islands U20 (AFC U20)
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1788408661-0-0-068dbf16483c612d3eac88fd6da9c31e
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1788408961-0-0-54cb7f22122590f3c114566209bb8497
 #EXTINF:-1 tvg-id="room-387694" tvg-logo="https://sta.vnres.co/file/common/20260830/d578777de153bde6dd27070b3d01c2b6.png" group-title="Bóng đá",Palermo vs Mantova (ITA Cup)
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=bf0edff5f77717cdef5cfe021088e0b3&txTime=6a9939a5
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=d6c9f5af2d535908dac43a49d271923b&txTime=6a993a2c
 #EXTINF:-1 tvg-id="room-406865" tvg-logo="https://sta.vnres.co/file/common/20260830/394b2d95bf377b7f259d21e151b7d129.png" group-title="Bóng đá",Al Fayha vs Al Kholood (KSA PR)
 https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=d52a7e58f94e59428ed55a91db58809b&txTime=6a98c63a
 #EXTINF:-1 tvg-id="room-414317" tvg-logo="https://sta.vnres.co/file/common/20260830/5c31ff55f5804e73a79d5d92c3298b60.png" group-title="Bóng đá",Vancouver Whitecaps vs Montreal Impact (CAN CC)
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=115085a62fedf2059ff5311308d71edd&txTime=6a9939a5
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=c1063f524d05e92141046fa2fe2fa00b&txTime=6a993ad1
 #EXTINF:-1 tvg-id="room-459401" tvg-logo="https://sta.vnres.co/file/common/20260830/b807ca58518759b324db4e95e4376c07.png" group-title="Bóng đá",FC OKMK Olmaliq vs Xorazm Urganch (UZB PFL)
 https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=118f5a71c4a973039058a5c54f2c617f&txTime=6a98daab
 #EXTINF:-1 tvg-id="room-485739" tvg-logo="https://sta.vnres.co/file/common/20260901/616a1168fa37cc2d321d247b8778e74b.png" group-title="Bóng đá",Grêmio - RS vs Internacional - RS (BRA Cup)
@@ -38,9 +38,9 @@ https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1788354120-0-0-97ea
 #EXTINF:-1 tvg-id="room-527383" tvg-logo="https://sta.vnres.co/file/common/20260830/a26137ec7f294d4b1e7c1e2b7fa3a8ab.png" group-title="Bóng đá",Neom SC vs Al Khaleej (KSA PR)
 https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1788382056-0-0-4b2f11542d2cdedd9e16bbec1b683115
 #EXTINF:-1 tvg-id="room-527384" tvg-logo="https://sta.vnres.co/file/common/20260831/2557c131223ce7340068749331e70f7f.png" group-title="Bóng đá",Guam U20 vs Northern Mariana Islands U20 (AFC U20)
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1788408661-0-0-63cc665046b3328a6b22a05091e2a539
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1788408907-0-0-b636de24c6b8a2b6f98046da7d58a45f
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260830/5c31ff55f5804e73a79d5d92c3298b60.png" group-title="Bóng đá",Vancouver Whitecaps vs Montreal Impact (CAN CC)
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788408661-0-0-e816a0ee553150d2dc4612d7c8b83e87
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788408961-0-0-45467208617fcba50c8d3172c778f23b
 #EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260831/9ac1ca4e120c672320551c27cd243b7f.png" group-title="Bóng đá",Macau U20 vs Singapore U20 (AFC U20)
 https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=251dec026fa88715ebc2dd2b69a8baac&txTime=6a990dea
 #EXTINF:-1 tvg-id="room-536185" tvg-logo="https://sta.vnres.co/file/common/20260830/d578777de153bde6dd27070b3d01c2b6.png" group-title="Bóng đá",Palermo vs Mantova (ITA Cup)
@@ -48,7 +48,7 @@ https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788384607-0-0-1991
 #EXTINF:-1 tvg-id="room-552832" tvg-logo="https://sta.vnres.co/file/common/20260901/3265aa4cb697a53f462c05c74c5aa45b.png" group-title="Bóng đá",America de Cali vs Alianza (COL D1)
 https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=9bc14bbdef2287e2da2be4d52ec7c523&txTime=6a992fb4
 #EXTINF:-1 tvg-id="room-582342" tvg-logo="https://sta.vnres.co/file/common/20260830/5c31ff55f5804e73a79d5d92c3298b60.png" group-title="Bóng đá",Vancouver Whitecaps vs Montreal Impact (CAN CC)
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1788408661-0-0-571cb5428139c2cbd340ddcd97c624b7
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1788408961-0-0-ecef5ae6cd7e6892eab0568a78267a41
 #EXTINF:-1 tvg-id="room-597929" tvg-logo="https://sta.vnres.co/file/common/20260831/9ac1ca4e120c672320551c27cd243b7f.png" group-title="Bóng đá",Macau U20 vs Singapore U20 (AFC U20)
 https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1788368150-0-0-2b71cf8627274eccc055aa16e01ddd14
 #EXTINF:-1 tvg-id="room-602019" tvg-logo="https://sta.vnres.co/file/common/20260830/1761d47bc152bc1a352e2d65c8668e78.png" group-title="Bóng đá",Brunei Darussalam U20 vs Myanmar U20 (AFC U20)
@@ -58,7 +58,7 @@ https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1788376946-0-0-b89b
 #EXTINF:-1 tvg-id="room-603914" tvg-logo="https://sta.vnres.co/file/common/20260830/841aef7f8f502d6cbf7de1440fdfb803.png" group-title="Bóng đá",Turkmenistan U20 vs Thailand U20 (AFC U20)
 https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1788405864-0-0-79cb995b4a9bab6ddff5a6a9c56ad76c
 #EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260830/3af92a05c89afa21be887192de367a8f.png" group-title="Bóng đá",Independiente Santa Fe vs Millonarios (COL D1)
-https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=e6e36423518aa89d3736178c447ad557&txTime=6a9939a5
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=81ff82e982ac237f4568f25ec08cfe9c&txTime=6a993ad1
 #EXTINF:-1 tvg-id="room-607552" tvg-logo="https://sta.vnres.co/file/common/20260830/2471d4e59f882d2f85ee6735cc7b50bd.png" group-title="Bóng đá",Al-Sailiya vs Al-Arabi SC (QAT D1)
 https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1788385159-0-0-6a4a05331c2f5df998ad1d709d5a79f8
 #EXTINF:-1 tvg-id="room-610518" tvg-logo="https://sta.vnres.co/file/common/20260901/616a1168fa37cc2d321d247b8778e74b.png" group-title="Bóng đá",Grêmio - RS vs Internacional - RS (BRA Cup)
@@ -82,13 +82,13 @@ https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=f099970906d6af7d3dae
 #EXTINF:-1 tvg-id="room-621843" tvg-logo="https://sta.vnres.co/file/common/20260830/ddca0f41b275362927089972497e66ed.png" group-title="Bóng đá",Dynamo Moscow vs Akhmat Grozny (RUS Cup)
 https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1788386253-0-0-1a9d7745c43f6d7895063c7b361ca621
 #EXTINF:-1 tvg-id="room-621887" tvg-logo="https://sta.vnres.co/file/common/20260830/3af92a05c89afa21be887192de367a8f.png" group-title="Bóng đá",Independiente Santa Fe vs Millonarios (COL D1)
-https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1788408661-0-0-4fc8294749d04e3f8a4e7ba7c3c8dca2
+https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1788408961-0-0-719ba879023cde1efbbee2bad21f2771
 #EXTINF:-1 tvg-id="room-622093" tvg-logo="https://sta.vnres.co/file/common/20260831/ac72a8aec10835d933c35aab5874a1c4.png" group-title="Bóng đá",Rakow Czestochowa vs Gornik Zabrze (POL D1)
 https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=e97b9c0497b29f99e84ea066fe9066a8&txTime=6a9893b6
 #EXTINF:-1 tvg-id="room-622240" tvg-logo="https://sta.vnres.co/file/common/20260830/bbf969a0e9a0c81b136312e23ed16b13.png" group-title="Bóng đá",Korea DPR U20 vs Iran U20 (AFC U20)
 https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1788294454-0-0-04b6122a1d9093ab8977aeae43b670d1
 #EXTINF:-1 tvg-id="room-622241" tvg-logo="https://sta.vnres.co/file/common/20260830/7b670f2dbd11ae214ce46603b5c47612.png" group-title="Bóng đá",Club America vs Rayados de Monterrey (CNCF LC)
-https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1788408661-0-0-b813c456d08e535732d1b184019a9656
+https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1788408961-0-0-209a6584179a49a40e8758e694fc25e7
 #EXTINF:-1 tvg-id="room-625920" tvg-logo="https://sta.vnres.co/file/common/20260830/2471d4e59f882d2f85ee6735cc7b50bd.png" group-title="Bóng đá",Al-Sailiya vs Al-Arabi SC (QAT D1)
 https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1788385209-0-0-f71edeef244b180b1d76d9cbc43859f3
 #EXTINF:-1 tvg-id="room-627718" tvg-logo="https://sta.vnres.co/file/common/20260831/e13d745a882f04106f5e50bf884a50ae.png" group-title="Bóng đá",Bangladesh U20 vs Syria U20 (AFC U20)
@@ -96,15 +96,15 @@ https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1788364801-0-0-8a9d
 #EXTINF:-1 tvg-id="room-991140" tvg-logo="https://sta.vnres.co/file/common/20260830/231ffe394d9e714113c1e1d3e99a70ea.png" group-title="Bóng đá",United Arab Emirates U20 vs Iraq U20 (AFC U20)
 https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788386900-0-0-7ad2f852669f0d273f8387bccae671ba
 #EXTINF:-1 tvg-id="room-9912008" tvg-logo="https://sta.vnres.co/file/common/20260830/7b670f2dbd11ae214ce46603b5c47612.png" group-title="Bóng đá",Club America vs Rayados de Monterrey (CNCF LC)
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1788408661-0-0-0aedb190306022368d028d8487b44931
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1788408961-0-0-2c7d8b76851c09e687daf69cc874d9d1
 #EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260830/7b670f2dbd11ae214ce46603b5c47612.png" group-title="Bóng đá",Club America vs Rayados de Monterrey (CNCF LC)
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=d6b0262aaca3e5381e549b51be043fcf&txTime=6a9939a5
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=73d75c66616faed7dbdab31680c5fbd0&txTime=6a993ad1
 #EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260830/e149eb8ff3a1405e5a4020dc77a370e7.png" group-title="Bóng đá",Palestine U20 vs Vietnam U20 (AFC U20)
 https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788406374-0-0-84ae99e68028e844858592f437e3f802
 #EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260830/eeb986a913bb2ff6bd46ab1624320578.png" group-title="Bóng đá",Kuwait U20 vs Yemen U20 (AFC U20)
 https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=291c6364be8bac3dffa49fcf4db362dc&txTime=6a98b8f8
 #EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260830/7b670f2dbd11ae214ce46603b5c47612.png" group-title="Bóng đá",Club America vs Rayados de Monterrey (CNCF LC)
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788408661-0-0-1f9edac3b1755663d548643046bca2a9
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788408961-0-0-ef13671a3cf996a2627fa9ab1bfffd0d
 #EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260830/2ba295102261427056f8764102626df9.png" group-title="Bóng đá",Malaysia U20 vs Australia U20 (AFC U20)
 https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1788399479-0-0-fa61b9f4602fd3cb4fe69a6d79b8fabd
 #EXTINF:-1 tvg-id="room-9912119" tvg-logo="https://sta.vnres.co/file/common/20260830/2ba295102261427056f8764102626df9.png" group-title="Bóng đá",Malaysia U20 vs Australia U20 (AFC U20)
@@ -112,15 +112,15 @@ https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1788406156-0-0-5db
 #EXTINF:-1 tvg-id="room-9912123" tvg-logo="https://sta.vnres.co/file/common/20260830/a26137ec7f294d4b1e7c1e2b7fa3a8ab.png" group-title="Bóng đá",Neom SC vs Al Khaleej (KSA PR)
 https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1788378955-0-0-ab0ff0a8cebcde9cc4ceab0d52d92e8d
 #EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260830/3af92a05c89afa21be887192de367a8f.png" group-title="Bóng đá",Independiente Santa Fe vs Millonarios (COL D1)
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788408661-0-0-13cea043ad219b62435d8f33af0ce6c1
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788408961-0-0-3d21605dcd2d39d179fca8174f40b209
 #EXTINF:-1 tvg-id="room-9912126" tvg-logo="https://sta.vnres.co/file/common/20260831/e13d745a882f04106f5e50bf884a50ae.png" group-title="Bóng đá",Bangladesh U20 vs Syria U20 (AFC U20)
 https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=a88b1e1ab550b27db24332f30b3d9b5b&txTime=6a98d315
 #EXTINF:-1 tvg-id="room-9912127" tvg-logo="https://sta.vnres.co/file/common/20260830/5c31ff55f5804e73a79d5d92c3298b60.png" group-title="Bóng đá",Vancouver Whitecaps vs Montreal Impact (CAN CC)
-https://pull.niues.live/live/stream-9912127_lhd.m3u8?auth_key=1788408661-0-0-ce58784b199d7d63f2971356031994f9
+https://pull.niues.live/live/stream-9912127_lhd.m3u8?auth_key=1788408961-0-0-4f14a9a4ee9face786d5ff9e111e1909
 #EXTINF:-1 tvg-id="room-9912128" tvg-logo="https://sta.vnres.co/file/common/20260830/d578777de153bde6dd27070b3d01c2b6.png" group-title="Bóng đá",Palermo vs Mantova (ITA Cup)
 https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1788385158-0-0-c98b3d80cc8d3cfa78e7fd633d52e322
 #EXTINF:-1 tvg-id="room-9912129" tvg-logo="https://sta.vnres.co/file/common/20260830/5c31ff55f5804e73a79d5d92c3298b60.png" group-title="Bóng đá",Vancouver Whitecaps vs Montreal Impact (CAN CC)
-https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=607fb25fdde87dfe33e00ea86984a733&txTime=6a9939a5
+https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=c17bb9b297bffa2f2eb3528e846d6e98&txTime=6a993ad1
 #EXTINF:-1 tvg-id="room-9912130" tvg-logo="https://sta.vnres.co/file/common/20260831/d571ec44c62839388adf24838a628387.png" group-title="Bóng đá",Nepal U20 vs Mongolia U20 (AFC U20)
 https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788381917-0-0-e8e3ccab27a81ae1fdfea8e0c1624152
 #EXTINF:-1 tvg-id="room-9912131" tvg-logo="https://sta.vnres.co/file/common/20260901/9a986cf3a48e16bf94907403954995e7.png" group-title="Bóng đá",Iğdır FK vs Manisa Futbol Kulübü (TFF 1. Lig)
@@ -138,9 +138,9 @@ https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1788384247-0-0-9a9
 #EXTINF:-1 tvg-id="room-9912139" tvg-logo="https://sta.vnres.co/file/common/20260831/87304d54e1526865952f95a6872c0df6.png" group-title="Bóng đá",Sri Lanka U20 vs Maldives U20 (AFC U20)
 https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=44b1c8ccd56e59b77dd479e9e528fb80&txTime=6a98e156
 #EXTINF:-1 tvg-id="room-9912140" tvg-logo="https://sta.vnres.co/file/common/20260830/5c31ff55f5804e73a79d5d92c3298b60.png" group-title="Bóng đá",Vancouver Whitecaps vs Montreal Impact (CAN CC)
-https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=a6cf0e5c8d99e43bad3ef9b06e6b7061&txTime=6a9939a5
+https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=3a312eddd90e59a4f9b3d53e239ff2b3&txTime=6a993ad1
 #EXTINF:-1 tvg-id="room-9912141" tvg-logo="https://sta.vnres.co/file/common/20260830/7b670f2dbd11ae214ce46603b5c47612.png" group-title="Bóng đá",Club America vs Rayados de Monterrey (CNCF LC)
-https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1788408661-0-0-d3b87a6348de7dee9b3df0ef90585493
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1788408961-0-0-07fdd09dcb4073cae9cd241dd9ffae85
 #EXTINF:-1 tvg-id="room-9912142" tvg-logo="https://sta.vnres.co/file/common/20260830/e149eb8ff3a1405e5a4020dc77a370e7.png" group-title="Bóng đá",Palestine U20 vs Vietnam U20 (AFC U20)
 https://pull.niur.live/live/stream-9912142_lhd.m3u8?txSecret=a520d9efbf0c6b51785960657e769b76&txTime=6a993149
 #EXTINF:-1 tvg-id="room-9912143" tvg-logo="https://sta.vnres.co/file/common/20260831/2557c131223ce7340068749331e70f7f.png" group-title="Bóng đá",Guam U20 vs Northern Mariana Islands U20 (AFC U20)
@@ -150,60 +150,56 @@ https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788375505-0-0-a0a
 #EXTINF:-1 tvg-id="room-9912145" tvg-logo="https://sta.vnres.co/file/common/20260830/2ba295102261427056f8764102626df9.png" group-title="Bóng đá",Malaysia U20 vs Australia U20 (AFC U20)
 https://pull.niur.live/live/stream-9912145_lhd.m3u8?txSecret=b040c1bf391e429b0e1c0530ead73bd9&txTime=6a94bda7
 #EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260830/7b670f2dbd11ae214ce46603b5c47612.png" group-title="Bóng đá",Club America vs Rayados de Monterrey (CNCF LC)
-https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788408661-0-0-3e31bf6390b10bd0921128faebc4caea
+https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788409002-0-0-fcdcc4a855c2d3f6f8d5ca6c495c502e
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260901/353d0b23698a39409c66399b0b58e57b.png" group-title="Bóng rổ",Negros Muscovados vs Imus Agimat (MPBL)
 https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=a476584b9a4392b8feefc10d0a7ddeda&txTime=6a981f68
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260901/353d0b23698a39409c66399b0b58e57b.png" group-title="Bóng rổ",Negros Muscovados vs Imus Agimat (MPBL)
 https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=5589523de24bb2a9a962104f4e4ec363&txTime=6a98a7d5
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260901/6f8d4075f0023c77978b5438e0dd3577.png" group-title="Bóng rổ",Shandong Hi-Speed Kirin vs Liaoning Flying Leopards (CBASL)
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788408661-0-0-31d33445fa4dee07b3b4b8c0133419c9
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788408961-0-0-2302c6aadf51734e9eb09168dcac6052
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260901/6f8d4075f0023c77978b5438e0dd3577.png" group-title="Bóng rổ",Shandong Hi-Speed Kirin vs Liaoning Flying Leopards (CBASL)
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788408661-0-0-88a90e75440680f8f2850199c9cd293b
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788408961-0-0-78c2a9f40f2dd5e5f238738965f608de
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260901/6f8d4075f0023c77978b5438e0dd3577.png" group-title="Bóng rổ",Shandong Hi-Speed Kirin vs Liaoning Flying Leopards (CBASL)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788408661-0-0-5f899739af89625944eba055aca6a657
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788408961-0-0-f9d4ef70082c17a8e54c716ad0306dc4
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260901/10c631da14c62ac260f910b3d76f266e.png" group-title="Bóng rổ",Brisbane Bullets vs Tasmania JackJumpers (NBL)
 https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788359560-0-0-5c70712ad7e25827909196e1bf276584
 #EXTINF:-1 tvg-id="room-372746" tvg-logo="https://sta.vnres.co/file/common/20260728/ba06eac3dc3ffeee0de25e8e0deaaceb.jpg" group-title="SocoLive",COL D1: Independiente Santa Fe vs Millonarios - BLV YONE
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788408661-0-0-f1db73395db93059bcb3cbbafea253dd
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788408961-0-0-f90b9251f0ae735968f4064f27cd7e6c
 #EXTINF:-1 tvg-id="room-380460" tvg-logo="https://sta.vnres.co/file/common/20260827/1d4f9eca02a381435aaec138589dd9ef.jpg" group-title="SocoLive",CNCF LC: Toluca vs Club Leon - BLV ENZO
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1788408661-0-0-068dbf16483c612d3eac88fd6da9c31e
-#EXTINF:-1 tvg-id="room-387694" tvg-logo="https://sta.vnres.co/file/common/20260903/e2e5e80161defaaca7cea5a8fb6b5813.jpg" group-title="SocoLive",CNCF LC: Toluca vs Club Leon - CR Bưởi
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=bf0edff5f77717cdef5cfe021088e0b3&txTime=6a9939a5
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1788408961-0-0-54cb7f22122590f3c114566209bb8497
 #EXTINF:-1 tvg-id="room-414317" tvg-logo="https://sta.vnres.co/file/common/20260806/4c726754b547e8d50d1f1dd3d1304c4f.jpg" group-title="SocoLive",CAN CC: Vancouver Whitecaps vs Montreal Impact - THOMAS
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=115085a62fedf2059ff5311308d71edd&txTime=6a9939a5
-#EXTINF:-1 tvg-id="room-527384" tvg-logo="https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg" group-title="SocoLive",CNCF LC: Toluca vs Club Leon - LÃO LÂM
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1788408661-0-0-63cc665046b3328a6b22a05091e2a539
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=c1063f524d05e92141046fa2fe2fa00b&txTime=6a993ad1
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg" group-title="SocoLive",CAN CC: Vancouver Whitecaps vs Montreal Impact - BLV ALEX
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788408661-0-0-e816a0ee553150d2dc4612d7c8b83e87
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788408961-0-0-45467208617fcba50c8d3172c778f23b
 #EXTINF:-1 tvg-id="room-582342" tvg-logo="https://sta.vnres.co/file/common/20260721/f2855aef78044156ad9e45d7985403d0.jpg" group-title="SocoLive",CAN CC: Vancouver Whitecaps vs Montreal Impact - BLV CÒ
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1788408661-0-0-571cb5428139c2cbd340ddcd97c624b7
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1788408961-0-0-ecef5ae6cd7e6892eab0568a78267a41
 #EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg" group-title="SocoLive",COL D1: Independiente Santa Fe vs Millonarios - HÀ DUY KIÊN
-https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=e6e36423518aa89d3736178c447ad557&txTime=6a9939a5
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=81ff82e982ac237f4568f25ec08cfe9c&txTime=6a993ad1
 #EXTINF:-1 tvg-id="room-621887" tvg-logo="https://sta.vnres.co/file/common/20260728/c2935ca02d759ee77531ff32719f1b21.png" group-title="SocoLive",COL D1: Independiente Santa Fe vs Millonarios - CHAN ĐÊ
-https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1788408661-0-0-4fc8294749d04e3f8a4e7ba7c3c8dca2
+https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1788408961-0-0-719ba879023cde1efbbee2bad21f2771
 #EXTINF:-1 tvg-id="room-622241" tvg-logo="https://sta.vnres.co/file/common/20260828/0a19e4efc148afbb5c57d9ee5f69d612.jpg" group-title="SocoLive",CNCF LC: Club America vs Rayados de Monterrey - BLV HEHE
-https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1788408661-0-0-b813c456d08e535732d1b184019a9656
+https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1788408961-0-0-209a6584179a49a40e8758e694fc25e7
 #EXTINF:-1 tvg-id="room-9912008" tvg-logo="https://sta.vnres.co/file/common/20260831/7c64c0a0fec3bf5cf09804100116876a.png" group-title="SocoLive",CNCF LC: Club America vs Rayados de Monterrey - BLV TOMIA
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1788408661-0-0-0aedb190306022368d028d8487b44931
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1788408961-0-0-2c7d8b76851c09e687daf69cc874d9d1
 #EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56.jpg" group-title="SocoLive",CNCF LC: Club America vs Rayados de Monterrey - BLV TAP
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=d6b0262aaca3e5381e549b51be043fcf&txTime=6a9939a5
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=73d75c66616faed7dbdab31680c5fbd0&txTime=6a993ad1
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-title="SocoLive",CBASL: Shandong Hi-Speed Kirin vs Liaoning Flying Leopards - KING
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788408661-0-0-31d33445fa4dee07b3b4b8c0133419c9
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788408961-0-0-2302c6aadf51734e9eb09168dcac6052
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-title="SocoLive",CBASL: Shandong Hi-Speed Kirin vs Liaoning Flying Leopards - BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788408661-0-0-88a90e75440680f8f2850199c9cd293b
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788408961-0-0-78c2a9f40f2dd5e5f238738965f608de
 #EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260831/caac4db30e51ab3213e882c77bf88da5.png" group-title="SocoLive",CNCF LC: Club America vs Rayados de Monterrey - BLV ZOWIE
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788408661-0-0-1f9edac3b1755663d548643046bca2a9
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788408961-0-0-ef13671a3cf996a2627fa9ab1bfffd0d
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg" group-title="SocoLive",CBASL: Shandong Hi-Speed Kirin vs Liaoning Flying Leopards - BLV HENRY
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788408661-0-0-5f899739af89625944eba055aca6a657
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788408961-0-0-f9d4ef70082c17a8e54c716ad0306dc4
 #EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg" group-title="SocoLive",COL D1: Independiente Santa Fe vs Millonarios - KENCHU
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788408661-0-0-13cea043ad219b62435d8f33af0ce6c1
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788408961-0-0-3d21605dcd2d39d179fca8174f40b209
 #EXTINF:-1 tvg-id="room-9912127" tvg-logo="https://sta.vnres.co/file/common/20250320/efe293015c817dee46ccc81fa5e934d7.jpg" group-title="SocoLive",CAN CC: Vancouver Whitecaps vs Montreal Impact - BLV PIRLO
-https://pull.niues.live/live/stream-9912127_lhd.m3u8?auth_key=1788408661-0-0-ce58784b199d7d63f2971356031994f9
+https://pull.niues.live/live/stream-9912127_lhd.m3u8?auth_key=1788408961-0-0-4f14a9a4ee9face786d5ff9e111e1909
 #EXTINF:-1 tvg-id="room-9912129" tvg-logo="https://sta.vnres.co/file/common/20260831/3e123f795761f1e62f09740306f47083.jpg" group-title="SocoLive",CAN CC: Vancouver Whitecaps vs Montreal Impact - QUỐC KHÁNH
-https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=607fb25fdde87dfe33e00ea86984a733&txTime=6a9939a5
+https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=c17bb9b297bffa2f2eb3528e846d6e98&txTime=6a993ad1
 #EXTINF:-1 tvg-id="room-9912140" tvg-logo="https://sta.vnres.co/file/common/20260807/a76465a880a2789f42e440cf03e9db6b.jpg" group-title="SocoLive",CAN CC: Vancouver Whitecaps vs Montreal Impact - SAO LA
-https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=a6cf0e5c8d99e43bad3ef9b06e6b7061&txTime=6a9939a5
+https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=3a312eddd90e59a4f9b3d53e239ff2b3&txTime=6a993ad1
 #EXTINF:-1 tvg-id="room-9912141" tvg-logo="https://sta.vnres.co/file/common/20260824/9579d2a0c143f2633fac665f96906c48.jpg" group-title="SocoLive",CNCF LC: Club America vs Rayados de Monterrey - BLV MESSI
-https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1788408661-0-0-d3b87a6348de7dee9b3df0ef90585493
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1788408961-0-0-07fdd09dcb4073cae9cd241dd9ffae85
 #EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260829/f6903a1879b3c7cc22d27c658db14d94.png" group-title="SocoLive",CNCF LC: Toluca vs Club Leon - BLV CUỘI
-https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788408661-0-0-3e31bf6390b10bd0921128faebc4caea
+https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788408979-0-0-6617ecc8b5f75a7fdab853255b4227f2
