@@ -18,15 +18,6 @@
     "type": "hls"
   },
   {
-    "id": "291277",
-    "tvg_id": "room-291277",
-    "name": "DPMM FC vs Johor Darul Ta'zim FC (MAS SL)",
-    "logo": "https://sta.vnres.co/file/common/20260901/a8ca2d8565069126061d60b60477e9c7.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=b673218a3c388d5de762d57d7f2306a1\u0026txTime=6a9a512b",
-    "type": "hls"
-  },
-  {
     "id": "304148",
     "tvg_id": "room-304148",
     "name": "Paju Frontier FC vs Daegu FC (KOR D2)",
@@ -351,6 +342,15 @@
     "type": "hls"
   },
   {
+    "id": "621887",
+    "tvg_id": "room-621887",
+    "name": "Belgrano vs CA Huracan (ARG D1)",
+    "logo": "https://sta.vnres.co/file/common/20260902/ef0bec1278ef9fec1983e9b70e74e356.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1788494211-0-0-0bdea11eb98b3136d82fe6a65bedf1c4",
+    "type": "hls"
+  },
+  {
     "id": "622093",
     "tvg_id": "room-622093",
     "name": "Bunyodkor vs Termez Surkhon (UZB PFL)",
@@ -662,7 +662,7 @@
     "name": "Zhejiang Guangsha Lions vs Tianjin Pioneers (CBASL)",
     "logo": "https://sta.vnres.co/file/common/20260902/ec62b2c67fd86d17ca7a467fc3d550a4.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=7c123198d0c7cc078ee27245d5487800\u0026txTime=6a9abbe5",
+    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=a481a2534b5186dcb49ac7910f4c0dd5\u0026txTime=6a9abd11",
     "type": "hls"
   },
   {
@@ -680,7 +680,7 @@
     "name": "Zhejiang Guangsha Lions vs Tianjin Pioneers (CBASL)",
     "logo": "https://sta.vnres.co/file/common/20260902/ec62b2c67fd86d17ca7a467fc3d550a4.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788507541-0-0-e9948fb7bd2c84e2cc95394332d20241",
+    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788507841-0-0-0e74a42f46b8dce6997da4e730695a02",
     "type": "hls"
   },
   {
@@ -689,7 +689,7 @@
     "name": "Zhejiang Guangsha Lions vs Tianjin Pioneers (CBASL)",
     "logo": "https://sta.vnres.co/file/common/20260902/ec62b2c67fd86d17ca7a467fc3d550a4.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788507541-0-0-d56e838d897cae93520060591218dbf8",
+    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788507841-0-0-51ca89bf4449ccd91387110b8447166f",
     "type": "hls"
   },
   {
@@ -716,7 +716,7 @@
     "name": "Tường thuật: ITA Cup - Palermo vs Mantova - Gà xào sả ớt",
     "logo": "https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=8000499ada7d0abafea608ceeb2fd827\u0026txTime=6a9abbe5",
+    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=6766eb75cb27099458c2785fc08c9ff4\u0026txTime=6a9abd11",
     "type": "hls"
   },
   {
@@ -725,7 +725,7 @@
     "name": "Tường thuật: QAT D1 - Al-Ahli Doha vs Qatar SC - Bò leo rào",
     "logo": "https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=86f71d289a9387f7ff5d1f4d04be0f58\u0026txTime=6a9abbe5",
+    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=b1295bbba3d57bd7bff7dd4f42ebaad5\u0026txTime=6a9abd11",
     "type": "hls"
   },
   {
@@ -734,7 +734,7 @@
     "name": "Tường thuật: CAN CC - Vancouver Whitecaps vs Montreal Impact - Thỏ giang hồ",
     "logo": "https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=21718c950f54f24c7cc986d5e2edbe6e\u0026txTime=6a9abbe5",
+    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=ef89c9742c1b50f34bb1e132db5990df\u0026txTime=6a9abd11",
     "type": "hls"
   },
   {
@@ -743,7 +743,7 @@
     "name": "Tường thuật: AFC U20 - Palestine U20 vs Vietnam U20 - Hươu đau cổ",
     "logo": "https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=6ece66a4ac02194d7ad4af9dcacb414c\u0026txTime=6a9abbe5",
+    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=bd323d4e91b995e6695331c421278589\u0026txTime=6a9abd11",
     "type": "hls"
   },
   {
@@ -752,7 +752,7 @@
     "name": "Tường thuật: COL D1 - America de Cali vs Alianza - Mèo méo meo",
     "logo": "https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=b150532194ced6573adda453444129cc\u0026txTime=6a9abbe5",
+    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=c75a0d88cd32c81f4aded07423bcdee4\u0026txTime=6a9abd11",
     "type": "hls"
   },
   {
@@ -761,7 +761,7 @@
     "name": "CBASL: Zhejiang Guangsha Lions vs Tianjin Pioneers - A CHÈ",
     "logo": "https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=7c123198d0c7cc078ee27245d5487800\u0026txTime=6a9abbe5",
+    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=a481a2534b5186dcb49ac7910f4c0dd5\u0026txTime=6a9abd11",
     "type": "hls"
   },
   {
@@ -770,7 +770,7 @@
     "name": "Tường thuật: BRA Cup - Santos FC - SP vs Palmeiras - SP - Rắn ở đáy sông",
     "logo": "https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=ade73e310c12bca89b74721ba009bde3\u0026txTime=6a9abbe5",
+    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=e1a9c4bfb117254520602ec90a6d510c\u0026txTime=6a9abd11",
     "type": "hls"
   },
   {
@@ -779,7 +779,7 @@
     "name": "CBASL: Zhejiang Guangsha Lions vs Tianjin Pioneers - KING",
     "logo": "https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788507541-0-0-e9948fb7bd2c84e2cc95394332d20241",
+    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788507841-0-0-0e74a42f46b8dce6997da4e730695a02",
     "type": "hls"
   },
   {
@@ -788,7 +788,7 @@
     "name": "CBASL: Zhejiang Guangsha Lions vs Tianjin Pioneers - BRIAN",
     "logo": "https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788507541-0-0-d56e838d897cae93520060591218dbf8",
+    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788507841-0-0-51ca89bf4449ccd91387110b8447166f",
     "type": "hls"
   }
 ]
