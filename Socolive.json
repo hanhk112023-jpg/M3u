@@ -54,15 +54,6 @@
     "type": "hls"
   },
   {
-    "id": "372746",
-    "tvg_id": "room-372746",
-    "name": "Bali United vs PSS Sleman (IDN D1)",
-    "logo": "https://sta.vnres.co/file/common/20260901/a2478bfe094eb1f9a51a9149a12e9a63.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788486889-0-0-ef82b9018c3feba14a40262d0e4ee425",
-    "type": "hls"
-  },
-  {
     "id": "380460",
     "tvg_id": "room-380460",
     "name": "Al-Shamal SC vs Al Shahaniya (QAT D1)",
@@ -312,15 +303,6 @@
     "logo": "https://sta.vnres.co/file/common/20260901/1cc03cebbab95de034da7d542bd31f62.png",
     "group": "Bóng đá",
     "url": "https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1788468994-0-0-62788beffce8487b859ba99da81e2f64",
-    "type": "hls"
-  },
-  {
-    "id": "620504",
-    "tvg_id": "room-620504",
-    "name": "Pakhtakor vs FK Andijon (UZB PFL)",
-    "logo": "https://sta.vnres.co/file/common/20260901/55c994cb3ef21ea703659f4245104a1a.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=65239352434f7cc2d5b8c42cbf74f6bb\u0026txTime=6a9a305d",
     "type": "hls"
   },
   {
@@ -671,7 +653,7 @@
     "name": "Shandong Hi-Speed Kirin vs Fujian Xunxing Sturgeons (CBASL)",
     "logo": "https://sta.vnres.co/file/common/20260902/58f366c27f2a1d7e13143aaa9b2869d7.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=ff13e46cb23abb9fa6af4226d9ea5c90\u0026txTime=6a9a8f21",
+    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=9e7b5fff4baf32880c3671fb72a50a38\u0026txTime=6a9a92a5",
     "type": "hls"
   },
   {
@@ -698,7 +680,7 @@
     "name": "Shandong Hi-Speed Kirin vs Fujian Xunxing Sturgeons (CBASL)",
     "logo": "https://sta.vnres.co/file/common/20260902/58f366c27f2a1d7e13143aaa9b2869d7.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788496081-0-0-5d403d0c5898ca085750d48e357645f1",
+    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788496981-0-0-7f3561bb3c6d16a3a40380ffef00c6c9",
     "type": "hls"
   },
   {
@@ -725,7 +707,7 @@
     "name": "Tường thuật: ITA Cup - Palermo vs Mantova - Gà xào sả ớt",
     "logo": "https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=0baa4fdf9c865dc57672fb02909f99d7\u0026txTime=6a9a8f21",
+    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=4d0d6df27931ec4012756069c9e4d253\u0026txTime=6a9a92a5",
     "type": "hls"
   },
   {
@@ -734,7 +716,7 @@
     "name": "Tường thuật: QAT D1 - Al-Ahli Doha vs Qatar SC - Bò leo rào",
     "logo": "https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=1f02ee7880bf794679d7d5f35066f0db\u0026txTime=6a9a8f21",
+    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=af650b5fe95ba93f45000dbe99cdd870\u0026txTime=6a9a92a5",
     "type": "hls"
   },
   {
@@ -743,7 +725,7 @@
     "name": "Tường thuật: CAN CC - Vancouver Whitecaps vs Montreal Impact - Thỏ giang hồ",
     "logo": "https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=8e1ba67c1e40a6402fc698a4840ff698\u0026txTime=6a9a8f21",
+    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=da8c3ea83a68f52a625d04e07d38d4d0\u0026txTime=6a9a92a5",
     "type": "hls"
   },
   {
@@ -752,7 +734,7 @@
     "name": "Tường thuật: AFC U20 - Palestine U20 vs Vietnam U20 - Hươu đau cổ",
     "logo": "https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=3c40b18523d94bd8f952955bd9cba1b3\u0026txTime=6a9a8f21",
+    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=89d6c9880943dde3829a7fa6c3aac0f2\u0026txTime=6a9a92a5",
     "type": "hls"
   },
   {
@@ -761,7 +743,7 @@
     "name": "Tường thuật: COL D1 - America de Cali vs Alianza - Mèo méo meo",
     "logo": "https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=4fb6883cf44eb98c2332eb6c8f1185b5\u0026txTime=6a9a8f21",
+    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=682241d625412c7c8562c730e0e82b77\u0026txTime=6a9a92a5",
     "type": "hls"
   },
   {
@@ -770,7 +752,7 @@
     "name": "CBASL: Shandong Hi-Speed Kirin vs Fujian Xunxing Sturgeons - A CHÈ",
     "logo": "https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=ff13e46cb23abb9fa6af4226d9ea5c90\u0026txTime=6a9a8f21",
+    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=9e7b5fff4baf32880c3671fb72a50a38\u0026txTime=6a9a92a5",
     "type": "hls"
   },
   {
@@ -779,7 +761,7 @@
     "name": "Tường thuật: BRA Cup - Santos FC - SP vs Palmeiras - SP - Rắn ở đáy sông",
     "logo": "https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=a39814643f74fa22d9bbaeb58ab084a8\u0026txTime=6a9a8f21",
+    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=e76e830e30e50396d93a80653f525b13\u0026txTime=6a9a92a5",
     "type": "hls"
   },
   {
@@ -788,7 +770,7 @@
     "name": "CBASL: Shandong Hi-Speed Kirin vs Fujian Xunxing Sturgeons - BRIAN",
     "logo": "https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788496081-0-0-5d403d0c5898ca085750d48e357645f1",
+    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788496981-0-0-7f3561bb3c6d16a3a40380ffef00c6c9",
     "type": "hls"
   }
 ]
