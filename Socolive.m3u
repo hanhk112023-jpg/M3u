@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 88
-# Updated: 04/09/2026 03:48:55
+# Channels: 81
+# Updated: 04/09/2026 03:54:16
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260901/ed07d8644be654f8e9f11860c75f4358.png" group-title="Bóng đá",Ittihad Kalba FC vs Al-Ain FC (UAE LP)
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788472894-0-0-2c9f25f8311508603caa4123e199821b
@@ -41,10 +41,6 @@ https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1788471646-0-0-8bca
 https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1788494393-0-0-e91be55a9e2626d3048a566c098fa248
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260901/df727dab07875de304479b5072b090eb.png" group-title="Bóng đá",Abha vs Al Ettifaq (KSA PR)
 https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788472734-0-0-7964fa1b9821ccb5d541e71cd1368a4e
-#EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260901/521eb68c31d87b9a8c0c1a28c62e30d4.png" group-title="Bóng đá",Chungbuk Cheongju FC vs Seoul E-Land FC (KOR D2)
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=5dc210c1f593cbe6a82067f3469d7fb7&txTime=6a9a19ef
-#EXTINF:-1 tvg-id="room-536185" tvg-logo="https://sta.vnres.co/file/common/20260901/df727dab07875de304479b5072b090eb.png" group-title="Bóng đá",Abha vs Al Ettifaq (KSA PR)
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788471795-0-0-1020c004a9e640c067c59f22f0643acd
 #EXTINF:-1 tvg-id="room-552832" tvg-logo="https://sta.vnres.co/file/common/20260901/521eb68c31d87b9a8c0c1a28c62e30d4.png" group-title="Bóng đá",Chungbuk Cheongju FC vs Seoul E-Land FC (KOR D2)
 https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=23e738216105e5b72675e0eebb313913&txTime=6a9a4f29
 #EXTINF:-1 tvg-id="room-582342" tvg-logo="https://sta.vnres.co/file/common/20260901/a2478bfe094eb1f9a51a9149a12e9a63.png" group-title="Bóng đá",Bali United vs PSS Sleman (IDN D1)
@@ -57,12 +53,8 @@ https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=9696acb23f2d38399a3f
 https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1788449047-0-0-08e97be78e2bf82cbb55dc0528d45a0a
 #EXTINF:-1 tvg-id="room-603914" tvg-logo="https://sta.vnres.co/file/common/20260901/521eb68c31d87b9a8c0c1a28c62e30d4.png" group-title="Bóng đá",Chungbuk Cheongju FC vs Seoul E-Land FC (KOR D2)
 https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1788468950-0-0-68548fa70cb4880c9f5e67d8ebfbda5e
-#EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260902/ef0bec1278ef9fec1983e9b70e74e356.png" group-title="Bóng đá",Belgrano vs CA Huracan (ARG D1)
-https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=289d754c032ef92a8ba0f098c0f7f33a&txTime=6a9a87e5
 #EXTINF:-1 tvg-id="room-607552" tvg-logo="https://sta.vnres.co/file/common/20260902/d5fc7bde2c610da4a097d4da5d6cbf4c.png" group-title="Bóng đá",CSM Slatina vs Chindia Targoviste (ROM D2)
 https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1788471034-0-0-17c3ed8fca0da2c6b67cf835704e61f2
-#EXTINF:-1 tvg-id="room-610518" tvg-logo="https://sta.vnres.co/file/common/20260901/e4d496fdc38cfc7c696c7ffaf8fca46b.png" group-title="Bóng đá",Lecce U20 vs AS Roma U20 (ITA YTHL)
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=588daabe9f45216002589776a6aa0285&txTime=6a9a6bbf
 #EXTINF:-1 tvg-id="room-617313" tvg-logo="https://sta.vnres.co/file/common/20260901/b63abce3076aa7d03080aa5930dcb043.png" group-title="Bóng đá",Kelantan Red Warrior vs Kuala Lumpur City FC (MAS SL)
 https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1788471069-0-0-81cc946ed39570bf3c024699f229cc08
 #EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260902/ef0bec1278ef9fec1983e9b70e74e356.png" group-title="Bóng đá",Belgrano vs CA Huracan (ARG D1)
@@ -111,8 +103,6 @@ https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1788487340-0-0-5fd
 https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1788456185-0-0-4a2f608047777856cdd1a85febba1521
 #EXTINF:-1 tvg-id="room-9912123" tvg-logo="https://sta.vnres.co/file/common/20260901/3f74639ee5c9ee17e87a7a6572f15692.png" group-title="Bóng đá",Manila Digger FC vs Kasuka FC (ASEAN CC)
 https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1788463364-0-0-320f26399e17c180eb7cc745db82a0d7
-#EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260901/a2478bfe094eb1f9a51a9149a12e9a63.png" group-title="Bóng đá",Bali United vs PSS Sleman (IDN D1)
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788494224-0-0-5de868c6660757a76498f10b0cc46f47
 #EXTINF:-1 tvg-id="room-9912126" tvg-logo="https://sta.vnres.co/file/common/20260901/102a68166684ae08f1a47d2972e92739.png" group-title="Bóng đá",Torino U20 vs Como U20 (ITA YTHL)
 https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=a47dbc0b96d58fd7ebbe2ff2138941b5&txTime=6a9a263d
 #EXTINF:-1 tvg-id="room-9912127" tvg-logo="https://sta.vnres.co/file/common/20260901/f1e2f52168ccfdcbdd9183a750e59687.png" group-title="Bóng đá",Al-Shamal SC vs Al Shahaniya (QAT D1)
@@ -152,30 +142,26 @@ https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1788494706-0-0-0f6
 #EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260901/bf8b26fd0d5b0f55ba4fe9ecf406cfd0.png" group-title="Bóng đá",Pattani vs BG Pathum United (THA PR)
 https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788494752-0-0-340fa595b6bb0bdd5711713e5ff535ca
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260902/58f366c27f2a1d7e13143aaa9b2869d7.png" group-title="Bóng rổ",Shandong Hi-Speed Kirin vs Fujian Xunxing Sturgeons (CBASL)
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=cc1861c95467bab27a4d14a922d3db10&txTime=6a9a93d1
-#EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260902/d90d41ce70300a2cac3742d2d0877dcd.png" group-title="Bóng rổ",New Zealand Breakers vs Sydney Kings (NBL)
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=d452e3aacaa76c3fc1a2fdb1e99bb6fb&txTime=6a99cf94
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=e898c6f40f2a03243f90a63cf9b70af1&txTime=6a9a94fd
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260902/ec62b2c67fd86d17ca7a467fc3d550a4.png" group-title="Bóng rổ",Zhejiang Guangsha Lions vs Tianjin Pioneers (CBASL)
 https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788431092-0-0-b94f1a5298dda773d98ea5e439652af8
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260902/58f366c27f2a1d7e13143aaa9b2869d7.png" group-title="Bóng rổ",Shandong Hi-Speed Kirin vs Fujian Xunxing Sturgeons (CBASL)
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788497281-0-0-5bd054e1a9665352e249ccbb8fc33b7c
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788497581-0-0-29a1ed2761489b3022ea2553fa8b6862
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260902/d90d41ce70300a2cac3742d2d0877dcd.png" group-title="Bóng rổ",New Zealand Breakers vs Sydney Kings (NBL)
 https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788425104-0-0-3ab433369f87d83cf7e83d2307da8c51
-#EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260902/d90d41ce70300a2cac3742d2d0877dcd.png" group-title="Bóng rổ",New Zealand Breakers vs Sydney Kings (NBL)
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788447370-0-0-54743d1375e426f757cc3e2087058c83
 #EXTINF:-1 tvg-id="room-133277" tvg-logo="https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg" group-title="SocoLive",Tường thuật: ITA Cup - Palermo vs Mantova - Gà xào sả ớt
-https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=07caa59856fbd86c5dc329365070ea7a&txTime=6a9a93d1
+https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=63efaf40f6ea69e27002cea2e2f41c4e&txTime=6a9a94fd
 #EXTINF:-1 tvg-id="room-133824" tvg-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg" group-title="SocoLive",Tường thuật: QAT D1 - Al-Ahli Doha vs Qatar SC - Bò leo rào
-https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=313c8ea312c126c12ab841584d8523ef&txTime=6a9a93d1
+https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=a80785c5a23861492e0b1803b84ff857&txTime=6a9a94fd
 #EXTINF:-1 tvg-id="room-152898" tvg-logo="https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png" group-title="SocoLive",Tường thuật: CAN CC - Vancouver Whitecaps vs Montreal Impact - Thỏ giang hồ
-https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=6760ab740f56b37109516b6bab70d71e&txTime=6a9a93d1
+https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=da91f7bec53d4a61dacc0d671b7645ba&txTime=6a9a94fd
 #EXTINF:-1 tvg-id="room-179093" tvg-logo="https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg" group-title="SocoLive",Tường thuật: AFC U20 - Palestine U20 vs Vietnam U20 - Hươu đau cổ
-https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=dc1f518bcaf545c941b4258581501a4e&txTime=6a9a93d1
+https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=d90ced2621b98cbbd369d32e13ca40b0&txTime=6a9a94fd
 #EXTINF:-1 tvg-id="room-343500" tvg-logo="https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg" group-title="SocoLive",Tường thuật: COL D1 - America de Cali vs Alianza - Mèo méo meo
-https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=7cfc8b13588118cd2aa8475c2d7159c7&txTime=6a9a93d1
+https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=8567d12de564eda15321709e3b45f1d2&txTime=6a9a94fd
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg" group-title="SocoLive",CBASL: Shandong Hi-Speed Kirin vs Fujian Xunxing Sturgeons - A CHÈ
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=cc1861c95467bab27a4d14a922d3db10&txTime=6a9a93d1
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=e898c6f40f2a03243f90a63cf9b70af1&txTime=6a9a94fd
 #EXTINF:-1 tvg-id="room-9912079" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg" group-title="SocoLive",Tường thuật: BRA Cup - Santos FC - SP vs Palmeiras - SP - Rắn ở đáy sông
-https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=c4a385daf040d57ad2c8ec31fb010f8d&txTime=6a9a93d1
+https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=4709e4f2681706cf1fbf14e2f369bfca&txTime=6a9a94fd
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-title="SocoLive",CBASL: Shandong Hi-Speed Kirin vs Fujian Xunxing Sturgeons - BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788497281-0-0-5bd054e1a9665352e249ccbb8fc33b7c
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788497581-0-0-29a1ed2761489b3022ea2553fa8b6862
