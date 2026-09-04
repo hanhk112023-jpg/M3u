@@ -234,6 +234,24 @@
     "type": "hls"
   },
   {
+    "id": "603914",
+    "tvg_id": "room-603914",
+    "name": "Chungbuk Cheongju FC vs Seoul E-Land FC (KOR D2)",
+    "logo": "https://sta.vnres.co/file/common/20260901/521eb68c31d87b9a8c0c1a28c62e30d4.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1788468950-0-0-68548fa70cb4880c9f5e67d8ebfbda5e",
+    "type": "hls"
+  },
+  {
+    "id": "607400",
+    "tvg_id": "room-607400",
+    "name": "Belgrano vs CA Huracan (ARG D1)",
+    "logo": "https://sta.vnres.co/file/common/20260902/ef0bec1278ef9fec1983e9b70e74e356.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=289d754c032ef92a8ba0f098c0f7f33a\u0026txTime=6a9a87e5",
+    "type": "hls"
+  },
+  {
     "id": "607552",
     "tvg_id": "room-607552",
     "name": "CSM Slatina vs Chindia Targoviste (ROM D2)",
@@ -653,7 +671,7 @@
     "name": "Shandong Hi-Speed Kirin vs Fujian Xunxing Sturgeons (CBASL)",
     "logo": "https://sta.vnres.co/file/common/20260902/58f366c27f2a1d7e13143aaa9b2869d7.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=76da425cea3046c053848f7e6ea05e72\u0026txTime=6a9a8df5",
+    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=ff13e46cb23abb9fa6af4226d9ea5c90\u0026txTime=6a9a8f21",
     "type": "hls"
   },
   {
@@ -680,7 +698,7 @@
     "name": "Shandong Hi-Speed Kirin vs Fujian Xunxing Sturgeons (CBASL)",
     "logo": "https://sta.vnres.co/file/common/20260902/58f366c27f2a1d7e13143aaa9b2869d7.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788495781-0-0-d58817ddb7e2a1e926673c6f8e3e5447",
+    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788496081-0-0-5d403d0c5898ca085750d48e357645f1",
     "type": "hls"
   },
   {
@@ -707,7 +725,7 @@
     "name": "Tường thuật: ITA Cup - Palermo vs Mantova - Gà xào sả ớt",
     "logo": "https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=fb4ff7061d9d5f0b8d25010dd8f9d674\u0026txTime=6a9a8df5",
+    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=0baa4fdf9c865dc57672fb02909f99d7\u0026txTime=6a9a8f21",
     "type": "hls"
   },
   {
@@ -716,7 +734,7 @@
     "name": "Tường thuật: QAT D1 - Al-Ahli Doha vs Qatar SC - Bò leo rào",
     "logo": "https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=ce86ea281c99886d26cf6563bb18c7ed\u0026txTime=6a9a8df5",
+    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=1f02ee7880bf794679d7d5f35066f0db\u0026txTime=6a9a8f21",
     "type": "hls"
   },
   {
@@ -725,7 +743,7 @@
     "name": "Tường thuật: CAN CC - Vancouver Whitecaps vs Montreal Impact - Thỏ giang hồ",
     "logo": "https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=00888f7817304a887e3c4f4e06a91688\u0026txTime=6a9a8df5",
+    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=8e1ba67c1e40a6402fc698a4840ff698\u0026txTime=6a9a8f21",
     "type": "hls"
   },
   {
@@ -734,7 +752,7 @@
     "name": "Tường thuật: AFC U20 - Palestine U20 vs Vietnam U20 - Hươu đau cổ",
     "logo": "https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=6aa8970b98c7c4ff421812ef542a4565\u0026txTime=6a9a8df5",
+    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=3c40b18523d94bd8f952955bd9cba1b3\u0026txTime=6a9a8f21",
     "type": "hls"
   },
   {
@@ -743,7 +761,7 @@
     "name": "Tường thuật: COL D1 - America de Cali vs Alianza - Mèo méo meo",
     "logo": "https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=6e4e165ba13ada0e3353d6db8542ec3b\u0026txTime=6a9a8df5",
+    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=4fb6883cf44eb98c2332eb6c8f1185b5\u0026txTime=6a9a8f21",
     "type": "hls"
   },
   {
@@ -752,7 +770,7 @@
     "name": "CBASL: Shandong Hi-Speed Kirin vs Fujian Xunxing Sturgeons - A CHÈ",
     "logo": "https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=76da425cea3046c053848f7e6ea05e72\u0026txTime=6a9a8df5",
+    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=ff13e46cb23abb9fa6af4226d9ea5c90\u0026txTime=6a9a8f21",
     "type": "hls"
   },
   {
@@ -761,7 +779,7 @@
     "name": "Tường thuật: BRA Cup - Santos FC - SP vs Palmeiras - SP - Rắn ở đáy sông",
     "logo": "https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=889db1da3b92213640fe1839bb4a08e8\u0026txTime=6a9a8df5",
+    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=a39814643f74fa22d9bbaeb58ab084a8\u0026txTime=6a9a8f21",
     "type": "hls"
   },
   {
@@ -770,7 +788,7 @@
     "name": "CBASL: Shandong Hi-Speed Kirin vs Fujian Xunxing Sturgeons - BRIAN",
     "logo": "https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788495781-0-0-d58817ddb7e2a1e926673c6f8e3e5447",
+    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788496081-0-0-5d403d0c5898ca085750d48e357645f1",
     "type": "hls"
   }
 ]
