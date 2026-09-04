@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 91
-# Updated: 04/09/2026 07:36:08
+# Channels: 92
+# Updated: 04/09/2026 07:41:13
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260901/ed07d8644be654f8e9f11860c75f4358.png" group-title="Bóng đá",Ittihad Kalba FC vs Al-Ain FC (UAE LP)
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788472894-0-0-2c9f25f8311508603caa4123e199821b
@@ -152,36 +152,38 @@ https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1788494706-0-0-0f6
 #EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260901/bf8b26fd0d5b0f55ba4fe9ecf406cfd0.png" group-title="Bóng đá",Pattani vs BG Pathum United (THA PR)
 https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788494752-0-0-340fa595b6bb0bdd5711713e5ff535ca
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260902/d90d41ce70300a2cac3742d2d0877dcd.png" group-title="Bóng rổ",New Zealand Breakers vs Sydney Kings (NBL)
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=f817fe8b54e746e5412cf27fa6591feb&txTime=6a9ac905
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=3a57f7416287253180406c82792c1c47&txTime=6a9aca6d
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260902/d90d41ce70300a2cac3742d2d0877dcd.png" group-title="Bóng rổ",New Zealand Breakers vs Sydney Kings (NBL)
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=28e9aeb8c93aff2f5d1a026ae18fdc25&txTime=6a9ac941
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=95de18b84985f68feaf4732b150d2766&txTime=6a9aca6d
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260902/d90d41ce70300a2cac3742d2d0877dcd.png" group-title="Bóng rổ",New Zealand Breakers vs Sydney Kings (NBL)
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788510961-0-0-97a45bb702b7340cd45105448e56c3aa
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788511261-0-0-d2466979e66df39b2c65bce6b7410ee3
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260902/d90d41ce70300a2cac3742d2d0877dcd.png" group-title="Bóng rổ",New Zealand Breakers vs Sydney Kings (NBL)
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788510961-0-0-871aa5514508611a3a53a7f2ad9e3b6e
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788511261-0-0-a799921b347306dab3852829fbde4c7a
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260902/d90d41ce70300a2cac3742d2d0877dcd.png" group-title="Bóng rổ",New Zealand Breakers vs Sydney Kings (NBL)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788510961-0-0-95bbd815897396f24ad40c88dd27d2c3
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788511261-0-0-c0d9b98d8910ef6dc5a3e35840a282b5
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260902/d90d41ce70300a2cac3742d2d0877dcd.png" group-title="Bóng rổ",New Zealand Breakers vs Sydney Kings (NBL)
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788510961-0-0-13cdae1e4f974923a466622a4b4a84a1
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788511261-0-0-6b28c79083199c7cb14f01956a3e10b9
 #EXTINF:-1 tvg-id="room-133277" tvg-logo="https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg" group-title="SocoLive",Tường thuật: ITA Cup - Palermo vs Mantova - Gà xào sả ớt
-https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=a508f8ee443878a568db3ea06dd90f26&txTime=6a9ac905
+https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=50d93d99c92d106c73421e095fc9f1c8&txTime=6a9aca31
 #EXTINF:-1 tvg-id="room-133824" tvg-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg" group-title="SocoLive",Tường thuật: QAT D1 - Al-Ahli Doha vs Qatar SC - Bò leo rào
-https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=da97698c1807b855566aa58edf5ae572&txTime=6a9ac905
+https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=ef777d1d41903071cee20d5cc8dcf094&txTime=6a9aca31
 #EXTINF:-1 tvg-id="room-152898" tvg-logo="https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png" group-title="SocoLive",Tường thuật: CAN CC - Vancouver Whitecaps vs Montreal Impact - Thỏ giang hồ
-https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=d12e97cb617ae8bf9f3f03f75efcbea6&txTime=6a9ac905
+https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=e0aae070f98ae479447c0e14554b8b5b&txTime=6a9aca31
 #EXTINF:-1 tvg-id="room-179093" tvg-logo="https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg" group-title="SocoLive",Tường thuật: AFC U20 - Palestine U20 vs Vietnam U20 - Hươu đau cổ
-https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=94e63566cbae1d180820a4291803e8b5&txTime=6a9ac905
+https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=ca0ecd6da85af0fd32bc8e9fabf59d48&txTime=6a9aca31
 #EXTINF:-1 tvg-id="room-343500" tvg-logo="https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg" group-title="SocoLive",Tường thuật: COL D1 - America de Cali vs Alianza - Mèo méo meo
-https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=cdc5e285e0d564c57de48a6770930414&txTime=6a9ac905
+https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=20bb5d3af4ed4a9ced71e0a9168083ca&txTime=6a9aca31
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg" group-title="SocoLive",NBL: New Zealand Breakers vs Sydney Kings - A CHÈ
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=f817fe8b54e746e5412cf27fa6591feb&txTime=6a9ac905
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=2f96684c61933ac42d134581b2dcf642&txTime=6a9aca31
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg" group-title="SocoLive",NBL: New Zealand Breakers vs Sydney Kings - HUNTER
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=1e684d89b7d892ec48adbb2fe42a1b2b&txTime=6a9ac905
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=d7197407af1f2c9e7eaac09ce669775d&txTime=6a9aca31
 #EXTINF:-1 tvg-id="room-9912079" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg" group-title="SocoLive",Tường thuật: BRA Cup - Santos FC - SP vs Palmeiras - SP - Rắn ở đáy sông
-https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=df2c31ef9fff30812dc2a1993b07c057&txTime=6a9ac905
+https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=ec5024ff8531041c71971a1bd5b7322c&txTime=6a9aca31
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-title="SocoLive",NBL: New Zealand Breakers vs Sydney Kings - KING
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788510901-0-0-081b697e1ed7cb1ba6f0b07dcf2d9652
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788511201-0-0-cd59484caff49397675a6d778f301d59
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-title="SocoLive",NBL: New Zealand Breakers vs Sydney Kings - BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788510901-0-0-e14d56dd5e164f7adcd0f805db33ab93
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788511201-0-0-23f86afbb84dca4af8cd912059dc90a4
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg" group-title="SocoLive",NBL: New Zealand Breakers vs Sydney Kings - BLV HENRY
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788510901-0-0-79fdf5a888924ec46ffcc0bf8c798863
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788511201-0-0-1d363cb8faa99bc2ec5150e784da48ed
+#EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg" group-title="SocoLive",NBL: New Zealand Breakers vs Sydney Kings - CHAN SENA
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788511201-0-0-fb73874ec97002d0bdac3c9067103ec5
