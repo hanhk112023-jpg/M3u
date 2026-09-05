@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 92
-# Updated: 05/09/2026 05:55:27
+# Channels: 89
+# Updated: 05/09/2026 06:00:32
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260902/d0830453433d690969fdd01e5efa37e5.png" group-title="Bóng đá",XM Hai Phong FC vs Ninh Binh FC (VIE D1)
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788559621-0-0-e47ed230bed5b6518c92a931f30cd3f4
@@ -10,11 +10,11 @@ https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=fef52725af31b980ffb8
 #EXTINF:-1 tvg-id="room-291277" tvg-logo="https://sta.vnres.co/file/common/20260902/5af1b97f9aba6439f33c71e60dab3417.png" group-title="Bóng đá",TSG Hoffenheim vs Borussia Dortmund (GER D1)
 https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=6e163966b76d6633b1fbb032202a4fa8&txTime=6a9bc6d5
 #EXTINF:-1 tvg-id="room-304148" tvg-logo="https://sta.vnres.co/file/common/20260902/cac60a081e85f531a542483b367014df.png" group-title="Bóng đá",Adelaide Raiders SC vs Adelaide Blue Eagles (NPL SAL1)
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788591301-0-0-18660e64e89aff68aaa285b649b90cb7
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788591601-0-0-ccf8436c654dfbead03f6cf4dc5feb8e
 #EXTINF:-1 tvg-id="room-321443" tvg-logo="https://sta.vnres.co/file/common/20260902/236d554dcce133f2623d2e40c5d766ed.png" group-title="Bóng đá",Negeri Sembilan vs Star City (MAS SL)
 https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=b6f3c5b1c5357b0de87d1a7c99fb24b7&txTime=6a9be956
 #EXTINF:-1 tvg-id="room-327159" tvg-logo="https://sta.vnres.co/file/common/20260904/f930db7855e37fde26dd6f05706ea466.png" group-title="Bóng đá",Canberra FC vs Queanbeyan City (AUS CGP)
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1788591301-0-0-2c63ba6301c9e969173e0d771584f557
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1788591601-0-0-2bec60c698a1f4d9376087c8fe07266c
 #EXTINF:-1 tvg-id="room-372746" tvg-logo="https://sta.vnres.co/file/common/20260902/92bd5c593494de462a7651e99dbfedce.png" group-title="Bóng đá",Shanghai Port vs Beijing Guoan (CHA SL)
 https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788581391-0-0-086e9285ef91f2af88c36c08aa4cf701
 #EXTINF:-1 tvg-id="room-380460" tvg-logo="https://sta.vnres.co/file/common/20260902/abb00b835d7f3c4a98e3f9aecc7b2e75.png" group-title="Bóng đá",Brentford vs Sunderland (ENG PR)
@@ -25,12 +25,12 @@ https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=29ba44df48279fc5bee3
 https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=8700ac29f08e0efb0e50ac52c5f91566&txTime=6a9b8a0e
 #EXTINF:-1 tvg-id="room-414317" tvg-logo="https://sta.vnres.co/file/common/20260902/d42103b65a287beedb2e190b9eeb7a22.png" group-title="Bóng đá",Newcastle United vs Bournemouth AFC (ENG PR)
 https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=f9d2a21a643a43d7ebde2d4e0659f06b&txTime=6a9bf8ec
-#EXTINF:-1 tvg-id="room-459401" tvg-logo="https://sta.vnres.co/file/common/20260902/be7625dc039715480a7bc1979c2144e4.png" group-title="Bóng đá",Avondale FC vs Preston Lions (Aus VPL)
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=b9d038bac8a5db144bd2cc84d17c4511&txTime=6a9c0315
+#EXTINF:-1 tvg-id="room-459401" tvg-logo="https://sta.vnres.co/file/common/20260902/236d554dcce133f2623d2e40c5d766ed.png" group-title="Bóng đá",Negeri Sembilan vs Star City (MAS SL)
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=ed92461eca3ab057d9f449dd8f3ac891&txTime=6a9c0373
 #EXTINF:-1 tvg-id="room-485739" tvg-logo="https://sta.vnres.co/file/common/20260902/9ca064d4eca5a3a4e320a9e70479ee2b.png" group-title="Bóng đá",FC Seoul vs Incheon United Club (KOR D1)
 https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=cb4e383ce8dfe28b2a30dc930c8d838d&txTime=6a9be9e6
-#EXTINF:-1 tvg-id="room-491873" tvg-logo="https://sta.vnres.co/file/common/20260902/be7625dc039715480a7bc1979c2144e4.png" group-title="Bóng đá",Avondale FC vs Preston Lions (Aus VPL)
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=8f7caa9e4e4bb407b24244dce197672a&txTime=6a9c0315
+#EXTINF:-1 tvg-id="room-491873" tvg-logo="https://sta.vnres.co/file/common/20260902/92bd5c593494de462a7651e99dbfedce.png" group-title="Bóng đá",Shanghai Port vs Beijing Guoan (CHA SL)
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=7762ead96200e13a2c0cb1dbd76f96ca&txTime=6a9c0388
 #EXTINF:-1 tvg-id="room-501412" tvg-logo="https://sta.vnres.co/file/common/20260902/f59e1b86cccd6897a1528025b6b0075d.png" group-title="Bóng đá",Bhayangkara Presisi Indonesia FC vs Persebaya Surabaya (IDN D1)
 https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=419851879f42f87af5a336d09783262a&txTime=6a9b8684
 #EXTINF:-1 tvg-id="room-511367" tvg-logo="https://sta.vnres.co/file/common/20260902/ab7f56658a87b9c80b0ebe7a6b3b3290.png" group-title="Bóng đá",Shandong Taishan vs Shenzhen Peng City (CHA SL)
@@ -42,22 +42,22 @@ https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1788560023-0-0-eea3
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260904/1751e609beb6af1698cfd1ecdfefa7f0.png" group-title="Bóng đá",Peninsula Power vs Moreton City Excelsior FC (AUS NPLQ)
 https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788558968-0-0-ebd0fb4ddfbe6d07933127b28bb6cab5
 #EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260902/7ef18d49292c17a7644405afcca31abd.png" group-title="Bóng đá",Modbury Jets vs Adelaide Olympic (NPL SAL1)
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=cc5a7580920b8cc0471fde7a18af91a8&txTime=6a9c0315
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=ddd7f5457d4528151aa883df8037023e&txTime=6a9c0441
 #EXTINF:-1 tvg-id="room-536185" tvg-logo="https://sta.vnres.co/file/common/20260902/fc432da08ef26958d39d37274cde9fc2.png" group-title="Bóng đá",Rayo Vallecano vs Racing Santander (SPA D1)
 https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788557145-0-0-c3bae60f1030fc6deaa392cdfd8d55c5
 #EXTINF:-1 tvg-id="room-552832" tvg-logo="https://sta.vnres.co/file/common/20260904/f930db7855e37fde26dd6f05706ea466.png" group-title="Bóng đá",Canberra FC vs Queanbeyan City (AUS CGP)
-https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=03ce1d39d6ca677a5c6097ff3159a476&txTime=6a9c0315
+https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=40bc83ffb8cf9cc10392dc676e77e19a&txTime=6a9c0441
 #EXTINF:-1 tvg-id="room-582342" tvg-logo="https://sta.vnres.co/file/common/20260902/b50cc1cf12cbed88f4c73bbc1650e828.png" group-title="Bóng đá",Cong An Ho Chi Minh City vs Hanoi FC (VIE D1)
 https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1788559240-0-0-45b7aff784ebe7e5373f44e3bd009773
 #EXTINF:-1 tvg-id="room-597929" tvg-logo="https://sta.vnres.co/file/common/20260902/3fe0642a1c0abab33911fa6cc0f5b0c3.png" group-title="Bóng đá",Bucheon FC 1995 vs Daejeon Hana Citizen (KOR D1)
 https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1788578967-0-0-77c52db4916f3df22ea3cf5e267ab944
 #EXTINF:-1 tvg-id="room-602019" tvg-logo="https://sta.vnres.co/file/common/20260902/cac60a081e85f531a542483b367014df.png" group-title="Bóng đá",Adelaide Raiders SC vs Adelaide Blue Eagles (NPL SAL1)
-https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=3bf959bb60fdc3cd28327bfe0d904497&txTime=6a9c0315
+https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=566f9c7c583dc6cf174c9109fda29c05&txTime=6a9c0441
 #EXTINF:-1 tvg-id="room-603255" tvg-logo="https://sta.vnres.co/file/common/20260902/62cffdb19e4e254aec7e71a2ba59303d.png" group-title="Bóng đá",Cong An Ha Noi FC vs Hong Linh Ha Tinh (VIE D1)
 https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1788584742-0-0-348a63e67ef05e7d0b188131f817b353
-#EXTINF:-1 tvg-id="room-603914" tvg-logo="https://sta.vnres.co/file/common/20260904/cc2ae52a69f0fe75053641e54e8e69b3.png" group-title="Bóng đá",Kahibah FC vs Newcastle Croatia (AUS NNSW)
+#EXTINF:-1 tvg-id="room-603914" tvg-logo="https://sta.vnres.co/file/common/20260902/cd0747aee4d3d078e1db1f9daba4166f.png" group-title="Bóng đá",PSIM Yogyakarta vs Persita Tangerang (IDN D1)
 https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1788591196-0-0-163df8d6ba10aa72669b39bd24ac6422
-#EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260904/cc2ae52a69f0fe75053641e54e8e69b3.png" group-title="Bóng đá",Kahibah FC vs Newcastle Croatia (AUS NNSW)
+#EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260902/a3c4c91956017a47829db8f45877fe73.png" group-title="Bóng đá",São Paulo - SP vs Atlético Mineiro - MG (BRA D1)
 https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=47163dc5562b285ac61e80a62ec0040d&txTime=6a9c02fb
 #EXTINF:-1 tvg-id="room-607552" tvg-logo="https://sta.vnres.co/file/common/20260902/78ca34b085f03758ef5218ac9478dba0.png" group-title="Bóng đá",Holstein Kiel vs 1. FC Nürnberg (GER D2)
 https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1788555680-0-0-ce26c1234d5c16b989a0803294d4f8d1
@@ -67,7 +67,7 @@ https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=efe8b33f4c07a846374f
 https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1788557152-0-0-e8c2bb43469d753a21a739785a2acf28
 #EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260902/92bd5c593494de462a7651e99dbfedce.png" group-title="Bóng đá",Shanghai Port vs Beijing Guoan (CHA SL)
 https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788578977-0-0-49b9006d2ccd0bfe90ceff54ee099148
-#EXTINF:-1 tvg-id="room-619561" tvg-logo="https://sta.vnres.co/file/common/20260902/be7625dc039715480a7bc1979c2144e4.png" group-title="Bóng đá",Avondale FC vs Preston Lions (Aus VPL)
+#EXTINF:-1 tvg-id="room-619561" tvg-logo="https://sta.vnres.co/file/common/20260902/ca5d90e336e3b974bc3f719bba08de07.png" group-title="Bóng đá",Persik Kediri vs Dewa United FC (IDN D1)
 https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1788591259-0-0-0daa0a28e341306d896a52bfc3b4746e
 #EXTINF:-1 tvg-id="room-619672" tvg-logo="https://sta.vnres.co/file/common/20260902/cd0747aee4d3d078e1db1f9daba4166f.png" group-title="Bóng đá",PSIM Yogyakarta vs Persita Tangerang (IDN D1)
 https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1788587993-0-0-f51559f36efa796b9503f138e52cf362
@@ -88,21 +88,21 @@ https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=17f5a58575441dd8d39b
 #EXTINF:-1 tvg-id="room-622240" tvg-logo="https://sta.vnres.co/file/common/20260902/abb00b835d7f3c4a98e3f9aecc7b2e75.png" group-title="Bóng đá",Brentford vs Sunderland (ENG PR)
 https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1788559263-0-0-cb4075791649c9d94437f378dc00728e
 #EXTINF:-1 tvg-id="room-622241" tvg-logo="https://sta.vnres.co/file/common/20260904/f930db7855e37fde26dd6f05706ea466.png" group-title="Bóng đá",Canberra FC vs Queanbeyan City (AUS CGP)
-https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1788591301-0-0-1ae15af5c71e6bed11e719f411923d1d
+https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1788591601-0-0-24ba3186a6e376379b0faf1a9407b0da
 #EXTINF:-1 tvg-id="room-625920" tvg-logo="https://sta.vnres.co/file/common/20260902/d0830453433d690969fdd01e5efa37e5.png" group-title="Bóng đá",XM Hai Phong FC vs Ninh Binh FC (VIE D1)
 https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1788553112-0-0-c0016041a163857b4ea12bbf0b77ee7d
 #EXTINF:-1 tvg-id="room-627718" tvg-logo="https://sta.vnres.co/file/common/20260902/f59e1b86cccd6897a1528025b6b0075d.png" group-title="Bóng đá",Bhayangkara Presisi Indonesia FC vs Persebaya Surabaya (IDN D1)
 https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1788549390-0-0-b72a6ac083ebc948bf85da0502d8a560
 #EXTINF:-1 tvg-id="room-991140" tvg-logo="https://sta.vnres.co/file/common/20260904/f930db7855e37fde26dd6f05706ea466.png" group-title="Bóng đá",Canberra FC vs Queanbeyan City (AUS CGP)
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788591301-0-0-8606427d625656c5c9e3940e1acbbcb8
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788591601-0-0-b391bb727a2093dc6e222d02eb9d0592
 #EXTINF:-1 tvg-id="room-9912008" tvg-logo="https://sta.vnres.co/file/common/20260902/d42103b65a287beedb2e190b9eeb7a22.png" group-title="Bóng đá",Newcastle United vs Bournemouth AFC (ENG PR)
 https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1788559730-0-0-d2ae7ae6252b1381eed90a65ba6dd2cd
 #EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260902/ca5d90e336e3b974bc3f719bba08de07.png" group-title="Bóng đá",Persik Kediri vs Dewa United FC (IDN D1)
 https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=df61b4cbe3335a3fd574e97e2f204ed7&txTime=6a9bf79e
 #EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260902/d42103b65a287beedb2e190b9eeb7a22.png" group-title="Bóng đá",Newcastle United vs Bournemouth AFC (ENG PR)
 https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788588588-0-0-27c02990120a894ea6ba996a0da2409f
-#EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260904/cc2ae52a69f0fe75053641e54e8e69b3.png" group-title="Bóng đá",Kahibah FC vs Newcastle Croatia (AUS NNSW)
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=3c88a144acf3d0bcb8beca5d905e45ea&txTime=6a9c0315
+#EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260902/d45436c0bdf60cf06b01862461614ceb.png" group-title="Bóng đá",Jeju SK FC vs Ulsan HD FC (KOR D1)
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=067ba1308aa9f45a9e2e20388e0a0349&txTime=6a9c03d8
 #EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260902/ca5d90e336e3b974bc3f719bba08de07.png" group-title="Bóng đá",Persik Kediri vs Dewa United FC (IDN D1)
 https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788521281-0-0-9883279ec4d18f923e11a389bcc018ef
 #EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260902/b50cc1cf12cbed88f4c73bbc1650e828.png" group-title="Bóng đá",Cong An Ho Chi Minh City vs Hanoi FC (VIE D1)
@@ -130,7 +130,7 @@ https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=f541fd06641a6e38f37
 #EXTINF:-1 tvg-id="room-9912133" tvg-logo="https://sta.vnres.co/file/common/20260902/d0830453433d690969fdd01e5efa37e5.png" group-title="Bóng đá",XM Hai Phong FC vs Ninh Binh FC (VIE D1)
 https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1788559352-0-0-6eeeec50fbdc004c5e6cb7d2571ca06d
 #EXTINF:-1 tvg-id="room-9912135" tvg-logo="https://sta.vnres.co/file/common/20260902/7ef18d49292c17a7644405afcca31abd.png" group-title="Bóng đá",Modbury Jets vs Adelaide Olympic (NPL SAL1)
-https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1788591301-0-0-0e2ce80514c564f9897b916aa9e98fce
+https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1788591601-0-0-f192e0bbcb4a7dd407a774ff9de6b981
 #EXTINF:-1 tvg-id="room-9912136" tvg-logo="https://sta.vnres.co/file/common/20260902/5af1b97f9aba6439f33c71e60dab3417.png" group-title="Bóng đá",TSG Hoffenheim vs Borussia Dortmund (GER D1)
 https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=400724f790b0bd4e6a125a2d7001bf26&txTime=6a9b84ba
 #EXTINF:-1 tvg-id="room-9912138" tvg-logo="https://sta.vnres.co/file/common/20260902/3fe0642a1c0abab33911fa6cc0f5b0c3.png" group-title="Bóng đá",Bucheon FC 1995 vs Daejeon Hana Citizen (KOR D1)
@@ -164,26 +164,20 @@ https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788546441-0-0-8e8
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260903/23311d8c0fbe6f6474eeea2f44fb9f18.png" group-title="Bóng rổ",South East Melbourne Phoenix vs Brisbane Bullets (NBL)
 https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788536220-0-0-442babc893b27145b127e113c56961b8
 #EXTINF:-1 tvg-id="room-304148" tvg-logo="https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg" group-title="SocoLive",NPL SAL1: Adelaide Raiders SC vs Adelaide Blue Eagles - BLV LUCAS
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788591301-0-0-18660e64e89aff68aaa285b649b90cb7
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788591601-0-0-ccf8436c654dfbead03f6cf4dc5feb8e
 #EXTINF:-1 tvg-id="room-327159" tvg-logo="https://sta.vnres.co/file/common/20260804/75681fd6aa001c1bb1b8d3946dd69271.jpg" group-title="SocoLive",AUS CGP: Canberra FC vs Queanbeyan City - BLV COCA
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1788591301-0-0-2c63ba6301c9e969173e0d771584f557
-#EXTINF:-1 tvg-id="room-459401" tvg-logo="https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4.jpg" group-title="SocoLive",Aus VPL: Avondale FC vs Preston Lions - BLV BÉO
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=b9d038bac8a5db144bd2cc84d17c4511&txTime=6a9c0315
-#EXTINF:-1 tvg-id="room-491873" tvg-logo="https://sta.vnres.co/file/common/20250723/6b83b847d8944b57cc13043bae9fa7a8.jpg" group-title="SocoLive",Aus VPL: Avondale FC vs Preston Lions - BLV VIP
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=8f7caa9e4e4bb407b24244dce197672a&txTime=6a9c0315
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1788591601-0-0-2bec60c698a1f4d9376087c8fe07266c
 #EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg" group-title="SocoLive",NPL SAL1: Modbury Jets vs Adelaide Olympic - BLV RAMBO
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=cc5a7580920b8cc0471fde7a18af91a8&txTime=6a9c0315
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=ddd7f5457d4528151aa883df8037023e&txTime=6a9c0441
 #EXTINF:-1 tvg-id="room-552832" tvg-logo="https://sta.vnres.co/file/common/20251111/6a43978efb637082f6eb906c1e7f1621.jpg" group-title="SocoLive",AUS CGP: Canberra FC vs Queanbeyan City - LOGAN
-https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=03ce1d39d6ca677a5c6097ff3159a476&txTime=6a9c0315
+https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=40bc83ffb8cf9cc10392dc676e77e19a&txTime=6a9c0441
 #EXTINF:-1 tvg-id="room-602019" tvg-logo="https://sta.vnres.co/file/common/20260329/46d787b8716ab82aff515db39b5a55a1.jpg" group-title="SocoLive",NPL SAL1: Adelaide Raiders SC vs Adelaide Blue Eagles - BLV RYO
-https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=3bf959bb60fdc3cd28327bfe0d904497&txTime=6a9c0315
-#EXTINF:-1 tvg-id="room-619561" tvg-logo="https://sta.vnres.co/file/common/20260729/d06a0efe274bce28547238bec2a125b9.jpg" group-title="SocoLive",Aus VPL: Avondale FC vs Preston Lions - BÚN ĐẬU
-https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1788591259-0-0-0daa0a28e341306d896a52bfc3b4746e
+https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=566f9c7c583dc6cf174c9109fda29c05&txTime=6a9c0441
 #EXTINF:-1 tvg-id="room-622241" tvg-logo="https://sta.vnres.co/file/common/20260828/0a19e4efc148afbb5c57d9ee5f69d612.jpg" group-title="SocoLive",AUS CGP: Canberra FC vs Queanbeyan City - BLV HEHE
-https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1788591301-0-0-1ae15af5c71e6bed11e719f411923d1d
+https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1788591601-0-0-24ba3186a6e376379b0faf1a9407b0da
 #EXTINF:-1 tvg-id="room-991140" tvg-logo="https://sta.vnres.co/file/common/20240614/d900dd8841b1223c7b58554cde34df75.jpg" group-title="SocoLive",AUS CGP: Canberra FC vs Queanbeyan City - BLV FIREMAN
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788591301-0-0-8606427d625656c5c9e3940e1acbbcb8
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788591601-0-0-b391bb727a2093dc6e222d02eb9d0592
 #EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg" group-title="SocoLive",AUS NNSW: Kahibah FC vs Newcastle Croatia - BLV RÔSI
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=3c88a144acf3d0bcb8beca5d905e45ea&txTime=6a9c0315
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=067ba1308aa9f45a9e2e20388e0a0349&txTime=6a9c03d8
 #EXTINF:-1 tvg-id="room-9912135" tvg-logo="https://sta.vnres.co/file/common/20260801/16b69ccb9ccf1f371806a3f19e7dc683.jpg" group-title="SocoLive",NPL SAL1: Modbury Jets vs Adelaide Olympic - BLV PEWPEW
-https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1788591301-0-0-0e2ce80514c564f9897b916aa9e98fce
+https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1788591601-0-0-f192e0bbcb4a7dd407a774ff9de6b981
