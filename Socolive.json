@@ -185,7 +185,7 @@
     "name": "São Paulo - SP vs Atlético Mineiro - MG (BRA D1)",
     "logo": "https://sta.vnres.co/file/common/20260902/a3c4c91956017a47829db8f45877fe73.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788646441-0-0-de1793081cc855c697bc2548e8ea8fb0",
+    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788646801-0-0-21072ba09df89894343d60dc134f4598",
     "type": "hls"
   },
   {
@@ -212,7 +212,7 @@
     "name": "Sporting CP vs Nacional da Madeira (POR D1)",
     "logo": "https://sta.vnres.co/file/common/20260902/ae145051eca39af6394dfb4669774218.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1788646441-0-0-d26baf577e227b347a168abd5be8a9ff",
+    "url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1788646801-0-0-5710709e43d1204fc36281d77ae0b342",
     "type": "hls"
   },
   {
@@ -248,7 +248,7 @@
     "name": "São Paulo - SP vs Atlético Mineiro - MG (BRA D1)",
     "logo": "https://sta.vnres.co/file/common/20260902/a3c4c91956017a47829db8f45877fe73.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=593b545f1c6cc69b10d922a79888e37d\u0026txTime=6a9cda79",
+    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=45a60d1885320237145ba39c65553ca3\u0026txTime=6a9cdbe1",
     "type": "hls"
   },
   {
@@ -275,7 +275,7 @@
     "name": "São Paulo - SP vs Atlético Mineiro - MG (BRA D1)",
     "logo": "https://sta.vnres.co/file/common/20260902/a3c4c91956017a47829db8f45877fe73.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1788646441-0-0-cbf59b42d747ee25ba8854a0b440ffb2",
+    "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1788646801-0-0-d1e2b38bc9f49d5acf187030b72c978d",
     "type": "hls"
   },
   {
@@ -356,7 +356,7 @@
     "name": "São Paulo - SP vs Atlético Mineiro - MG (BRA D1)",
     "logo": "https://sta.vnres.co/file/common/20260902/a3c4c91956017a47829db8f45877fe73.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1788646441-0-0-853dab8e017fdf18c823e5c156b701cf",
+    "url": "https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1788646801-0-0-ecc9fdb7463c02aacb8369b9e99aa4be",
     "type": "hls"
   },
   {
@@ -590,7 +590,7 @@
     "name": "Sporting CP vs Nacional da Madeira (POR D1)",
     "logo": "https://sta.vnres.co/file/common/20260902/ae145051eca39af6394dfb4669774218.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1788646441-0-0-73e96fa15fde898ede48ea196ed3bf89",
+    "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1788646801-0-0-c1a36038eb406fd0d84044bd62708454",
     "type": "hls"
   },
   {
@@ -702,6 +702,15 @@
     "type": "hls"
   },
   {
+    "id": "9912112",
+    "tvg_id": "room-9912112",
+    "name": "Japan W vs Spain W (FIBAP W)",
+    "logo": "https://sta.vnres.co/file/common/20260905/346e8706ba518204a26b483c271e9343.png",
+    "group": "Bóng rổ",
+    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788638206-0-0-307e1bd3646f01543a9f10af8c25b08e",
+    "type": "hls"
+  },
+  {
     "id": "9912115",
     "tvg_id": "room-9912115",
     "name": "Melbourne United vs lllawarra Hawks (NBL)",
@@ -716,7 +725,7 @@
     "name": "BRA D1: São Paulo - SP vs Atlético Mineiro - MG - BLV A WIN",
     "logo": "https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788646441-0-0-de1793081cc855c697bc2548e8ea8fb0",
+    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788646741-0-0-da47ae8a25b15073fa2cacff7c9f81f5",
     "type": "hls"
   },
   {
@@ -725,7 +734,7 @@
     "name": "POR D1: Sporting CP vs Nacional da Madeira - BLV CÁO",
     "logo": "https://sta.vnres.co/file/common/20260312/cb002ebc914e9240a9242c43ec27aacb.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1788646441-0-0-d26baf577e227b347a168abd5be8a9ff",
+    "url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1788646741-0-0-262553b0c6f06ec99ebf6b281a7c3c20",
     "type": "hls"
   },
   {
@@ -734,7 +743,7 @@
     "name": "BRA D1: São Paulo - SP vs Atlético Mineiro - MG - HÀ DUY KIÊN",
     "logo": "https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=593b545f1c6cc69b10d922a79888e37d\u0026txTime=6a9cda79",
+    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=fbe838862a0e36beeae7e35b3b6e6e7b\u0026txTime=6a9cdba5",
     "type": "hls"
   },
   {
@@ -743,7 +752,7 @@
     "name": "BRA D1: São Paulo - SP vs Atlético Mineiro - MG - VINFAST",
     "logo": "https://sta.vnres.co/file/common/20260628/540cb58118f4c3201221b711e9a9cb7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1788646441-0-0-cbf59b42d747ee25ba8854a0b440ffb2",
+    "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1788646741-0-0-ca914cf44e387cba196a9b52cc887956",
     "type": "hls"
   },
   {
@@ -752,7 +761,7 @@
     "name": "BRA D1: São Paulo - SP vs Atlético Mineiro - MG - CHAN ĐÊ",
     "logo": "https://sta.vnres.co/file/common/20260728/c2935ca02d759ee77531ff32719f1b21.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1788646441-0-0-853dab8e017fdf18c823e5c156b701cf",
+    "url": "https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1788646741-0-0-4787333a0ebdfedf0a1bc7a2b14e71fc",
     "type": "hls"
   },
   {
@@ -761,7 +770,7 @@
     "name": "POR D1: Sporting CP vs Nacional da Madeira - TUẤN CÙI",
     "logo": "https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1788646441-0-0-73e96fa15fde898ede48ea196ed3bf89",
+    "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1788646741-0-0-3c693a2a45a6a8cfe75c6af967fe3a43",
     "type": "hls"
   }
 ]
