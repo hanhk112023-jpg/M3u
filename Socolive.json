@@ -185,7 +185,7 @@
     "name": "São Paulo - SP vs Atlético Mineiro - MG (BRA D1)",
     "logo": "https://sta.vnres.co/file/common/20260902/a3c4c91956017a47829db8f45877fe73.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788648061-0-0-c1e2958f0f49d4ce523e008c656c913d",
+    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788648361-0-0-e5fbcc307320ce28b6c871847b5d1092",
     "type": "hls"
   },
   {
@@ -248,7 +248,7 @@
     "name": "São Paulo - SP vs Atlético Mineiro - MG (BRA D1)",
     "logo": "https://sta.vnres.co/file/common/20260902/a3c4c91956017a47829db8f45877fe73.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=e2802edb6121de35c6089849661d18cf\u0026txTime=6a9ce0cd",
+    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=c55e49dcfd0eae62e6456775c523ef7f\u0026txTime=6a9ce1f9",
     "type": "hls"
   },
   {
@@ -275,7 +275,7 @@
     "name": "São Paulo - SP vs Atlético Mineiro - MG (BRA D1)",
     "logo": "https://sta.vnres.co/file/common/20260902/a3c4c91956017a47829db8f45877fe73.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1788648061-0-0-12fee8c5034039ba870979862b179413",
+    "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1788648361-0-0-437e47135c5fef640ed7c0e586592bdf",
     "type": "hls"
   },
   {
@@ -356,7 +356,7 @@
     "name": "São Paulo - SP vs Atlético Mineiro - MG (BRA D1)",
     "logo": "https://sta.vnres.co/file/common/20260902/a3c4c91956017a47829db8f45877fe73.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1788648061-0-0-4c973cac4c0f6d27e3db7984d363d0c7",
+    "url": "https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1788648361-0-0-99205ed2f22fcbb328970df15a5755aa",
     "type": "hls"
   },
   {
@@ -464,7 +464,7 @@
     "name": "CA San Lorenzo vs Talleres Cordoba (ARG D1)",
     "logo": "https://sta.vnres.co/file/common/20260902/1191bc6c0c921b82ffbb59c49a8f8573.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1788648061-0-0-a2d118a55865577baf6650347fafb804",
+    "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1788648361-0-0-ae798338f34ddbb77f52f4a274ab5474",
     "type": "hls"
   },
   {
@@ -725,7 +725,7 @@
     "name": "BRA D1: São Paulo - SP vs Atlético Mineiro - MG - BLV A WIN",
     "logo": "https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788648001-0-0-994fe5e93bc3487b0beaa5fccccf11c7",
+    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788648301-0-0-6be234df904f7afa24258ad9dbc3d674",
     "type": "hls"
   },
   {
@@ -734,7 +734,16 @@
     "name": "BRA D1: São Paulo - SP vs Atlético Mineiro - MG - HÀ DUY KIÊN",
     "logo": "https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=0e8acc475952b153c60fbe7b2f0ed2eb\u0026txTime=6a9ce091",
+    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=5269d7380ede18e14258e4ced33ffe19\u0026txTime=6a9ce1bd",
+    "type": "hls"
+  },
+  {
+    "id": "617313",
+    "tvg_id": "room-617313",
+    "name": "BRA D1: São Paulo - SP vs Atlético Mineiro - MG - VINFAST",
+    "logo": "https://sta.vnres.co/file/common/20260628/540cb58118f4c3201221b711e9a9cb7b.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1788648301-0-0-576fa95ebc71babe6375c9b9a3cb26db",
     "type": "hls"
   },
   {
@@ -743,7 +752,7 @@
     "name": "BRA D1: São Paulo - SP vs Atlético Mineiro - MG - CHAN ĐÊ",
     "logo": "https://sta.vnres.co/file/common/20260728/c2935ca02d759ee77531ff32719f1b21.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1788648001-0-0-cafd0f1d4ac7ed8737bf448ea70a9eb1",
+    "url": "https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1788648301-0-0-32c603f47ee95827267399d793503edf",
     "type": "hls"
   },
   {
@@ -752,7 +761,7 @@
     "name": "ARG D1: CA San Lorenzo vs Talleres Cordoba - BLV VOI",
     "logo": "https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1788648001-0-0-96346bd5419f7ac111aa03dd214901cb",
+    "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1788648301-0-0-23e4da212a2a87dcbaec8de6e8729ebb",
     "type": "hls"
   }
 ]
