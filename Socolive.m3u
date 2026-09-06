@@ -1,14 +1,14 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 99
-# Updated: 06/09/2026 19:19:22
+# Channels: 97
+# Updated: 06/09/2026 19:29:44
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260905/4bb9c25f16422937cf704f979d56efa1.png" group-title="Bóng đá",Club Leon vs Club America (CNCF LC)
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788696255-0-0-d2c17ee3dec5f14f5f18722b4f0ae625
 #EXTINF:-1 tvg-id="room-283501" tvg-logo="https://sta.vnres.co/file/common/20260904/bc00096317ce5a060109635d8375db63.png" group-title="Bóng đá",River Plate vs Independiente Rivadavia (ARG D1)
 https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=cb02bb2a359f596f1d3b51c006cad5d6&txTime=6a9d4422
 #EXTINF:-1 tvg-id="room-291277" tvg-logo="https://sta.vnres.co/file/common/20260904/d7fe3edfdaa30eceec8ec60f094e7d39.png" group-title="Bóng đá",Juventus vs AC Milan (ITA D1)
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=03fa7c8d9953beb0a9e70cc86fa326ac&txTime=6a9e1105
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=399a9cedc9eadcb293a09e7b74c17afd&txTime=6a9e135d
 #EXTINF:-1 tvg-id="room-304148" tvg-logo="https://sta.vnres.co/file/common/20260902/bb67d4d9a13f26057a80c9e157966326.png" group-title="Bóng đá",Eintracht Frankfurt vs FC Augsburg (GER D1)
 https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788719161-0-0-638aac7f724e72697ea7175233ab69b0
 #EXTINF:-1 tvg-id="room-321443" tvg-logo="https://sta.vnres.co/file/common/20260902/8ca3984a89662fc63f4a24d7afeb6ec3.png" group-title="Bóng đá",Angers SCO vs Stade Rennais FC (FRA D1)
@@ -20,7 +20,7 @@ https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788702953-0-0-e7be
 #EXTINF:-1 tvg-id="room-380460" tvg-logo="https://sta.vnres.co/file/common/20260902/75c9f2ecb47e66226be9b37959ecf288.png" group-title="Bóng đá",Valencia CF vs FC Barcelona (SPA D1)
 https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1788724510-0-0-e033ad0286c6081e5c1e78d5e1171272
 #EXTINF:-1 tvg-id="room-387694" tvg-logo="https://sta.vnres.co/file/common/20260904/d7fe3edfdaa30eceec8ec60f094e7d39.png" group-title="Bóng đá",Juventus vs AC Milan (ITA D1)
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=c11fa23e1c447b52b4088557368857d4&txTime=6a9e1105
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=72a7317b6f4f634e7aa44909dc3dd36d&txTime=6a9e135d
 #EXTINF:-1 tvg-id="room-406865" tvg-logo="https://sta.vnres.co/file/common/20260904/2452eb3b1dc2b63a806373411a280e2d.png" group-title="Bóng đá",Botafogo - RJ vs Palmeiras - SP (BRA D1)
 https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=256363fd9adfa7f71290993d6e793244&txTime=6a9dff66
 #EXTINF:-1 tvg-id="room-414317" tvg-logo="https://sta.vnres.co/file/common/20260902/74d3ebd614688111358a84febd1a49d3.png" group-title="Bóng đá",Arsenal vs Chelsea (ENG PR)
@@ -32,13 +32,11 @@ https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=1b5620f79848143cf843
 #EXTINF:-1 tvg-id="room-491873" tvg-logo="https://sta.vnres.co/file/common/20260905/4bb9c25f16422937cf704f979d56efa1.png" group-title="Bóng đá",Club Leon vs Club America (CNCF LC)
 https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=840cebb3000ee9753a8ea86bdd670cee&txTime=6a9d9cd6
 #EXTINF:-1 tvg-id="room-501412" tvg-logo="https://sta.vnres.co/file/common/20260904/d7fe3edfdaa30eceec8ec60f094e7d39.png" group-title="Bóng đá",Juventus vs AC Milan (ITA D1)
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=65cc3ea671bb2e1af7d8a890c6ca4848&txTime=6a9e1106
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=5c4a689c49f9339c007faf93bc7bdba0&txTime=6a9e135e
 #EXTINF:-1 tvg-id="room-511367" tvg-logo="https://sta.vnres.co/file/common/20260902/8ca3984a89662fc63f4a24d7afeb6ec3.png" group-title="Bóng đá",Angers SCO vs Stade Rennais FC (FRA D1)
 https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1788718815-0-0-a9bd980e0d4ba35ed509425de09c2834
 #EXTINF:-1 tvg-id="room-527383" tvg-logo="https://sta.vnres.co/file/common/20260904/e03561f62bd2714848cbfa7f590d7729.png" group-title="Bóng đá",Patriotas FC vs Tigres Zipaquira (COL D2)
 https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1788723246-0-0-daa530dff1e2a40f35a74d481dae7fdd
-#EXTINF:-1 tvg-id="room-527384" tvg-logo="https://sta.vnres.co/file/common/20260902/74d3ebd614688111358a84febd1a49d3.png" group-title="Bóng đá",Arsenal vs Chelsea (ENG PR)
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1788719476-0-0-cfa4274a817bc868f672d3dc33fa76d3
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260902/75c9f2ecb47e66226be9b37959ecf288.png" group-title="Bóng đá",Valencia CF vs FC Barcelona (SPA D1)
 https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788715155-0-0-92b802517ee50062e023ed830c4ed9fc
 #EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260904/ca92697f5f7bfff6658ff95284ac1cc6.png" group-title="Bóng đá",Deportivo Pereira vs Millonarios (COL D1)
@@ -47,8 +45,6 @@ https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=089bc8ec17b262e098e4
 https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788669561-0-0-0be69b7580fd049716049dcde8bea8cb
 #EXTINF:-1 tvg-id="room-552832" tvg-logo="https://sta.vnres.co/file/common/20260902/75c9f2ecb47e66226be9b37959ecf288.png" group-title="Bóng đá",Valencia CF vs FC Barcelona (SPA D1)
 https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=01d5786a2f43891f34464d808da159ac&txTime=6a9de686
-#EXTINF:-1 tvg-id="room-582342" tvg-logo="https://sta.vnres.co/file/common/20260902/bb67d4d9a13f26057a80c9e157966326.png" group-title="Bóng đá",Eintracht Frankfurt vs FC Augsburg (GER D1)
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1788718995-0-0-64de0c09fe544338e635dc1080fbd453
 #EXTINF:-1 tvg-id="room-597929" tvg-logo="https://sta.vnres.co/file/common/20260904/cbd977d0f4c462b1bf402e165b555098.png" group-title="Bóng đá",Asteras Aktor vs Iraklis (GRE D1)
 https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1788724932-0-0-7950cb5ee15c9f5f4966a91ebfb9362f
 #EXTINF:-1 tvg-id="room-602019" tvg-logo="https://sta.vnres.co/file/common/20260904/dc950c02007a00f475a45a87bafe2cc9.png" group-title="Bóng đá",Istanbulspor vs Iğdır FK (TFF 1. Lig)
@@ -76,9 +72,9 @@ https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1788710653-0-0-457b
 #EXTINF:-1 tvg-id="room-620504" tvg-logo="https://sta.vnres.co/file/common/20260904/0e22e3ca79b7ca2835fbb9e68d949a49.png" group-title="Bóng đá",KS Wieczysta Krakow vs Zaglebie Lubin (POL D1)
 https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=9fd23b857b96a18aad33d44a7eb4925a&txTime=6a9e0bef
 #EXTINF:-1 tvg-id="room-620797" tvg-logo="https://sta.vnres.co/file/common/20260904/d89031a9b8d3da0ff2ea4d89ffc23741.png" group-title="Bóng đá",RCD Espanyol vs Sevilla FC (SPA D1)
-https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1788725942-0-0-69e90e8ec167e8ef7b2dbf58e1e5bdaf
+https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1788726542-0-0-1ed5d7ab438a58d69355a39b148df790
 #EXTINF:-1 tvg-id="room-621840" tvg-logo="https://sta.vnres.co/file/common/20260904/d89031a9b8d3da0ff2ea4d89ffc23741.png" group-title="Bóng đá",RCD Espanyol vs Sevilla FC (SPA D1)
-https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=b7e9f9d6dd5a6ee303c5ff9be4fbf738&txTime=6a9e1106
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=c90b9c5d187c46aef5227551b64aad25&txTime=6a9e135e
 #EXTINF:-1 tvg-id="room-621843" tvg-logo="https://sta.vnres.co/file/common/20260904/c1a4a960f332174961f4ad3bb9aa77ff.png" group-title="Bóng đá",Olympic El Qanal vs Tala'ea El Gaish (EGY D1)
 https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1788724373-0-0-daad14275458dcbacd14ac5ce8de79c6
 #EXTINF:-1 tvg-id="room-621887" tvg-logo="https://sta.vnres.co/file/common/20260904/2452eb3b1dc2b63a806373411a280e2d.png" group-title="Bóng đá",Botafogo - RJ vs Palmeiras - SP (BRA D1)
@@ -90,11 +86,11 @@ https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1788696167-0-0-5864
 #EXTINF:-1 tvg-id="room-622241" tvg-logo="https://sta.vnres.co/file/common/20260904/24ca1572ba3c7bc04c14b9ac8acbe46c.png" group-title="Bóng đá",ISPE FC vs Sagaing United (MYA D1)
 https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1788700149-0-0-dcbaa0664d4bd2cad5b3549155057300
 #EXTINF:-1 tvg-id="room-625920" tvg-logo="https://sta.vnres.co/file/common/20260904/26b065fd39a2e43bb2dc428ad6f50fa3.png" group-title="Bóng đá",Gil Vicente vs Viseu (POR D1)
-https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1788725942-0-0-7c564d733302dd4a52a754be6a4cd634
+https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1788726542-0-0-28c2bb4b9f03656d848b479c0a5752c7
 #EXTINF:-1 tvg-id="room-627718" tvg-logo="https://sta.vnres.co/file/common/20260904/bc00096317ce5a060109635d8375db63.png" group-title="Bóng đá",River Plate vs Independiente Rivadavia (ARG D1)
 https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1788710592-0-0-dcc25b32e41a4e63ec7f395f33b8f884
 #EXTINF:-1 tvg-id="room-991140" tvg-logo="https://sta.vnres.co/file/common/20260904/d7fe3edfdaa30eceec8ec60f094e7d39.png" group-title="Bóng đá",Juventus vs AC Milan (ITA D1)
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788725941-0-0-6976a7e5412e5c952fa0d1175d55c2be
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788726541-0-0-d057fc9994cc5837c9c02ae203523f44
 #EXTINF:-1 tvg-id="room-9912008" tvg-logo="https://sta.vnres.co/file/common/20260902/74d3ebd614688111358a84febd1a49d3.png" group-title="Bóng đá",Arsenal vs Chelsea (ENG PR)
 https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1788719393-0-0-918fcbe2c9ce96bf21a9b25e1645cdf5
 #EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260902/74d3ebd614688111358a84febd1a49d3.png" group-title="Bóng đá",Arsenal vs Chelsea (ENG PR)
@@ -108,33 +104,33 @@ https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788719508-0-0-275
 #EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260904/d02a9796dfde598f1664f7b02536e585.png" group-title="Bóng đá",Corinthians - SP vs Chapecoense - SC (BRA D1)
 https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1788701257-0-0-a835a37416fb2eaa64f4e99b7f39b157
 #EXTINF:-1 tvg-id="room-9912119" tvg-logo="https://sta.vnres.co/file/common/20260904/d7fe3edfdaa30eceec8ec60f094e7d39.png" group-title="Bóng đá",Juventus vs AC Milan (ITA D1)
-https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1788725942-0-0-da2904f09c867849a8d6439371520517
+https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1788726542-0-0-534b636ddb98d6ca923294a7b4be3d22
 #EXTINF:-1 tvg-id="room-9912123" tvg-logo="https://sta.vnres.co/file/common/20260904/d89031a9b8d3da0ff2ea4d89ffc23741.png" group-title="Bóng đá",RCD Espanyol vs Sevilla FC (SPA D1)
-https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1788725942-0-0-94ebda8c752bac699575980ad3ae2682
+https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1788726542-0-0-b61100f7c7a8af0fcf6ac65c17abcb5c
 #EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260904/d89031a9b8d3da0ff2ea4d89ffc23741.png" group-title="Bóng đá",RCD Espanyol vs Sevilla FC (SPA D1)
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788725942-0-0-b5dc26c03e01be0d383add27f4d05844
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788726542-0-0-c984af2d51fe86751e191f199a4e177a
 #EXTINF:-1 tvg-id="room-9912126" tvg-logo="https://sta.vnres.co/file/common/20260904/26b065fd39a2e43bb2dc428ad6f50fa3.png" group-title="Bóng đá",Gil Vicente vs Viseu (POR D1)
-https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=03e17d25c260116811da1b1d0de91348&txTime=6a9e1106
+https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=3da8caea4d031b259b84567a66253029&txTime=6a9e135e
 #EXTINF:-1 tvg-id="room-9912127" tvg-logo="https://sta.vnres.co/file/common/20260904/3900c56410b98f71ce0b2429c9eee936.png" group-title="Bóng đá",Marseille vs Paris FC (FRA D1)
-https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=9025750c43c33280f19456a42cee353e&txTime=6a9e1105
+https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=ad4235043687993ece02260f6016a15c&txTime=6a9e135d
 #EXTINF:-1 tvg-id="room-9912128" tvg-logo="https://sta.vnres.co/file/common/20260904/3900c56410b98f71ce0b2429c9eee936.png" group-title="Bóng đá",Marseille vs Paris FC (FRA D1)
-https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1788725942-0-0-7720bd8eea68d8a371b2585868cd547b
+https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1788726542-0-0-382acba88a2567a55992a5f1c7b53023
 #EXTINF:-1 tvg-id="room-9912129" tvg-logo="https://sta.vnres.co/file/common/20260902/75c9f2ecb47e66226be9b37959ecf288.png" group-title="Bóng đá",Valencia CF vs FC Barcelona (SPA D1)
 https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=31224acfa4fddd12c75bf882f61d012d&txTime=6a9e0c76
 #EXTINF:-1 tvg-id="room-9912130" tvg-logo="https://sta.vnres.co/file/common/20260904/3900c56410b98f71ce0b2429c9eee936.png" group-title="Bóng đá",Marseille vs Paris FC (FRA D1)
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788725942-0-0-70c070585b0dc92ecec840f9fe66bbe1
+https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788726542-0-0-47985cbf16f181f9c547f166ca82505f
 #EXTINF:-1 tvg-id="room-9912131" tvg-logo="https://sta.vnres.co/file/common/20260904/d89031a9b8d3da0ff2ea4d89ffc23741.png" group-title="Bóng đá",RCD Espanyol vs Sevilla FC (SPA D1)
-https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1788725941-0-0-c80394d6c864dc96c026efbbcd1f823b
+https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1788726541-0-0-10e2d74243d9a9cb06582ccd87a1d29c
 #EXTINF:-1 tvg-id="room-9912132" tvg-logo="https://sta.vnres.co/file/common/20260904/3900c56410b98f71ce0b2429c9eee936.png" group-title="Bóng đá",Marseille vs Paris FC (FRA D1)
-https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=f22044596b2aa0742f174bb665e32308&txTime=6a9e1105
+https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=20cb057e460fb13590c2a682fbe6ee1c&txTime=6a9e135d
 #EXTINF:-1 tvg-id="room-9912133" tvg-logo="https://sta.vnres.co/file/common/20260904/3900c56410b98f71ce0b2429c9eee936.png" group-title="Bóng đá",Marseille vs Paris FC (FRA D1)
-https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1788725942-0-0-9e6a6483437422c301d325469ca87e48
+https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1788726542-0-0-5fa6496b214ab138dd039ae10c243c83
 #EXTINF:-1 tvg-id="room-9912135" tvg-logo="https://sta.vnres.co/file/common/20260904/ca92697f5f7bfff6658ff95284ac1cc6.png" group-title="Bóng đá",Deportivo Pereira vs Millonarios (COL D1)
 https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1788712027-0-0-0ac70d0f7ae44623d95b977407c4aa93
 #EXTINF:-1 tvg-id="room-9912136" tvg-logo="https://sta.vnres.co/file/common/20260904/0310474fc31ac6024119f57875981f6e.png" group-title="Bóng đá",Racing Club de Avellaneda vs Atletico Tucuman (ARG D1)
 https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=b9d260c98d53498cfb8c6bc8c901794a&txTime=6a9ddaed
 #EXTINF:-1 tvg-id="room-9912138" tvg-logo="https://sta.vnres.co/file/common/20260904/3900c56410b98f71ce0b2429c9eee936.png" group-title="Bóng đá",Marseille vs Paris FC (FRA D1)
-https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1788725941-0-0-c9ddb93e56ec780d83ba28a66f5aa9ae
+https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1788726541-0-0-499a8ccae39e1a12412b47846cbd9d74
 #EXTINF:-1 tvg-id="room-9912139" tvg-logo="https://sta.vnres.co/file/common/20260904/e9b12e9ea525e6c25989e3245dff5269.png" group-title="Bóng đá",North Korea U20 Women vs Portugal U20 Women (FIFA WU20)
 https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=caefcc3e960bab7c647d4a8968ab5951&txTime=6a9e0d46
 #EXTINF:-1 tvg-id="room-9912140" tvg-logo="https://sta.vnres.co/file/common/20260904/24ca1572ba3c7bc04c14b9ac8acbe46c.png" group-title="Bóng đá",ISPE FC vs Sagaing United (MYA D1)
@@ -142,7 +138,7 @@ https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=272b3ec59b9a09930ec
 #EXTINF:-1 tvg-id="room-9912141" tvg-logo="https://sta.vnres.co/file/common/20260902/75c9f2ecb47e66226be9b37959ecf288.png" group-title="Bóng đá",Valencia CF vs FC Barcelona (SPA D1)
 https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1788722826-0-0-f21b0a879926374c55763af51e90fd17
 #EXTINF:-1 tvg-id="room-9912142" tvg-logo="https://sta.vnres.co/file/common/20260904/d7fe3edfdaa30eceec8ec60f094e7d39.png" group-title="Bóng đá",Juventus vs AC Milan (ITA D1)
-https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1788725941-0-0-4227f50a1cd2447359f58273fb9f0d09
+https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1788726542-0-0-409c4c263302472945c88f5db8b98027
 #EXTINF:-1 tvg-id="room-9912143" tvg-logo="https://sta.vnres.co/file/common/20260902/75c9f2ecb47e66226be9b37959ecf288.png" group-title="Bóng đá",Valencia CF vs FC Barcelona (SPA D1)
 https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1788715136-0-0-e8055e1738cd7a8e2bbdeb38894f496c
 #EXTINF:-1 tvg-id="room-9912144" tvg-logo="https://sta.vnres.co/file/common/20260902/74d3ebd614688111358a84febd1a49d3.png" group-title="Bóng đá",Arsenal vs Chelsea (ENG PR)
@@ -164,40 +160,40 @@ https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788638206-0-0-307
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260905/3d9ca0c7fd0d02d65e51d160030f97fe.png" group-title="Bóng rổ",Quezon City vs Sarangani Marlins (MPBL)
 https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788708527-0-0-a2fc0c9b5ec474dfb0cfc99c674c3677
 #EXTINF:-1 tvg-id="room-291277" tvg-logo="https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg" group-title="SocoLive",ITA D1: Juventus vs AC Milan - CÔNG CHẤT
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=03fa7c8d9953beb0a9e70cc86fa326ac&txTime=6a9e1105
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=399a9cedc9eadcb293a09e7b74c17afd&txTime=6a9e135d
 #EXTINF:-1 tvg-id="room-387694" tvg-logo="https://sta.vnres.co/file/common/20260907/85c3bf7a9486f1a72e51b76545646727.png" group-title="SocoLive",ITA D1: Juventus vs AC Milan - CR Bưởi
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=c11fa23e1c447b52b4088557368857d4&txTime=6a9e1105
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=72a7317b6f4f634e7aa44909dc3dd36d&txTime=6a9e135d
 #EXTINF:-1 tvg-id="room-501412" tvg-logo="https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png" group-title="SocoLive",ITA D1: Juventus vs AC Milan - XUÂN SON
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=65cc3ea671bb2e1af7d8a890c6ca4848&txTime=6a9e1106
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=5c4a689c49f9339c007faf93bc7bdba0&txTime=6a9e135e
 #EXTINF:-1 tvg-id="room-620797" tvg-logo="https://sta.vnres.co/file/common/20260721/eae172928facf755dbf2027ca230e55e.png" group-title="SocoLive",SPA D1: RCD Espanyol vs Sevilla FC - BÒ TƯƠI
-https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1788725942-0-0-69e90e8ec167e8ef7b2dbf58e1e5bdaf
+https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1788726542-0-0-1ed5d7ab438a58d69355a39b148df790
 #EXTINF:-1 tvg-id="room-621840" tvg-logo="https://sta.vnres.co/file/common/20260810/042a00493898027e5f644f6f24e88c53.png" group-title="SocoLive",SPA D1: RCD Espanyol vs Sevilla FC - MP3
-https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=b7e9f9d6dd5a6ee303c5ff9be4fbf738&txTime=6a9e1106
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=c90b9c5d187c46aef5227551b64aad25&txTime=6a9e135e
 #EXTINF:-1 tvg-id="room-625920" tvg-logo="https://sta.vnres.co/file/common/20260828/e0638aedd6aef31974244bd226615764.jpg" group-title="SocoLive",POR D1: Gil Vicente vs Viseu - NEKO
-https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1788725942-0-0-7c564d733302dd4a52a754be6a4cd634
+https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1788726542-0-0-28c2bb4b9f03656d848b479c0a5752c7
 #EXTINF:-1 tvg-id="room-991140" tvg-logo="https://sta.vnres.co/file/common/20240614/d900dd8841b1223c7b58554cde34df75.jpg" group-title="SocoLive",ITA D1: Juventus vs AC Milan - BLV FIREMAN
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788725941-0-0-6976a7e5412e5c952fa0d1175d55c2be
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788726541-0-0-d057fc9994cc5837c9c02ae203523f44
 #EXTINF:-1 tvg-id="room-9912119" tvg-logo="https://sta.vnres.co/file/common/20260829/f624027ec79ccc757bf8d5a663d63763.jpg" group-title="SocoLive",ITA D1: Juventus vs AC Milan - HẢI THANH
-https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1788725942-0-0-da2904f09c867849a8d6439371520517
+https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1788726542-0-0-534b636ddb98d6ca923294a7b4be3d22
 #EXTINF:-1 tvg-id="room-9912123" tvg-logo="https://sta.vnres.co/file/common/20260725/0eb3315ecb9cf5c7f5f9b102d38e52f9.jpg" group-title="SocoLive",SPA D1: RCD Espanyol vs Sevilla FC - RỒNG ĐẤT
-https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1788725942-0-0-94ebda8c752bac699575980ad3ae2682
+https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1788726542-0-0-b61100f7c7a8af0fcf6ac65c17abcb5c
 #EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg" group-title="SocoLive",SPA D1: RCD Espanyol vs Sevilla FC - KENCHU
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788725942-0-0-b5dc26c03e01be0d383add27f4d05844
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788726542-0-0-c984af2d51fe86751e191f199a4e177a
 #EXTINF:-1 tvg-id="room-9912126" tvg-logo="https://sta.vnres.co/file/common/20260715/0e572fd7d0bfc5ce5cf538c09b8cace4.jpg" group-title="SocoLive",POR D1: Gil Vicente vs Viseu - SEVEN
-https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=03e17d25c260116811da1b1d0de91348&txTime=6a9e1106
+https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=3da8caea4d031b259b84567a66253029&txTime=6a9e135e
 #EXTINF:-1 tvg-id="room-9912127" tvg-logo="https://sta.vnres.co/file/common/20250320/efe293015c817dee46ccc81fa5e934d7.jpg" group-title="SocoLive",FRA D1: Marseille vs Paris FC - BLV PIRLO
-https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=9025750c43c33280f19456a42cee353e&txTime=6a9e1105
+https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=ad4235043687993ece02260f6016a15c&txTime=6a9e135d
 #EXTINF:-1 tvg-id="room-9912128" tvg-logo="https://sta.vnres.co/file/common/20260729/2cca708e4ee1d3e988c578ff79960d7b.jpg" group-title="SocoLive",FRA D1: Marseille vs Paris FC - CACAO
-https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1788725942-0-0-7720bd8eea68d8a371b2585868cd547b
+https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1788726542-0-0-382acba88a2567a55992a5f1c7b53023
 #EXTINF:-1 tvg-id="room-9912130" tvg-logo="https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png" group-title="SocoLive",FRA D1: Marseille vs Paris FC - BLV A TÚ
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788725942-0-0-70c070585b0dc92ecec840f9fe66bbe1
+https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788726542-0-0-47985cbf16f181f9c547f166ca82505f
 #EXTINF:-1 tvg-id="room-9912131" tvg-logo="https://sta.vnres.co/file/common/20260609/b3e04b0f7d210d67052a911512e39f54.jpg" group-title="SocoLive",SPA D1: RCD Espanyol vs Sevilla FC - CHÍ PHÈO
-https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1788725941-0-0-c80394d6c864dc96c026efbbcd1f823b
+https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1788726541-0-0-10e2d74243d9a9cb06582ccd87a1d29c
 #EXTINF:-1 tvg-id="room-9912132" tvg-logo="https://sta.vnres.co/file/common/20260613/cc7eb6fb9d74dfa083a48c861b135ae8.jpg" group-title="SocoLive",FRA D1: Marseille vs Paris FC - BLV XO
-https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=f22044596b2aa0742f174bb665e32308&txTime=6a9e1105
+https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=20cb057e460fb13590c2a682fbe6ee1c&txTime=6a9e135d
 #EXTINF:-1 tvg-id="room-9912133" tvg-logo="https://sta.vnres.co/file/common/20260411/c1490960e7f4b63fdc78206c576d2da8.png" group-title="SocoLive",FRA D1: Marseille vs Paris FC - LOKA
-https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1788725942-0-0-9e6a6483437422c301d325469ca87e48
+https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1788726542-0-0-5fa6496b214ab138dd039ae10c243c83
 #EXTINF:-1 tvg-id="room-9912138" tvg-logo="https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg" group-title="SocoLive",FRA D1: Marseille vs Paris FC - TUẤN CÙI
-https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1788725941-0-0-c9ddb93e56ec780d83ba28a66f5aa9ae
+https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1788726541-0-0-499a8ccae39e1a12412b47846cbd9d74
 #EXTINF:-1 tvg-id="room-9912142" tvg-logo="https://sta.vnres.co/file/common/20260830/683bbb96de277e28f88b1d08678ac124.png" group-title="SocoLive",ITA D1: Juventus vs AC Milan - A BỆU
-https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1788725941-0-0-4227f50a1cd2447359f58273fb9f0d09
+https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1788726542-0-0-409c4c263302472945c88f5db8b98027
