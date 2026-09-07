@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
 # Channels: 85
-# Updated: 07/09/2026 22:14:47
+# Updated: 07/09/2026 22:19:50
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260905/1df4b9a4bf1dc4536088b95d277ad6c5.png" group-title="Bóng đá",Club Atlético Unión vs Instituto de Córdoba (ARG D1)
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788751846-0-0-7895acb73a55154fb4e2f1c96022817b
@@ -11,12 +11,10 @@ https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=2b6e4594c4e8b2d79b54
 https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=5c1d22fdb964bdf6cd29f03d1300e7a8&txTime=6a9f6d2d
 #EXTINF:-1 tvg-id="room-304148" tvg-logo="https://sta.vnres.co/file/common/20260904/5135cccc646da421380694cfc4db35fa.png" group-title="Bóng đá",FC Voluntari vs Arges (ROM D1)
 https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788820317-0-0-a3664a73957a65262d2cce3c84d99cb9
-#EXTINF:-1 tvg-id="room-321443" tvg-logo="https://sta.vnres.co/file/common/20260905/5a7ed2bfb89cf4308956c0ccc1098011.png" group-title="Bóng đá",Atlante Women vs Juarez FC Women (MEX WD1)
-https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=52d490f653cef8396db42b51abc5731b&txTime=6a9f8b8a
 #EXTINF:-1 tvg-id="room-327159" tvg-logo="https://sta.vnres.co/file/common/20260904/e4da3543f0610ab798c9c37c48f3ca42.png" group-title="Bóng đá",Ittihad Alexandria SC vs Asyut Petroleum (EGY D1)
 https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1788810913-0-0-9608b8c326c92c3dd38c348ce42af04d
 #EXTINF:-1 tvg-id="room-372746" tvg-logo="https://sta.vnres.co/file/common/20260905/173c42a1ee7ea448740701ceeeb501be.png" group-title="Bóng đá",CA Barracas Central vs Argentinos Juniors (ARG D1)
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788822842-0-0-7e36f20935beda6fc13e369fee3a4570
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788823142-0-0-a1e8658c1933ae0da7e805eb5cdc90c7
 #EXTINF:-1 tvg-id="room-380460" tvg-logo="https://sta.vnres.co/file/common/20260904/fe81e4f3e7994391d34d38856ce9a0c3.png" group-title="Bóng đá",Esenler Erokspor vs Kayserispor (TFF 1. Lig)
 https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1788811380-0-0-db3ba79903c407f1ecfd4d2e3bd54308
 #EXTINF:-1 tvg-id="room-387694" tvg-logo="https://sta.vnres.co/file/common/20260905/1002fd19c34569bdf844889e905ba3ba.png" group-title="Bóng đá",Incheon United Club vs Bucheon FC 1995 (KOR D1)
@@ -27,10 +25,10 @@ https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=907992a54abbaeb28f50
 https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=83a3af88e69313b67023ea15f3a6cb00&txTime=6a9e7eb4
 #EXTINF:-1 tvg-id="room-459401" tvg-logo="https://sta.vnres.co/file/common/20260905/4635075fc767b372c6cdc1070a0af6c0.png" group-title="Bóng đá",Rio Ave U23 vs Torreense U23 (POR LRU23)
 https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=fda0d9a5556a16aab25fbe9b11adc237&txTime=6a9f4f61
-#EXTINF:-1 tvg-id="room-485739" tvg-logo="https://sta.vnres.co/file/common/20260905/5a7ed2bfb89cf4308956c0ccc1098011.png" group-title="Bóng đá",Atlante Women vs Juarez FC Women (MEX WD1)
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=6811e22f118c7062630078c9c042c975&txTime=6a9f8b8a
+#EXTINF:-1 tvg-id="room-485739" tvg-logo="https://sta.vnres.co/file/common/20260905/1df4b9a4bf1dc4536088b95d277ad6c5.png" group-title="Bóng đá",Club Atlético Unión vs Instituto de Córdoba (ARG D1)
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=153745014e0b6745c1849e429d22b756&txTime=6a9f8cb6
 #EXTINF:-1 tvg-id="room-491873" tvg-logo="https://sta.vnres.co/file/common/20260905/173c42a1ee7ea448740701ceeeb501be.png" group-title="Bóng đá",CA Barracas Central vs Argentinos Juniors (ARG D1)
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=91e1aecd59cb8e5b8297d8f164c7ea6d&txTime=6a9f8b8a
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=8bc1962d552fd5866a9fa61448253914&txTime=6a9f8cb6
 #EXTINF:-1 tvg-id="room-501412" tvg-logo="https://sta.vnres.co/file/common/20260906/70911c3df857b1d99ac4ab91d5588282.png" group-title="Bóng đá",AEK Athens U19 vs LASK Linz U19 (UEFA YL)
 https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=031a063e5850472eeb4691f1478ce36c&txTime=6a9f5f7a
 #EXTINF:-1 tvg-id="room-511367" tvg-logo="https://sta.vnres.co/file/common/20260905/143088c68989d2acdd6e42264dea1b2d.png" group-title="Bóng đá",Al Hazem vs Al Taawoun (KSA PR)
@@ -58,7 +56,7 @@ https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1788750298-0-0-f6d1
 #EXTINF:-1 tvg-id="room-603914" tvg-logo="https://sta.vnres.co/file/common/20260905/746d649cdf924b1a90e724fe42ec8bd6.png" group-title="Bóng đá",Deportes Limache vs Cobresal (CHI D1)
 https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1788805706-0-0-6797e0b25f9586cc7114a04c4d2e5cc9
 #EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260905/173c42a1ee7ea448740701ceeeb501be.png" group-title="Bóng đá",CA Barracas Central vs Argentinos Juniors (ARG D1)
-https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=a1c1ba5c2f971f6fdffa9a877b536712&txTime=6a9f8b8a
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=852d732dd3e83f9b05002525a139f5e0&txTime=6a9f8cb6
 #EXTINF:-1 tvg-id="room-607552" tvg-logo="https://sta.vnres.co/file/common/20260904/dc950c02007a00f475a45a87bafe2cc9.png" group-title="Bóng đá",Istanbulspor vs Iğdır FK (TFF 1. Lig)
 https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1788820113-0-0-4e094401e3481128087dd630a2a5de8a
 #EXTINF:-1 tvg-id="room-610518" tvg-logo="https://sta.vnres.co/file/common/20260904/c1a4a960f332174961f4ad3bb9aa77ff.png" group-title="Bóng đá",Olympic El Qanal vs Tala'ea El Gaish (EGY D1)
@@ -67,7 +65,7 @@ https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=01030936cf63b64ba792
 https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1788810821-0-0-d328ab17707edddcbf74803b0c32b976
 #EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260905/8205d7c0beb51bcb294376645cb6b602.png" group-title="Bóng đá",Vitória - BA vs Grêmio - RS (BRA D1)
 https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788792629-0-0-2dc468126c39ccc095d93d8c6209dabe
-#EXTINF:-1 tvg-id="room-619561" tvg-logo="https://sta.vnres.co/file/common/20260904/e4da3543f0610ab798c9c37c48f3ca42.png" group-title="Bóng đá",Ittihad Alexandria SC vs Asyut Petroleum (EGY D1)
+#EXTINF:-1 tvg-id="room-619561" tvg-logo="https://sta.vnres.co/file/common/20260905/1df4b9a4bf1dc4536088b95d277ad6c5.png" group-title="Bóng đá",Club Atlético Unión vs Instituto de Córdoba (ARG D1)
 https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1788800525-0-0-6921596584459f60c28051d1fbbd7622
 #EXTINF:-1 tvg-id="room-619672" tvg-logo="https://sta.vnres.co/file/common/20260905/c0b33f90e10d1e5ece91b79af804431c.png" group-title="Bóng đá",Estoril U23 vs Famalicao U23 (POR LRU23)
 https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1788754167-0-0-ce33e372095bcb3ab5cd504f41254354
@@ -82,7 +80,7 @@ https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=f3d693a784644f6caf25
 #EXTINF:-1 tvg-id="room-621843" tvg-logo="https://sta.vnres.co/file/common/20260904/c1a4a960f332174961f4ad3bb9aa77ff.png" group-title="Bóng đá",Olympic El Qanal vs Tala'ea El Gaish (EGY D1)
 https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1788817110-0-0-8419612df6605e9c22b3fbbed9e752ba
 #EXTINF:-1 tvg-id="room-621887" tvg-logo="https://sta.vnres.co/file/common/20260905/173c42a1ee7ea448740701ceeeb501be.png" group-title="Bóng đá",CA Barracas Central vs Argentinos Juniors (ARG D1)
-https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=dd12093dfd6865738b445c029f2bff8f&txTime=6a9f8b8a
+https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=94ca55ea76b8707025956ea0d9e50d58&txTime=6a9f8cb6
 #EXTINF:-1 tvg-id="room-622093" tvg-logo="https://sta.vnres.co/file/common/20260904/c1a4a960f332174961f4ad3bb9aa77ff.png" group-title="Bóng đá",Olympic El Qanal vs Tala'ea El Gaish (EGY D1)
 https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=10744ac7cf8d9044a60c4daabb408922&txTime=6a9f73bf
 #EXTINF:-1 tvg-id="room-622240" tvg-logo="https://sta.vnres.co/file/common/20260905/1002fd19c34569bdf844889e905ba3ba.png" group-title="Bóng đá",Incheon United Club vs Bucheon FC 1995 (KOR D1)
@@ -127,6 +125,8 @@ https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788809069-0-0-22d
 https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1788815320-0-0-0bbd77b31afed595dd6703279a9f8267
 #EXTINF:-1 tvg-id="room-9912132" tvg-logo="https://sta.vnres.co/file/common/20260905/4b0d9f4c9638e71fbcf71867a94262af.png" group-title="Bóng đá",Vaasa VPS vs AC Oulu (FIN D1)
 https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=740d458dc86eede74cf51f149b09975a&txTime=6a9f6c87
+#EXTINF:-1 tvg-id="room-9912133" tvg-logo="https://sta.vnres.co/file/common/20260905/9f68dd040ad19086e6aeae242a4fecb3.png" group-title="Bóng đá",Ilves Tampere vs Jaro (FIN D1)
+https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1788817547-0-0-822620090807efde69e46310dbc29176
 #EXTINF:-1 tvg-id="room-9912135" tvg-logo="https://sta.vnres.co/file/common/20260904/5135cccc646da421380694cfc4db35fa.png" group-title="Bóng đá",FC Voluntari vs Arges (ROM D1)
 https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1788811351-0-0-adda32f280c904d8df6975b8931d513a
 #EXTINF:-1 tvg-id="room-9912136" tvg-logo="https://sta.vnres.co/file/common/20260904/c1a4a960f332174961f4ad3bb9aa77ff.png" group-title="Bóng đá",Olympic El Qanal vs Tala'ea El Gaish (EGY D1)
@@ -162,14 +162,14 @@ https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788806406-0-0-ed4
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260906/c564b26c83bbc6fd2916a49d9d3862ab.png" group-title="Bóng rổ",San Alfonso vs Felix Perez Cardozo (LMP)
 https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788795010-0-0-99b45a97234d685aba45bc466a787030
 #EXTINF:-1 tvg-id="room-321443" tvg-logo="https://sta.vnres.co/file/common/20260603/54289b9ef989aba74cff5bfdee1d4656.png" group-title="SocoLive",MEX WD1: Atlante Women vs Juarez FC Women - BLV GIÓ
-https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=52d490f653cef8396db42b51abc5731b&txTime=6a9f8b8a
+https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=824f300976e7555d2e1a194399216690&txTime=6a9f8cc6
 #EXTINF:-1 tvg-id="room-372746" tvg-logo="https://sta.vnres.co/file/common/20260728/ba06eac3dc3ffeee0de25e8e0deaaceb.jpg" group-title="SocoLive",ARG D1: CA Barracas Central vs Argentinos Juniors - BLV YONE
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788822842-0-0-7e36f20935beda6fc13e369fee3a4570
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788823142-0-0-a1e8658c1933ae0da7e805eb5cdc90c7
 #EXTINF:-1 tvg-id="room-485739" tvg-logo="https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg" group-title="SocoLive",MEX WD1: Atlante Women vs Juarez FC Women - BLV CHIVAS
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=6811e22f118c7062630078c9c042c975&txTime=6a9f8b8a
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=153745014e0b6745c1849e429d22b756&txTime=6a9f8cb6
 #EXTINF:-1 tvg-id="room-491873" tvg-logo="https://sta.vnres.co/file/common/20250723/6b83b847d8944b57cc13043bae9fa7a8.jpg" group-title="SocoLive",ARG D1: CA Barracas Central vs Argentinos Juniors - BLV VIP
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=91e1aecd59cb8e5b8297d8f164c7ea6d&txTime=6a9f8b8a
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=8bc1962d552fd5866a9fa61448253914&txTime=6a9f8cb6
 #EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg" group-title="SocoLive",ARG D1: CA Barracas Central vs Argentinos Juniors - HÀ DUY KIÊN
-https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=a1c1ba5c2f971f6fdffa9a877b536712&txTime=6a9f8b8a
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=852d732dd3e83f9b05002525a139f5e0&txTime=6a9f8cb6
 #EXTINF:-1 tvg-id="room-621887" tvg-logo="https://sta.vnres.co/file/common/20260728/c2935ca02d759ee77531ff32719f1b21.png" group-title="SocoLive",ARG D1: CA Barracas Central vs Argentinos Juniors - CHAN ĐÊ
-https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=dd12093dfd6865738b445c029f2bff8f&txTime=6a9f8b8a
+https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=94ca55ea76b8707025956ea0d9e50d58&txTime=6a9f8cb6
