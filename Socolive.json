@@ -32,7 +32,7 @@
     "name": "Elche CF vs Real Sociedad (SPA D1)",
     "logo": "https://sta.vnres.co/file/common/20260905/517293ab19621437df1ca7a3df780c79.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788819122-0-0-a30fb638efaaaaec5e7b0dc620833ef9",
+    "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788819482-0-0-2dbe04b8c6f37cf99f1c7509188899e1",
     "type": "hls"
   },
   {
@@ -41,7 +41,7 @@
     "name": "Elche CF vs Real Sociedad (SPA D1)",
     "logo": "https://sta.vnres.co/file/common/20260905/517293ab19621437df1ca7a3df780c79.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=b798ab31d7958598039674dc1e48aa24\u0026txTime=6a9f7d02",
+    "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=cfe6a7d25ecd7337511090bb26975392\u0026txTime=6a9f7e6a",
     "type": "hls"
   },
   {
@@ -113,7 +113,7 @@
     "name": "Atlante Women vs Juarez FC Women (MEX WD1)",
     "logo": "https://sta.vnres.co/file/common/20260905/5a7ed2bfb89cf4308956c0ccc1098011.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=2d40d7209fb573f9aa823cdd333e8c83\u0026txTime=6a9e7049",
+    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=98633d56829163a88b04f2b16b4effdb\u0026txTime=6a9f7e6a",
     "type": "hls"
   },
   {
@@ -137,10 +137,10 @@
   {
     "id": "511367",
     "tvg_id": "room-511367",
-    "name": "Estoril vs FC Arouca (POR D1)",
-    "logo": "https://sta.vnres.co/file/common/20260905/73b3b6fab1fefa779ab6451d3230ae3b.png",
+    "name": "Al Hazem vs Al Taawoun (KSA PR)",
+    "logo": "https://sta.vnres.co/file/common/20260905/143088c68989d2acdd6e42264dea1b2d.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1788819122-0-0-282ad067f04eb4193ac5a272f315a283",
+    "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1788819347-0-0-83eb4a73dc72216b0e7e14a84b873cf0",
     "type": "hls"
   },
   {
@@ -149,7 +149,7 @@
     "name": "Elche CF vs Real Sociedad (SPA D1)",
     "logo": "https://sta.vnres.co/file/common/20260905/517293ab19621437df1ca7a3df780c79.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1788819122-0-0-fdff2ac4c91bb75aa7c3b1e3e72ac524",
+    "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1788819482-0-0-d91ce85305f8cd83ca2c5fc4c73a3a2b",
     "type": "hls"
   },
   {
@@ -257,7 +257,7 @@
     "name": "Elche CF vs Real Sociedad (SPA D1)",
     "logo": "https://sta.vnres.co/file/common/20260905/517293ab19621437df1ca7a3df780c79.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1788819122-0-0-9c05df10f5b9c8fcdca13d79a8a64c95",
+    "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1788819482-0-0-c12c4e9811e1f623eb5deec66d53dbc7",
     "type": "hls"
   },
   {
@@ -518,7 +518,7 @@
     "name": "Elche CF vs Real Sociedad (SPA D1)",
     "logo": "https://sta.vnres.co/file/common/20260905/517293ab19621437df1ca7a3df780c79.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1788819182-0-0-ae6e2386a07a17f1c83c809ff2ede332",
+    "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1788819482-0-0-0eff74401b85878127aec4ed98c23d3d",
     "type": "hls"
   },
   {
@@ -666,6 +666,15 @@
     "type": "hls"
   },
   {
+    "id": "356042",
+    "tvg_id": "room-356042",
+    "name": "San Alfonso vs Felix Perez Cardozo (LMP)",
+    "logo": "https://sta.vnres.co/file/common/20260906/c564b26c83bbc6fd2916a49d9d3862ab.png",
+    "group": "Bóng rổ",
+    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=d06704a6f46aa4fcdd7bbdc063a4bc76\u0026txTime=6a9f1b96",
+    "type": "hls"
+  },
+  {
     "id": "558264",
     "tvg_id": "room-558264",
     "name": "Germany W vs Mali W (FIBAP W)",
@@ -677,19 +686,10 @@
   {
     "id": "9912099",
     "tvg_id": "room-9912099",
-    "name": "Germany W vs Mali W (FIBAP W)",
-    "logo": "https://sta.vnres.co/file/common/20260905/e7b3e4d5fb09af51a8410e7adf2f188d.png",
-    "group": "Bóng rổ",
-    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788806129-0-0-39b8276aea01201932a39c37874b09ee",
-    "type": "hls"
-  },
-  {
-    "id": "9912106",
-    "tvg_id": "room-9912106",
     "name": "Capiata Bulls vs Deportivo Campoalto (LMP)",
     "logo": "https://sta.vnres.co/file/common/20260906/3e2ff9b65ed97e6c9ff4b730a04ee850.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788814493-0-0-ccc171432a3850f2e3c0b5354603cdc5",
+    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788806129-0-0-39b8276aea01201932a39c37874b09ee",
     "type": "hls"
   },
   {
@@ -716,7 +716,7 @@
     "name": "SPA D1: Elche CF vs Real Sociedad - BLV LUCAS",
     "logo": "https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788819122-0-0-a30fb638efaaaaec5e7b0dc620833ef9",
+    "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788819422-0-0-b542712ea3668cbea5c8918c5f529963",
     "type": "hls"
   },
   {
@@ -725,16 +725,16 @@
     "name": "SPA D1: Elche CF vs Real Sociedad - BLV GIÓ",
     "logo": "https://sta.vnres.co/file/common/20260603/54289b9ef989aba74cff5bfdee1d4656.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=b798ab31d7958598039674dc1e48aa24\u0026txTime=6a9f7d02",
+    "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=4a1c728aa5b4fb0d7ed59ff7919be139\u0026txTime=6a9f7e2e",
     "type": "hls"
   },
   {
-    "id": "511367",
-    "tvg_id": "room-511367",
-    "name": "POR D1: Estoril vs FC Arouca - BLV WUKONG",
-    "logo": "https://sta.vnres.co/file/common/20251121/6d691b0b9dfd9eeb599401a2499400f0.png",
+    "id": "485739",
+    "tvg_id": "room-485739",
+    "name": "MEX WD1: Atlante Women vs Juarez FC Women - BLV CHIVAS",
+    "logo": "https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1788819122-0-0-282ad067f04eb4193ac5a272f315a283",
+    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=947a9cc7e26452a4a327af77ed04df7d\u0026txTime=6a9f7e2e",
     "type": "hls"
   },
   {
@@ -743,7 +743,7 @@
     "name": "SPA D1: Elche CF vs Real Sociedad - BLV ROBBEN",
     "logo": "https://sta.vnres.co/file/common/20260626/fcd1d9373f93de7ff3ebfbee3f073c7c.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1788819122-0-0-fdff2ac4c91bb75aa7c3b1e3e72ac524",
+    "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1788819422-0-0-ff2e8bb3a73017dfe90e9d2efa59aa31",
     "type": "hls"
   },
   {
@@ -752,7 +752,7 @@
     "name": "SPA D1: Elche CF vs Real Sociedad - ĐỖ TÚ TÀI",
     "logo": "https://sta.vnres.co/file/common/20260522/f2b4ef051d1e02300d2d5bf24f3828f0.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1788819122-0-0-9c05df10f5b9c8fcdca13d79a8a64c95",
+    "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1788819422-0-0-9507dbdff6d6d64f9275e5de90075eeb",
     "type": "hls"
   },
   {
@@ -761,7 +761,7 @@
     "name": "SPA D1: Elche CF vs Real Sociedad - CACAO",
     "logo": "https://sta.vnres.co/file/common/20260729/2cca708e4ee1d3e988c578ff79960d7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1788819122-0-0-02adba499ad62b98c46ad7b5b724f628",
+    "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1788819422-0-0-2f04f1ff06b003978fc5af45f5b360eb",
     "type": "hls"
   }
 ]
