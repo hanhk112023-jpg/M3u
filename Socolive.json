@@ -171,6 +171,15 @@
     "type": "hls"
   },
   {
+    "id": "534055",
+    "tvg_id": "room-534055",
+    "name": "Llaneros FC vs Deportes Tolima (COL D1)",
+    "logo": "https://sta.vnres.co/file/common/20260811/65c17004cd2f5f21fca0282d160bd68e.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=95eb3b4c6f73a7ee522c64dfa27bad36\u0026txTime=6a9e6246",
+    "type": "hls"
+  },
+  {
     "id": "536185",
     "tvg_id": "room-536185",
     "name": "KS Wieczysta Krakow vs Zaglebie Lubin (POL D1)",
@@ -653,7 +662,7 @@
     "name": "ISPE FC vs Sagaing United (MYA D1)",
     "logo": "https://sta.vnres.co/file/common/20260904/24ca1572ba3c7bc04c14b9ac8acbe46c.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788756361-0-0-afc01596aff1452d9692247f8e3a3bfc",
+    "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788756392-0-0-134422f4008c09036dcb5cadfaa677f8",
     "type": "hls"
   },
   {
@@ -716,7 +725,7 @@
     "name": "Tường thuật: CNCF LC - Toluca vs Rayados de Monterrey - Gà xào sả ớt",
     "logo": "https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=62fb2b635945ac1219f80732c597ba27\u0026txTime=6a9e879d",
+    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=46b6b95fc1aaa10544bf5e7cfecd7fbb\u0026txTime=6a9e8905",
     "type": "hls"
   },
   {
@@ -725,7 +734,7 @@
     "name": "Tường thuật: GER D1 - Hamburger SV vs 1. FSV Mainz 05 - Bò leo rào",
     "logo": "https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=53a3160aedec4a0704722e796f44ceca\u0026txTime=6a9e879d",
+    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=05f16a6f6d5e090026ede697e43ff473\u0026txTime=6a9e8905",
     "type": "hls"
   },
   {
@@ -734,7 +743,7 @@
     "name": "Tường thuật: CRC D1 - AD San Carlos vs Sporting FC - Thỏ giang hồ",
     "logo": "https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=ba4bc448e09cb6a947e04f7a0615b618\u0026txTime=6a9e879d",
+    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=2866ac849f56e3f01248ce51d4bbe67c\u0026txTime=6a9e8905",
     "type": "hls"
   },
   {
@@ -743,7 +752,7 @@
     "name": "Tường thuật: ITA D1 - Juventus vs AC Milan - Hươu đau cổ",
     "logo": "https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=9fb5d86c19c21840ff5122b04308be3a\u0026txTime=6a9e879d",
+    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=d0179aeffefc3df4387c89d0c6c7bc31\u0026txTime=6a9e8905",
     "type": "hls"
   },
   {
@@ -752,7 +761,7 @@
     "name": "Tường thuật: ENG PR - Arsenal vs Chelsea - Mèo méo meo",
     "logo": "https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=95195c82267d1eed46c85e0992a97fa7\u0026txTime=6a9e879d",
+    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=c42c9d2799953cbbd3cd3ec1538fabb1\u0026txTime=6a9e8905",
     "type": "hls"
   },
   {
@@ -761,16 +770,7 @@
     "name": "Tường thuật: ENG PR - Everton vs Manchester United - Rắn ở đáy sông",
     "logo": "https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=eac9b377e9606d022c8dfc5941039121\u0026txTime=6a9e879d",
-    "type": "hls"
-  },
-  {
-    "id": "9912146",
-    "tvg_id": "room-9912146",
-    "name": "CNCF LC: Toluca vs Rayados de Monterrey - BLV CUỘI",
-    "logo": "https://sta.vnres.co/file/common/20260829/f6903a1879b3c7cc22d27c658db14d94.png",
-    "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788756301-0-0-2e8f1e3d536c43f81fa6e5f394a38df0",
+    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=fbd54dbb7890481b445325c93c52e65f\u0026txTime=6a9e8905",
     "type": "hls"
   }
 ]
