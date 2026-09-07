@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 86
-# Updated: 07/09/2026 11:45:31
+# Channels: 88
+# Updated: 07/09/2026 12:00:47
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260905/1df4b9a4bf1dc4536088b95d277ad6c5.png" group-title="Bóng đá",Club Atlético Unión vs Instituto de Córdoba (ARG D1)
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788751846-0-0-7895acb73a55154fb4e2f1c96022817b
@@ -41,7 +41,7 @@ https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1788723246-0-0-daa5
 https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1788719476-0-0-cfa4274a817bc868f672d3dc33fa76d3
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260904/7a2a913f8a9c76d2c53bb99f3028374f.png" group-title="Bóng đá",New Caledonia U20 Women vs China U20 Women (FIFA WU20)
 https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788746486-0-0-f7215a4d48db7a89f7b7cd5cbcf2e4b5
-#EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260811/65c17004cd2f5f21fca0282d160bd68e.png" group-title="Bóng đá",Llaneros FC vs Deportes Tolima (COL D1)
+#EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260904/80752927c1b907f48e3c0c5f3ad96871.png" group-title="Bóng đá",Riga FC vs BFC Daugavpils (LAT D1)
 https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=95eb3b4c6f73a7ee522c64dfa27bad36&txTime=6a9e6246
 #EXTINF:-1 tvg-id="room-536185" tvg-logo="https://sta.vnres.co/file/common/20260904/0e22e3ca79b7ca2835fbb9e68d949a49.png" group-title="Bóng đá",KS Wieczysta Krakow vs Zaglebie Lubin (POL D1)
 https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788669561-0-0-0be69b7580fd049716049dcde8bea8cb
@@ -112,7 +112,7 @@ https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1788726966-0-0-b8c
 #EXTINF:-1 tvg-id="room-9912123" tvg-logo="https://sta.vnres.co/file/common/20260905/09e5c2efea60af3a1e2d85d349dbb548.png" group-title="Bóng đá",Kuching City FC vs Kelantan Red Warrior (MAS FAC)
 https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1788732163-0-0-1bca5bfb3237fcd6d2933c69e3d690a9
 #EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260904/7a2a913f8a9c76d2c53bb99f3028374f.png" group-title="Bóng đá",New Caledonia U20 Women vs China U20 Women (FIFA WU20)
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788744850-0-0-a11ec561d2fa17a0ceabf6ddf67efdd4
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788785947-0-0-b12d58ad86aa8be71a3324fc66ff4c55
 #EXTINF:-1 tvg-id="room-9912126" tvg-logo="https://sta.vnres.co/file/common/20260905/9dacda7593823e045d8c420d1b4a71cd.png" group-title="Bóng đá",Star City vs Kedah FA (MAS FAC)
 https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=d34a89c86029df008a1777aab907f059&txTime=6a9e4b89
 #EXTINF:-1 tvg-id="room-9912127" tvg-logo="https://sta.vnres.co/file/common/20260904/7928c687367a0b6e2a4baabc2befd38c.png" group-title="Bóng đá",Al Khaleej vs Al Riyadh (KSA PR)
@@ -156,22 +156,26 @@ https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=13fc008fbb9483c2f29f
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260905/e7b3e4d5fb09af51a8410e7adf2f188d.png" group-title="Bóng rổ",Germany W vs Mali W (FIBAP W)
 https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=103830d7d56c5f3713c9da027bffb91c&txTime=6a9ef11b
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260905/89a5322058a4bb4041d0c670c8811e63.png" group-title="Bóng rổ",Hungary W vs South Korea W (FIBAP W)
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788774674-0-0-3ecfe7f36c50cb84992aacb3fa5ee596
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788786002-0-0-ec89638ae19834a3db8c7873e1bc75b3
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260905/e5887397d879137690dde0cc5fc4952b.png" group-title="Bóng rổ",Nigeria W vs France W (FIBAP W)
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788783342-0-0-92262527fe3d65cc54c6a17bb14e1934
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788786001-0-0-ec6acf82f6b0de36f3528b5a3f816f17
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260905/346e8706ba518204a26b483c271e9343.png" group-title="Bóng rổ",Japan W vs Spain W (FIBAP W)
 https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788638206-0-0-307e1bd3646f01543a9f10af8c25b08e
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260905/89a5322058a4bb4041d0c670c8811e63.png" group-title="Bóng rổ",Hungary W vs South Korea W (FIBAP W)
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788782951-0-0-49c85e98954276bc15b965dd38994cbd
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788786002-0-0-db0aeb79aeb95a59562306cac587533b
 #EXTINF:-1 tvg-id="room-133277" tvg-logo="https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg" group-title="SocoLive",Tường thuật: CNCF LC - Toluca vs Rayados de Monterrey - Gà xào sả ớt
-https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=da521335ff2ab84994580d19b07462f3&txTime=6a9ef81d
+https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=90592e0dccaa348d0a0eafa5e921235c&txTime=6a9efba2
 #EXTINF:-1 tvg-id="room-133824" tvg-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg" group-title="SocoLive",Tường thuật: GER D1 - Hamburger SV vs 1. FSV Mainz 05 - Bò leo rào
-https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=0c668b19d896b805df692c6bd3c47bf2&txTime=6a9ef81d
+https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=4deb4a3c9e4119af11c293a7c40f33ea&txTime=6a9efba2
 #EXTINF:-1 tvg-id="room-152898" tvg-logo="https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png" group-title="SocoLive",Tường thuật: CRC D1 - AD San Carlos vs Sporting FC - Thỏ giang hồ
-https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=7ef78bb0f01460f2c58cd31842d9d173&txTime=6a9ef81d
+https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=7eab3e8d4bc2ae24c3048931cdf576fe&txTime=6a9efba2
 #EXTINF:-1 tvg-id="room-179093" tvg-logo="https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg" group-title="SocoLive",Tường thuật: ITA D1 - Juventus vs AC Milan - Hươu đau cổ
-https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=aba8c4528faf185d780379100dba35a4&txTime=6a9ef81d
+https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=c91c583a779c3aca985b9f4e423af748&txTime=6a9efba2
 #EXTINF:-1 tvg-id="room-343500" tvg-logo="https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg" group-title="SocoLive",Tường thuật: ENG PR - Arsenal vs Chelsea - Mèo méo meo
-https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=527c8e09bcd516c5111912879f419117&txTime=6a9ef81d
+https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=b216ddba7cc69321598764c141b5d6b8&txTime=6a9efba2
 #EXTINF:-1 tvg-id="room-9912079" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg" group-title="SocoLive",Tường thuật: ENG PR - Everton vs Manchester United - Rắn ở đáy sông
-https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=e63935c0e3a66a05695a138ef1e7758c&txTime=6a9ef81e
+https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=dcaf3dfca2d93d8312468a2d206015fe&txTime=6a9efba2
+#EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-title="SocoLive",FIBAP W: Nigeria W vs France W - BRIAN
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788786001-0-0-ec6acf82f6b0de36f3528b5a3f816f17
+#EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg" group-title="SocoLive",FIBAP W: Hungary W vs South Korea W - CHAN SENA
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788786002-0-0-db0aeb79aeb95a59562306cac587533b
