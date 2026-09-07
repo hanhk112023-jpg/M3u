@@ -27,12 +27,12 @@
     "type": "hls"
   },
   {
-    "id": "304148",
-    "tvg_id": "room-304148",
-    "name": "FC Voluntari vs Arges (ROM D1)",
-    "logo": "https://sta.vnres.co/file/common/20260904/5135cccc646da421380694cfc4db35fa.png",
+    "id": "321443",
+    "tvg_id": "room-321443",
+    "name": "Rigas Futbola Skola vs FK Liepaja (LAT D1)",
+    "logo": "https://sta.vnres.co/file/common/20260904/5969a83284462d9ebc07663eb133c66f.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788751969-0-0-11e826ac9cf1641bd9d3d0ca0b7f9c0b",
+    "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=152718212c77a765041438a140a1149c\u0026txTime=6a9e5a88",
     "type": "hls"
   },
   {
@@ -153,6 +153,15 @@
     "type": "hls"
   },
   {
+    "id": "532081",
+    "tvg_id": "room-532081",
+    "name": "New Caledonia U20 Women vs China U20 Women (FIFA WU20)",
+    "logo": "https://sta.vnres.co/file/common/20260904/7a2a913f8a9c76d2c53bb99f3028374f.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788746486-0-0-f7215a4d48db7a89f7b7cd5cbcf2e4b5",
+    "type": "hls"
+  },
+  {
     "id": "534055",
     "tvg_id": "room-534055",
     "name": "Llaneros FC vs Deportes Tolima (COL D1)",
@@ -177,6 +186,15 @@
     "logo": "https://sta.vnres.co/file/common/20260904/e9b12e9ea525e6c25989e3245dff5269.png",
     "group": "Bóng đá",
     "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=f678b15c9762490cd545ab044df5fc84\u0026txTime=6a9e617e",
+    "type": "hls"
+  },
+  {
+    "id": "582342",
+    "tvg_id": "room-582342",
+    "name": "AEK Athens U19 vs LASK Linz U19 (UEFA YL)",
+    "logo": "https://sta.vnres.co/file/common/20260906/70911c3df857b1d99ac4ab91d5588282.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1788753183-0-0-523c154330576cd625442401234f49ab",
     "type": "hls"
   },
   {
@@ -644,7 +662,7 @@
     "name": "Quezon City vs Sarangani Marlins (MPBL)",
     "logo": "https://sta.vnres.co/file/common/20260905/3d9ca0c7fd0d02d65e51d160030f97fe.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=274733ded907fd3a38f662dbd0bdaaf3\u0026txTime=6a9ea568",
+    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=239a22b1db80ac3448445fafafcfa6f2\u0026txTime=6a9ea68d",
     "type": "hls"
   },
   {
@@ -653,7 +671,7 @@
     "name": "Quezon City vs Sarangani Marlins (MPBL)",
     "logo": "https://sta.vnres.co/file/common/20260905/3d9ca0c7fd0d02d65e51d160030f97fe.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=89ae2ad5858ebb9248d8b0bb57ce6ebc\u0026txTime=6a9ea561",
+    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=d2f11f16c63f30fcf85fd2a1b9ad80d2\u0026txTime=6a9ea68d",
     "type": "hls"
   },
   {
@@ -698,7 +716,7 @@
     "name": "Tường thuật: CNCF LC - Toluca vs Rayados de Monterrey - Gà xào sả ớt",
     "logo": "https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=349002921724f18169c56449a9a43dd3\u0026txTime=6a9ea525",
+    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=2c784d5214c53054a0baeaa9b9ecb250\u0026txTime=6a9ea68d",
     "type": "hls"
   },
   {
@@ -707,7 +725,7 @@
     "name": "Tường thuật: GER D1 - Hamburger SV vs 1. FSV Mainz 05 - Bò leo rào",
     "logo": "https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=369be68e36e9dcbffbf4941f0d6cffa2\u0026txTime=6a9ea525",
+    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=2f0e25981b40365b7e9ee723f9dac2c9\u0026txTime=6a9ea68d",
     "type": "hls"
   },
   {
@@ -716,7 +734,7 @@
     "name": "Tường thuật: CRC D1 - AD San Carlos vs Sporting FC - Thỏ giang hồ",
     "logo": "https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=e7b9db201ae2a96cb14fd26047381d2d\u0026txTime=6a9ea525",
+    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=5921a11b769b72e6d524d82ea38144e7\u0026txTime=6a9ea68d",
     "type": "hls"
   },
   {
@@ -725,7 +743,7 @@
     "name": "Tường thuật: ITA D1 - Juventus vs AC Milan - Hươu đau cổ",
     "logo": "https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=cae4437d4f838f51e05879470be0cb5b\u0026txTime=6a9ea525",
+    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=a4c9c669bdd14c47e9ec949a87d1dc1e\u0026txTime=6a9ea68d",
     "type": "hls"
   },
   {
@@ -734,7 +752,16 @@
     "name": "Tường thuật: ENG PR - Arsenal vs Chelsea - Mèo méo meo",
     "logo": "https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=296ef543069e95fe70aca971578cb4ee\u0026txTime=6a9ea525",
+    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=2c63a948e58fb92954ff247f2d173294\u0026txTime=6a9ea68d",
+    "type": "hls"
+  },
+  {
+    "id": "356042",
+    "tvg_id": "room-356042",
+    "name": "MPBL: Quezon City vs Sarangani Marlins - A CHÈ",
+    "logo": "https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=239a22b1db80ac3448445fafafcfa6f2\u0026txTime=6a9ea68d",
     "type": "hls"
   },
   {
@@ -743,7 +770,7 @@
     "name": "MPBL: Quezon City vs Sarangani Marlins - HUNTER",
     "logo": "https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=94dbc87d81357dab06d8d68f59c68c0d\u0026txTime=6a9ea525",
+    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=d2f11f16c63f30fcf85fd2a1b9ad80d2\u0026txTime=6a9ea68d",
     "type": "hls"
   },
   {
@@ -752,7 +779,7 @@
     "name": "Tường thuật: ENG PR - Everton vs Manchester United - Rắn ở đáy sông",
     "logo": "https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=14893b310d4baec8cb031bafda356a62\u0026txTime=6a9ea525",
+    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=f178a076d0f05f28b0cfc46d792cd2d3\u0026txTime=6a9ea68d",
     "type": "hls"
   }
 ]
