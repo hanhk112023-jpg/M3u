@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 90
-# Updated: 07/09/2026 02:55:16
+# Channels: 89
+# Updated: 07/09/2026 03:00:20
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260905/1df4b9a4bf1dc4536088b95d277ad6c5.png" group-title="Bóng đá",Club Atlético Unión vs Instituto de Córdoba (ARG D1)
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788751846-0-0-7895acb73a55154fb4e2f1c96022817b
 #EXTINF:-1 tvg-id="room-283501" tvg-logo="https://sta.vnres.co/file/common/20260904/e03561f62bd2714848cbfa7f590d7729.png" group-title="Bóng đá",Patriotas FC vs Tigres Zipaquira (COL D2)
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=64796825f8d1e09ea0253141620e6713&txTime=6a9e7be5
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=ca86117219dcda0d3f2e6b7e35b82b98&txTime=6a9e7d12
 #EXTINF:-1 tvg-id="room-291277" tvg-logo="https://sta.vnres.co/file/common/20260904/7a2a913f8a9c76d2c53bb99f3028374f.png" group-title="Bóng đá",New Caledonia U20 Women vs China U20 Women (FIFA WU20)
 https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=cb0c9f02501445f01b5b74fe852ee165&txTime=6a9e262c
 #EXTINF:-1 tvg-id="room-304148" tvg-logo="https://sta.vnres.co/file/common/20260904/5135cccc646da421380694cfc4db35fa.png" group-title="Bóng đá",FC Voluntari vs Arges (ROM D1)
@@ -24,7 +24,7 @@ https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=17cea8619c998dc98f76
 #EXTINF:-1 tvg-id="room-406865" tvg-logo="https://sta.vnres.co/file/common/20260904/52c97af7ee0ff39e1489288847657b6f.png" group-title="Bóng đá",FK Isloch Minsk vs Arsenal Dzerzhinsk (BLR PL)
 https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=256363fd9adfa7f71290993d6e793244&txTime=6a9dff66
 #EXTINF:-1 tvg-id="room-414317" tvg-logo="https://sta.vnres.co/file/common/20260904/991ec972c49d1cf853f8299370765f91.png" group-title="Bóng đá",AD San Carlos vs Sporting FC (CRC D1)
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=27b506e4ba06eb449bb1a06c65988a30&txTime=6a9e7be5
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=830dbacd6d8d86ecf023fd303b293232&txTime=6a9e7d12
 #EXTINF:-1 tvg-id="room-459401" tvg-logo="https://sta.vnres.co/file/common/20260904/7a2a913f8a9c76d2c53bb99f3028374f.png" group-title="Bóng đá",New Caledonia U20 Women vs China U20 Women (FIFA WU20)
 https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=30097746d7af23bd0e99df2feffa9ac4&txTime=6a9df69a
 #EXTINF:-1 tvg-id="room-485739" tvg-logo="https://sta.vnres.co/file/common/20260905/5a7ed2bfb89cf4308956c0ccc1098011.png" group-title="Bóng đá",Atlante Women vs Juarez FC Women (MEX WD1)
@@ -70,7 +70,7 @@ https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788750187-0-0-267a
 #EXTINF:-1 tvg-id="room-619561" tvg-logo="https://sta.vnres.co/file/common/20260904/e4da3543f0610ab798c9c37c48f3ca42.png" group-title="Bóng đá",Ittihad Alexandria SC vs Asyut Petroleum (EGY D1)
 https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1788699852-0-0-dab4d4a54398959d64946f87a7a4c70e
 #EXTINF:-1 tvg-id="room-619672" tvg-logo="https://sta.vnres.co/file/common/20260904/e03561f62bd2714848cbfa7f590d7729.png" group-title="Bóng đá",Patriotas FC vs Tigres Zipaquira (COL D2)
-https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1788753302-0-0-95899bdbe641d9991058d60ea5e34d7e
+https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1788753602-0-0-a2f63b80ecd94fed6af0b8809b4e7f69
 #EXTINF:-1 tvg-id="room-620084" tvg-logo="https://sta.vnres.co/file/common/20260811/65c17004cd2f5f21fca0282d160bd68e.png" group-title="Bóng đá",Llaneros FC vs Deportes Tolima (COL D1)
 https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1788751824-0-0-99e27afc661d6b0944570aff80beeece
 #EXTINF:-1 tvg-id="room-620504" tvg-logo="https://sta.vnres.co/file/common/20260904/0e22e3ca79b7ca2835fbb9e68d949a49.png" group-title="Bóng đá",KS Wieczysta Krakow vs Zaglebie Lubin (POL D1)
@@ -92,7 +92,7 @@ https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1788700149-0-0-dcba
 #EXTINF:-1 tvg-id="room-625920" tvg-logo="https://sta.vnres.co/file/common/20260904/80752927c1b907f48e3c0c5f3ad96871.png" group-title="Bóng đá",Riga FC vs BFC Daugavpils (LAT D1)
 https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1788733728-0-0-966cc76dc65428d6da0e8b280760b5cb
 #EXTINF:-1 tvg-id="room-627718" tvg-logo="https://sta.vnres.co/file/common/20260904/e03561f62bd2714848cbfa7f590d7729.png" group-title="Bóng đá",Patriotas FC vs Tigres Zipaquira (COL D2)
-https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1788753302-0-0-bd39515dc584b3b615d667e46810f441
+https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1788753602-0-0-00470f82687b00b32779cd743eaa6d51
 #EXTINF:-1 tvg-id="room-991140" tvg-logo="https://sta.vnres.co/file/common/20260904/7928c687367a0b6e2a4baabc2befd38c.png" group-title="Bóng đá",Al Khaleej vs Al Riyadh (KSA PR)
 https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788731245-0-0-b917fb756240af37e92dca1b4091c5fb
 #EXTINF:-1 tvg-id="room-9912008" tvg-logo="https://sta.vnres.co/file/common/20260904/7928c687367a0b6e2a4baabc2befd38c.png" group-title="Bóng đá",Al Khaleej vs Al Riyadh (KSA PR)
@@ -100,13 +100,13 @@ https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1788746548-0-0-a12
 #EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260904/fe81e4f3e7994391d34d38856ce9a0c3.png" group-title="Bóng đá",Esenler Erokspor vs Kayserispor (TFF 1. Lig)
 https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=c6c26570a2b09a3ee66664be8ff96c24&txTime=6a9e74d4
 #EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260905/cdc9696278a4a5ef5dedd7b1045f61df.png" group-title="Bóng đá",Toluca vs Rayados de Monterrey (CNCF LC)
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788753301-0-0-58b2c8792792e2a2c4a0f2f9f3542fb4
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788753602-0-0-c217d1d5706736e36794c427f3e71a94
 #EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260904/dc950c02007a00f475a45a87bafe2cc9.png" group-title="Bóng đá",Istanbulspor vs Iğdır FK (TFF 1. Lig)
 https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=111dd54a099498d141de03378106136d&txTime=6a9dbf0c
 #EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260905/cdc9696278a4a5ef5dedd7b1045f61df.png" group-title="Bóng đá",Toluca vs Rayados de Monterrey (CNCF LC)
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788753302-0-0-f755656f7c7d8baba86c843eadae0c5a
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788753602-0-0-ef359d3dabd8d92a067fcd37c628fde2
 #EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260904/991ec972c49d1cf853f8299370765f91.png" group-title="Bóng đá",AD San Carlos vs Sporting FC (CRC D1)
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1788753302-0-0-22dfec77783af3a1f67d646b0ccbbd1a
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1788753457-0-0-bade5fd57cf0630fd059c741c4c234cb
 #EXTINF:-1 tvg-id="room-9912119" tvg-logo="https://sta.vnres.co/file/common/20260904/7928c687367a0b6e2a4baabc2befd38c.png" group-title="Bóng đá",Al Khaleej vs Al Riyadh (KSA PR)
 https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1788726966-0-0-b8c6d97de9e78cdf37b73401be9dde43
 #EXTINF:-1 tvg-id="room-9912123" tvg-logo="https://sta.vnres.co/file/common/20260905/09e5c2efea60af3a1e2d85d349dbb548.png" group-title="Bóng đá",Kuching City FC vs Kelantan Red Warrior (MAS FAC)
@@ -140,17 +140,17 @@ https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=caefcc3e960bab7c647
 #EXTINF:-1 tvg-id="room-9912140" tvg-logo="https://sta.vnres.co/file/common/20260904/24ca1572ba3c7bc04c14b9ac8acbe46c.png" group-title="Bóng đá",ISPE FC vs Sagaing United (MYA D1)
 https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=272b3ec59b9a09930ec5a014a359c9af&txTime=6a9d9d53
 #EXTINF:-1 tvg-id="room-9912141" tvg-logo="https://sta.vnres.co/file/common/20260905/cdc9696278a4a5ef5dedd7b1045f61df.png" group-title="Bóng đá",Toluca vs Rayados de Monterrey (CNCF LC)
-https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1788753302-0-0-ac5d771e6673fed1a1b31c62512bf9e8
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1788753602-0-0-01d00da8bdd4dcdf0587c81ad50ac3a4
 #EXTINF:-1 tvg-id="room-9912142" tvg-logo="https://sta.vnres.co/file/common/20260904/690df5f4ddab8dc8740a474e0f52e110.png" group-title="Bóng đá",Cagliari vs Lecce (ITA D1)
 https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1788731373-0-0-eed77db3129741646b96be010160f66d
 #EXTINF:-1 tvg-id="room-9912143" tvg-logo="https://sta.vnres.co/file/common/20260904/e9b12e9ea525e6c25989e3245dff5269.png" group-title="Bóng đá",North Korea U20 Women vs Portugal U20 Women (FIFA WU20)
 https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1788746490-0-0-aad6ec7031bcd62dc3a12a42efb09e60
 #EXTINF:-1 tvg-id="room-9912144" tvg-logo="https://sta.vnres.co/file/common/20260905/cdc9696278a4a5ef5dedd7b1045f61df.png" group-title="Bóng đá",Toluca vs Rayados de Monterrey (CNCF LC)
-https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788753301-0-0-648ac5e086489b2431918d4c471c8db8
+https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788753601-0-0-aef640ec19a08556d9101271d39676b1
 #EXTINF:-1 tvg-id="room-9912145" tvg-logo="https://sta.vnres.co/file/common/20260904/24ca1572ba3c7bc04c14b9ac8acbe46c.png" group-title="Bóng đá",ISPE FC vs Sagaing United (MYA D1)
 https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1788719588-0-0-662628ec4e78fd0f90e23655f21bdf10
 #EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260905/cdc9696278a4a5ef5dedd7b1045f61df.png" group-title="Bóng đá",Toluca vs Rayados de Monterrey (CNCF LC)
-https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788753301-0-0-8830fc0433fe542507c7e0426879af42
+https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788753602-0-0-e9904e455232ca1042ef9f2e2e80e1a4
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260905/3d9ca0c7fd0d02d65e51d160030f97fe.png" group-title="Bóng rổ",Quezon City vs Sarangani Marlins (MPBL)
 https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=e576d60f05b5f56dea8c5ed46736a78e&txTime=6a9dcbc5
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260905/3d9ca0c7fd0d02d65e51d160030f97fe.png" group-title="Bóng rổ",Quezon City vs Sarangani Marlins (MPBL)
@@ -164,22 +164,20 @@ https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788638206-0-0-307
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260905/3d9ca0c7fd0d02d65e51d160030f97fe.png" group-title="Bóng rổ",Quezon City vs Sarangani Marlins (MPBL)
 https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788708527-0-0-a2fc0c9b5ec474dfb0cfc99c674c3677
 #EXTINF:-1 tvg-id="room-283501" tvg-logo="https://sta.vnres.co/file/common/20260907/7aa96d120c08041dc1d92264c944a058.png" group-title="SocoLive",COL D2: Patriotas FC vs Tigres Zipaquira - BLV KAN
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=8cec4a88129aebbeceb55e4f948acade&txTime=6a9e7ba9
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=ca86117219dcda0d3f2e6b7e35b82b98&txTime=6a9e7d12
 #EXTINF:-1 tvg-id="room-414317" tvg-logo="https://sta.vnres.co/file/common/20260806/4c726754b547e8d50d1f1dd3d1304c4f.jpg" group-title="SocoLive",CRC D1: AD San Carlos vs Sporting FC - THOMAS
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=69b9630fdf3c9c4c9ab8255ec39beb7e&txTime=6a9e7ba9
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=830dbacd6d8d86ecf023fd303b293232&txTime=6a9e7d12
 #EXTINF:-1 tvg-id="room-619672" tvg-logo="https://sta.vnres.co/file/common/20260808/4818d723b5e85850f66dfc3b5aed49d8.png" group-title="SocoLive",COL D2: Patriotas FC vs Tigres Zipaquira - T REX
-https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1788753242-0-0-cbc297372f590e179d82c00489d1fdc6
+https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1788753602-0-0-a2f63b80ecd94fed6af0b8809b4e7f69
 #EXTINF:-1 tvg-id="room-627718" tvg-logo="https://sta.vnres.co/file/common/20260831/8c106fa0fe146cf7929663e53e921ba0.jpg" group-title="SocoLive",COL D2: Patriotas FC vs Tigres Zipaquira - A MÂN
-https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1788753242-0-0-67d780a0712e905f388cfcddf6aaf097
+https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1788753602-0-0-00470f82687b00b32779cd743eaa6d51
 #EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260907/d46799908fea7f203a897b45755a4d6b.png" group-title="SocoLive",CNCF LC: Toluca vs Rayados de Monterrey - BLV Củ Cải
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788753241-0-0-bfcbd95eddc666a0bc194fe1412d0649
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788753602-0-0-c217d1d5706736e36794c427f3e71a94
 #EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260907/3710fecacfa960841b4777f89671f0af.png" group-title="SocoLive",CNCF LC: Toluca vs Rayados de Monterrey - BLV ZOWIE
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788753241-0-0-34e1ae24dce169b5f9264f9eb966ac32
-#EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151.png" group-title="SocoLive",CRC D1: AD San Carlos vs Sporting FC - BLV VOI
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1788753242-0-0-db90125fe543b6cbbd5e0e36e1338dbb
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788753602-0-0-ef359d3dabd8d92a067fcd37c628fde2
 #EXTINF:-1 tvg-id="room-9912141" tvg-logo="https://sta.vnres.co/file/common/20260905/aa6f82f50395e2bc6c9bb9c2157f7061.jpg" group-title="SocoLive",CNCF LC: Toluca vs Rayados de Monterrey - BLV MESSI
-https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1788753242-0-0-c178909277311fad64075606b25fba98
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1788753602-0-0-01d00da8bdd4dcdf0587c81ad50ac3a4
 #EXTINF:-1 tvg-id="room-9912144" tvg-logo="https://sta.vnres.co/file/common/20260730/7804d6332c85f80cc4843609598de690.jpg" group-title="SocoLive",CNCF LC: Toluca vs Rayados de Monterrey - TẠ BIÊN GIỚI
-https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788753241-0-0-2972200d605dc4b2c1e6364a885ba2b7
+https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788753601-0-0-aef640ec19a08556d9101271d39676b1
 #EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260829/f6903a1879b3c7cc22d27c658db14d94.png" group-title="SocoLive",CNCF LC: Toluca vs Rayados de Monterrey - BLV CUỘI
-https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788753241-0-0-064268a22c0b1855e5c2eb310d8868d2
+https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788753602-0-0-e9904e455232ca1042ef9f2e2e80e1a4
