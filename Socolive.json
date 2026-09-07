@@ -378,15 +378,6 @@
     "type": "hls"
   },
   {
-    "id": "622241",
-    "tvg_id": "room-622241",
-    "name": "ISPE FC vs Sagaing United (MYA D1)",
-    "logo": "https://sta.vnres.co/file/common/20260904/24ca1572ba3c7bc04c14b9ac8acbe46c.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1788761434-0-0-0cfc0ff4378de3c5f01993eac77b7767",
-    "type": "hls"
-  },
-  {
     "id": "625920",
     "tvg_id": "room-625920",
     "name": "Riga FC vs BFC Daugavpils (LAT D1)",
@@ -671,7 +662,7 @@
     "name": "Quezon City vs Sarangani Marlins (MPBL)",
     "logo": "https://sta.vnres.co/file/common/20260905/3d9ca0c7fd0d02d65e51d160030f97fe.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=54ec086adb0fc9c2e2c24368e407e660\u0026txTime=6a9eaefd",
+    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=664be52f568bc4707d598c8acad431fc\u0026txTime=6a9eb029",
     "type": "hls"
   },
   {
@@ -680,7 +671,7 @@
     "name": "Quezon City vs Sarangani Marlins (MPBL)",
     "logo": "https://sta.vnres.co/file/common/20260905/3d9ca0c7fd0d02d65e51d160030f97fe.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=f1b2f5c87fd739648942edd75c34f2d1\u0026txTime=6a9eaefd",
+    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=db66917250ea4ce9a3d7694c32e61b25\u0026txTime=6a9eb02a",
     "type": "hls"
   },
   {
@@ -689,7 +680,7 @@
     "name": "Quezon City vs Sarangani Marlins (MPBL)",
     "logo": "https://sta.vnres.co/file/common/20260905/3d9ca0c7fd0d02d65e51d160030f97fe.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788766381-0-0-d87dda681e5e4163f4fa5cbdc6c7789e",
+    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788766681-0-0-8cdaf130901e8def0d27b87d20e2c151",
     "type": "hls"
   },
   {
@@ -716,16 +707,7 @@
     "name": "Quezon City vs Sarangani Marlins (MPBL)",
     "logo": "https://sta.vnres.co/file/common/20260905/3d9ca0c7fd0d02d65e51d160030f97fe.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788766384-0-0-4bfcca2ccf83ab2fbf7d905277a28da2",
-    "type": "hls"
-  },
-  {
-    "id": "133277",
-    "tvg_id": "room-133277",
-    "name": "Tường thuật: CNCF LC - Toluca vs Rayados de Monterrey - Gà xào sả ớt",
-    "logo": "https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=bdad9f10f1ccd95e93bd4c2beb49e3b7\u0026txTime=6a9eaec1",
+    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788766682-0-0-3208e250cf2cd55da073f5b51924c3e1",
     "type": "hls"
   },
   {
@@ -734,16 +716,7 @@
     "name": "Tường thuật: GER D1 - Hamburger SV vs 1. FSV Mainz 05 - Bò leo rào",
     "logo": "https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=ffa2cceb4e6cc1768f0398a7febd65f9\u0026txTime=6a9eaec1",
-    "type": "hls"
-  },
-  {
-    "id": "152898",
-    "tvg_id": "room-152898",
-    "name": "Tường thuật: CRC D1 - AD San Carlos vs Sporting FC - Thỏ giang hồ",
-    "logo": "https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=ae081eac171f963003006d7d75605ee1\u0026txTime=6a9eaec1",
+    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=375ff3020436fbca7fb716c477126710\u0026txTime=6a9eb029",
     "type": "hls"
   },
   {
@@ -752,7 +725,7 @@
     "name": "Tường thuật: ITA D1 - Juventus vs AC Milan - Hươu đau cổ",
     "logo": "https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=1070adab368c62c6cdbf28b68f297cb0\u0026txTime=6a9eaec1",
+    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=f3487d7d32eaae292b5576fd3dfb4b99\u0026txTime=6a9eb029",
     "type": "hls"
   },
   {
@@ -761,7 +734,7 @@
     "name": "Tường thuật: ENG PR - Arsenal vs Chelsea - Mèo méo meo",
     "logo": "https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=cc209c66dc6e30736adb4bcaad91cc73\u0026txTime=6a9eaec1",
+    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=dc0b933383ca94c609287bfe8fdce1a0\u0026txTime=6a9eb029",
     "type": "hls"
   },
   {
@@ -770,16 +743,7 @@
     "name": "MPBL: Quezon City vs Sarangani Marlins - A CHÈ",
     "logo": "https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=27dc580c368136b25d83e2cc53241522\u0026txTime=6a9eaec1",
-    "type": "hls"
-  },
-  {
-    "id": "558264",
-    "tvg_id": "room-558264",
-    "name": "MPBL: Quezon City vs Sarangani Marlins - HUNTER",
-    "logo": "https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=c933cbd710fda97ad5400e7216d659f0\u0026txTime=6a9eaec1",
+    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=664be52f568bc4707d598c8acad431fc\u0026txTime=6a9eb029",
     "type": "hls"
   },
   {
@@ -788,7 +752,7 @@
     "name": "Tường thuật: ENG PR - Everton vs Manchester United - Rắn ở đáy sông",
     "logo": "https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=9ad575e2a9d85b85791b341d78cd6285\u0026txTime=6a9eaec1",
+    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=fc7ecbbd9cfb420b683da17c17e73b4f\u0026txTime=6a9eb02a",
     "type": "hls"
   },
   {
@@ -797,7 +761,16 @@
     "name": "MPBL: Quezon City vs Sarangani Marlins - KING",
     "logo": "https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788766321-0-0-08e57a96a5a6aefe73eaff5b12128db1",
+    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788766681-0-0-8cdaf130901e8def0d27b87d20e2c151",
+    "type": "hls"
+  },
+  {
+    "id": "9912115",
+    "tvg_id": "room-9912115",
+    "name": "MPBL: Quezon City vs Sarangani Marlins - CHAN SENA",
+    "logo": "https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788766682-0-0-3208e250cf2cd55da073f5b51924c3e1",
     "type": "hls"
   }
 ]
