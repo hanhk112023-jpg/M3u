@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 90
-# Updated: 07/09/2026 08:15:52
+# Channels: 91
+# Updated: 07/09/2026 08:20:52
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260905/1df4b9a4bf1dc4536088b95d277ad6c5.png" group-title="Bóng đá",Club Atlético Unión vs Instituto de Córdoba (ARG D1)
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788751846-0-0-7895acb73a55154fb4e2f1c96022817b
@@ -104,7 +104,7 @@ https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788756256-0-0-f30
 #EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260904/dc950c02007a00f475a45a87bafe2cc9.png" group-title="Bóng đá",Istanbulspor vs Iğdır FK (TFF 1. Lig)
 https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=111dd54a099498d141de03378106136d&txTime=6a9dbf0c
 #EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260904/24ca1572ba3c7bc04c14b9ac8acbe46c.png" group-title="Bóng đá",ISPE FC vs Sagaing United (MYA D1)
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788755842-0-0-2b22db83e315c52bb11ee0b2a2af3073
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788772802-0-0-d7327ee50df5970327bf19a4111b9008
 #EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260905/8205d7c0beb51bcb294376645cb6b602.png" group-title="Bóng đá",Vitória - BA vs Grêmio - RS (BRA D1)
 https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1788753457-0-0-bade5fd57cf0630fd059c741c4c234cb
 #EXTINF:-1 tvg-id="room-9912119" tvg-logo="https://sta.vnres.co/file/common/20260904/7928c687367a0b6e2a4baabc2befd38c.png" group-title="Bóng đá",Al Khaleej vs Al Riyadh (KSA PR)
@@ -152,34 +152,36 @@ https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1788719588-0-0-662
 #EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260904/24ca1572ba3c7bc04c14b9ac8acbe46c.png" group-title="Bóng đá",ISPE FC vs Sagaing United (MYA D1)
 https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788756392-0-0-134422f4008c09036dcb5cadfaa677f8
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260905/3d9ca0c7fd0d02d65e51d160030f97fe.png" group-title="Bóng rổ",Quezon City vs Sarangani Marlins (MPBL)
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=90176fb9e224f9ef8803125628540bcb&txTime=6a9ec6e6
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=a2b3405d231ed2e86523d53bccefef3d&txTime=6a9ec812
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260905/3d9ca0c7fd0d02d65e51d160030f97fe.png" group-title="Bóng rổ",Quezon City vs Sarangani Marlins (MPBL)
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=8df2076a5992b43d011db00bf3c0a912&txTime=6a9ec6e6
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=6df3674354c25403bffe24739e41dba8&txTime=6a9ec812
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260905/3d9ca0c7fd0d02d65e51d160030f97fe.png" group-title="Bóng rổ",Quezon City vs Sarangani Marlins (MPBL)
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788772502-0-0-17cdc85d8651e16e7858de56c17f1a3a
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788772802-0-0-300c48ee632b8613d1354c34e48e6040
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260905/3d9ca0c7fd0d02d65e51d160030f97fe.png" group-title="Bóng rổ",Quezon City vs Sarangani Marlins (MPBL)
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788772502-0-0-99e4b738f3ec1de348fe517d5da906c5
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788772802-0-0-bb64288e58bef54bc11d40e426f4d4fb
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260905/346e8706ba518204a26b483c271e9343.png" group-title="Bóng rổ",Japan W vs Spain W (FIBAP W)
 https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788638206-0-0-307e1bd3646f01543a9f10af8c25b08e
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260905/bfd7accc5c48556425c4b48ce9c69ab5.png" group-title="Bóng rổ",Belgium W vs Australia W (FIBAP W)
 https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788772053-0-0-3d2e1af6c9920e78719f1795209463b0
 #EXTINF:-1 tvg-id="room-133277" tvg-logo="https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg" group-title="SocoLive",Tường thuật: CNCF LC - Toluca vs Rayados de Monterrey - Gà xào sả ớt
-https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=f67162d3b53b67d7e4ec0cb94a98ccab&txTime=6a9ec6e6
+https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=09a66413f862faf333b4c2f829b7c73e&txTime=6a9ec812
 #EXTINF:-1 tvg-id="room-133824" tvg-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg" group-title="SocoLive",Tường thuật: GER D1 - Hamburger SV vs 1. FSV Mainz 05 - Bò leo rào
-https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=68bf4642866c441d17d8fb5f6180593a&txTime=6a9ec6e6
+https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=55d41dac3715888afcee490a7f36482b&txTime=6a9ec812
 #EXTINF:-1 tvg-id="room-152898" tvg-logo="https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png" group-title="SocoLive",Tường thuật: CRC D1 - AD San Carlos vs Sporting FC - Thỏ giang hồ
-https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=269879c273949b151d07a6f00875c1fd&txTime=6a9ec6e6
+https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=185942dda25bc5044324c24a197b3026&txTime=6a9ec812
 #EXTINF:-1 tvg-id="room-179093" tvg-logo="https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg" group-title="SocoLive",Tường thuật: ITA D1 - Juventus vs AC Milan - Hươu đau cổ
-https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=d2d0191d0f90f25687fb42c5e842af0b&txTime=6a9ec6e6
+https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=dfaa2e8136697cf33b33cb20f49faa73&txTime=6a9ec812
 #EXTINF:-1 tvg-id="room-343500" tvg-logo="https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg" group-title="SocoLive",Tường thuật: ENG PR - Arsenal vs Chelsea - Mèo méo meo
-https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=0a4d4ffab5cee1804f6d64864494cefa&txTime=6a9ec6e6
+https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=7ba861f41692532222762246a0c4f350&txTime=6a9ec812
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg" group-title="SocoLive",MPBL: Quezon City vs Sarangani Marlins - A CHÈ
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=90176fb9e224f9ef8803125628540bcb&txTime=6a9ec6e6
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=a2b3405d231ed2e86523d53bccefef3d&txTime=6a9ec812
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg" group-title="SocoLive",MPBL: Quezon City vs Sarangani Marlins - HUNTER
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=8df2076a5992b43d011db00bf3c0a912&txTime=6a9ec6e6
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=6df3674354c25403bffe24739e41dba8&txTime=6a9ec812
 #EXTINF:-1 tvg-id="room-9912079" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg" group-title="SocoLive",Tường thuật: ENG PR - Everton vs Manchester United - Rắn ở đáy sông
-https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=8a1a975ee1ac1ea564d0d78090eb3b49&txTime=6a9ec6e6
+https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=f01bbe381ffc4f686c4cde7908ea8587&txTime=6a9ec812
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-title="SocoLive",MPBL: Quezon City vs Sarangani Marlins - KING
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788772502-0-0-17cdc85d8651e16e7858de56c17f1a3a
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788772802-0-0-300c48ee632b8613d1354c34e48e6040
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-title="SocoLive",MPBL: Quezon City vs Sarangani Marlins - BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788772502-0-0-99e4b738f3ec1de348fe517d5da906c5
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788772802-0-0-bb64288e58bef54bc11d40e426f4d4fb
+#EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260907/3710fecacfa960841b4777f89671f0af.png" group-title="SocoLive",MYA D1: ISPE FC vs Sagaing United - BLV ZOWIE
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788772802-0-0-d7327ee50df5970327bf19a4111b9008
