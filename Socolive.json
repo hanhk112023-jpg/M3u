@@ -50,7 +50,7 @@
     "name": "CA Barracas Central vs Argentinos Juniors (ARG D1)",
     "logo": "https://sta.vnres.co/file/common/20260905/173c42a1ee7ea448740701ceeeb501be.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788823142-0-0-a1e8658c1933ae0da7e805eb5cdc90c7",
+    "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788823442-0-0-af201a5fb5694cbe0368075209ad808e",
     "type": "hls"
   },
   {
@@ -104,7 +104,7 @@
     "name": "Club Atlético Unión vs Instituto de Córdoba (ARG D1)",
     "logo": "https://sta.vnres.co/file/common/20260905/1df4b9a4bf1dc4536088b95d277ad6c5.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=153745014e0b6745c1849e429d22b756\u0026txTime=6a9f8cb6",
+    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=b2aa9ee7cd1018b097c0e2d2846be079\u0026txTime=6a9f8da0",
     "type": "hls"
   },
   {
@@ -113,7 +113,7 @@
     "name": "CA Barracas Central vs Argentinos Juniors (ARG D1)",
     "logo": "https://sta.vnres.co/file/common/20260905/173c42a1ee7ea448740701ceeeb501be.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=8bc1962d552fd5866a9fa61448253914\u0026txTime=6a9f8cb6",
+    "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=5ca689d2161a6f5b99428e3dfa445bbf\u0026txTime=6a9f8de2",
     "type": "hls"
   },
   {
@@ -239,7 +239,7 @@
     "name": "CA Barracas Central vs Argentinos Juniors (ARG D1)",
     "logo": "https://sta.vnres.co/file/common/20260905/173c42a1ee7ea448740701ceeeb501be.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=852d732dd3e83f9b05002525a139f5e0\u0026txTime=6a9f8cb6",
+    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=a0e27d47d9241709f9a0a2e4910b19ca\u0026txTime=6a9f8de2",
     "type": "hls"
   },
   {
@@ -347,7 +347,7 @@
     "name": "CA Barracas Central vs Argentinos Juniors (ARG D1)",
     "logo": "https://sta.vnres.co/file/common/20260905/173c42a1ee7ea448740701ceeeb501be.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=94ca55ea76b8707025956ea0d9e50d58\u0026txTime=6a9f8cb6",
+    "url": "https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=85538b0c7c5e88039ff47aae2dcbd528\u0026txTime=6a9f8de2",
     "type": "hls"
   },
   {
@@ -711,30 +711,12 @@
     "type": "hls"
   },
   {
-    "id": "321443",
-    "tvg_id": "room-321443",
-    "name": "MEX WD1: Atlante Women vs Juarez FC Women - BLV GIÓ",
-    "logo": "https://sta.vnres.co/file/common/20260603/54289b9ef989aba74cff5bfdee1d4656.png",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=824f300976e7555d2e1a194399216690\u0026txTime=6a9f8cc6",
-    "type": "hls"
-  },
-  {
     "id": "372746",
     "tvg_id": "room-372746",
     "name": "ARG D1: CA Barracas Central vs Argentinos Juniors - BLV YONE",
     "logo": "https://sta.vnres.co/file/common/20260728/ba06eac3dc3ffeee0de25e8e0deaaceb.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788823142-0-0-a1e8658c1933ae0da7e805eb5cdc90c7",
-    "type": "hls"
-  },
-  {
-    "id": "485739",
-    "tvg_id": "room-485739",
-    "name": "MEX WD1: Atlante Women vs Juarez FC Women - BLV CHIVAS",
-    "logo": "https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=153745014e0b6745c1849e429d22b756\u0026txTime=6a9f8cb6",
+    "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788823442-0-0-af201a5fb5694cbe0368075209ad808e",
     "type": "hls"
   },
   {
@@ -743,7 +725,7 @@
     "name": "ARG D1: CA Barracas Central vs Argentinos Juniors - BLV VIP",
     "logo": "https://sta.vnres.co/file/common/20250723/6b83b847d8944b57cc13043bae9fa7a8.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=8bc1962d552fd5866a9fa61448253914\u0026txTime=6a9f8cb6",
+    "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=5ca689d2161a6f5b99428e3dfa445bbf\u0026txTime=6a9f8de2",
     "type": "hls"
   },
   {
@@ -752,7 +734,7 @@
     "name": "ARG D1: CA Barracas Central vs Argentinos Juniors - HÀ DUY KIÊN",
     "logo": "https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=852d732dd3e83f9b05002525a139f5e0\u0026txTime=6a9f8cb6",
+    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=a0e27d47d9241709f9a0a2e4910b19ca\u0026txTime=6a9f8de2",
     "type": "hls"
   },
   {
@@ -761,7 +743,7 @@
     "name": "ARG D1: CA Barracas Central vs Argentinos Juniors - CHAN ĐÊ",
     "logo": "https://sta.vnres.co/file/common/20260728/c2935ca02d759ee77531ff32719f1b21.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=94ca55ea76b8707025956ea0d9e50d58\u0026txTime=6a9f8cb6",
+    "url": "https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=85538b0c7c5e88039ff47aae2dcbd528\u0026txTime=6a9f8de2",
     "type": "hls"
   }
 ]
