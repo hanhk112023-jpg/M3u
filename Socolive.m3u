@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 85
-# Updated: 08/09/2026 06:06:43
+# Channels: 84
+# Updated: 08/09/2026 06:11:58
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260905/f05c51dc7019b8f73cdd058d82343251.png" group-title="Bóng đá",Negeri Sembilan vs Kelantan City (MAS FAC)
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788837421-0-0-a54024392984432af98c9e1f4587f9de
@@ -123,8 +123,6 @@ https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=f3bb8afb5cd0216c82f
 https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788832707-0-0-f9b8abf0e1c0c7ace57eb51c196b5222
 #EXTINF:-1 tvg-id="room-9912131" tvg-logo="https://sta.vnres.co/file/common/20260905/d8f438e5947bbd3ec9cba5cf03b12aca.png" group-title="Bóng đá",Club Brugge U19 vs Aston Villa U19 (UEFA YL)
 https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1788815320-0-0-0bbd77b31afed595dd6703279a9f8267
-#EXTINF:-1 tvg-id="room-9912132" tvg-logo="https://sta.vnres.co/file/common/20260905/4b0d9f4c9638e71fbcf71867a94262af.png" group-title="Bóng đá",Vaasa VPS vs AC Oulu (FIN D1)
-https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=740d458dc86eede74cf51f149b09975a&txTime=6a9f6c87
 #EXTINF:-1 tvg-id="room-9912133" tvg-logo="https://sta.vnres.co/file/common/20260905/9f68dd040ad19086e6aeae242a4fecb3.png" group-title="Bóng đá",Ilves Tampere vs Jaro (FIN D1)
 https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1788817547-0-0-822620090807efde69e46310dbc29176
 #EXTINF:-1 tvg-id="room-9912135" tvg-logo="https://sta.vnres.co/file/common/20260905/6381fc5700dddcbcb000da0c83cac80e.png" group-title="Bóng đá",AEK Athens vs LASK Linz (UEFA CL)
@@ -162,14 +160,14 @@ https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788806406-0-0-ed4
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260906/e3ed7fbfa036790056d793c2ddcf37f6.png" group-title="Bóng rổ",Quezon Huskers vs Negros Muscovados (MPBL)
 https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788827707-0-0-85e372c992cbe3622547cfb4f399c571
 #EXTINF:-1 tvg-id="room-133277" tvg-logo="https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg" group-title="SocoLive",Tường thuật: ROM D1 - FC Voluntari vs Arges - Gà xào sả ớt
-https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=9f6bc94e86fb59283e2c277eb830ca36&txTime=6a9ffa2a
+https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=e55db26c8a11d7d8d2d272d008d732fb&txTime=6a9ffb56
 #EXTINF:-1 tvg-id="room-133824" tvg-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg" group-title="SocoLive",Tường thuật: SPA D1 - Getafe vs RC Celta - Bò leo rào
-https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=b09370721ef61a7a7f87175fcf31608e&txTime=6a9ffa2a
+https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=23ae4fd81beb0c09c23452ac9556284c&txTime=6a9ffb56
 #EXTINF:-1 tvg-id="room-152898" tvg-logo="https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png" group-title="SocoLive",Tường thuật: KSA PR - Al Khaleej vs Al Riyadh - Thỏ giang hồ
-https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=7d2c3918d641d7b33bdd1d643190e69f&txTime=6a9ffa2a
+https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=6d9dfa9ea509ce9f466203c60dacf931&txTime=6a9ffb56
 #EXTINF:-1 tvg-id="room-179093" tvg-logo="https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg" group-title="SocoLive",Tường thuật: ITA D1 - Cagliari vs Lecce - Hươu đau cổ
-https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=d7c9f4c3f30899ed25d28011672edafb&txTime=6a9ffa2a
+https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=65cc384a1a8a61e0417dbb2a4cc60750&txTime=6a9ffb56
 #EXTINF:-1 tvg-id="room-343500" tvg-logo="https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg" group-title="SocoLive",Tường thuật: ITA D1 - Udinese vs Lazio - Mèo méo meo
-https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=d04ace451f7cac5fdfc0629cf0006919&txTime=6a9ffa2a
+https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=8b9de659448821ce4bf16f42777fc23f&txTime=6a9ffb56
 #EXTINF:-1 tvg-id="room-9912079" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg" group-title="SocoLive",Tường thuật: KSA PR - Al Hilal vs Neom SC - Rắn ở đáy sông
-https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=c8a10111bc938730068ca289f61e74f5&txTime=6a9ffa2a
+https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=67a3a077697c6a9d3f3207126859294e&txTime=6a9ffb56
