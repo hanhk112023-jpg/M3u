@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 83
-# Updated: 08/09/2026 04:15:46
+# Channels: 84
+# Updated: 08/09/2026 04:20:47
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260905/f05c51dc7019b8f73cdd058d82343251.png" group-title="Bóng đá",Negeri Sembilan vs Kelantan City (MAS FAC)
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788837421-0-0-a54024392984432af98c9e1f4587f9de
@@ -129,6 +129,8 @@ https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=740d458dc86eede74cf
 https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1788817547-0-0-822620090807efde69e46310dbc29176
 #EXTINF:-1 tvg-id="room-9912135" tvg-logo="https://sta.vnres.co/file/common/20260905/6381fc5700dddcbcb000da0c83cac80e.png" group-title="Bóng đá",AEK Athens vs LASK Linz (UEFA CL)
 https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1788811351-0-0-adda32f280c904d8df6975b8931d513a
+#EXTINF:-1 tvg-id="room-9912136" tvg-logo="https://sta.vnres.co/file/common/20260905/d8f438e5947bbd3ec9cba5cf03b12aca.png" group-title="Bóng đá",Club Brugge U19 vs Aston Villa U19 (UEFA YL)
+https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=e7675440f53c9c2e3a8d891077673807&txTime=6a9f4f35
 #EXTINF:-1 tvg-id="room-9912138" tvg-logo="https://sta.vnres.co/file/common/20260905/4b0d9f4c9638e71fbcf71867a94262af.png" group-title="Bóng đá",Vaasa VPS vs AC Oulu (FIN D1)
 https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1788816801-0-0-7361da667c1bcf917b9e3648e5afb6c5
 #EXTINF:-1 tvg-id="room-9912139" tvg-logo="https://sta.vnres.co/file/common/20260905/dff3319b4a3a4edc9c1d84e116ab8458.png" group-title="Bóng đá",Gnistan Helsinki vs KuPs (FIN D1)
@@ -160,12 +162,12 @@ https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788806406-0-0-ed4
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260906/e3ed7fbfa036790056d793c2ddcf37f6.png" group-title="Bóng rổ",Quezon Huskers vs Negros Muscovados (MPBL)
 https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788827707-0-0-85e372c992cbe3622547cfb4f399c571
 #EXTINF:-1 tvg-id="room-133277" tvg-logo="https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg" group-title="SocoLive",Tường thuật: ROM D1 - FC Voluntari vs Arges - Gà xào sả ớt
-https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=54910cac776ca5485f5172fcb27a4471&txTime=6a9fe026
+https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=a5485022406d9deec1e0962a32c73e58&txTime=6a9fe152
 #EXTINF:-1 tvg-id="room-133824" tvg-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg" group-title="SocoLive",Tường thuật: SPA D1 - Getafe vs RC Celta - Bò leo rào
-https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=f6bd2773b36f2e9763ab7af1968bfe43&txTime=6a9fe026
+https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=b61e3d00398ebe5536b772b7235f8482&txTime=6a9fe152
 #EXTINF:-1 tvg-id="room-152898" tvg-logo="https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png" group-title="SocoLive",Tường thuật: KSA PR - Al Khaleej vs Al Riyadh - Thỏ giang hồ
-https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=d8ecf8c6ff209ee7e8d3c0b34dd0a5e8&txTime=6a9fe026
+https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=bb3a35c942a8794f31446dd82be76468&txTime=6a9fe152
 #EXTINF:-1 tvg-id="room-343500" tvg-logo="https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg" group-title="SocoLive",Tường thuật: ITA D1 - Udinese vs Lazio - Mèo méo meo
-https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=11ababcaf77c50254b9bb79c3c150303&txTime=6a9fe026
+https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=6f4380aa45d66fc08bcf931ddbd82e1d&txTime=6a9fe152
 #EXTINF:-1 tvg-id="room-9912079" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg" group-title="SocoLive",Tường thuật: KSA PR - Al Hilal vs Neom SC - Rắn ở đáy sông
-https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=e3880f2a085ba28f783a0dc7c5f7dd11&txTime=6a9fe026
+https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=1ff50a63c01725025b440ff4c80e60cf&txTime=6a9fe152
