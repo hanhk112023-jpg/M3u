@@ -1,14 +1,14 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 103
-# Updated: 08/09/2026 13:27:13
+# Channels: 104
+# Updated: 08/09/2026 13:32:21
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260906/8c516e9a5f60516bda24556bc27a1e41.png" group-title="Bóng đá",Penang FC vs Melaka FC (MAS FAC)
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788867998-0-0-d9b5b272d44929705a85b67eb14b054f
 #EXTINF:-1 tvg-id="room-283501" tvg-logo="https://sta.vnres.co/file/common/20260906/d4dd4c44548cc182283d1a968b9155b4.png" group-title="Bóng đá",New York City Team B vs New York Red Bulls B (USA MLSRv)
 https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=5cd5f57a10aab3916244580ddc70aca5&txTime=6aa04d32
 #EXTINF:-1 tvg-id="room-291277" tvg-logo="https://sta.vnres.co/file/common/20260905/d8f438e5947bbd3ec9cba5cf03b12aca.png" group-title="Bóng đá",Club Brugge U19 vs Aston Villa U19 (UEFA YL)
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=ae59dcc3767bde9d3a057cadb2563f35&txTime=6aa06186
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=b52ccdf33ceccfeee052fb5f8317a8c0&txTime=6aa062b2
 #EXTINF:-1 tvg-id="room-304148" tvg-logo="https://sta.vnres.co/file/common/20260905/3ba05bd8556431a69a0d87910b618da7.png" group-title="Bóng đá",Real Madrid U19 vs Inter Milan U19 (UEFA YL)
 https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788820317-0-0-a3664a73957a65262d2cce3c84d99cb9
 #EXTINF:-1 tvg-id="room-327159" tvg-logo="https://sta.vnres.co/file/common/20260905/cf0967d8ee7e799e05fdebdfb553ad46.png" group-title="Bóng đá",Lahti vs IFK Mariehamn (FIN D1)
@@ -18,7 +18,7 @@ https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788840351-0-0-5e1b
 #EXTINF:-1 tvg-id="room-380460" tvg-logo="https://sta.vnres.co/file/common/20260905/47b3da6b6dddbeefabe3b5f73f195a64.png" group-title="Bóng đá",Al Ettifaq vs Al Faisaly (KSA PR)
 https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1788811380-0-0-db3ba79903c407f1ecfd4d2e3bd54308
 #EXTINF:-1 tvg-id="room-387694" tvg-logo="https://sta.vnres.co/file/common/20260905/430ab5a0bc9557591accd22773e4f616.png" group-title="Bóng đá",Brasil U20 Women vs Canada U20 Women (FIFA WU20)
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=1358af83d6b9532afd371f1d1f317582&txTime=6aa06186
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=d10c513b3daca3f07565f7ccf47dc0c9&txTime=6aa062b2
 #EXTINF:-1 tvg-id="room-406865" tvg-logo="https://sta.vnres.co/file/common/20260905/77de4b24003cd7e869d78c00d681bf1b.png" group-title="Bóng đá",TPS Turku vs SJK Seinajoen (FIN D1)
 https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=907992a54abbaeb28f50540f1d34a1da&txTime=6a9f5c76
 #EXTINF:-1 tvg-id="room-414317" tvg-logo="https://sta.vnres.co/file/common/20260905/97fd55a0ea466cd774c454779c555577.png" group-title="Bóng đá",Club Brugge vs Aston Villa (UEFA CL)
@@ -34,7 +34,7 @@ https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=e429c2cfae8585885497
 #EXTINF:-1 tvg-id="room-511367" tvg-logo="https://sta.vnres.co/file/common/20260905/143088c68989d2acdd6e42264dea1b2d.png" group-title="Bóng đá",Al Hazem vs Al Taawoun (KSA PR)
 https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1788850548-0-0-2b33c2c51039d53ba2af57a655bf147b
 #EXTINF:-1 tvg-id="room-527383" tvg-logo="https://sta.vnres.co/file/common/20260905/e56edf6791321869acb4b830a9f57996.png" group-title="Bóng đá",Benin U20 Women vs Argentina U20 Women (FIFA WU20)
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1788877622-0-0-602503a97e05da165272491b8db9cf57
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1788877922-0-0-0e69c67211cbf486f21ee5ec035ad7c8
 #EXTINF:-1 tvg-id="room-527384" tvg-logo="https://sta.vnres.co/file/common/20260905/6381fc5700dddcbcb000da0c83cac80e.png" group-title="Bóng đá",AEK Athens vs LASK Linz (UEFA CL)
 https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1788874162-0-0-a33bdd231459e40fb58e961c23ade656
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260905/6381fc5700dddcbcb000da0c83cac80e.png" group-title="Bóng đá",AEK Athens vs LASK Linz (UEFA CL)
@@ -44,21 +44,21 @@ https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=f2b9ab61032695a3df19
 #EXTINF:-1 tvg-id="room-536185" tvg-logo="https://sta.vnres.co/file/common/20260820/dd4af5f394ad722763f93ecc3a8f33b7.png" group-title="Bóng đá",NEC Nijmegen vs Excelsior SBV (HOL D1)
 https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788817053-0-0-dacf4080dacfe020e7242276a2a2a713
 #EXTINF:-1 tvg-id="room-552832" tvg-logo="https://sta.vnres.co/file/common/20260905/d8f438e5947bbd3ec9cba5cf03b12aca.png" group-title="Bóng đá",Club Brugge U19 vs Aston Villa U19 (UEFA YL)
-https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=56a7d5c43ad809ad0200a6bbfdef49d5&txTime=6aa06186
+https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=ffdd44743d909cb761192b0b4291e23e&txTime=6aa062b2
 #EXTINF:-1 tvg-id="room-582342" tvg-logo="https://sta.vnres.co/file/common/20260905/430ab5a0bc9557591accd22773e4f616.png" group-title="Bóng đá",Brasil U20 Women vs Canada U20 Women (FIFA WU20)
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1788877622-0-0-c3bd7078a11979141b36d86c78869834
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1788877922-0-0-27faa33eb4df08dea5f6a58368976f76
 #EXTINF:-1 tvg-id="room-597929" tvg-logo="https://sta.vnres.co/file/common/20260905/9dacda7593823e045d8c420d1b4a71cd.png" group-title="Bóng đá",Star City vs Kedah FA (MAS FAC)
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1788877622-0-0-5b8f6cd8dd9330487d1766424e7fe23a
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1788877922-0-0-3fe746f031c1aac8876154f2f24c6e7e
 #EXTINF:-1 tvg-id="room-602019" tvg-logo="https://sta.vnres.co/file/common/20260905/143088c68989d2acdd6e42264dea1b2d.png" group-title="Bóng đá",Al Hazem vs Al Taawoun (KSA PR)
 https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=fb46e34ae8a5bb4427dfdc601c0074a6&txTime=6aa04e83
 #EXTINF:-1 tvg-id="room-603255" tvg-logo="https://sta.vnres.co/file/common/20260905/09e5c2efea60af3a1e2d85d349dbb548.png" group-title="Bóng đá",Kuching City FC vs Kelantan Red Warrior (MAS FAC)
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1788877622-0-0-a579784cea83b55ff390567d8ef8e284
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1788877922-0-0-b25645adfaefa361ec025ea6a0f136bd
 #EXTINF:-1 tvg-id="room-603914" tvg-logo="https://sta.vnres.co/file/common/20260906/be492b05ff39bf5c4d4e8a1069ade20f.png" group-title="Bóng đá",Independiente Santa Fe vs Vasco da Gama Saf - RJ (CON CSA)
 https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1788875705-0-0-ef58185387d7db6950bf5d0973bfa111
 #EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260906/21b163b3df41b528d61aed710cfa6aec.png" group-title="Bóng đá",Fluminense - RJ vs CA Platense (LIB Cup)
 https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=66d5a12a662583a0c7e5ba4ef17de18d&txTime=6aa0458e
 #EXTINF:-1 tvg-id="room-607552" tvg-logo="https://sta.vnres.co/file/common/20260905/e56edf6791321869acb4b830a9f57996.png" group-title="Bóng đá",Benin U20 Women vs Argentina U20 Women (FIFA WU20)
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1788877622-0-0-e8ee85c91ed870b809c28ca59d4eb5d9
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1788877922-0-0-48a032e402144d5bfd151926688a3137
 #EXTINF:-1 tvg-id="room-610518" tvg-logo="https://sta.vnres.co/file/common/20260908/23d5f038f88980b1fc6ae0de42fa3932.png" group-title="Bóng đá",DPMM FC vs Terengganu FC (MAS FAC)
 https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=128066dc771821341f7c06e1c21733e7&txTime=6aa03dd5
 #EXTINF:-1 tvg-id="room-617313" tvg-logo="https://sta.vnres.co/file/common/20260905/77de4b24003cd7e869d78c00d681bf1b.png" group-title="Bóng đá",TPS Turku vs SJK Seinajoen (FIN D1)
@@ -68,11 +68,11 @@ https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788870413-0-0-0d90
 #EXTINF:-1 tvg-id="room-619561" tvg-logo="https://sta.vnres.co/file/common/20260906/8f849ff31003e588b9ead26e6ab0cf75.png" group-title="Bóng đá",Cuiaba vs Athletic Club (BRA D2)
 https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1788875936-0-0-726a9fa1d210b60d69f3a18d891396e1
 #EXTINF:-1 tvg-id="room-619672" tvg-logo="https://sta.vnres.co/file/common/20260905/09e5c2efea60af3a1e2d85d349dbb548.png" group-title="Bóng đá",Kuching City FC vs Kelantan Red Warrior (MAS FAC)
-https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1788877622-0-0-89c5730be0675cafd8d0daa5861560bf
+https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1788877922-0-0-58c79b6a8645c0561661adfb443c271c
 #EXTINF:-1 tvg-id="room-620084" tvg-logo="https://sta.vnres.co/file/common/20260906/8f849ff31003e588b9ead26e6ab0cf75.png" group-title="Bóng đá",Cuiaba vs Athletic Club (BRA D2)
 https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1788875785-0-0-7e2738b2911b43e32cb4f651a34ec609
 #EXTINF:-1 tvg-id="room-620504" tvg-logo="https://sta.vnres.co/file/common/20260905/e56edf6791321869acb4b830a9f57996.png" group-title="Bóng đá",Benin U20 Women vs Argentina U20 Women (FIFA WU20)
-https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=86f192f28c8787ca8e21d3c270014c9b&txTime=6aa06186
+https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=c4bdb3e119640c226026fcd33deea226&txTime=6aa062b2
 #EXTINF:-1 tvg-id="room-620797" tvg-logo="https://sta.vnres.co/file/common/20260905/cf0967d8ee7e799e05fdebdfb553ad46.png" group-title="Bóng đá",Lahti vs IFK Mariehamn (FIN D1)
 https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1788817462-0-0-34ebe1aeab0fa466de0ee552422f38cc
 #EXTINF:-1 tvg-id="room-621840" tvg-logo="https://sta.vnres.co/file/common/20260905/143088c68989d2acdd6e42264dea1b2d.png" group-title="Bóng đá",Al Hazem vs Al Taawoun (KSA PR)
@@ -86,17 +86,17 @@ https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=10744ac7cf8d9044a60c
 #EXTINF:-1 tvg-id="room-622240" tvg-logo="https://sta.vnres.co/file/common/20260905/3ba05bd8556431a69a0d87910b618da7.png" group-title="Bóng đá",Real Madrid U19 vs Inter Milan U19 (UEFA YL)
 https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1788874355-0-0-ae1d59daadb642e4e76d490e312518f7
 #EXTINF:-1 tvg-id="room-622241" tvg-logo="https://sta.vnres.co/file/common/20260905/9dacda7593823e045d8c420d1b4a71cd.png" group-title="Bóng đá",Star City vs Kedah FA (MAS FAC)
-https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1788877622-0-0-aa221621dd2aa7450da6fc284cedcfd7
+https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1788877922-0-0-f6c554c40c295493ca8a60f359286e47
 #EXTINF:-1 tvg-id="room-625920" tvg-logo="https://sta.vnres.co/file/common/20260905/e56edf6791321869acb4b830a9f57996.png" group-title="Bóng đá",Benin U20 Women vs Argentina U20 Women (FIFA WU20)
-https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1788877622-0-0-5eb92ae3ee9e164fd9176a95bbca0e3e
+https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1788877922-0-0-c31a11c139f633191889f33e0d1dcda6
 #EXTINF:-1 tvg-id="room-627718" tvg-logo="https://sta.vnres.co/file/common/20260905/9dacda7593823e045d8c420d1b4a71cd.png" group-title="Bóng đá",Star City vs Kedah FA (MAS FAC)
-https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1788877622-0-0-0fbea8d102db97b5015a3d7fb7140cd5
+https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1788877922-0-0-59e342c5d3d9dc375eaeed65fa750754
 #EXTINF:-1 tvg-id="room-991140" tvg-logo="https://sta.vnres.co/file/common/20260905/9f68dd040ad19086e6aeae242a4fecb3.png" group-title="Bóng đá",Ilves Tampere vs Jaro (FIN D1)
 https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788817833-0-0-2f5efb731662059fcd2cc7077798fb73
 #EXTINF:-1 tvg-id="room-9912008" tvg-logo="https://sta.vnres.co/file/common/20260905/430ab5a0bc9557591accd22773e4f616.png" group-title="Bóng đá",Brasil U20 Women vs Canada U20 Women (FIFA WU20)
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1788877622-0-0-4ccb7ba5817e0f406f1c402bb94be946
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1788877922-0-0-2d57dd161e2094bd0dc2038375362bd3
 #EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260905/3ba05bd8556431a69a0d87910b618da7.png" group-title="Bóng đá",Real Madrid U19 vs Inter Milan U19 (UEFA YL)
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=1ee0769770ef9986d2c4dfdc6d593880&txTime=6aa06186
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=fa5da301b861d19bc30a9b47f96d1179&txTime=6aa062b2
 #EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260905/97fd55a0ea466cd774c454779c555577.png" group-title="Bóng đá",Club Brugge vs Aston Villa (UEFA CL)
 https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788874049-0-0-1b8e98e2e8af7fd78b1e4085681879a3
 #EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260906/ea69d6657ab85e1f9fb181d31591c323.png" group-title="Bóng đá",Pohang Steelers vs Gimcheon Sangmu FC (KOR D1)
@@ -106,21 +106,21 @@ https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788873892-0-0-31f
 #EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260906/be492b05ff39bf5c4d4e8a1069ade20f.png" group-title="Bóng đá",Independiente Santa Fe vs Vasco da Gama Saf - RJ (CON CSA)
 https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1788832963-0-0-ae8f3a42cd61e6da1a4e8b44d40d7866
 #EXTINF:-1 tvg-id="room-9912123" tvg-logo="https://sta.vnres.co/file/common/20260905/09e5c2efea60af3a1e2d85d349dbb548.png" group-title="Bóng đá",Kuching City FC vs Kelantan Red Warrior (MAS FAC)
-https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1788877622-0-0-7eeee1e48b05f3630449a271d8cd1090
+https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1788877922-0-0-cfd6f66a66c41f6875bfa2092b5c13fc
 #EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260905/143088c68989d2acdd6e42264dea1b2d.png" group-title="Bóng đá",Al Hazem vs Al Taawoun (KSA PR)
 https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788868362-0-0-e8aa29696c450cde390cf50d038ae1d4
 #EXTINF:-1 tvg-id="room-9912126" tvg-logo="https://sta.vnres.co/file/common/20260905/9dacda7593823e045d8c420d1b4a71cd.png" group-title="Bóng đá",Star City vs Kedah FA (MAS FAC)
-https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=f62bbe063061b94145cecf52b2c556b7&txTime=6aa06186
+https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=82c9e05350e61bd667cecafaeb9d0871&txTime=6aa062b2
 #EXTINF:-1 tvg-id="room-9912127" tvg-logo="https://sta.vnres.co/file/common/20260905/430ab5a0bc9557591accd22773e4f616.png" group-title="Bóng đá",Brasil U20 Women vs Canada U20 Women (FIFA WU20)
-https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=954d0e8bf1b29ed3e2e6443cdbef202e&txTime=6aa06186
+https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=bdf25573631b2224b63a72d08b1a7cb9&txTime=6aa062b2
 #EXTINF:-1 tvg-id="room-9912128" tvg-logo="https://sta.vnres.co/file/common/20260905/430ab5a0bc9557591accd22773e4f616.png" group-title="Bóng đá",Brasil U20 Women vs Canada U20 Women (FIFA WU20)
-https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1788877622-0-0-daab235014d350856570ed402b8934e4
+https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1788877922-0-0-03af49cdba1f5c5730f41868f1b52a65
 #EXTINF:-1 tvg-id="room-9912129" tvg-logo="https://sta.vnres.co/file/common/20260905/d8f438e5947bbd3ec9cba5cf03b12aca.png" group-title="Bóng đá",Club Brugge U19 vs Aston Villa U19 (UEFA YL)
-https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=68c5e96077f0abbc83f41d363f633ae3&txTime=6aa06186
+https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=67c59575e51d333f2f66b8fe1a16b18d&txTime=6aa062b2
 #EXTINF:-1 tvg-id="room-9912130" tvg-logo="https://sta.vnres.co/file/common/20260905/d8f438e5947bbd3ec9cba5cf03b12aca.png" group-title="Bóng đá",Club Brugge U19 vs Aston Villa U19 (UEFA YL)
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788877622-0-0-c5e0b2d5c3cabf01ff6f28906b33172f
+https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788877922-0-0-34486c9e7ebe154342ef98640bb6c88f
 #EXTINF:-1 tvg-id="room-9912131" tvg-logo="https://sta.vnres.co/file/common/20260905/d8f438e5947bbd3ec9cba5cf03b12aca.png" group-title="Bóng đá",Club Brugge U19 vs Aston Villa U19 (UEFA YL)
-https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1788877622-0-0-caa8921c0834673a4dfe4a95ac306a64
+https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1788877922-0-0-e0176cd1020379717fdd43576125a57e
 #EXTINF:-1 tvg-id="room-9912132" tvg-logo="https://sta.vnres.co/file/common/20260905/4b0d9f4c9638e71fbcf71867a94262af.png" group-title="Bóng đá",Vaasa VPS vs AC Oulu (FIN D1)
 https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=f942705bcc8d195b2fe49c55c878092a&txTime=6aa03d35
 #EXTINF:-1 tvg-id="room-9912133" tvg-logo="https://sta.vnres.co/file/common/20260905/9f68dd040ad19086e6aeae242a4fecb3.png" group-title="Bóng đá",Ilves Tampere vs Jaro (FIN D1)
@@ -128,7 +128,7 @@ https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1788817547-0-0-822
 #EXTINF:-1 tvg-id="room-9912135" tvg-logo="https://sta.vnres.co/file/common/20260905/6381fc5700dddcbcb000da0c83cac80e.png" group-title="Bóng đá",AEK Athens vs LASK Linz (UEFA CL)
 https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1788811351-0-0-adda32f280c904d8df6975b8931d513a
 #EXTINF:-1 tvg-id="room-9912136" tvg-logo="https://sta.vnres.co/file/common/20260905/d8f438e5947bbd3ec9cba5cf03b12aca.png" group-title="Bóng đá",Club Brugge U19 vs Aston Villa U19 (UEFA YL)
-https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=985ce36c47ec1ffe598745f0c7859da1&txTime=6aa06186
+https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=ed0500cbda0879f9f545a0ba53489263&txTime=6aa062b2
 #EXTINF:-1 tvg-id="room-9912138" tvg-logo="https://sta.vnres.co/file/common/20260905/4b0d9f4c9638e71fbcf71867a94262af.png" group-title="Bóng đá",Vaasa VPS vs AC Oulu (FIN D1)
 https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1788816801-0-0-7361da667c1bcf917b9e3648e5afb6c5
 #EXTINF:-1 tvg-id="room-9912139" tvg-logo="https://sta.vnres.co/file/common/20260905/dff3319b4a3a4edc9c1d84e116ab8458.png" group-title="Bóng đá",Gnistan Helsinki vs KuPs (FIN D1)
@@ -138,13 +138,13 @@ https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=dd560df9e0b6760d4bb
 #EXTINF:-1 tvg-id="room-9912141" tvg-logo="https://sta.vnres.co/file/common/20260905/4b0d9f4c9638e71fbcf71867a94262af.png" group-title="Bóng đá",Vaasa VPS vs AC Oulu (FIN D1)
 https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1788811768-0-0-3c055c10c9c1efd126e69f3bfc8a960f
 #EXTINF:-1 tvg-id="room-9912142" tvg-logo="https://sta.vnres.co/file/common/20260905/430ab5a0bc9557591accd22773e4f616.png" group-title="Bóng đá",Brasil U20 Women vs Canada U20 Women (FIFA WU20)
-https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1788877622-0-0-b62d41889c0952002446a47376e2f18c
+https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1788877922-0-0-138cb0f793add045685238cdf4d20cdb
 #EXTINF:-1 tvg-id="room-9912143" tvg-logo="https://sta.vnres.co/file/common/20260905/3ba05bd8556431a69a0d87910b618da7.png" group-title="Bóng đá",Real Madrid U19 vs Inter Milan U19 (UEFA YL)
-https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1788877622-0-0-4640389302bac467ca6eef42fbd547d0
+https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1788877922-0-0-26fd480bc7e55c3d3b71fd16569297f8
 #EXTINF:-1 tvg-id="room-9912144" tvg-logo="https://sta.vnres.co/file/common/20260905/97fd55a0ea466cd774c454779c555577.png" group-title="Bóng đá",Club Brugge vs Aston Villa (UEFA CL)
 https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788868122-0-0-5895cdc989bd7d08389617c4ccea3642
 #EXTINF:-1 tvg-id="room-9912145" tvg-logo="https://sta.vnres.co/file/common/20260905/3ba05bd8556431a69a0d87910b618da7.png" group-title="Bóng đá",Real Madrid U19 vs Inter Milan U19 (UEFA YL)
-https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1788877622-0-0-914d259914c0afde0ef82c8248d8573f
+https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1788877922-0-0-1e3f251bb2fd531237ad725d3a2e9ef2
 #EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260905/6381fc5700dddcbcb000da0c83cac80e.png" group-title="Bóng đá",AEK Athens vs LASK Linz (UEFA CL)
 https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788874293-0-0-066e198499a3bc12525a63b19c5ae528
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260907/257fc73c901885a720d6930154f7ee72.png" group-title="Bóng rổ",Paranaque Patriots vs San Juan Knights (MPBL)
@@ -160,52 +160,54 @@ https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788870256-0-0-59d
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260907/472622d1b359406866bf3a0aeb3eed4a.png" group-title="Bóng rổ",San Jose vs Amambay 1M (LMP)
 https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788875348-0-0-4f0c71ccea541cc3bbebc6eae3c27f46
 #EXTINF:-1 tvg-id="room-291277" tvg-logo="https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg" group-title="SocoLive",UEFA YL: Club Brugge U19 vs Aston Villa U19 - CÔNG CHẤT
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=66efb5e80e18bc3061afe50c362f0ed5&txTime=6aa0614a
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=ca344671b2dbcdfe3ea0c7f158d15179&txTime=6aa06276
 #EXTINF:-1 tvg-id="room-387694" tvg-logo="https://sta.vnres.co/file/common/20260908/e518161a83045a2bc3fb89b907468858.jpg" group-title="SocoLive",FIFA WU20: Brasil U20 Women vs Canada U20 Women - CR Bưởi
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=e386c88df978707075023de502ddd9f8&txTime=6aa0614a
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=e655c0a68ed1ed37cdcda01697f691f3&txTime=6aa06276
 #EXTINF:-1 tvg-id="room-527383" tvg-logo="https://sta.vnres.co/file/common/20260626/fcd1d9373f93de7ff3ebfbee3f073c7c.jpg" group-title="SocoLive",FIFA WU20: Benin U20 Women vs Argentina U20 Women - BLV ROBBEN
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1788877562-0-0-74c75387f98a25bf1df039b29e438e2b
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1788877862-0-0-7baf2c89beda48876e419bf607b17d2e
 #EXTINF:-1 tvg-id="room-552832" tvg-logo="https://sta.vnres.co/file/common/20251111/6a43978efb637082f6eb906c1e7f1621.jpg" group-title="SocoLive",UEFA YL: Club Brugge U19 vs Aston Villa U19 - LOGAN
-https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=4344c2a1bc548ec5b92f320bf4603f22&txTime=6aa0614a
+https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=4b12f8cea07ac53f06e2b4b5866d89af&txTime=6aa06276
 #EXTINF:-1 tvg-id="room-582342" tvg-logo="https://sta.vnres.co/file/common/20260721/f2855aef78044156ad9e45d7985403d0.jpg" group-title="SocoLive",FIFA WU20: Brasil U20 Women vs Canada U20 Women - BLV CÒ
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1788877562-0-0-940e1d5a8844426093eecd192495910c
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1788877862-0-0-9fc44cfbcbd10a54b112ebb9240967d8
 #EXTINF:-1 tvg-id="room-597929" tvg-logo="https://sta.vnres.co/file/common/20260312/cb002ebc914e9240a9242c43ec27aacb.jpg" group-title="SocoLive",MAS FAC: Star City vs Kedah FA - BLV CÁO
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1788877562-0-0-5952198c02df0f7493dfb524d48c5386
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1788877862-0-0-0ca95e73b23200200610b628c79376aa
 #EXTINF:-1 tvg-id="room-603255" tvg-logo="https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7.png" group-title="SocoLive",MAS FAC: Kuching City FC vs Kelantan Red Warrior - BLV LION
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1788877562-0-0-225baefe49e5aa34ab6cebd17d184393
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1788877862-0-0-88db2012cf54d40b3c97e54804edb542
 #EXTINF:-1 tvg-id="room-607552" tvg-logo="https://sta.vnres.co/file/common/20260522/f2b4ef051d1e02300d2d5bf24f3828f0.png" group-title="SocoLive",FIFA WU20: Benin U20 Women vs Argentina U20 Women - ĐỖ TÚ TÀI
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1788877562-0-0-26fd03bde5d7fc739c6ac7f61fed254b
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1788877862-0-0-0a9d5c99c6b140901957c2b837ec9477
 #EXTINF:-1 tvg-id="room-619672" tvg-logo="https://sta.vnres.co/file/common/20260808/4818d723b5e85850f66dfc3b5aed49d8.png" group-title="SocoLive",MAS FAC: Kuching City FC vs Kelantan Red Warrior - T REX
-https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1788877562-0-0-7116586232bd82ad851efbf49cbc9d2c
+https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1788877922-0-0-58c79b6a8645c0561661adfb443c271c
 #EXTINF:-1 tvg-id="room-620504" tvg-logo="https://sta.vnres.co/file/common/20260802/d0b756ac34b8f00d22a6d687f86fe8b2.jpg" group-title="SocoLive",FIFA WU20: Benin U20 Women vs Argentina U20 Women - BOSS
-https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=f0d1e86c89d3838f420288b15ddbb19d&txTime=6aa0614a
+https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=c4bdb3e119640c226026fcd33deea226&txTime=6aa062b2
 #EXTINF:-1 tvg-id="room-622241" tvg-logo="https://sta.vnres.co/file/common/20260906/0c538b4fbb930666280b5d83d040c7f0.jpg" group-title="SocoLive",MAS FAC: Star City vs Kedah FA - BLV HEHE
-https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1788877562-0-0-6f6ef63f5c0acddb6c96e15540f22d7b
+https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1788877922-0-0-f6c554c40c295493ca8a60f359286e47
 #EXTINF:-1 tvg-id="room-625920" tvg-logo="https://sta.vnres.co/file/common/20260828/e0638aedd6aef31974244bd226615764.jpg" group-title="SocoLive",FIFA WU20: Benin U20 Women vs Argentina U20 Women - NEKO
-https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1788877562-0-0-6fc31272c19ad9444874becbb4d87867
+https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1788877922-0-0-c31a11c139f633191889f33e0d1dcda6
 #EXTINF:-1 tvg-id="room-627718" tvg-logo="https://sta.vnres.co/file/common/20260831/8c106fa0fe146cf7929663e53e921ba0.jpg" group-title="SocoLive",MAS FAC: Star City vs Kedah FA - A MÂN
-https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1788877562-0-0-84d1f22343227b2ae1f1bf17fed1d519
+https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1788877922-0-0-59e342c5d3d9dc375eaeed65fa750754
 #EXTINF:-1 tvg-id="room-9912008" tvg-logo="https://sta.vnres.co/file/common/20260904/3360a52dcf3d4a0b945286a1e13d48ca.png" group-title="SocoLive",FIFA WU20: Brasil U20 Women vs Canada U20 Women - BLV TOMIA
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1788877562-0-0-4e9d68cee12b702453b85c78390d7d04
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1788877922-0-0-2d57dd161e2094bd0dc2038375362bd3
 #EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56.jpg" group-title="SocoLive",UEFA YL: Real Madrid U19 vs Inter Milan U19 - BLV TAP
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=f7cc1c8d0889b1df8997273fd7cdd8a8&txTime=6aa0614a
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=fa5da301b861d19bc30a9b47f96d1179&txTime=6aa062b2
 #EXTINF:-1 tvg-id="room-9912123" tvg-logo="https://sta.vnres.co/file/common/20260725/0eb3315ecb9cf5c7f5f9b102d38e52f9.jpg" group-title="SocoLive",MAS FAC: Kuching City FC vs Kelantan Red Warrior - RỒNG ĐẤT
-https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1788877562-0-0-2a8f3d1452b6c4ea7f1e752aad3bf70a
+https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1788877922-0-0-cfd6f66a66c41f6875bfa2092b5c13fc
 #EXTINF:-1 tvg-id="room-9912126" tvg-logo="https://sta.vnres.co/file/common/20260715/0e572fd7d0bfc5ce5cf538c09b8cace4.jpg" group-title="SocoLive",MAS FAC: Star City vs Kedah FA - SEVEN
-https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=fa63d610161f87b2b16ca0f48ec6eacc&txTime=6aa0614a
+https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=82c9e05350e61bd667cecafaeb9d0871&txTime=6aa062b2
 #EXTINF:-1 tvg-id="room-9912127" tvg-logo="https://sta.vnres.co/file/common/20250320/efe293015c817dee46ccc81fa5e934d7.jpg" group-title="SocoLive",FIFA WU20: Brasil U20 Women vs Canada U20 Women - BLV PIRLO
-https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=1783f342f85cfa86531b824736575598&txTime=6aa0614a
+https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=bdf25573631b2224b63a72d08b1a7cb9&txTime=6aa062b2
 #EXTINF:-1 tvg-id="room-9912128" tvg-logo="https://sta.vnres.co/file/common/20260729/2cca708e4ee1d3e988c578ff79960d7b.jpg" group-title="SocoLive",FIFA WU20: Brasil U20 Women vs Canada U20 Women - CACAO
-https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1788877562-0-0-91b36d31ecd37653574103b8b8ef8018
+https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1788877922-0-0-03af49cdba1f5c5730f41868f1b52a65
 #EXTINF:-1 tvg-id="room-9912129" tvg-logo="https://sta.vnres.co/file/common/20260907/2a185fe00b2a5d5d5e453886a8e8185b.jpg" group-title="SocoLive",UEFA YL: Club Brugge U19 vs Aston Villa U19 - QUỐC KHÁNH
-https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=9e958fc7c46a8395f3313f03712d36af&txTime=6aa0614a
+https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=67c59575e51d333f2f66b8fe1a16b18d&txTime=6aa062b2
 #EXTINF:-1 tvg-id="room-9912130" tvg-logo="https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png" group-title="SocoLive",UEFA YL: Club Brugge U19 vs Aston Villa U19 - BLV A TÚ
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788877562-0-0-69e62b289183170c453dcf763dc9b1c9
+https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788877922-0-0-34486c9e7ebe154342ef98640bb6c88f
 #EXTINF:-1 tvg-id="room-9912131" tvg-logo="https://sta.vnres.co/file/common/20260609/b3e04b0f7d210d67052a911512e39f54.jpg" group-title="SocoLive",UEFA YL: Club Brugge U19 vs Aston Villa U19 - CHÍ PHÈO
-https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1788877562-0-0-7acc8a8101fe1efb303727fc43ff6f1a
+https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1788877922-0-0-e0176cd1020379717fdd43576125a57e
 #EXTINF:-1 tvg-id="room-9912136" tvg-logo="https://sta.vnres.co/file/common/20260810/b792b2c329f2ffe44037f2d5973945de.jpg" group-title="SocoLive",UEFA YL: Club Brugge U19 vs Aston Villa U19 - BLV LONG
-https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=de6bf12f1796439caa097ef9fec44f64&txTime=6aa0614a
+https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=ed0500cbda0879f9f545a0ba53489263&txTime=6aa062b2
 #EXTINF:-1 tvg-id="room-9912142" tvg-logo="https://sta.vnres.co/file/common/20260830/683bbb96de277e28f88b1d08678ac124.png" group-title="SocoLive",FIFA WU20: Brasil U20 Women vs Canada U20 Women - A BỆU
-https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1788877562-0-0-49c31c2bb0f6642a8e4f0f1c40437507
+https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1788877922-0-0-138cb0f793add045685238cdf4d20cdb
 #EXTINF:-1 tvg-id="room-9912143" tvg-logo="https://sta.vnres.co/file/common/20260908/25a8cd45f3d227a96b46e77ba0d942c2.png" group-title="SocoLive",UEFA YL: Real Madrid U19 vs Inter Milan U19 - NGƯỜI CÁ
-https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1788877562-0-0-f09f7809aeea41e12526f3b788c0f907
+https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1788877922-0-0-26fd480bc7e55c3d3b71fd16569297f8
+#EXTINF:-1 tvg-id="room-9912145" tvg-logo="https://sta.vnres.co/file/common/20260907/a3e23c9965ec4c4e884e40b8690ba733.jpg" group-title="SocoLive",UEFA YL: Real Madrid U19 vs Inter Milan U19 - ZIDANE
+https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1788877922-0-0-1e3f251bb2fd531237ad725d3a2e9ef2
