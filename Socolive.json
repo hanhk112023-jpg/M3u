@@ -297,6 +297,15 @@
     "type": "hls"
   },
   {
+    "id": "620084",
+    "tvg_id": "room-620084",
+    "name": "Olympic Kingsway vs Perth Azzurri (AUS FWP)",
+    "logo": "https://sta.vnres.co/file/common/20260907/ec32794e44948e7cc7e4c695a33326bf.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1788751824-0-0-99e27afc661d6b0944570aff80beeece",
+    "type": "hls"
+  },
+  {
     "id": "620504",
     "tvg_id": "room-620504",
     "name": "Benin U20 Women vs Argentina U20 Women (FIFA WU20)",
@@ -639,6 +648,24 @@
     "type": "hls"
   },
   {
+    "id": "9912146",
+    "tvg_id": "room-9912146",
+    "name": "Incheon United Club vs Bucheon FC 1995 (KOR D1)",
+    "logo": "https://sta.vnres.co/file/common/20260905/1002fd19c34569bdf844889e905ba3ba.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788812691-0-0-a6fbad8d7c25487a9cb7e1825dd8cc2c",
+    "type": "hls"
+  },
+  {
+    "id": "356042",
+    "tvg_id": "room-356042",
+    "name": "Quezon Huskers vs Negros Muscovados (MPBL)",
+    "logo": "https://sta.vnres.co/file/common/20260906/e3ed7fbfa036790056d793c2ddcf37f6.png",
+    "group": "Bóng rổ",
+    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=0a88ea271b6b0d5ce6dffc4720c883ed\u0026txTime=6a9f9e85",
+    "type": "hls"
+  },
+  {
     "id": "558264",
     "tvg_id": "room-558264",
     "name": "Quezon Huskers vs Negros Muscovados (MPBL)",
@@ -689,7 +716,7 @@
     "name": "Tường thuật: ROM D1 - FC Voluntari vs Arges - Gà xào sả ớt",
     "logo": "https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=3f0a4836685c891b4001bbf2b7c055f4\u0026txTime=6a9fdd92",
+    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=f7ec0f0d8a5498f184243e9b5e8ce0a6\u0026txTime=6a9fdefa",
     "type": "hls"
   },
   {
@@ -698,7 +725,7 @@
     "name": "Tường thuật: SPA D1 - Getafe vs RC Celta - Bò leo rào",
     "logo": "https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=9c9f66bef164f93d5382e1a80b0b60dd\u0026txTime=6a9fdd92",
+    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=40deea3d56a2c0765a9e3b1efd65e89f\u0026txTime=6a9fdefa",
     "type": "hls"
   },
   {
@@ -707,7 +734,7 @@
     "name": "Tường thuật: KSA PR - Al Khaleej vs Al Riyadh - Thỏ giang hồ",
     "logo": "https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=4da4807a1838b1fa5540edefd584b823\u0026txTime=6a9fdd92",
+    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=b12e78a6621f633b93cb66dea6afbe21\u0026txTime=6a9fdefa",
     "type": "hls"
   },
   {
@@ -716,7 +743,7 @@
     "name": "Tường thuật: ITA D1 - Udinese vs Lazio - Mèo méo meo",
     "logo": "https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=03406ef247b11b894c4d21cd5254350f\u0026txTime=6a9fdd92",
+    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=02ccdfbc90b25f46b2aadd8a083c691f\u0026txTime=6a9fdefa",
     "type": "hls"
   },
   {
@@ -725,7 +752,7 @@
     "name": "Tường thuật: KSA PR - Al Hilal vs Neom SC - Rắn ở đáy sông",
     "logo": "https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=4abbe33cafde853bd9fd07f13e36a8bf\u0026txTime=6a9fdd92",
+    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=8357cdd124a64a67dfb6da5650dc662b\u0026txTime=6a9fdefa",
     "type": "hls"
   }
 ]
