@@ -5,7 +5,7 @@
     "name": "Negeri Sembilan vs Kelantan City (MAS FAC)",
     "logo": "https://sta.vnres.co/file/common/20260905/f05c51dc7019b8f73cdd058d82343251.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788837421-0-0-a54024392984432af98c9e1f4587f9de",
+    "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788858902-0-0-3d28754c7b623b9bd797c6322acf3662",
     "type": "hls"
   },
   {
@@ -545,7 +545,7 @@
     "name": "Negeri Sembilan vs Kelantan City (MAS FAC)",
     "logo": "https://sta.vnres.co/file/common/20260905/f05c51dc7019b8f73cdd058d82343251.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=a3c8415f4b63f586d2f18253771f3941\u0026txTime=6aa0173a",
+    "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=ebf95491f1c75008a37cc186c83bcf7a\u0026txTime=6aa01866",
     "type": "hls"
   },
   {
@@ -635,7 +635,7 @@
     "name": "Negeri Sembilan vs Kelantan City (MAS FAC)",
     "logo": "https://sta.vnres.co/file/common/20260905/f05c51dc7019b8f73cdd058d82343251.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788858608-0-0-d3827fdcce9221e0ed22272fe49ad622",
+    "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788858902-0-0-2767322b60c587bdad45b8209aa8d192",
     "type": "hls"
   },
   {
@@ -716,7 +716,7 @@
     "name": "Tường thuật: ROM D1 - FC Voluntari vs Arges - Gà xào sả ớt",
     "logo": "https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=321f8d915bd131eb0ed630e5190d5030\u0026txTime=6aa0173a",
+    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=69e30fc34f4b132596938956b79a250a\u0026txTime=6aa01866",
     "type": "hls"
   },
   {
@@ -725,7 +725,7 @@
     "name": "Tường thuật: SPA D1 - Getafe vs RC Celta - Bò leo rào",
     "logo": "https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=474f9300c7807026dfc3af76e096a47b\u0026txTime=6aa0173a",
+    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=6d346c7df71122a0a50b806f98c6aae4\u0026txTime=6aa01866",
     "type": "hls"
   },
   {
@@ -734,7 +734,7 @@
     "name": "Tường thuật: KSA PR - Al Khaleej vs Al Riyadh - Thỏ giang hồ",
     "logo": "https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=6494025a49580ce6333cae5b22f46933\u0026txTime=6aa0173a",
+    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=8c4b270247d279bbd43359253905e2f6\u0026txTime=6aa01866",
     "type": "hls"
   },
   {
@@ -743,7 +743,16 @@
     "name": "Tường thuật: ITA D1 - Cagliari vs Lecce - Hươu đau cổ",
     "logo": "https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=aecfd0c14f0ee8e8dc216382f274377e\u0026txTime=6aa0173a",
+    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=5abc792e546083a3398a818659615cf5\u0026txTime=6aa01866",
+    "type": "hls"
+  },
+  {
+    "id": "235232",
+    "tvg_id": "room-235232",
+    "name": "MAS FAC: Negeri Sembilan vs Kelantan City - A PÁO",
+    "logo": "https://sta.vnres.co/file/common/20260907/a8fba9031c95e3bd808f66fafa072b43.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788858902-0-0-3d28754c7b623b9bd797c6322acf3662",
     "type": "hls"
   },
   {
@@ -752,7 +761,7 @@
     "name": "Tường thuật: ITA D1 - Udinese vs Lazio - Mèo méo meo",
     "logo": "https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=e157707d71d3f9e83a8e55656169022f\u0026txTime=6aa0173a",
+    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=67686448cedfbe60c356ffedf975fa45\u0026txTime=6aa01866",
     "type": "hls"
   },
   {
@@ -761,7 +770,7 @@
     "name": "Tường thuật: KSA PR - Al Hilal vs Neom SC - Rắn ở đáy sông",
     "logo": "https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=14f05150e7544dcbf51bd91fe2dff032\u0026txTime=6aa0173a",
+    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=22a07e7bb8f3ca3c6f5d3df602f9a533\u0026txTime=6aa01866",
     "type": "hls"
   },
   {
@@ -770,7 +779,7 @@
     "name": "MAS FAC: Negeri Sembilan vs Kelantan City - BLV XO",
     "logo": "https://sta.vnres.co/file/common/20260613/cc7eb6fb9d74dfa083a48c861b135ae8.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=a3c8415f4b63f586d2f18253771f3941\u0026txTime=6aa0173a",
+    "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=ebf95491f1c75008a37cc186c83bcf7a\u0026txTime=6aa01866",
     "type": "hls"
   },
   {
@@ -779,7 +788,7 @@
     "name": "MAS FAC: Negeri Sembilan vs Kelantan City - TẠ BIÊN GIỚI",
     "logo": "https://sta.vnres.co/file/common/20260730/7804d6332c85f80cc4843609598de690.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788858602-0-0-d71119dca3d4bd1f27285b3ba0256928",
+    "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788858902-0-0-2767322b60c587bdad45b8209aa8d192",
     "type": "hls"
   }
 ]
