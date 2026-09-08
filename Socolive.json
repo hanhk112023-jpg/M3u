@@ -171,15 +171,6 @@
     "type": "hls"
   },
   {
-    "id": "536185",
-    "tvg_id": "room-536185",
-    "name": "NEC Nijmegen vs Excelsior SBV (HOL D1)",
-    "logo": "https://sta.vnres.co/file/common/20260820/dd4af5f394ad722763f93ecc3a8f33b7.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1788817053-0-0-dacf4080dacfe020e7242276a2a2a713",
-    "type": "hls"
-  },
-  {
     "id": "552832",
     "tvg_id": "room-552832",
     "name": "Club Brugge U19 vs Aston Villa U19 (UEFA YL)",
@@ -222,15 +213,6 @@
     "logo": "https://sta.vnres.co/file/common/20260905/a60d0fe5a389f684518b0ca838f008c3.png",
     "group": "Bóng đá",
     "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1788750298-0-0-f6d1b44f98be2c0b6b8511abcfd8c763",
-    "type": "hls"
-  },
-  {
-    "id": "603914",
-    "tvg_id": "room-603914",
-    "name": "Olympic Kingsway vs Perth Azzurri (AUS FWP)",
-    "logo": "https://sta.vnres.co/file/common/20260907/ec32794e44948e7cc7e4c695a33326bf.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1788832661-0-0-3de814000ae36a5204199787c19910f8",
     "type": "hls"
   },
   {
@@ -393,15 +375,6 @@
     "logo": "https://sta.vnres.co/file/common/20260905/2c68314e03a180278e73764b4d5373c9.png",
     "group": "Bóng đá",
     "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1788754163-0-0-45360898c24cf96c323aafe3871872b7",
-    "type": "hls"
-  },
-  {
-    "id": "991140",
-    "tvg_id": "room-991140",
-    "name": "Ilves Tampere vs Jaro (FIN D1)",
-    "logo": "https://sta.vnres.co/file/common/20260905/9f68dd040ad19086e6aeae242a4fecb3.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788817833-0-0-2f5efb731662059fcd2cc7077798fb73",
     "type": "hls"
   },
   {
@@ -716,7 +689,7 @@
     "name": "Tường thuật: ROM D1 - FC Voluntari vs Arges - Gà xào sả ớt",
     "logo": "https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=b13a54f1ca9e25a1607a2a62edea762f\u0026txTime=6a9fd522",
+    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=7df4a37476a49e219480e008ec397206\u0026txTime=6a9fd77a",
     "type": "hls"
   },
   {
@@ -725,7 +698,7 @@
     "name": "Tường thuật: SPA D1 - Getafe vs RC Celta - Bò leo rào",
     "logo": "https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=1bc445dc7621dd85e9fc15d9576f586f\u0026txTime=6a9fd522",
+    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=49ee45e3b994d6f93b02e5b6342a90b8\u0026txTime=6a9fd77a",
     "type": "hls"
   },
   {
@@ -734,7 +707,7 @@
     "name": "Tường thuật: KSA PR - Al Khaleej vs Al Riyadh - Thỏ giang hồ",
     "logo": "https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=ad0a31c15dcf8c68e39ae614991713ce\u0026txTime=6a9fd522",
+    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=f9634e1d50152ac8fe286a426fef1b36\u0026txTime=6a9fd77a",
     "type": "hls"
   },
   {
@@ -743,7 +716,7 @@
     "name": "Tường thuật: ITA D1 - Cagliari vs Lecce - Hươu đau cổ",
     "logo": "https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=acb86400dc2df361f4a636b12b8d63ef\u0026txTime=6a9fd522",
+    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=6543ac78b88eaf6fe4f728b6104bac3f\u0026txTime=6a9fd789",
     "type": "hls"
   },
   {
@@ -752,7 +725,7 @@
     "name": "Tường thuật: ITA D1 - Udinese vs Lazio - Mèo méo meo",
     "logo": "https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=7e5811f46143e7143171979e12adc6e0\u0026txTime=6a9fd522",
+    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=d509737a0c54eb338dbd2c4f6b62a85a\u0026txTime=6a9fd77a",
     "type": "hls"
   },
   {
@@ -761,7 +734,7 @@
     "name": "Tường thuật: KSA PR - Al Hilal vs Neom SC - Rắn ở đáy sông",
     "logo": "https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=6cd4de172ad265a64974c5104bb0b13d\u0026txTime=6a9fd522",
+    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=ce69b807f40f970b910a28cb0c57f27a\u0026txTime=6a9fd77a",
     "type": "hls"
   }
 ]
