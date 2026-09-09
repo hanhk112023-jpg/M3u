@@ -18,12 +18,21 @@
     "type": "hls"
   },
   {
+    "id": "291277",
+    "tvg_id": "room-291277",
+    "name": "Kuala Lumpur City FC vs Perak FC (MAS FAC)",
+    "logo": "https://sta.vnres.co/file/common/20260906/158ef7de36f62b49acd35ace49f7861b.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=a5caec8922e715cdd669111958c097f7\u0026txTime=6aa1affa",
+    "type": "hls"
+  },
+  {
     "id": "304148",
     "tvg_id": "room-304148",
     "name": "Paris Saint Germain U19 vs Slovan Bratislava U19 (UEFA YL)",
     "logo": "https://sta.vnres.co/file/common/20260907/506083a09b92856cc2ecb102db1fcc4d.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788962942-0-0-296769f8232b40bbc58642b8c522d219",
+    "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788963242-0-0-8ac99cc1ffcee4080598838bb1e56998",
     "type": "hls"
   },
   {
@@ -41,7 +50,16 @@
     "name": "Santa Clara U23 vs Farense U23 (POR LRU23)",
     "logo": "https://sta.vnres.co/file/common/20260906/8e2adb3b56de7aa43895e233c4e05262.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1788962942-0-0-43f3f824a5a26de3e74ea6126f05cf50",
+    "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1788963242-0-0-c80a8c3cf055365724c750a29de78e9c",
+    "type": "hls"
+  },
+  {
+    "id": "372746",
+    "tvg_id": "room-372746",
+    "name": "Palmeiras - SP vs Liga Dep Universitaria Quito (LIB Cup)",
+    "logo": "https://sta.vnres.co/file/common/20260907/b64f236fe776aa2f0c716f9449f7f98f.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788922888-0-0-dad8d0a0cf22ad07f101a2a3e6ccfb8d",
     "type": "hls"
   },
   {
@@ -113,7 +131,7 @@
     "name": "Ghana U20 Women vs South Korea U20 Women (FIFA WU20)",
     "logo": "https://sta.vnres.co/file/common/20260906/3c3fc3005edbf7b8579e6d089eb0592c.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=4179d1f57834234fa6dda66fdc459337\u0026txTime=6aa1aece",
+    "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=29df9193aa36d84d0fb61fecc20fd30d\u0026txTime=6aa1affa",
     "type": "hls"
   },
   {
@@ -131,7 +149,7 @@
     "name": "Selangor FC vs Sabah FC (MAS FAC)",
     "logo": "https://sta.vnres.co/file/common/20260906/bdf42d3daebbd0a9c8f6e7d4a728739b.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1788962942-0-0-79ce11b1c5a9b2681091ff9645488b59",
+    "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1788963242-0-0-d60dc9df82708aa64530b687e400ef00",
     "type": "hls"
   },
   {
@@ -185,7 +203,7 @@
     "name": "Ghana U20 Women vs South Korea U20 Women (FIFA WU20)",
     "logo": "https://sta.vnres.co/file/common/20260906/3c3fc3005edbf7b8579e6d089eb0592c.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1788962942-0-0-c552fc2f9d3ff1151dfa94a41405fc76",
+    "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1788963242-0-0-5ad35f08dfcf199de00a19049acc0e0e",
     "type": "hls"
   },
   {
@@ -230,7 +248,7 @@
     "name": "DPMM FC vs Terengganu FC (MAS FAC)",
     "logo": "https://sta.vnres.co/file/common/20260908/23d5f038f88980b1fc6ae0de42fa3932.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=4fd3ebfe1e6fbbb0bca3d937e1c4ead1\u0026txTime=6aa1aece",
+    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=071220b2d484aae72a97b75e9827f538\u0026txTime=6aa1affa",
     "type": "hls"
   },
   {
@@ -239,7 +257,7 @@
     "name": "Ghana U20 Women vs South Korea U20 Women (FIFA WU20)",
     "logo": "https://sta.vnres.co/file/common/20260906/3c3fc3005edbf7b8579e6d089eb0592c.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1788962942-0-0-f286fc35570bf8c6db3c89a8556f9a51",
+    "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1788963242-0-0-187ea7f4402e7ff8ffff21d9c83f2de5",
     "type": "hls"
   },
   {
@@ -284,7 +302,7 @@
     "name": "Italy U20 Women vs New Zealand U20 Women (FIFA WU20)",
     "logo": "https://sta.vnres.co/file/common/20260906/982baff11240b3ea557a4db60c96b435.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1788962942-0-0-032f14e3d9e26af939585b41a79a3bc0",
+    "url": "https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1788963242-0-0-58e30cc282d61acd19a9d10e0c77e305",
     "type": "hls"
   },
   {
@@ -293,7 +311,7 @@
     "name": "Paris Saint Germain U19 vs Slovan Bratislava U19 (UEFA YL)",
     "logo": "https://sta.vnres.co/file/common/20260907/506083a09b92856cc2ecb102db1fcc4d.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1788962942-0-0-0b8c08ed16eed9473d306d7cfdad9ebd",
+    "url": "https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1788963242-0-0-d9cddcb1ef55e204e1ec8157bdc6643a",
     "type": "hls"
   },
   {
@@ -311,7 +329,7 @@
     "name": "Modern Sport FC vs Wadi Degla SC (EGY D1)",
     "logo": "https://sta.vnres.co/file/common/20260906/092356112d6562577a8f08470bcf6c00.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-620797_lhd.m3u8?txSecret=9b51e9ded036d956cf4f58bc31d86e2c\u0026txTime=6aa0cb08",
+    "url": "https://pull.niur.live/live/stream-620797_lhd.m3u8?txSecret=fe3cd36a5704e513141203a5b534ff34\u0026txTime=6aa1b00f",
     "type": "hls"
   },
   {
@@ -356,7 +374,7 @@
     "name": "Kuala Lumpur City FC vs Perak FC (MAS FAC)",
     "logo": "https://sta.vnres.co/file/common/20260906/158ef7de36f62b49acd35ace49f7861b.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1788962942-0-0-ea43bac7a2ffa70cb387ec717ed476b8",
+    "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1788963242-0-0-f8a55e9967d2a1920421dfb2884ed67a",
     "type": "hls"
   },
   {
@@ -374,7 +392,7 @@
     "name": "Ghana U20 Women vs South Korea U20 Women (FIFA WU20)",
     "logo": "https://sta.vnres.co/file/common/20260906/3c3fc3005edbf7b8579e6d089eb0592c.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1788962942-0-0-454bfbff92c05e031fe71f51033dfc35",
+    "url": "https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1788963242-0-0-c97a3136ab84b16eb54d99ce2ed9de94",
     "type": "hls"
   },
   {
@@ -473,7 +491,7 @@
     "name": "Selangor FC vs Sabah FC (MAS FAC)",
     "logo": "https://sta.vnres.co/file/common/20260906/bdf42d3daebbd0a9c8f6e7d4a728739b.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788962942-0-0-f116b5c709df341fb1511276e55cfd62",
+    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788963242-0-0-8eb3212288063b195deaca4165852d7d",
     "type": "hls"
   },
   {
@@ -491,7 +509,7 @@
     "name": "Paris Saint Germain U19 vs Slovan Bratislava U19 (UEFA YL)",
     "logo": "https://sta.vnres.co/file/common/20260907/506083a09b92856cc2ecb102db1fcc4d.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=5e208cd74a5c9de3b1ed1097bdf481ef\u0026txTime=6aa1aece",
+    "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=5c7f8c8db071b156ace0220e516c18e1\u0026txTime=6aa1affa",
     "type": "hls"
   },
   {
@@ -518,7 +536,7 @@
     "name": "Kuala Lumpur City FC vs Perak FC (MAS FAC)",
     "logo": "https://sta.vnres.co/file/common/20260906/158ef7de36f62b49acd35ace49f7861b.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788962942-0-0-230ede6ef59fc7329dfd39ed3e9f6b84",
+    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788963242-0-0-38cf48a87e1d9620f7d6b9b97cfae1b4",
     "type": "hls"
   },
   {
@@ -527,7 +545,7 @@
     "name": "Paris Saint Germain U19 vs Slovan Bratislava U19 (UEFA YL)",
     "logo": "https://sta.vnres.co/file/common/20260907/506083a09b92856cc2ecb102db1fcc4d.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1788962942-0-0-02020c03b7b2891c80c141f0cbcbc566",
+    "url": "https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1788963242-0-0-8004de326b84bad0afe3684e682cdc92",
     "type": "hls"
   },
   {
@@ -563,7 +581,7 @@
     "name": "Kuala Lumpur City FC vs Perak FC (MAS FAC)",
     "logo": "https://sta.vnres.co/file/common/20260906/158ef7de36f62b49acd35ace49f7861b.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=20bd3a241a0eb95ba3f8f6d14c8a38cd\u0026txTime=6aa1aece",
+    "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=8e32c5d5dd1bc06ec25bd3871e96297c\u0026txTime=6aa1affa",
     "type": "hls"
   },
   {
@@ -572,7 +590,7 @@
     "name": "Santa Clara U23 vs Farense U23 (POR LRU23)",
     "logo": "https://sta.vnres.co/file/common/20260906/8e2adb3b56de7aa43895e233c4e05262.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1788962942-0-0-e80c380655370cf6b7c6b03174b71c52",
+    "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1788963242-0-0-4be548228fe7562a0874ec366cdbd761",
     "type": "hls"
   },
   {
@@ -662,7 +680,7 @@
     "name": "Hochiminh City Wings vs Hanoi buffalo (VBA)",
     "logo": "https://sta.vnres.co/file/common/20260909/d9e0e1fccdd877e74d5c4e7335aec63a.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=def1299b92b5236266063d4cd75eba5e\u0026txTime=6aa1aece",
+    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=faed29975993fd929ce945423a660fdb\u0026txTime=6aa1affa",
     "type": "hls"
   },
   {
@@ -689,7 +707,7 @@
     "name": "Hochiminh City Wings vs Hanoi buffalo (VBA)",
     "logo": "https://sta.vnres.co/file/common/20260909/d9e0e1fccdd877e74d5c4e7335aec63a.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788962942-0-0-49e318bba7f01241978bca5c156c25a8",
+    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788963242-0-0-5475c013e64c23a6edce7018c9df4b48",
     "type": "hls"
   },
   {
@@ -707,7 +725,7 @@
     "name": "MAS FAC: Kuala Lumpur City FC vs Perak FC - CÔNG CHẤT",
     "logo": "https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=15777579c63a8ee3d958a97369980529\u0026txTime=6aa1aece",
+    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=a5caec8922e715cdd669111958c097f7\u0026txTime=6aa1affa",
     "type": "hls"
   },
   {
@@ -716,7 +734,7 @@
     "name": "UEFA YL: Paris Saint Germain U19 vs Slovan Bratislava U19 - BLV LUCAS",
     "logo": "https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788962942-0-0-296769f8232b40bbc58642b8c522d219",
+    "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788963242-0-0-8ac99cc1ffcee4080598838bb1e56998",
     "type": "hls"
   },
   {
@@ -725,7 +743,7 @@
     "name": "POR LRU23: Santa Clara U23 vs Farense U23 - BLV COCA",
     "logo": "https://sta.vnres.co/file/common/20260804/75681fd6aa001c1bb1b8d3946dd69271.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1788962942-0-0-43f3f824a5a26de3e74ea6126f05cf50",
+    "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1788963242-0-0-c80a8c3cf055365724c750a29de78e9c",
     "type": "hls"
   },
   {
@@ -734,7 +752,7 @@
     "name": "FIFA WU20: Ghana U20 Women vs South Korea U20 Women - XUÂN SON",
     "logo": "https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=4179d1f57834234fa6dda66fdc459337\u0026txTime=6aa1aece",
+    "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=29df9193aa36d84d0fb61fecc20fd30d\u0026txTime=6aa1affa",
     "type": "hls"
   },
   {
@@ -743,7 +761,7 @@
     "name": "MAS FAC: Selangor FC vs Sabah FC - BLV ROBBEN",
     "logo": "https://sta.vnres.co/file/common/20260626/fcd1d9373f93de7ff3ebfbee3f073c7c.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1788962942-0-0-79ce11b1c5a9b2681091ff9645488b59",
+    "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1788963242-0-0-d60dc9df82708aa64530b687e400ef00",
     "type": "hls"
   },
   {
@@ -752,7 +770,7 @@
     "name": "VBA: Hochiminh City Wings vs Hanoi buffalo - HUNTER",
     "logo": "https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=def1299b92b5236266063d4cd75eba5e\u0026txTime=6aa1aece",
+    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=faed29975993fd929ce945423a660fdb\u0026txTime=6aa1affa",
     "type": "hls"
   },
   {
@@ -761,7 +779,7 @@
     "name": "FIFA WU20: Ghana U20 Women vs South Korea U20 Women - BLV CÒ",
     "logo": "https://sta.vnres.co/file/common/20260909/914da4d126e85923e1bd815d270d1e1a.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1788962942-0-0-c552fc2f9d3ff1151dfa94a41405fc76",
+    "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1788963242-0-0-5ad35f08dfcf199de00a19049acc0e0e",
     "type": "hls"
   },
   {
@@ -770,7 +788,7 @@
     "name": "MAS FAC: DPMM FC vs Terengganu FC - HÀ DUY KIÊN",
     "logo": "https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=4fd3ebfe1e6fbbb0bca3d937e1c4ead1\u0026txTime=6aa1aece",
+    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=071220b2d484aae72a97b75e9827f538\u0026txTime=6aa1affa",
     "type": "hls"
   },
   {
@@ -779,7 +797,7 @@
     "name": "FIFA WU20: Ghana U20 Women vs South Korea U20 Women - ĐỖ TÚ TÀI",
     "logo": "https://sta.vnres.co/file/common/20260522/f2b4ef051d1e02300d2d5bf24f3828f0.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1788962942-0-0-f286fc35570bf8c6db3c89a8556f9a51",
+    "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1788963242-0-0-187ea7f4402e7ff8ffff21d9c83f2de5",
     "type": "hls"
   },
   {
@@ -788,7 +806,7 @@
     "name": "FIFA WU20: Italy U20 Women vs New Zealand U20 Women - T REX",
     "logo": "https://sta.vnres.co/file/common/20260808/4818d723b5e85850f66dfc3b5aed49d8.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1788962942-0-0-032f14e3d9e26af939585b41a79a3bc0",
+    "url": "https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1788963242-0-0-58e30cc282d61acd19a9d10e0c77e305",
     "type": "hls"
   },
   {
@@ -797,7 +815,7 @@
     "name": "UEFA YL: Paris Saint Germain U19 vs Slovan Bratislava U19 - PEANUT",
     "logo": "https://sta.vnres.co/file/common/20260713/cbd81ea71d49b5b5f074a5f56678a9b6.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1788962942-0-0-0b8c08ed16eed9473d306d7cfdad9ebd",
+    "url": "https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1788963242-0-0-d9cddcb1ef55e204e1ec8157bdc6643a",
     "type": "hls"
   },
   {
@@ -806,7 +824,7 @@
     "name": "MAS FAC: Kuala Lumpur City FC vs Perak FC - CURRY",
     "logo": "https://sta.vnres.co/file/common/20260809/8d3ecd1339e9fe41608eb4b7f008436c.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1788962942-0-0-ea43bac7a2ffa70cb387ec717ed476b8",
+    "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1788963242-0-0-f8a55e9967d2a1920421dfb2884ed67a",
     "type": "hls"
   },
   {
@@ -815,7 +833,7 @@
     "name": "FIFA WU20: Ghana U20 Women vs South Korea U20 Women - NEKO",
     "logo": "https://sta.vnres.co/file/common/20260828/e0638aedd6aef31974244bd226615764.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1788962942-0-0-454bfbff92c05e031fe71f51033dfc35",
+    "url": "https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1788963242-0-0-c97a3136ab84b16eb54d99ce2ed9de94",
     "type": "hls"
   },
   {
@@ -824,7 +842,7 @@
     "name": "VBA: Hochiminh City Wings vs Hanoi buffalo - BLV HENRY",
     "logo": "https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788962942-0-0-49e318bba7f01241978bca5c156c25a8",
+    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788963242-0-0-5475c013e64c23a6edce7018c9df4b48",
     "type": "hls"
   },
   {
@@ -833,7 +851,7 @@
     "name": "MAS FAC: Selangor FC vs Sabah FC - KENCHU",
     "logo": "https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788962942-0-0-f116b5c709df341fb1511276e55cfd62",
+    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788963242-0-0-8eb3212288063b195deaca4165852d7d",
     "type": "hls"
   },
   {
@@ -842,7 +860,7 @@
     "name": "UEFA YL: Paris Saint Germain U19 vs Slovan Bratislava U19 - BLV PIRLO",
     "logo": "https://sta.vnres.co/file/common/20250320/efe293015c817dee46ccc81fa5e934d7.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=5e208cd74a5c9de3b1ed1097bdf481ef\u0026txTime=6aa1aece",
+    "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=5c7f8c8db071b156ace0220e516c18e1\u0026txTime=6aa1affa",
     "type": "hls"
   },
   {
@@ -851,7 +869,7 @@
     "name": "MAS FAC: Kuala Lumpur City FC vs Perak FC - BLV A TÚ",
     "logo": "https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788962942-0-0-230ede6ef59fc7329dfd39ed3e9f6b84",
+    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788963242-0-0-38cf48a87e1d9620f7d6b9b97cfae1b4",
     "type": "hls"
   },
   {
@@ -860,7 +878,7 @@
     "name": "UEFA YL: Paris Saint Germain U19 vs Slovan Bratislava U19 - CHÍ PHÈO",
     "logo": "https://sta.vnres.co/file/common/20260609/b3e04b0f7d210d67052a911512e39f54.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1788962942-0-0-02020c03b7b2891c80c141f0cbcbc566",
+    "url": "https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1788963242-0-0-8004de326b84bad0afe3684e682cdc92",
     "type": "hls"
   },
   {
@@ -869,7 +887,7 @@
     "name": "MAS FAC: Kuala Lumpur City FC vs Perak FC - BLV LONG",
     "logo": "https://sta.vnres.co/file/common/20260810/b792b2c329f2ffe44037f2d5973945de.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=20bd3a241a0eb95ba3f8f6d14c8a38cd\u0026txTime=6aa1aece",
+    "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=8e32c5d5dd1bc06ec25bd3871e96297c\u0026txTime=6aa1affa",
     "type": "hls"
   },
   {
@@ -878,7 +896,7 @@
     "name": "POR LRU23: Santa Clara U23 vs Farense U23 - TUẤN CÙI",
     "logo": "https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1788962942-0-0-e80c380655370cf6b7c6b03174b71c52",
+    "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1788963242-0-0-4be548228fe7562a0874ec366cdbd761",
     "type": "hls"
   }
 ]
