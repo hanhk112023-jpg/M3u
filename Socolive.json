@@ -468,6 +468,15 @@
     "type": "hls"
   },
   {
+    "id": "9912119",
+    "tvg_id": "room-9912119",
+    "name": "Manchester United vs Sabah Baku (UEFA CL)",
+    "logo": "https://sta.vnres.co/file/common/20260907/3430d68523f796853795e9be570caa05.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1788869952-0-0-1b46cb195e4cd08292cf744c4df159a4",
+    "type": "hls"
+  },
+  {
     "id": "9912123",
     "tvg_id": "room-9912123",
     "name": "FC Kairat Almaty vs Zhenis (KAZ PR)",
@@ -662,7 +671,7 @@
     "name": "Meycauayan vs Cebu Classic (MPBL)",
     "logo": "https://sta.vnres.co/file/common/20260907/8f600a0ab9075dc762e0a7af9e671d6c.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=e12a63e40e3c472a4354ca4151dade45\u0026txTime=6aa15f1e",
+    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=821ae0cbe18cd91a163f2cfb77cfbd1f\u0026txTime=6aa162a2",
     "type": "hls"
   },
   {
@@ -671,7 +680,7 @@
     "name": "Meycauayan vs Cebu Classic (MPBL)",
     "logo": "https://sta.vnres.co/file/common/20260907/8f600a0ab9075dc762e0a7af9e671d6c.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=3f609758d8745bb36f1ed3b9632b293d\u0026txTime=6aa15f1e",
+    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=3ee08927ee5d9b2b36bac165c420317b\u0026txTime=6aa162a2",
     "type": "hls"
   },
   {
@@ -689,7 +698,7 @@
     "name": "Meycauayan vs Cebu Classic (MPBL)",
     "logo": "https://sta.vnres.co/file/common/20260907/8f600a0ab9075dc762e0a7af9e671d6c.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788942542-0-0-b36f5e4f205c14f67fe1819933bae63f",
+    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788943442-0-0-9d5ebb8f538b0f8deb9961081e066c3c",
     "type": "hls"
   },
   {
@@ -698,16 +707,7 @@
     "name": "Meycauayan vs Cebu Classic (MPBL)",
     "logo": "https://sta.vnres.co/file/common/20260907/8f600a0ab9075dc762e0a7af9e671d6c.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788942542-0-0-f650f4181f430700a4629db6a2e90f49",
-    "type": "hls"
-  },
-  {
-    "id": "9912115",
-    "tvg_id": "room-9912115",
-    "name": "Meycauayan vs Cebu Classic (MPBL)",
-    "logo": "https://sta.vnres.co/file/common/20260907/8f600a0ab9075dc762e0a7af9e671d6c.png",
-    "group": "Bóng rổ",
-    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788942542-0-0-d0b40306fdbe22458d183b1720bdbf18",
+    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788943442-0-0-65d372069bd3476a41e7b19a76f1a090",
     "type": "hls"
   },
   {
@@ -716,7 +716,7 @@
     "name": "Tường thuật: ITA D1 - Udinese vs Lazio - Gà xào sả ớt",
     "logo": "https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=9a4b270172e3f4930d37dae094c421a1\u0026txTime=6aa15f1e",
+    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=fa524356026b86885f8d4abc7555ceaa\u0026txTime=6aa162a2",
     "type": "hls"
   },
   {
@@ -725,7 +725,7 @@
     "name": "Tường thuật: UEFA CL - Borussia Dortmund vs Villarreal CF - Bò leo rào",
     "logo": "https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=efca663d616108b36600647f63993273\u0026txTime=6aa15f1e",
+    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=1153bb759149c937ac3611658ac077e1\u0026txTime=6aa162a2",
     "type": "hls"
   },
   {
@@ -734,7 +734,7 @@
     "name": "Tường thuật: UEFA CL - FC Porto vs Manchester City - Thỏ giang hồ",
     "logo": "https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=eef7a5b9fcb7f69a73d97dd33a79bdc5\u0026txTime=6aa15f1e",
+    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=b9acd0bc33eba493f94ae9ac45a20243\u0026txTime=6aa162a2",
     "type": "hls"
   },
   {
@@ -743,7 +743,7 @@
     "name": "Tường thuật: UEFA CL - Real Madrid vs Inter Milan - Hươu đau cổ",
     "logo": "https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=f1c14027d7110125e72d098ab5792ca9\u0026txTime=6aa15f1e",
+    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=fbae80da81536ccfa573a062d88d80e1\u0026txTime=6aa162a2",
     "type": "hls"
   },
   {
@@ -752,7 +752,7 @@
     "name": "Tường thuật: UEFA CL - Club Brugge vs Aston Villa - Mèo méo meo",
     "logo": "https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=00717805a0a9b8c03db73ecf666290cf\u0026txTime=6aa15f1e",
+    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=93306becc8ac1c5ed304363c80589a22\u0026txTime=6aa162a2",
     "type": "hls"
   },
   {
@@ -761,7 +761,7 @@
     "name": "MPBL: Meycauayan vs Cebu Classic - A CHÈ",
     "logo": "https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=e12a63e40e3c472a4354ca4151dade45\u0026txTime=6aa15f1e",
+    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=821ae0cbe18cd91a163f2cfb77cfbd1f\u0026txTime=6aa162a2",
     "type": "hls"
   },
   {
@@ -770,7 +770,7 @@
     "name": "MPBL: Meycauayan vs Cebu Classic - HUNTER",
     "logo": "https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=3f609758d8745bb36f1ed3b9632b293d\u0026txTime=6aa15f1e",
+    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=3ee08927ee5d9b2b36bac165c420317b\u0026txTime=6aa162a2",
     "type": "hls"
   },
   {
@@ -779,7 +779,7 @@
     "name": "Tường thuật: UEFA CL - AEK Athens vs LASK Linz - Rắn ở đáy sông",
     "logo": "https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=e1c461852c7913c072e210cef0e36b2a\u0026txTime=6aa15f1e",
+    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=ceaa36ce7a61fc89890683c350aa2376\u0026txTime=6aa162a2",
     "type": "hls"
   },
   {
@@ -788,7 +788,7 @@
     "name": "MPBL: Meycauayan vs Cebu Classic - BRIAN",
     "logo": "https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788942542-0-0-b36f5e4f205c14f67fe1819933bae63f",
+    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788943442-0-0-9d5ebb8f538b0f8deb9961081e066c3c",
     "type": "hls"
   },
   {
@@ -797,7 +797,7 @@
     "name": "MPBL: Meycauayan vs Cebu Classic - BLV HENRY",
     "logo": "https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788942542-0-0-f650f4181f430700a4629db6a2e90f49",
+    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788943442-0-0-65d372069bd3476a41e7b19a76f1a090",
     "type": "hls"
   },
   {
@@ -806,7 +806,7 @@
     "name": "MPBL: Meycauayan vs Cebu Classic - CHAN SENA",
     "logo": "https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788942542-0-0-d0b40306fdbe22458d183b1720bdbf18",
+    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788943442-0-0-d75a3e3a8ee5b01a67d888173e9e063f",
     "type": "hls"
   }
 ]
