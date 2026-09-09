@@ -117,15 +117,6 @@
     "type": "hls"
   },
   {
-    "id": "491873",
-    "tvg_id": "room-491873",
-    "name": "Palmeiras - SP vs Liga Dep Universitaria Quito (LIB Cup)",
-    "logo": "https://sta.vnres.co/file/common/20260907/b64f236fe776aa2f0c716f9449f7f98f.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=5a95f87249430e735318de2aa387b385\u0026txTime=6aa1128b",
-    "type": "hls"
-  },
-  {
     "id": "501412",
     "tvg_id": "room-501412",
     "name": "Ghana U20 Women vs South Korea U20 Women (FIFA WU20)",
@@ -344,8 +335,8 @@
   {
     "id": "621843",
     "tvg_id": "room-621843",
-    "name": "Pyramids FC vs El Gounah (EGY D1)",
-    "logo": "https://sta.vnres.co/file/common/20260906/fe77b0061e2b0851699743f8d1787370.png",
+    "name": "AC Nagano Parceiro vs Mito Hollyhock (JLC)",
+    "logo": "https://sta.vnres.co/file/common/20260906/858a4252bc4cb37ccda14593dd333723.png",
     "group": "Bóng đá",
     "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1788892170-0-0-eeab3401c76641fba15854bc3cd1d804",
     "type": "hls"
@@ -438,15 +429,6 @@
     "logo": "https://sta.vnres.co/file/common/20260906/c7c162710f81446403c8458182f68a81.png",
     "group": "Bóng đá",
     "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788904762-0-0-cbba67d994b0a40df9a13cc17e740ab8",
-    "type": "hls"
-  },
-  {
-    "id": "9912102",
-    "tvg_id": "room-9912102",
-    "name": "Pohang Steelers vs Gimcheon Sangmu FC (KOR D1)",
-    "logo": "https://sta.vnres.co/file/common/20260906/ea69d6657ab85e1f9fb181d31591c323.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=03500e5364446b870c660c4a70fdbed0\u0026txTime=6aa05bf4",
     "type": "hls"
   },
   {
@@ -716,7 +698,7 @@
     "name": "Tường thuật: ITA D1 - Udinese vs Lazio - Gà xào sả ớt",
     "logo": "https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=c594bec9ac9b31ac5a7b7d4d794e9e1f\u0026txTime=6aa145ce",
+    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=5813060c55e9992b530ad07c884445e9\u0026txTime=6aa146fa",
     "type": "hls"
   },
   {
@@ -725,7 +707,7 @@
     "name": "Tường thuật: UEFA CL - Borussia Dortmund vs Villarreal CF - Bò leo rào",
     "logo": "https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=820858144a08e9a79a6d7125909321b1\u0026txTime=6aa145ce",
+    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=ce8a9e3a2c5310197beb0ec0cd7792ed\u0026txTime=6aa146fa",
     "type": "hls"
   },
   {
@@ -734,7 +716,7 @@
     "name": "Tường thuật: UEFA CL - FC Porto vs Manchester City - Thỏ giang hồ",
     "logo": "https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=66c237849e53596761f821c6993f02e7\u0026txTime=6aa145ce",
+    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=461aee05be67ac935e913e4904961b33\u0026txTime=6aa146fa",
     "type": "hls"
   },
   {
@@ -743,7 +725,7 @@
     "name": "Tường thuật: UEFA CL - Real Madrid vs Inter Milan - Hươu đau cổ",
     "logo": "https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=aab790391dbcdfa49acda3712509a414\u0026txTime=6aa145ce",
+    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=aaaf2242f3f9b9da4ed7f64ce78a554e\u0026txTime=6aa146fa",
     "type": "hls"
   },
   {
@@ -752,7 +734,7 @@
     "name": "Tường thuật: UEFA CL - Club Brugge vs Aston Villa - Mèo méo meo",
     "logo": "https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=11ff47f77a8c006a9310c2ed3a6d9348\u0026txTime=6aa145ce",
+    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=fda502bf315f38b526efbdfa8f3ef9ec\u0026txTime=6aa146fa",
     "type": "hls"
   },
   {
@@ -761,7 +743,7 @@
     "name": "Tường thuật: UEFA CL - AEK Athens vs LASK Linz - Rắn ở đáy sông",
     "logo": "https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=87f14f0e0528eb0227267b513441bc38\u0026txTime=6aa145ce",
+    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=ce989b2e4df541d8fa54953a1397c717\u0026txTime=6aa146fa",
     "type": "hls"
   }
 ]
