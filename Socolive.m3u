@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 85
-# Updated: 09/09/2026 03:29:53
+# Channels: 84
+# Updated: 09/09/2026 03:35:05
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260906/8c516e9a5f60516bda24556bc27a1e41.png" group-title="Bóng đá",Penang FC vs Melaka FC (MAS FAC)
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788867998-0-0-d9b5b272d44929705a85b67eb14b054f
@@ -39,8 +39,6 @@ https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1788903682-0-0-3bcf
 https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1788883527-0-0-59211df6ff6991e347afb48c7b4b2462
 #EXTINF:-1 tvg-id="room-527384" tvg-logo="https://sta.vnres.co/file/common/20260906/c7c162710f81446403c8458182f68a81.png" group-title="Bóng đá",Gangwon FC vs Jeonbuk Hyundai Motors (KOR D1)
 https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1788904759-0-0-bc061cd6c9b0057612aba979c8367bb5
-#EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260906/330b6e9fdb4721ed019d59c414888c19.png" group-title="Bóng đá",Daejeon Hana Citizen vs FC Anyang (KOR D1)
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788924542-0-0-40ead2dd5bd1aaf4cbd54c57b4f6c903
 #EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260907/8a538497727bb3228cb5b11662e21c98.png" group-title="Bóng đá",Barcelona U19 vs Feyenoord U19 (UEFA YL)
 https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=36d3c75458cb11736238c785f7868071&txTime=6aa0e92c
 #EXTINF:-1 tvg-id="room-536185" tvg-logo="https://sta.vnres.co/file/common/20260906/217df44cbd6e9a94fd26dec6d25b5755.png" group-title="Bóng đá",Spaeri FC vs FC Metalurgi Rustavi (GEO D1)
@@ -162,14 +160,14 @@ https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788870256-0-0-59d
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260907/257fc73c901885a720d6930154f7ee72.png" group-title="Bóng rổ",Paranaque Patriots vs San Juan Knights (MPBL)
 https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788918462-0-0-68fdd7e21ae00f90a26f6db2aac13fda
 #EXTINF:-1 tvg-id="room-133277" tvg-logo="https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg" group-title="SocoLive",Tường thuật: ITA D1 - Udinese vs Lazio - Gà xào sả ớt
-https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=0527b669f445b0ac9fd4dabe61563727&txTime=6aa126de
+https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=5828dbd4f3c313590fcc05e1bcc81d95&txTime=6aa1280a
 #EXTINF:-1 tvg-id="room-133824" tvg-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg" group-title="SocoLive",Tường thuật: UEFA CL - Borussia Dortmund vs Villarreal CF - Bò leo rào
-https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=b9f1c3da804666e73ecf83a81180f51b&txTime=6aa126de
+https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=2a85bed327ff1d93daed6e8347e2d974&txTime=6aa1280a
 #EXTINF:-1 tvg-id="room-152898" tvg-logo="https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png" group-title="SocoLive",Tường thuật: UEFA CL - FC Porto vs Manchester City - Thỏ giang hồ
-https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=6b26e842d1431c78aed06f12774bd530&txTime=6aa126de
+https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=ca20a65175a089e6710f9c2c241fcc80&txTime=6aa1280a
 #EXTINF:-1 tvg-id="room-179093" tvg-logo="https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg" group-title="SocoLive",Tường thuật: UEFA CL - Real Madrid vs Inter Milan - Hươu đau cổ
-https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=5c29dd3321c5ff42688cbef4b86edd0e&txTime=6aa126de
+https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=448fa122ad3c3ba03975d1d9d11d354b&txTime=6aa1280a
 #EXTINF:-1 tvg-id="room-343500" tvg-logo="https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg" group-title="SocoLive",Tường thuật: UEFA CL - Club Brugge vs Aston Villa - Mèo méo meo
-https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=0fc9e8bf147cb36fd05975240b385253&txTime=6aa126de
+https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=0f5d50fb886e8393cf8a61244f482b65&txTime=6aa1280a
 #EXTINF:-1 tvg-id="room-9912079" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg" group-title="SocoLive",Tường thuật: UEFA CL - AEK Athens vs LASK Linz - Rắn ở đáy sông
-https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=b322348aa9fa70e59b991f3f29dd90bf&txTime=6aa126de
+https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=768afb454cd98181bc752b19a117b4d0&txTime=6aa1280a
