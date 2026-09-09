@@ -81,6 +81,15 @@
     "type": "hls"
   },
   {
+    "id": "406865",
+    "tvg_id": "room-406865",
+    "name": "Pyramids FC vs El Gounah (EGY D1)",
+    "logo": "https://sta.vnres.co/file/common/20260906/fe77b0061e2b0851699743f8d1787370.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=559b76ed2564d97d45c558bd2300261f\u0026txTime=6aa0bdc4",
+    "type": "hls"
+  },
+  {
     "id": "414317",
     "tvg_id": "room-414317",
     "name": "Gangwon FC vs Jeonbuk Hyundai Motors (KOR D1)",
@@ -540,6 +549,15 @@
     "type": "hls"
   },
   {
+    "id": "9912133",
+    "tvg_id": "room-9912133",
+    "name": "Al Kholood vs Al Shabab (KSA PR)",
+    "logo": "https://sta.vnres.co/file/common/20260906/63a1fde7b2e514afdd361941cab2ac40.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1788904737-0-0-f267d2495b86f16cd7f1eb1612b02ed5",
+    "type": "hls"
+  },
+  {
     "id": "9912135",
     "tvg_id": "room-9912135",
     "name": "Reilac Shiga FC vs Tokyo Verdy (JLC)",
@@ -698,7 +716,7 @@
     "name": "Tường thuật: ITA D1 - Udinese vs Lazio - Gà xào sả ớt",
     "logo": "https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=860a11cf937b17a0ea740e013b68d8c5\u0026txTime=6aa12936",
+    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=c709b4e1143a4d8807f63b4b71815664\u0026txTime=6aa12a9e",
     "type": "hls"
   },
   {
@@ -707,7 +725,7 @@
     "name": "Tường thuật: UEFA CL - Borussia Dortmund vs Villarreal CF - Bò leo rào",
     "logo": "https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=1647c1615a978d821545456ab50587db\u0026txTime=6aa12936",
+    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=99f424ca84e747776221ff309e5bfc28\u0026txTime=6aa12a9e",
     "type": "hls"
   },
   {
@@ -716,7 +734,7 @@
     "name": "Tường thuật: UEFA CL - FC Porto vs Manchester City - Thỏ giang hồ",
     "logo": "https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=1659b5535a1e1c5523cf78984dae2939\u0026txTime=6aa12936",
+    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=7eb6e576f7c0f3c20ea21bfdcf25b867\u0026txTime=6aa12a9e",
     "type": "hls"
   },
   {
@@ -725,7 +743,7 @@
     "name": "Tường thuật: UEFA CL - Real Madrid vs Inter Milan - Hươu đau cổ",
     "logo": "https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=c21b4d30d3b12d809d4665347da14ca5\u0026txTime=6aa12936",
+    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=31d236b69ef7fd97bdc6e0a134222f1e\u0026txTime=6aa12a9e",
     "type": "hls"
   },
   {
@@ -734,7 +752,7 @@
     "name": "Tường thuật: UEFA CL - Club Brugge vs Aston Villa - Mèo méo meo",
     "logo": "https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=930ad23f405b12a85903255c3db7e4db\u0026txTime=6aa12936",
+    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=363198b6ea898d022020742f78a496dd\u0026txTime=6aa12a9e",
     "type": "hls"
   },
   {
@@ -743,7 +761,7 @@
     "name": "Tường thuật: UEFA CL - AEK Athens vs LASK Linz - Rắn ở đáy sông",
     "logo": "https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=b7c0ed176534e03a6873c969a5dd57fc\u0026txTime=6aa12936",
+    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=ddbad5e653157f9a332cc5273cf6d3e3\u0026txTime=6aa12a9e",
     "type": "hls"
   }
 ]
