@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 87
-# Updated: 09/09/2026 06:33:21
+# Channels: 89
+# Updated: 09/09/2026 06:38:26
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260906/8c516e9a5f60516bda24556bc27a1e41.png" group-title="Bóng đá",Penang FC vs Melaka FC (MAS FAC)
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788867998-0-0-d9b5b272d44929705a85b67eb14b054f
@@ -149,31 +149,35 @@ https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788896763-0-0-c62
 https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1788896551-0-0-058022ef1c102f6d873235edc30b929c
 #EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260906/ca0438fe33fa73f73c09b9fdf85a7970.png" group-title="Bóng đá",Sydney FC vs Melbourne Victory (AUS FFA)
 https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788904878-0-0-2b6354939908d7f9b8fa78326da705ea
-#EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260907/257fc73c901885a720d6930154f7ee72.png" group-title="Bóng rổ",Paranaque Patriots vs San Juan Knights (MPBL)
+#EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260907/8f600a0ab9075dc762e0a7af9e671d6c.png" group-title="Bóng rổ",Meycauayan vs Cebu Classic (MPBL)
 https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=7017ae88d530c1a6aa77a31682f07539&txTime=6aa057a1
-#EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260907/257fc73c901885a720d6930154f7ee72.png" group-title="Bóng rổ",Paranaque Patriots vs San Juan Knights (MPBL)
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=7b64fa5b194e7f35f769657dea997f49&txTime=6aa09a69
+#EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260907/8f600a0ab9075dc762e0a7af9e671d6c.png" group-title="Bóng rổ",Meycauayan vs Cebu Classic (MPBL)
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=3e52ad6a565fa31cd1e703505ad4d701&txTime=6aa1532a
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260907/96d036bca52fd0059844cb7d0563821b.png" group-title="Bóng rổ",Hapoel HaEmek vs Maccabi Ironi Ramat Gan (ISRBL)
 https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788875090-0-0-c91030b9a09d677d62346f27a5eac98c
-#EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260907/257fc73c901885a720d6930154f7ee72.png" group-title="Bóng rổ",Paranaque Patriots vs San Juan Knights (MPBL)
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788939182-0-0-f849027b25a315ddc882d28b104759b9
-#EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260907/257fc73c901885a720d6930154f7ee72.png" group-title="Bóng rổ",Paranaque Patriots vs San Juan Knights (MPBL)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788870256-0-0-59d189c70914e8291669501fd3356b4c
-#EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260907/257fc73c901885a720d6930154f7ee72.png" group-title="Bóng rổ",Paranaque Patriots vs San Juan Knights (MPBL)
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788939182-0-0-f7d1afc8441bc40b2b95c7697b7fdee2
+#EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260907/8f600a0ab9075dc762e0a7af9e671d6c.png" group-title="Bóng rổ",Meycauayan vs Cebu Classic (MPBL)
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788939482-0-0-8ce79fe4accf04e860fe5349db52b695
+#EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260907/8f600a0ab9075dc762e0a7af9e671d6c.png" group-title="Bóng rổ",Meycauayan vs Cebu Classic (MPBL)
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788939482-0-0-266f074bd1f8cff8f3e56c23e8fa6908
+#EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260907/8f600a0ab9075dc762e0a7af9e671d6c.png" group-title="Bóng rổ",Meycauayan vs Cebu Classic (MPBL)
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788939482-0-0-66898186b32964caae0a0a297469772c
 #EXTINF:-1 tvg-id="room-133277" tvg-logo="https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg" group-title="SocoLive",Tường thuật: ITA D1 - Udinese vs Lazio - Gà xào sả ớt
-https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=0d4f729fa2429f83201f22a87966ac9b&txTime=6aa151fe
+https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=04cb4c18225da27bd033461851ff1682&txTime=6aa1532a
 #EXTINF:-1 tvg-id="room-133824" tvg-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg" group-title="SocoLive",Tường thuật: UEFA CL - Borussia Dortmund vs Villarreal CF - Bò leo rào
-https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=52f062115980b80462e28c45f4fa8758&txTime=6aa151fe
+https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=f797b0b0ce4c85814aa588d48028fda6&txTime=6aa1532a
 #EXTINF:-1 tvg-id="room-152898" tvg-logo="https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png" group-title="SocoLive",Tường thuật: UEFA CL - FC Porto vs Manchester City - Thỏ giang hồ
-https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=84abd7fb48ea624a244c0ed79e4a6185&txTime=6aa151fe
+https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=b7a4318e297bc6bf511fd009e118e22c&txTime=6aa1532a
 #EXTINF:-1 tvg-id="room-179093" tvg-logo="https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg" group-title="SocoLive",Tường thuật: UEFA CL - Real Madrid vs Inter Milan - Hươu đau cổ
-https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=2473e5ab4a01e81421860b5880f89339&txTime=6aa151fe
+https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=bec4498bc37b2abe57e8d624a6d7ee12&txTime=6aa1532a
 #EXTINF:-1 tvg-id="room-343500" tvg-logo="https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg" group-title="SocoLive",Tường thuật: UEFA CL - Club Brugge vs Aston Villa - Mèo méo meo
-https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=952e550322441fd19a6571baa0907d03&txTime=6aa151fe
+https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=a4f04daeeeb61de5bf4abbaacbc150a2&txTime=6aa1532a
+#EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg" group-title="SocoLive",MPBL: Paranaque Patriots vs San Juan Knights - HUNTER
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=3e52ad6a565fa31cd1e703505ad4d701&txTime=6aa1532a
 #EXTINF:-1 tvg-id="room-9912079" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg" group-title="SocoLive",Tường thuật: UEFA CL - AEK Athens vs LASK Linz - Rắn ở đáy sông
-https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=37fe771ca884ed3d3f5f36cf3f2888fc&txTime=6aa151fe
+https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=5ee52405cc9fbeba2ecb1958e3b60662&txTime=6aa1532a
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-title="SocoLive",MPBL: Meycauayan vs Cebu Classic - BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788939182-0-0-f849027b25a315ddc882d28b104759b9
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788939482-0-0-8ce79fe4accf04e860fe5349db52b695
+#EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg" group-title="SocoLive",MPBL: Paranaque Patriots vs San Juan Knights - BLV HENRY
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788939482-0-0-266f074bd1f8cff8f3e56c23e8fa6908
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg" group-title="SocoLive",MPBL: Paranaque Patriots vs San Juan Knights - CHAN SENA
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788939182-0-0-f7d1afc8441bc40b2b95c7697b7fdee2
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788939482-0-0-66898186b32964caae0a0a297469772c
