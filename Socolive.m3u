@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
 # Channels: 89
-# Updated: 09/09/2026 07:03:58
+# Updated: 09/09/2026 07:09:09
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260906/8c516e9a5f60516bda24556bc27a1e41.png" group-title="Bóng đá",Penang FC vs Melaka FC (MAS FAC)
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788867998-0-0-d9b5b272d44929705a85b67eb14b054f
@@ -61,8 +61,6 @@ https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1788915318-0-0-9b10
 https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=130f4f12766ee09d3e891664e6b75c34&txTime=6aa112f9
 #EXTINF:-1 tvg-id="room-607552" tvg-logo="https://sta.vnres.co/file/common/20260906/3c3fc3005edbf7b8579e6d089eb0592c.png" group-title="Bóng đá",Ghana U20 Women vs South Korea U20 Women (FIFA WU20)
 https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1788883438-0-0-e92f772d3e3df225f49b5af16847f732
-#EXTINF:-1 tvg-id="room-610518" tvg-logo="https://sta.vnres.co/file/common/20260908/23d5f038f88980b1fc6ae0de42fa3932.png" group-title="Bóng đá",DPMM FC vs Terengganu FC (MAS FAC)
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=128066dc771821341f7c06e1c21733e7&txTime=6aa03dd5
 #EXTINF:-1 tvg-id="room-617313" tvg-logo="https://sta.vnres.co/file/common/20260906/ea69d6657ab85e1f9fb181d31591c323.png" group-title="Bóng đá",Pohang Steelers vs Gimcheon Sangmu FC (KOR D1)
 https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1788901401-0-0-7647d62da23d23563c9fd604839a0842
 #EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260907/dfea494f74ca14b5a9eae65d23a71b2a.png" group-title="Bóng đá",FC Kairat Almaty vs Zhenis (KAZ PR)
@@ -77,6 +75,8 @@ https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1788921200-0-0-ce1a
 https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=94bfe5d0aac605eb4b537411f833c7a0&txTime=6aa0c783
 #EXTINF:-1 tvg-id="room-620797" tvg-logo="https://sta.vnres.co/file/common/20260906/092356112d6562577a8f08470bcf6c00.png" group-title="Bóng đá",Modern Sport FC vs Wadi Degla SC (EGY D1)
 https://pull.niur.live/live/stream-620797_lhd.m3u8?txSecret=9b51e9ded036d956cf4f58bc31d86e2c&txTime=6aa0cb08
+#EXTINF:-1 tvg-id="room-621840" tvg-logo="https://sta.vnres.co/file/common/20260907/a53fd1ec7cb979653d85d1adb69f5abd.png" group-title="Bóng đá",FK Jablonec vs FC Baník Ostrava (CZE D1)
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=78c2a514955c8df302844cf276885852&txTime=6aa0c67e
 #EXTINF:-1 tvg-id="room-621843" tvg-logo="https://sta.vnres.co/file/common/20260906/858a4252bc4cb37ccda14593dd333723.png" group-title="Bóng đá",AC Nagano Parceiro vs Mito Hollyhock (JLC)
 https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1788892170-0-0-eeab3401c76641fba15854bc3cd1d804
 #EXTINF:-1 tvg-id="room-621887" tvg-logo="https://sta.vnres.co/file/common/20260907/b64f236fe776aa2f0c716f9449f7f98f.png" group-title="Bóng đá",Palmeiras - SP vs Liga Dep Universitaria Quito (LIB Cup)
@@ -148,36 +148,36 @@ https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1788896551-0-0-058
 #EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260906/ca0438fe33fa73f73c09b9fdf85a7970.png" group-title="Bóng đá",Sydney FC vs Melbourne Victory (AUS FFA)
 https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788904878-0-0-2b6354939908d7f9b8fa78326da705ea
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260907/8f600a0ab9075dc762e0a7af9e671d6c.png" group-title="Bóng rổ",Meycauayan vs Cebu Classic (MPBL)
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=c34c3599877f09815205b5d635dcf571&txTime=6aa15906
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=247dd1b147480a36ec02b32220802d61&txTime=6aa15a32
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260907/8f600a0ab9075dc762e0a7af9e671d6c.png" group-title="Bóng rổ",Meycauayan vs Cebu Classic (MPBL)
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=b4af790310c10a50c1a9626532aac267&txTime=6aa15906
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=b6f3025b8ba176afc7535720e7c886de&txTime=6aa15a32
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260907/96d036bca52fd0059844cb7d0563821b.png" group-title="Bóng rổ",Hapoel HaEmek vs Maccabi Ironi Ramat Gan (ISRBL)
 https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788875090-0-0-c91030b9a09d677d62346f27a5eac98c
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260907/8f600a0ab9075dc762e0a7af9e671d6c.png" group-title="Bóng rổ",Meycauayan vs Cebu Classic (MPBL)
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788940982-0-0-ba7c770adf47e97e3f4235f2b4a7add1
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788941282-0-0-f708d654b3f05a917508b6e4216983f8
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260907/8f600a0ab9075dc762e0a7af9e671d6c.png" group-title="Bóng rổ",Meycauayan vs Cebu Classic (MPBL)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788940982-0-0-ce24493e5ee609e6259b79c11fb08b0f
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788941282-0-0-10e1f56172653b096a9bdc3832722cbd
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260907/8f600a0ab9075dc762e0a7af9e671d6c.png" group-title="Bóng rổ",Meycauayan vs Cebu Classic (MPBL)
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788940982-0-0-65692c5baf27331f386210c69a0951af
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788941282-0-0-ddc4c17c8a1df7824f38d3278012891a
 #EXTINF:-1 tvg-id="room-133277" tvg-logo="https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg" group-title="SocoLive",Tường thuật: ITA D1 - Udinese vs Lazio - Gà xào sả ớt
-https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=a4ab6c181c3dc9ce7fd623378a2e2796&txTime=6aa15906
+https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=0f21959b61df46ec43fad4a5876ff01d&txTime=6aa15a32
 #EXTINF:-1 tvg-id="room-133824" tvg-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg" group-title="SocoLive",Tường thuật: UEFA CL - Borussia Dortmund vs Villarreal CF - Bò leo rào
-https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=13960aa58a1088678e9be857e7c47816&txTime=6aa15906
+https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=ebe280c192ea9d216b057a15eba49f26&txTime=6aa15a32
 #EXTINF:-1 tvg-id="room-152898" tvg-logo="https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png" group-title="SocoLive",Tường thuật: UEFA CL - FC Porto vs Manchester City - Thỏ giang hồ
-https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=646f4f3149cfc22b9b180aa5031b069e&txTime=6aa15906
+https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=ef374de04025d531467e51f8039ab014&txTime=6aa15a32
 #EXTINF:-1 tvg-id="room-179093" tvg-logo="https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg" group-title="SocoLive",Tường thuật: UEFA CL - Real Madrid vs Inter Milan - Hươu đau cổ
-https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=dd6343c0d9a8e82bd4b430b6aa3d19a2&txTime=6aa15906
+https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=58f949f5aeaaaba33fbc016920883388&txTime=6aa15a32
 #EXTINF:-1 tvg-id="room-343500" tvg-logo="https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg" group-title="SocoLive",Tường thuật: UEFA CL - Club Brugge vs Aston Villa - Mèo méo meo
-https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=d64423e32de1fd5803a1fb709161b3c8&txTime=6aa15906
+https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=2a3717b1072eaa9eda9d92ca239b9311&txTime=6aa15a32
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg" group-title="SocoLive",MPBL: Meycauayan vs Cebu Classic - A CHÈ
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=c34c3599877f09815205b5d635dcf571&txTime=6aa15906
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=247dd1b147480a36ec02b32220802d61&txTime=6aa15a32
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg" group-title="SocoLive",MPBL: Meycauayan vs Cebu Classic - HUNTER
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=b4af790310c10a50c1a9626532aac267&txTime=6aa15906
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=b6f3025b8ba176afc7535720e7c886de&txTime=6aa15a32
 #EXTINF:-1 tvg-id="room-9912079" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg" group-title="SocoLive",Tường thuật: UEFA CL - AEK Athens vs LASK Linz - Rắn ở đáy sông
-https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=ad01557fccccb662536a5c4a0ca01a05&txTime=6aa15906
+https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=1fbde645ab79201ebbccde19cabd43d7&txTime=6aa15a32
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-title="SocoLive",MPBL: Meycauayan vs Cebu Classic - BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788940982-0-0-ba7c770adf47e97e3f4235f2b4a7add1
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788941282-0-0-f708d654b3f05a917508b6e4216983f8
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg" group-title="SocoLive",MPBL: Meycauayan vs Cebu Classic - BLV HENRY
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788940982-0-0-ce24493e5ee609e6259b79c11fb08b0f
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1788941282-0-0-10e1f56172653b096a9bdc3832722cbd
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg" group-title="SocoLive",MPBL: Meycauayan vs Cebu Classic - CHAN SENA
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788940982-0-0-65692c5baf27331f386210c69a0951af
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1788941282-0-0-ddc4c17c8a1df7824f38d3278012891a
