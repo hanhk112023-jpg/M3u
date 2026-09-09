@@ -27,19 +27,10 @@
     "type": "hls"
   },
   {
-    "id": "304148",
-    "tvg_id": "room-304148",
-    "name": "Paris Saint Germain U19 vs Slovan Bratislava U19 (UEFA YL)",
-    "logo": "https://sta.vnres.co/file/common/20260907/506083a09b92856cc2ecb102db1fcc4d.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788915593-0-0-e393091d3b4b9be7b07fadbf4f09e4c2",
-    "type": "hls"
-  },
-  {
     "id": "321443",
     "tvg_id": "room-321443",
-    "name": "Al-Ain FC vs Al-Wasl SC (UAE LP)",
-    "logo": "https://sta.vnres.co/file/common/20260907/b245abab280defea83ed88c7aaf20067.png",
+    "name": "Spain U20 Women vs New Caledonia U20 Women (FIFA WU20)",
+    "logo": "https://sta.vnres.co/file/common/20260907/707ba53eb2f92fcaa8d0f185452409d6.png",
     "group": "Bóng đá",
     "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=824f300976e7555d2e1a194399216690\u0026txTime=6a9f8cc6",
     "type": "hls"
@@ -51,6 +42,15 @@
     "logo": "https://sta.vnres.co/file/common/20260906/8e2adb3b56de7aa43895e233c4e05262.png",
     "group": "Bóng đá",
     "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1788890116-0-0-4eb65418c6a818e9d7d4dce9fcf05a95",
+    "type": "hls"
+  },
+  {
+    "id": "372746",
+    "tvg_id": "room-372746",
+    "name": "Palmeiras - SP vs Liga Dep Universitaria Quito (LIB Cup)",
+    "logo": "https://sta.vnres.co/file/common/20260907/b64f236fe776aa2f0c716f9449f7f98f.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788922888-0-0-dad8d0a0cf22ad07f101a2a3e6ccfb8d",
     "type": "hls"
   },
   {
@@ -96,6 +96,24 @@
     "logo": "https://sta.vnres.co/file/common/20260906/33bf38519f27c77d2d47f574a64953bf.png",
     "group": "Bóng đá",
     "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=af65f84322c8ae868fe58f89fdc674fc\u0026txTime=6aa04d91",
+    "type": "hls"
+  },
+  {
+    "id": "485739",
+    "tvg_id": "room-485739",
+    "name": "Santos FC - SP vs Atlético Mineiro - MG (CON CSA)",
+    "logo": "https://sta.vnres.co/file/common/20260907/699721c0f4fb0f434e1c241f6e05414d.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=153cb8eed05d9c9e11a979bbd3220f6b\u0026txTime=6aa1182c",
+    "type": "hls"
+  },
+  {
+    "id": "491873",
+    "tvg_id": "room-491873",
+    "name": "Palmeiras - SP vs Liga Dep Universitaria Quito (LIB Cup)",
+    "logo": "https://sta.vnres.co/file/common/20260907/b64f236fe776aa2f0c716f9449f7f98f.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=5a95f87249430e735318de2aa387b385\u0026txTime=6aa1128b",
     "type": "hls"
   },
   {
@@ -216,6 +234,15 @@
     "type": "hls"
   },
   {
+    "id": "607400",
+    "tvg_id": "room-607400",
+    "name": "Palmeiras - SP vs Liga Dep Universitaria Quito (LIB Cup)",
+    "logo": "https://sta.vnres.co/file/common/20260907/b64f236fe776aa2f0c716f9449f7f98f.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=130f4f12766ee09d3e891664e6b75c34\u0026txTime=6aa112f9",
+    "type": "hls"
+  },
+  {
     "id": "607552",
     "tvg_id": "room-607552",
     "name": "Ghana U20 Women vs South Korea U20 Women (FIFA WU20)",
@@ -249,6 +276,15 @@
     "logo": "https://sta.vnres.co/file/common/20260907/dfea494f74ca14b5a9eae65d23a71b2a.png",
     "group": "Bóng đá",
     "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788924218-0-0-e0af52c1fea886ad18882d10fbad5a09",
+    "type": "hls"
+  },
+  {
+    "id": "619561",
+    "tvg_id": "room-619561",
+    "name": "Philadelphia Union vs FC Cincinnati (USA MLS)",
+    "logo": "https://sta.vnres.co/file/common/20260907/a57531b6da8af82215c82761d6f399a0.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1788921201-0-0-6bdfeeb8a4f78a4e0491a510124a969a",
     "type": "hls"
   },
   {
@@ -303,6 +339,15 @@
     "logo": "https://sta.vnres.co/file/common/20260907/8a538497727bb3228cb5b11662e21c98.png",
     "group": "Bóng đá",
     "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1788892170-0-0-eeab3401c76641fba15854bc3cd1d804",
+    "type": "hls"
+  },
+  {
+    "id": "621887",
+    "tvg_id": "room-621887",
+    "name": "Palmeiras - SP vs Liga Dep Universitaria Quito (LIB Cup)",
+    "logo": "https://sta.vnres.co/file/common/20260907/b64f236fe776aa2f0c716f9449f7f98f.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=9790d5374d1cab2ba5996e9890dba71d\u0026txTime=6aa112b9",
     "type": "hls"
   },
   {
@@ -456,6 +501,15 @@
     "logo": "https://sta.vnres.co/file/common/20260906/f4a25e4cdea3b19e2092f382849748ae.png",
     "group": "Bóng đá",
     "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1788904824-0-0-3ab1f52e6d1f4fa28fb8340a67e3c9b3",
+    "type": "hls"
+  },
+  {
+    "id": "9912129",
+    "tvg_id": "room-9912129",
+    "name": "VfB Stuttgart vs Viking (UEFA CL)",
+    "logo": "https://sta.vnres.co/file/common/20260906/8802b18fef2799a195eb7cbf8e07278a.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=b0591bfed835295a3e2e4d5e3467b68a\u0026txTime=6aa0cc2f",
     "type": "hls"
   },
   {
@@ -653,7 +707,7 @@
     "name": "Tường thuật: ITA D1 - Udinese vs Lazio - Gà xào sả ớt",
     "logo": "https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=ce5abb0de10baf6b73a317a4b9ff7167\u0026txTime=6aa120c6",
+    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=d886d6bd7e9e79192efea50f3d5f6a7d\u0026txTime=6aa1222e",
     "type": "hls"
   },
   {
@@ -662,7 +716,7 @@
     "name": "Tường thuật: UEFA CL - Borussia Dortmund vs Villarreal CF - Bò leo rào",
     "logo": "https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=55996caa0ceff41b744f79a0e824689c\u0026txTime=6aa120c6",
+    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=cda6a60af437be1cfa9ef12df927df8b\u0026txTime=6aa1222e",
     "type": "hls"
   },
   {
@@ -671,7 +725,7 @@
     "name": "Tường thuật: UEFA CL - FC Porto vs Manchester City - Thỏ giang hồ",
     "logo": "https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=1aaff0a26134d6183b3caba825a27fe3\u0026txTime=6aa120c6",
+    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=d7bd8ff383292c931037619cf027b639\u0026txTime=6aa1222e",
     "type": "hls"
   },
   {
@@ -680,7 +734,7 @@
     "name": "Tường thuật: UEFA CL - Real Madrid vs Inter Milan - Hươu đau cổ",
     "logo": "https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=3c1b669bb3de1566e1e5e3eb307ad048\u0026txTime=6aa120c6",
+    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=675af2c8ad34e85dfbe9767b5a8e7f31\u0026txTime=6aa1222e",
     "type": "hls"
   },
   {
@@ -689,7 +743,7 @@
     "name": "Tường thuật: UEFA CL - Club Brugge vs Aston Villa - Mèo méo meo",
     "logo": "https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=3451d86e36dd1fc4493a0576568ff4df\u0026txTime=6aa120c6",
+    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=add7e3261874cc42c9f683ea60c8fd28\u0026txTime=6aa1222e",
     "type": "hls"
   },
   {
@@ -698,7 +752,7 @@
     "name": "Tường thuật: UEFA CL - AEK Athens vs LASK Linz - Rắn ở đáy sông",
     "logo": "https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=97968f0619fb7af133a6df722ef45178\u0026txTime=6aa120c6",
+    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=3c0132215280bdb6462cb91fcddd5f2b\u0026txTime=6aa1222e",
     "type": "hls"
   }
 ]
