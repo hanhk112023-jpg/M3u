@@ -405,6 +405,15 @@
     "type": "hls"
   },
   {
+    "id": "991140",
+    "tvg_id": "room-991140",
+    "name": "HJK Helsinki vs Inter Turku (FIN D1)",
+    "logo": "https://sta.vnres.co/file/common/20260906/51e7791e80bbb777c45d3c5fa55b1adb.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788904900-0-0-672dec6148f5bf51d2b2362cb52f3473",
+    "type": "hls"
+  },
+  {
     "id": "9912008",
     "tvg_id": "room-9912008",
     "name": "Sydney FC vs Melbourne Victory (AUS FFA)",
@@ -707,7 +716,7 @@
     "name": "Tường thuật: ITA D1 - Udinese vs Lazio - Gà xào sả ớt",
     "logo": "https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=c6d939841759f5fed7c4f1e2e0fa3e70\u0026txTime=6aa14be6",
+    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=8cacfd8cd3b00092044bad355fe20c3d\u0026txTime=6aa14d12",
     "type": "hls"
   },
   {
@@ -716,7 +725,7 @@
     "name": "Tường thuật: UEFA CL - Borussia Dortmund vs Villarreal CF - Bò leo rào",
     "logo": "https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=93483535e17fa55ff21a78a715de262b\u0026txTime=6aa14be6",
+    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=516ffecd4d9dce9d566eb65141958384\u0026txTime=6aa14d12",
     "type": "hls"
   },
   {
@@ -725,7 +734,7 @@
     "name": "Tường thuật: UEFA CL - FC Porto vs Manchester City - Thỏ giang hồ",
     "logo": "https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=c827f90021ab8299df5d7ca9bf288c29\u0026txTime=6aa14be6",
+    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=5e69fa09ceef16483256f19fba326f0f\u0026txTime=6aa14d12",
     "type": "hls"
   },
   {
@@ -734,7 +743,7 @@
     "name": "Tường thuật: UEFA CL - Real Madrid vs Inter Milan - Hươu đau cổ",
     "logo": "https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=a51fae319c489d062fd5ff98ca74f83b\u0026txTime=6aa14be6",
+    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=89db0ea16f04f6f36883282991fa5ed7\u0026txTime=6aa14d12",
     "type": "hls"
   },
   {
@@ -743,7 +752,7 @@
     "name": "Tường thuật: UEFA CL - Club Brugge vs Aston Villa - Mèo méo meo",
     "logo": "https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=6d924f757312f3910115c326fcf96cf2\u0026txTime=6aa14be6",
+    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=c8e1e31736bd5b939e77afdfd42f74db\u0026txTime=6aa14d12",
     "type": "hls"
   },
   {
@@ -752,7 +761,7 @@
     "name": "Tường thuật: UEFA CL - AEK Athens vs LASK Linz - Rắn ở đáy sông",
     "logo": "https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=a233d73d2261321944ee17dd37204fca\u0026txTime=6aa14be6",
+    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=bff59b26abf712963b60819febcfe2c4\u0026txTime=6aa14d12",
     "type": "hls"
   }
 ]
