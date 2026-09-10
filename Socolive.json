@@ -18,6 +18,15 @@
     "type": "hls"
   },
   {
+    "id": "291277",
+    "tvg_id": "room-291277",
+    "name": "Al-Gharafa vs Lusail (QAT D1)",
+    "logo": "https://sta.vnres.co/file/common/20260907/660b7831046715d04f51a1ba24ec7e2c.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=122179bb1fd2192ba87e90ab4ec4176a\u0026txTime=6aa36ee8",
+    "type": "hls"
+  },
+  {
     "id": "304148",
     "tvg_id": "room-304148",
     "name": "Oakleigh Cannons vs South Melbourne (Aus VPL)",
@@ -77,7 +86,7 @@
     "name": "Aurora F.C. vs CSD Municipal (GUA D1)",
     "logo": "https://sta.vnres.co/file/common/20260907/342755442edcd3cd0235cd0466e18ba0.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=e19724fc5042a6300775e25b77dfac97\u0026txTime=6aa372ae",
+    "url": "https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=ddb7e363ac7004427e9a4365cfa20e03\u0026txTime=6aa373da",
     "type": "hls"
   },
   {
@@ -141,6 +150,24 @@
     "logo": "https://sta.vnres.co/file/common/20260907/9a24cd70b203338a10d0861f219efcb6.png",
     "group": "Bóng đá",
     "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789059634-0-0-4cea33260feb4b0d4d34ba7f0087437d",
+    "type": "hls"
+  },
+  {
+    "id": "527384",
+    "tvg_id": "room-527384",
+    "name": "SHB Da Nang vs Thep Xanh Nam Dinh FC (VIE D1)",
+    "logo": "https://sta.vnres.co/file/common/20260907/e01813340c6d8a3dd8c8c17f469fa1d0.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789077558-0-0-08830427ea64fa7622ff5a44c5577431",
+    "type": "hls"
+  },
+  {
+    "id": "532081",
+    "tvg_id": "room-532081",
+    "name": "Independiente del Valle vs Flamengo - RJ (LIB Cup)",
+    "logo": "https://sta.vnres.co/file/common/20260907/39d8d8a05ff3f33e4142b94fe80a8d25.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789059786-0-0-5d6f0daa4e25d7debb33d6163eb58a46",
     "type": "hls"
   },
   {
@@ -221,7 +248,16 @@
     "name": "Patriotas FC vs Barranquilla FC (COL D2)",
     "logo": "https://sta.vnres.co/file/common/20260907/a55259f77afa79fa8973e094ccf3b4e3.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=54f83eeafbc4306b260495fae4765efe\u0026txTime=6aa372ae",
+    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=2e2e01d6739a916a53cf2ea003516b11\u0026txTime=6aa373da",
+    "type": "hls"
+  },
+  {
+    "id": "607552",
+    "tvg_id": "room-607552",
+    "name": "Bac Ninh vs Cong An Ho Chi Minh City (VIE D1)",
+    "logo": "https://sta.vnres.co/file/common/20260907/1095cfd5e5b57947fb2c252ee0cba7a9.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1789001709-0-0-e840be8c62b54a3f130fd81300c21906",
     "type": "hls"
   },
   {
@@ -482,7 +518,7 @@
     "name": "Aurora F.C. vs CSD Municipal (GUA D1)",
     "logo": "https://sta.vnres.co/file/common/20260907/342755442edcd3cd0235cd0466e18ba0.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=fae81f612bef4947db929a6852af3c24\u0026txTime=6aa372ae",
+    "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=0975fa00845c3dcbbb9ed101290ccb54\u0026txTime=6aa373da",
     "type": "hls"
   },
   {
@@ -519,6 +555,15 @@
     "logo": "https://sta.vnres.co/file/common/20260907/40e97b48bdbb829bd51178f18c4b4b7d.png",
     "group": "Bóng đá",
     "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1789077539-0-0-c0479d2f3a7da9fea1a2bb6eedab940c",
+    "type": "hls"
+  },
+  {
+    "id": "9912135",
+    "tvg_id": "room-9912135",
+    "name": "Millonarios vs Deportivo Cali (COL D1)",
+    "logo": "https://sta.vnres.co/file/common/20260907/681a7f9a45c4e639f161201ff7c6b8e3.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1789058407-0-0-38da86a2659f446043ffcb69f5410137",
     "type": "hls"
   },
   {
@@ -671,7 +716,7 @@
     "name": "Tường thuật: USA MLS - Chicago Fire vs Inter Miami CF - Gà xào sả ớt",
     "logo": "https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=51caeae01e83e86d4ee0c9bc0af5a455\u0026txTime=6aa372ae",
+    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=05864e02612ba404c2ae4fb29c5b41a2\u0026txTime=6aa373da",
     "type": "hls"
   },
   {
@@ -680,7 +725,7 @@
     "name": "Tường thuật: UEFA CL - FC Barcelona vs Feyenoord - Bò leo rào",
     "logo": "https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=c5f7fed98b5039802e757f1a0a703e6f\u0026txTime=6aa372ae",
+    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=0778d26bad74c1caf07b2cee45f53ff7\u0026txTime=6aa373da",
     "type": "hls"
   },
   {
@@ -689,7 +734,7 @@
     "name": "Tường thuật: UEFA CL - VfB Stuttgart vs Viking - Thỏ giang hồ",
     "logo": "https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=917b3b3490c0f3d2494ac3fb72bc08bc\u0026txTime=6aa372ae",
+    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=d6ebd9fd892a0aefbe019d60c8442a71\u0026txTime=6aa373da",
     "type": "hls"
   },
   {
@@ -698,7 +743,7 @@
     "name": "Tường thuật: UEFA CL - Liverpool vs Atletico Madrid - Hươu đau cổ",
     "logo": "https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=5efce089b2c8fb659b88384c019c9dc1\u0026txTime=6aa372ae",
+    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=7ac79f7fed263f797761716317e920fe\u0026txTime=6aa373da",
     "type": "hls"
   },
   {
@@ -707,7 +752,7 @@
     "name": "Tường thuật: UEFA CL - Napoli vs Arsenal - Mèo méo meo",
     "logo": "https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=9b7bd1e5e5a3e73efa6e8c2be7b61b8f\u0026txTime=6aa372ae",
+    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=6b10aea5088feac478f45e80a0bdc71f\u0026txTime=6aa373da",
     "type": "hls"
   },
   {
@@ -716,7 +761,7 @@
     "name": "GUA D1: Aurora F.C. vs CSD Municipal - BLV ANH TÀI",
     "logo": "https://sta.vnres.co/file/common/20241220/6200343fea7ece69d7d92ae718616478.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=e19724fc5042a6300775e25b77dfac97\u0026txTime=6aa372ae",
+    "url": "https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=ddb7e363ac7004427e9a4365cfa20e03\u0026txTime=6aa373da",
     "type": "hls"
   },
   {
@@ -725,16 +770,7 @@
     "name": "COL D2: Patriotas FC vs Barranquilla FC - HÀ DUY KIÊN",
     "logo": "https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=54f83eeafbc4306b260495fae4765efe\u0026txTime=6aa372ae",
-    "type": "hls"
-  },
-  {
-    "id": "621840",
-    "tvg_id": "room-621840",
-    "name": "POR D1: CF Estrela Amadora SAD vs Sporting Braga - MP3",
-    "logo": "https://sta.vnres.co/file/common/20260810/042a00493898027e5f644f6f24e88c53.png",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=e86b44ead765d68f8840f581099f671b\u0026txTime=6aa371c2",
+    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=2e2e01d6739a916a53cf2ea003516b11\u0026txTime=6aa373da",
     "type": "hls"
   },
   {
@@ -743,7 +779,7 @@
     "name": "Tường thuật: USA MLS - Vancouver Whitecaps vs Los Angeles Galaxy - Rắn ở đáy sông",
     "logo": "https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=12587144b6e266ec57ee6452684eec6b\u0026txTime=6aa372ae",
+    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=fc7afbba77ac53c9eb0968e355b2c1ea\u0026txTime=6aa373da",
     "type": "hls"
   },
   {
@@ -752,7 +788,7 @@
     "name": "GUA D1: Aurora F.C. vs CSD Municipal - QUỐC KHÁNH",
     "logo": "https://sta.vnres.co/file/common/20260911/086cd2434afcf6d930543296a5e89647.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=fae81f612bef4947db929a6852af3c24\u0026txTime=6aa372ae",
+    "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=0975fa00845c3dcbbb9ed101290ccb54\u0026txTime=6aa373da",
     "type": "hls"
   }
 ]
