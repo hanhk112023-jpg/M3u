@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 88
-# Updated: 10/09/2026 06:57:18
+# Channels: 87
+# Updated: 10/09/2026 07:37:50
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260907/18c3627e0fd793fcb03118ac397b6ff0.png" group-title="Bóng đá",RTC FC vs Thimphu City (BTN PL)
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789008414-0-0-1d6ce802554dca3eca6063244232ec71
@@ -35,8 +35,6 @@ https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=6cfaf297726fc0c692eb
 https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=da1d564968f0ebb249b8d74dd7269fc9&txTime=6aa289ba
 #EXTINF:-1 tvg-id="room-511367" tvg-logo="https://sta.vnres.co/file/common/20260907/4a77c6d05577aee6ba8332b5894987dd.png" group-title="Bóng đá",FK Yelimay Semey B vs Akademiya Ontustik (KAZ D1)
 https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1788980054-0-0-42014e0d2fd09f0f9daf742b39014b13
-#EXTINF:-1 tvg-id="room-527383" tvg-logo="https://sta.vnres.co/file/common/20260907/9a24cd70b203338a10d0861f219efcb6.png" group-title="Bóng đá",FK Andijon vs FK Kokand 1912 (UZB PFL)
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1788991334-0-0-8a5d785d62f72bca8c00e6583b9891db
 #EXTINF:-1 tvg-id="room-527384" tvg-logo="https://sta.vnres.co/file/common/20260907/429edb9f5654081777f6515989126615.png" group-title="Bóng đá",Dubai United vs Shabab Al Ahli (UAE LP)
 https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1788991145-0-0-709c987a2eaae9531c8a4e4c7ced7bbd
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260907/18c3627e0fd793fcb03118ac397b6ff0.png" group-title="Bóng đá",RTC FC vs Thimphu City (BTN PL)
@@ -152,30 +150,30 @@ https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789018973-0-0-db3
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260908/b745f42ffce79f36282bf214f0a1c375.png" group-title="Bóng rổ",Melbourne United vs New Zealand Breakers (NBL)
 https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=8de11d88ca603b315d8368b5f74093af&txTime=6aa29ffa
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260908/ab266056d1a76f432ef4ec6fb2b58a0d.png" group-title="Bóng rổ",South Korea vs Saudi Arabia (AGB)
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=46708832977cf83bc48d2066598c4c5a&txTime=6aa2a91e
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=8275aeed4220227bbe72d3f7f861a6b5&txTime=6aa2b27e
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260909/86eb5e61a804f40d8408128c6b45562b.png" group-title="Bóng rổ",Philippines vs Bahrain (AGB)
 https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788875090-0-0-c91030b9a09d677d62346f27a5eac98c
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260908/b745f42ffce79f36282bf214f0a1c375.png" group-title="Bóng rổ",Melbourne United vs New Zealand Breakers (NBL)
 https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789025028-0-0-89082bb98b0d64c526218ca3441e991d
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260908/8504bfff7bf76e40e86029be7e671003.png" group-title="Bóng rổ",Quezon Huskers vs Basilan Viva Portmasters (MPBL)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789027022-0-0-e1ec7a6bddafb2151f18fe9cb70320e0
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789029422-0-0-feb01b8753825bc949a9b1e142dd57d9
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260908/8504bfff7bf76e40e86029be7e671003.png" group-title="Bóng rổ",Quezon Huskers vs Basilan Viva Portmasters (MPBL)
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789027022-0-0-e056fc81e6caad07f354f4016a6ca616
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789029422-0-0-40aecda2d0631e8555cd8a865913b7c1
 #EXTINF:-1 tvg-id="room-133277" tvg-logo="https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg" group-title="SocoLive",Tường thuật: USA MLS - Chicago Fire vs Inter Miami CF - Gà xào sả ớt
-https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=f1bc4c2deff8c1ae50a35007e14f4896&txTime=6aa2a8e2
+https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=9e80bf786109790234f504cad0f2d08e&txTime=6aa2b27e
 #EXTINF:-1 tvg-id="room-133824" tvg-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg" group-title="SocoLive",Tường thuật: USA MLS - Chicago Fire vs Inter Miami CF - Bò leo rào
-https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=47a8dad30783361a23e50584cc07e52b&txTime=6aa2a8e2
+https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=d8ad3fe85ebc548796ab5209fbabcf48&txTime=6aa2b27e
 #EXTINF:-1 tvg-id="room-152898" tvg-logo="https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png" group-title="SocoLive",Tường thuật: UEFA CL - VfB Stuttgart vs Viking - Thỏ giang hồ
-https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=7d20da6c004bcce4c1ff602d152e43a7&txTime=6aa2a8e2
+https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=8eb9d4ea1c00c4b3f5dab0fa5c42f8dd&txTime=6aa2b27e
 #EXTINF:-1 tvg-id="room-179093" tvg-logo="https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg" group-title="SocoLive",Tường thuật: UEFA CL - Liverpool vs Atletico Madrid - Hươu đau cổ
-https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=91521b91f581ff53ffba2864d39d6df5&txTime=6aa2a8e2
+https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=01fa649a836f374d42217faf85797273&txTime=6aa2b27e
 #EXTINF:-1 tvg-id="room-343500" tvg-logo="https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg" group-title="SocoLive",Tường thuật: UEFA CL - Napoli vs Arsenal - Mèo méo meo
-https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=c623327e65d8bc468a04f3a96ec9865b&txTime=6aa2a8e2
+https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=23ba203ef1a6d7e5f7e95aa0b102ff7e&txTime=6aa2b27e
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg" group-title="SocoLive",AGB: South Korea vs Saudi Arabia - HUNTER
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=58bfaf7da262bb5617db29afce4f6eed&txTime=6aa2a8e2
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=8275aeed4220227bbe72d3f7f861a6b5&txTime=6aa2b27e
 #EXTINF:-1 tvg-id="room-9912079" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg" group-title="SocoLive",Tường thuật: USA MLS - Vancouver Whitecaps vs Los Angeles Galaxy - Rắn ở đáy sông
-https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=3da12bbd3fe5ca1237297e1e6ccb78c4&txTime=6aa2a8e2
+https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=6377cdce5045be36d76035bed8ddb7de&txTime=6aa2b27e
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg" group-title="SocoLive",MPBL: Quezon Huskers vs Basilan Viva Portmasters - BLV HENRY
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789026962-0-0-edfa3a87611a36d04358e7ab587b489a
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789029422-0-0-feb01b8753825bc949a9b1e142dd57d9
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg" group-title="SocoLive",MPBL: Quezon Huskers vs Basilan Viva Portmasters - CHAN SENA
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789026962-0-0-85b5e19d3bdae016c662f6873adf4fa5
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789029422-0-0-40aecda2d0631e8555cd8a865913b7c1
