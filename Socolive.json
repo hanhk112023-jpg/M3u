@@ -144,6 +144,15 @@
     "type": "hls"
   },
   {
+    "id": "527383",
+    "tvg_id": "room-527383",
+    "name": "FK Andijon vs FK Kokand 1912 (UZB PFL)",
+    "logo": "https://sta.vnres.co/file/common/20260907/9a24cd70b203338a10d0861f219efcb6.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1788991334-0-0-8a5d785d62f72bca8c00e6583b9891db",
+    "type": "hls"
+  },
+  {
     "id": "527384",
     "tvg_id": "room-527384",
     "name": "Dubai United vs Shabab Al Ahli (UAE LP)",
@@ -240,15 +249,6 @@
     "logo": "https://sta.vnres.co/file/common/20260907/a55259f77afa79fa8973e094ccf3b4e3.png",
     "group": "Bóng đá",
     "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=9617a832fa718638c20ab0070e03ebf3\u0026txTime=6aa26cf6",
-    "type": "hls"
-  },
-  {
-    "id": "607552",
-    "tvg_id": "room-607552",
-    "name": "Bac Ninh vs Cong An Ho Chi Minh City (VIE D1)",
-    "logo": "https://sta.vnres.co/file/common/20260907/1095cfd5e5b57947fb2c252ee0cba7a9.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1789001709-0-0-e840be8c62b54a3f130fd81300c21906",
     "type": "hls"
   },
   {
@@ -653,7 +653,7 @@
     "name": "Jordan vs Chinese Taipei (AGB)",
     "logo": "https://sta.vnres.co/file/common/20260908/25e56684f539a793794bf5658ea75aa4.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=4dbc3e0c08b7f514918c54e3f8de130e\u0026txTime=6aa29262",
+    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=5bade99243d42163ebebf257a3890797\u0026txTime=6aa2938e",
     "type": "hls"
   },
   {
@@ -680,7 +680,7 @@
     "name": "Jordan vs Chinese Taipei (AGB)",
     "logo": "https://sta.vnres.co/file/common/20260908/25e56684f539a793794bf5658ea75aa4.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789021202-0-0-4eb60a0d893463501d189fe6eed68341",
+    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789021502-0-0-e5cf344cf7773bc3da3b2d42e5ae4dee",
     "type": "hls"
   },
   {
@@ -689,7 +689,7 @@
     "name": "Jordan vs Chinese Taipei (AGB)",
     "logo": "https://sta.vnres.co/file/common/20260908/25e56684f539a793794bf5658ea75aa4.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789021202-0-0-eb6b4f300fb4269cefead32061116a6e",
+    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789021502-0-0-614ef215cf8510d28825189f47c9610b",
     "type": "hls"
   },
   {
@@ -707,7 +707,7 @@
     "name": "Tường thuật: USA MLS - Chicago Fire vs Inter Miami CF - Gà xào sả ớt",
     "logo": "https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=a4e767a5ecfb09069aea14407a4870b2\u0026txTime=6aa29262",
+    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=fa14b872e76f89d210a5272f8d702037\u0026txTime=6aa2938e",
     "type": "hls"
   },
   {
@@ -716,7 +716,7 @@
     "name": "Tường thuật: USA MLS - Chicago Fire vs Inter Miami CF - Bò leo rào",
     "logo": "https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=69a217af90a9da8884a6c92ec66351a4\u0026txTime=6aa29262",
+    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=afacb974da7ff843b3a5a99f782229ae\u0026txTime=6aa2938e",
     "type": "hls"
   },
   {
@@ -725,7 +725,7 @@
     "name": "Tường thuật: UEFA CL - VfB Stuttgart vs Viking - Thỏ giang hồ",
     "logo": "https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=133474da859bafce3a549068495c8bb5\u0026txTime=6aa29262",
+    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=dd0e53f006609b39e3180bf8c843a9d7\u0026txTime=6aa2938e",
     "type": "hls"
   },
   {
@@ -734,7 +734,7 @@
     "name": "Tường thuật: UEFA CL - Liverpool vs Atletico Madrid - Hươu đau cổ",
     "logo": "https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=8a6413c42dfbfa7eaa887b788e97bc59\u0026txTime=6aa29262",
+    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=b4280970e6fdefda61b3eca6eaa30a1a\u0026txTime=6aa2938e",
     "type": "hls"
   },
   {
@@ -743,7 +743,7 @@
     "name": "Tường thuật: UEFA CL - Napoli vs Arsenal - Mèo méo meo",
     "logo": "https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=33b14e1bdeb66626ecd2ad898062d594\u0026txTime=6aa29262",
+    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=738d3b860f5b25d63ba7bc2887d1dc94\u0026txTime=6aa2938e",
     "type": "hls"
   },
   {
@@ -752,7 +752,7 @@
     "name": "AGB: Jordan vs Chinese Taipei - A CHÈ",
     "logo": "https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=4dbc3e0c08b7f514918c54e3f8de130e\u0026txTime=6aa29262",
+    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=5bade99243d42163ebebf257a3890797\u0026txTime=6aa2938e",
     "type": "hls"
   },
   {
@@ -761,7 +761,7 @@
     "name": "Tường thuật: USA MLS - Vancouver Whitecaps vs Los Angeles Galaxy - Rắn ở đáy sông",
     "logo": "https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=86ed0ae4b46bd53f1ad21a682ed16f87\u0026txTime=6aa29262",
+    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=1c1fc4f48402b8941bd252d173fb3949\u0026txTime=6aa2938e",
     "type": "hls"
   },
   {
@@ -770,7 +770,7 @@
     "name": "AGB: Jordan vs Chinese Taipe - BRIAN",
     "logo": "https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789021202-0-0-4eb60a0d893463501d189fe6eed68341",
+    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789021502-0-0-e5cf344cf7773bc3da3b2d42e5ae4dee",
     "type": "hls"
   },
   {
@@ -779,7 +779,7 @@
     "name": "AGB: Jordan vs Chinese Taipei - BLV HENRY",
     "logo": "https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789021202-0-0-eb6b4f300fb4269cefead32061116a6e",
+    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789021502-0-0-614ef215cf8510d28825189f47c9610b",
     "type": "hls"
   }
 ]
