@@ -144,6 +144,15 @@
     "type": "hls"
   },
   {
+    "id": "527383",
+    "tvg_id": "room-527383",
+    "name": "FK Andijon vs FK Kokand 1912 (UZB PFL)",
+    "logo": "https://sta.vnres.co/file/common/20260907/9a24cd70b203338a10d0861f219efcb6.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1788991334-0-0-8a5d785d62f72bca8c00e6583b9891db",
+    "type": "hls"
+  },
+  {
     "id": "527384",
     "tvg_id": "room-527384",
     "name": "Dubai United vs Shabab Al Ahli (UAE LP)",
@@ -662,7 +671,7 @@
     "name": "South Korea vs Saudi Arabia (AGB)",
     "logo": "https://sta.vnres.co/file/common/20260908/ab266056d1a76f432ef4ec6fb2b58a0d.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=8275aeed4220227bbe72d3f7f861a6b5\u0026txTime=6aa2b27e",
+    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=5df81246ee1a5abcfe2ca6d38ec263d4\u0026txTime=6aa2b3aa",
     "type": "hls"
   },
   {
@@ -689,7 +698,7 @@
     "name": "Quezon Huskers vs Basilan Viva Portmasters (MPBL)",
     "logo": "https://sta.vnres.co/file/common/20260908/8504bfff7bf76e40e86029be7e671003.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789029422-0-0-feb01b8753825bc949a9b1e142dd57d9",
+    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789029722-0-0-84ce5c3c3ef1ac8ea4c3b2e0041c16a3",
     "type": "hls"
   },
   {
@@ -698,7 +707,7 @@
     "name": "Quezon Huskers vs Basilan Viva Portmasters (MPBL)",
     "logo": "https://sta.vnres.co/file/common/20260908/8504bfff7bf76e40e86029be7e671003.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789029422-0-0-40aecda2d0631e8555cd8a865913b7c1",
+    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789029722-0-0-fb35f81df12e7aa9a699168d72fa7ba9",
     "type": "hls"
   },
   {
@@ -707,7 +716,7 @@
     "name": "Tường thuật: USA MLS - Chicago Fire vs Inter Miami CF - Gà xào sả ớt",
     "logo": "https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=9e80bf786109790234f504cad0f2d08e\u0026txTime=6aa2b27e",
+    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=cdaf7b9f496d07b71785d4bcd46c5232\u0026txTime=6aa2b3aa",
     "type": "hls"
   },
   {
@@ -716,7 +725,7 @@
     "name": "Tường thuật: USA MLS - Chicago Fire vs Inter Miami CF - Bò leo rào",
     "logo": "https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=d8ad3fe85ebc548796ab5209fbabcf48\u0026txTime=6aa2b27e",
+    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=5d0b1365b3157475e9829e7e08c41a44\u0026txTime=6aa2b3aa",
     "type": "hls"
   },
   {
@@ -725,7 +734,7 @@
     "name": "Tường thuật: UEFA CL - VfB Stuttgart vs Viking - Thỏ giang hồ",
     "logo": "https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=8eb9d4ea1c00c4b3f5dab0fa5c42f8dd\u0026txTime=6aa2b27e",
+    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=f95f26126389d0eeece6903a3e58d8dc\u0026txTime=6aa2b3aa",
     "type": "hls"
   },
   {
@@ -734,7 +743,7 @@
     "name": "Tường thuật: UEFA CL - Liverpool vs Atletico Madrid - Hươu đau cổ",
     "logo": "https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=01fa649a836f374d42217faf85797273\u0026txTime=6aa2b27e",
+    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=514c8483423e5561a82279bd2a0ca645\u0026txTime=6aa2b3aa",
     "type": "hls"
   },
   {
@@ -743,7 +752,7 @@
     "name": "Tường thuật: UEFA CL - Napoli vs Arsenal - Mèo méo meo",
     "logo": "https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=23ba203ef1a6d7e5f7e95aa0b102ff7e\u0026txTime=6aa2b27e",
+    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=2585e9e67cfc05d3644c032cb2e7ffa7\u0026txTime=6aa2b3aa",
     "type": "hls"
   },
   {
@@ -752,7 +761,7 @@
     "name": "AGB: South Korea vs Saudi Arabia - HUNTER",
     "logo": "https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=8275aeed4220227bbe72d3f7f861a6b5\u0026txTime=6aa2b27e",
+    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=5df81246ee1a5abcfe2ca6d38ec263d4\u0026txTime=6aa2b3aa",
     "type": "hls"
   },
   {
@@ -761,7 +770,7 @@
     "name": "Tường thuật: USA MLS - Vancouver Whitecaps vs Los Angeles Galaxy - Rắn ở đáy sông",
     "logo": "https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=6377cdce5045be36d76035bed8ddb7de\u0026txTime=6aa2b27e",
+    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=24a97573de4c007d676b7d760de59a69\u0026txTime=6aa2b3aa",
     "type": "hls"
   },
   {
@@ -770,7 +779,7 @@
     "name": "MPBL: Quezon Huskers vs Basilan Viva Portmasters - BLV HENRY",
     "logo": "https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789029422-0-0-feb01b8753825bc949a9b1e142dd57d9",
+    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789029722-0-0-84ce5c3c3ef1ac8ea4c3b2e0041c16a3",
     "type": "hls"
   },
   {
@@ -779,7 +788,7 @@
     "name": "MPBL: Quezon Huskers vs Basilan Viva Portmasters - CHAN SENA",
     "logo": "https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789029422-0-0-40aecda2d0631e8555cd8a865913b7c1",
+    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789029722-0-0-fb35f81df12e7aa9a699168d72fa7ba9",
     "type": "hls"
   }
 ]
