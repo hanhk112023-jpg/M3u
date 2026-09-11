@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 88
-# Updated: 11/09/2026 21:09:36
+# Channels: 87
+# Updated: 11/09/2026 21:24:56
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260909/c90ce1103df1c344b5730ef9ca175ec1.png" group-title="Bóng đá",Borussia Dortmund vs SC Paderborn 07 (GER D1)
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789106882-0-0-091617c1a91f104b87765281417b523c
@@ -10,7 +10,7 @@ https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=093718629cd2aa770168
 #EXTINF:-1 tvg-id="room-291277" tvg-logo="https://sta.vnres.co/file/common/20260907/660b7831046715d04f51a1ba24ec7e2c.png" group-title="Bóng đá",Al-Gharafa vs Lusail (QAT D1)
 https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=8845e2f80e456c31761643c1b454e2df&txTime=6aa4a4e4
 #EXTINF:-1 tvg-id="room-304148" tvg-logo="https://sta.vnres.co/file/common/20260909/2689b372cee759366f8a2b791277bfd1.png" group-title="Bóng đá",Club Atlético Newell's Old Boys vs Velez Sarsfield (ARG D1)
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1789164542-0-0-d40ec0bb5c4a68981778999fdd3c5142
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1789165442-0-0-d2ac46bef722697bc69de17b20403ab9
 #EXTINF:-1 tvg-id="room-321443" tvg-logo="https://sta.vnres.co/file/common/20260909/0aa4da1822200c714f096115a2af0a29.png" group-title="Bóng đá",Mito Hollyhock vs Kawasaki Frontale (JPN D1)
 https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=3472a0b09ec10e986466925f2d26dd37&txTime=6aa4bc67
 #EXTINF:-1 tvg-id="room-327159" tvg-logo="https://sta.vnres.co/file/common/20260909/d68cef3768dc9e5fbd030aa350bec60c.png" group-title="Bóng đá",Ulsan HD FC vs Incheon United Club (KOR D1)
@@ -22,7 +22,7 @@ https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1789162587-0-0-fd64
 #EXTINF:-1 tvg-id="room-387694" tvg-logo="https://sta.vnres.co/file/common/20260909/8420f5fb8ab4e0a1ba6aa9e08bb8ef7a.png" group-title="Bóng đá",Necaxa vs Puebla (MEX D1)
 https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=b84d1ed8c1bde57b33ccfba1d1e48ca2&txTime=6aa48db5
 #EXTINF:-1 tvg-id="room-406865" tvg-logo="https://sta.vnres.co/file/common/20260909/2689b372cee759366f8a2b791277bfd1.png" group-title="Bóng đá",Club Atlético Newell's Old Boys vs Velez Sarsfield (ARG D1)
-https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=c09de3b0f7e5412cf9af575ed167711b&txTime=6aa4c24e
+https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=e2fce09dbb2e58b74e70e1703241fe1b&txTime=6aa4c5d2
 #EXTINF:-1 tvg-id="room-414317" tvg-logo="https://sta.vnres.co/file/common/20260909/8420f5fb8ab4e0a1ba6aa9e08bb8ef7a.png" group-title="Bóng đá",Necaxa vs Puebla (MEX D1)
 https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=01379f312206ad22124c079efa0329fc&txTime=6aa44ff7
 #EXTINF:-1 tvg-id="room-459401" tvg-logo="https://sta.vnres.co/file/common/20260907/58e5b75fef42585c7182982b9a3a0409.png" group-title="Bóng đá",Al Faisaly vs Al Ittihad (KSA PR)
@@ -164,18 +164,16 @@ https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789127336-0-0-ff4
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260910/3b45a8794b866f1c0635be29ecc1d623.png" group-title="Bóng rổ",Chinese Taipei vs Iran (AGB)
 https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789127372-0-0-7c75bca51c16965c23ba5c9e016fb405
 #EXTINF:-1 tvg-id="room-133277" tvg-logo="https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg" group-title="SocoLive",Tường thuật: UEFA CL - PSV Eindhoven vs FC Shakhtar Donetsk - Gà xào sả ớt
-https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=616846394a3ac8bba4d4f5cd7858389b&txTime=6aa4c24e
+https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=f5d1261adb03d0622817e35248ede2ba&txTime=6aa4c5d2
 #EXTINF:-1 tvg-id="room-133824" tvg-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg" group-title="SocoLive",Tường thuật: UEFA CL - Fenerbahce vs AS Roma - Bò leo rào
-https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=c7f7c0fd3eb0b43b0e923a94d05ff439&txTime=6aa4c24e
+https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=77743165899958966f9d6675acd092f1&txTime=6aa4c5d2
 #EXTINF:-1 tvg-id="room-152898" tvg-logo="https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png" group-title="SocoLive",Tường thuật: VIE D1 - The Cong-Viettel vs Cong An Ha Noi FC - Thỏ giang hồ
-https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=a25796404d87b516ea37b222d2fe1f3d&txTime=6aa4c24e
+https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=09101c0eea4b7fd32b06a630254aa622&txTime=6aa4c5d2
 #EXTINF:-1 tvg-id="room-179093" tvg-logo="https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg" group-title="SocoLive",Tường thuật: QAT D1 - Al-Wakrah SC vs Al-Shamal SC - Hươu đau cổ
-https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=b9c6d64e65d390585cb1e54c088d4871&txTime=6aa4c24e
+https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=e407406c3a08d5203868f802f104a600&txTime=6aa4c5d2
 #EXTINF:-1 tvg-id="room-304148" tvg-logo="https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg" group-title="SocoLive",ARG D1: Club Atlético Newell's Old Boys vs Velez Sarsfield - BLV LUCAS
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1789164542-0-0-d40ec0bb5c4a68981778999fdd3c5142
-#EXTINF:-1 tvg-id="room-343500" tvg-logo="https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg" group-title="SocoLive",Tường thuật: UEFA CL - FC Bayern Munich vs FK Bodo/Glimt - Mèo méo meo
-https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=73350a25f511e1cda4afc6e93e1e3a5a&txTime=6aa4c24e
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1789165442-0-0-d2ac46bef722697bc69de17b20403ab9
 #EXTINF:-1 tvg-id="room-406865" tvg-logo="https://sta.vnres.co/file/common/20241220/6200343fea7ece69d7d92ae718616478.jpg" group-title="SocoLive",ARG D1: Club Atlético Newell's Old Boys vs Velez Sarsfield - BLV ANH TÀI
-https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=c09de3b0f7e5412cf9af575ed167711b&txTime=6aa4c24e
+https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=e2fce09dbb2e58b74e70e1703241fe1b&txTime=6aa4c5d2
 #EXTINF:-1 tvg-id="room-9912079" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg" group-title="SocoLive",Tường thuật: UEFA CL - Manchester United vs Sabah Baku - Rắn ở đáy sông
-https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=c0a0c58cde06153736b183e02e22ccc1&txTime=6aa4c24e
+https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=1170801d7b674e33c1fbef5463c93a83&txTime=6aa4c5d2
