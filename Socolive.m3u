@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
 # Channels: 92
-# Updated: 11/09/2026 04:13:37
+# Updated: 11/09/2026 04:18:40
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260907/cdb2dbc0f317ab427635b74840af5463.png" group-title="Bóng đá",Pumas U.N.A.M. vs Club Leon (MEX D1)
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789103582-0-0-e53019698a037e7e5c56b37080d20783
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789103882-0-0-e7df6b59548d29ea83daed2f097b20c2
 #EXTINF:-1 tvg-id="room-283501" tvg-logo="https://sta.vnres.co/file/common/20260909/65fc865446ea9fea968a5dc56e85e26a.png" group-title="Bóng đá",Jaguares de Cordoba vs Fortaleza F.C (COL D1)
 https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=093718629cd2aa7701682137c3293f84&txTime=6aa3c4c4
 #EXTINF:-1 tvg-id="room-291277" tvg-logo="https://sta.vnres.co/file/common/20260907/660b7831046715d04f51a1ba24ec7e2c.png" group-title="Bóng đá",Al-Gharafa vs Lusail (QAT D1)
@@ -24,7 +24,7 @@ https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=8307a27e34a65b2c72a4
 #EXTINF:-1 tvg-id="room-406865" tvg-logo="https://sta.vnres.co/file/common/20260907/0248c80e4a3d86761af72cadbee03ad7.png" group-title="Bóng đá",Port FC vs Lamphun Warriors (THA PR)
 https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=338d46bd3c6911371a23ba1d5fc5abcc&txTime=6aa38ae6
 #EXTINF:-1 tvg-id="room-414317" tvg-logo="https://sta.vnres.co/file/common/20260907/cdb2dbc0f317ab427635b74840af5463.png" group-title="Bóng đá",Pumas U.N.A.M. vs Club Leon (MEX D1)
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=f1507d8ae63f2007d8320c73610c75cd&txTime=6aa3d42e
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=67e2df37b6e403512c59c7a11797f325&txTime=6aa3d55a
 #EXTINF:-1 tvg-id="room-459401" tvg-logo="https://sta.vnres.co/file/common/20260907/b533a055c6d9b8c6653ec87bd0b2c957.png" group-title="Bóng đá",Dewa United FC vs Bhayangkara Presisi Indonesia FC (IDN D1)
 https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=ff17efd28096c6a7fc55aaab4833e28c&txTime=6aa3c47f
 #EXTINF:-1 tvg-id="room-485739" tvg-logo="https://sta.vnres.co/file/common/20260909/ad02f4f30161006705c217d8e6db5e71.png" group-title="Bóng đá",Defensa Y Justicia vs Gimnasia y Esgrima de Mendoza (ARG D1)
@@ -66,13 +66,13 @@ https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=e623f02566de1a1a704a
 #EXTINF:-1 tvg-id="room-617313" tvg-logo="https://sta.vnres.co/file/common/20260907/18bc4036a0af89d35c7879ec33ed4641.png" group-title="Bóng đá",Ajman vs Ittihad Kalba FC (UAE LP)
 https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1789103331-0-0-7fb9656c82685dd019e14c9c5dd89463
 #EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260907/e0c4ac0015d7655a02fe1915ffa97197.png" group-title="Bóng đá",Luis Angel Firpo vs CD Olimpia (CNCF CACup)
-https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789103582-0-0-a5e0aaeafe3822b7725bc2b62c72d93f
+https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789103882-0-0-7dd798e35ae64818756fbc83a70c69ca
 #EXTINF:-1 tvg-id="room-619561" tvg-logo="https://sta.vnres.co/file/common/20260907/ec0edd8c18cac5803d5b0e370ed29020.png" group-title="Bóng đá",Hue FC vs Dong Thap (VIE D2)
 https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1789097628-0-0-790397a8a0167ed788e38e3636351671
 #EXTINF:-1 tvg-id="room-619672" tvg-logo="https://sta.vnres.co/file/common/20260907/1095cfd5e5b57947fb2c252ee0cba7a9.png" group-title="Bóng đá",Bac Ninh vs Cong An Ho Chi Minh City (VIE D1)
 https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1789059541-0-0-04edf947d521799447bde54d0ab744ae
 #EXTINF:-1 tvg-id="room-620084" tvg-logo="https://sta.vnres.co/file/common/20260907/e0c4ac0015d7655a02fe1915ffa97197.png" group-title="Bóng đá",Luis Angel Firpo vs CD Olimpia (CNCF CACup)
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789103582-0-0-e126c22ce4e56d841cc6660d76ca8dc7
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789103882-0-0-80d2c12734e33c6db978b32fe0658dae
 #EXTINF:-1 tvg-id="room-620504" tvg-logo="https://sta.vnres.co/file/common/20260907/0248c80e4a3d86761af72cadbee03ad7.png" group-title="Bóng đá",Port FC vs Lamphun Warriors (THA PR)
 https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=eb1eae324b84e66c44b850c43fc73b44&txTime=6aa35f81
 #EXTINF:-1 tvg-id="room-620797" tvg-logo="https://sta.vnres.co/file/common/20260907/465e095f40b0c2b5b3625c4835fece19.png" group-title="Bóng đá",Johor Darul Ta'zim FC vs Negeri Sembilan (MAS SL)
@@ -92,21 +92,21 @@ https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789077334-0-0-b3ab
 #EXTINF:-1 tvg-id="room-625920" tvg-logo="https://sta.vnres.co/file/common/20260907/f946832bf408ddea3785123cd2e2b10a.png" group-title="Bóng đá",Farul Constanta vs FC UT Arad (ROM D1)
 https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1788969651-0-0-dd720ccad3670600433786d6248072a5
 #EXTINF:-1 tvg-id="room-627718" tvg-logo="https://sta.vnres.co/file/common/20260907/e0c4ac0015d7655a02fe1915ffa97197.png" group-title="Bóng đá",Luis Angel Firpo vs CD Olimpia (CNCF CACup)
-https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789103582-0-0-a2ba992bca04fa81c0ae456ec3a96aed
+https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789103882-0-0-ffbd34f91ced222bacc38fa4fc83b971
 #EXTINF:-1 tvg-id="room-991140" tvg-logo="https://sta.vnres.co/file/common/20260907/660b7831046715d04f51a1ba24ec7e2c.png" group-title="Bóng đá",Al-Gharafa vs Lusail (QAT D1)
 https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1789077936-0-0-575d176e4492a5a1d433e1a0cab9083d
 #EXTINF:-1 tvg-id="room-9912008" tvg-logo="https://sta.vnres.co/file/common/20260907/7ff8ca12cfcbf45b309194f8faa36440.png" group-title="Bóng đá",Garudayaksa FC vs Persik Kediri (IDN D1)
 https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789077485-0-0-54bf578a9bc6aa7e1f959ce65d723019
 #EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260907/cdb2dbc0f317ab427635b74840af5463.png" group-title="Bóng đá",Pumas U.N.A.M. vs Club Leon (MEX D1)
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=a2179f4847e6e093d46b37d2dc04ed32&txTime=6aa3d42e
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=e91961ef961e172d6b1768347c554ec5&txTime=6aa3d55a
 #EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260907/cdb2dbc0f317ab427635b74840af5463.png" group-title="Bóng đá",Pumas U.N.A.M. vs Club Leon (MEX D1)
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789103582-0-0-b66f17152b97e4e3ad51c6104ad4e6f6
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789103882-0-0-52582b3fd63844cd9adab2df2ec5ebbe
 #EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260907/1095cfd5e5b57947fb2c252ee0cba7a9.png" group-title="Bóng đá",Bac Ninh vs Cong An Ho Chi Minh City (VIE D1)
 https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=ff0a3b9259805dc3308267376b431e04&txTime=6aa3c743
 #EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260907/cdb2dbc0f317ab427635b74840af5463.png" group-title="Bóng đá",Pumas U.N.A.M. vs Club Leon (MEX D1)
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789103582-0-0-678bb952b9886ef469c970ee9cd13600
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789103882-0-0-dda5e1a57025ecb0e660c9cbda449f95
 #EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260907/e0c4ac0015d7655a02fe1915ffa97197.png" group-title="Bóng đá",Luis Angel Firpo vs CD Olimpia (CNCF CACup)
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789103582-0-0-465311b4784eaab4bd177b2a4725dc36
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789103882-0-0-60f25ac678b8d57a16dace78d58a7cc9
 #EXTINF:-1 tvg-id="room-9912123" tvg-logo="https://sta.vnres.co/file/common/20260909/c85a7b9cb80921f595fbfe40fc591145.png" group-title="Bóng đá",Hacken vs Mjallby AIF (SWE D1)
 https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1789077525-0-0-84120f02fd256fa01653399d04336b4a
 #EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260907/40b671ad9397be167f01bd612196896c.png" group-title="Bóng đá",Ninh Binh FC vs Thanh Hoa (VIE D1)
@@ -144,46 +144,46 @@ https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789099744-0-0-f26
 #EXTINF:-1 tvg-id="room-9912143" tvg-logo="https://sta.vnres.co/file/common/20260907/20e7d5b19ade5fe48918bee6fed96a3c.png" group-title="Bóng đá",Al Qadsiah vs Al Ettifaq (KSA PR)
 https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789077468-0-0-dee90fb43362000e536b369842905b31
 #EXTINF:-1 tvg-id="room-9912144" tvg-logo="https://sta.vnres.co/file/common/20260907/cdb2dbc0f317ab427635b74840af5463.png" group-title="Bóng đá",Pumas U.N.A.M. vs Club Leon (MEX D1)
-https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1789103582-0-0-2537f295676e23623404d601f382f017
+https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1789103882-0-0-2665bdc0f6877fa41869cfaa74f22394
 #EXTINF:-1 tvg-id="room-9912145" tvg-logo="https://sta.vnres.co/file/common/20260907/7ff8ca12cfcbf45b309194f8faa36440.png" group-title="Bóng đá",Garudayaksa FC vs Persik Kediri (IDN D1)
 https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789069217-0-0-fb12c17127897095868395a5f6f32c65
 #EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260907/3a4108152721f0a67b1323ec6901f5d6.png" group-title="Bóng đá",Vissel Kobe vs Kashima Antlers (JPN D1)
 https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789077554-0-0-1eb5abe2998ddd051b75e3bfe505d485
-#EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260909/86eb5e61a804f40d8408128c6b45562b.png" group-title="Bóng rổ",Philippines vs Bahrain (AGB)
+#EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260909/b45e8043a2963abeae38d8ced4f85831.png" group-title="Bóng rổ",Indonesia vs South Korea (AGB)
 https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=a87d69630a4efffda014f185a845d587&txTime=6aa2f8ce
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260909/86eb5e61a804f40d8408128c6b45562b.png" group-title="Bóng rổ",Philippines vs Bahrain (AGB)
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=d043c249e5e76bfca480618d380a5c4c&txTime=6aa3d42e
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=45f08b9fb0d15f0159698b2e1e769dd4&txTime=6aa3d55a
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260909/f640537992a3effa07bb4997337ae00b.png" group-title="Bóng rổ",Bataan Risers vs GenSan Warriors (MPBL)
 https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788875090-0-0-c91030b9a09d677d62346f27a5eac98c
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260909/b45e8043a2963abeae38d8ced4f85831.png" group-title="Bóng rổ",Indonesia vs South Korea (AGB)
 https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789098153-0-0-894014dda2767a8e4dd0b9c058c1ee23
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260909/86eb5e61a804f40d8408128c6b45562b.png" group-title="Bóng rổ",Philippines vs Bahrain (AGB)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789103582-0-0-b4434cbe1f2d0e7491bf301d090a8cfa
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789103882-0-0-2275b53b30d073c08f5f9b37a96a469b
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260909/86eb5e61a804f40d8408128c6b45562b.png" group-title="Bóng rổ",Philippines vs Bahrain (AGB)
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789103582-0-0-77e2051919619b79fc177f2ca88fdcf2
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789103882-0-0-1909b06c5d68a0e58c4bd7ce70360569
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260910/379b8f839c5b1772d5cb338b94e9bbc8.jpg" group-title="SocoLive",MEX D1: Pumas U.N.A.M. vs Club Leon - A PÁO
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789103582-0-0-e53019698a037e7e5c56b37080d20783
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789103882-0-0-e7df6b59548d29ea83daed2f097b20c2
 #EXTINF:-1 tvg-id="room-414317" tvg-logo="https://sta.vnres.co/file/common/20260806/4c726754b547e8d50d1f1dd3d1304c4f.jpg" group-title="SocoLive",MEX D1: Pumas U.N.A.M. vs Club Leon - THOMAS
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=f1507d8ae63f2007d8320c73610c75cd&txTime=6aa3d42e
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=67e2df37b6e403512c59c7a11797f325&txTime=6aa3d55a
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg" group-title="SocoLive",AGB: Philippines vs Bahrain - HUNTER
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=d043c249e5e76bfca480618d380a5c4c&txTime=6aa3d42e
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=45f08b9fb0d15f0159698b2e1e769dd4&txTime=6aa3d55a
 #EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg" group-title="SocoLive",CNCF CACup: Luis Angel Firpo vs CD Olimpia - CƠM NẾP
-https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789103582-0-0-a5e0aaeafe3822b7725bc2b62c72d93f
+https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789103882-0-0-7dd798e35ae64818756fbc83a70c69ca
 #EXTINF:-1 tvg-id="room-620084" tvg-logo="https://sta.vnres.co/file/common/20260713/cbd81ea71d49b5b5f074a5f56678a9b6.png" group-title="SocoLive",CNCF CACup: Luis Angel Firpo vs CD Olimpia - PEANUT
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789103582-0-0-e126c22ce4e56d841cc6660d76ca8dc7
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789103882-0-0-80d2c12734e33c6db978b32fe0658dae
 #EXTINF:-1 tvg-id="room-627718" tvg-logo="https://sta.vnres.co/file/common/20260831/8c106fa0fe146cf7929663e53e921ba0.jpg" group-title="SocoLive",CNCF CACup: Luis Angel Firpo vs CD Olimpia - A MÂN
-https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789103582-0-0-a2ba992bca04fa81c0ae456ec3a96aed
+https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789103882-0-0-ffbd34f91ced222bacc38fa4fc83b971
 #EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56.jpg" group-title="SocoLive",MEX D1: Pumas U.N.A.M. vs Club Leon - BLV TAP
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=a2179f4847e6e093d46b37d2dc04ed32&txTime=6aa3d42e
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=e91961ef961e172d6b1768347c554ec5&txTime=6aa3d55a
 #EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260909/7a29b362086bb982fdb5faa60979718c.png" group-title="SocoLive",MEX D1: Pumas U.N.A.M. vs Club Leon - BLV Củ Cải
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789103582-0-0-b66f17152b97e4e3ad51c6104ad4e6f6
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789103882-0-0-52582b3fd63844cd9adab2df2ec5ebbe
 #EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260909/49ea9eeb016497362bc20e6f236451a4.png" group-title="SocoLive",MEX D1: Pumas U.N.A.M. vs Club Leon - BLV ZOWIE
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789103582-0-0-678bb952b9886ef469c970ee9cd13600
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789103882-0-0-dda5e1a57025ecb0e660c9cbda449f95
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg" group-title="SocoLive",AGB: Philippines vs Bahrain - BLV HENRY
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789103582-0-0-b4434cbe1f2d0e7491bf301d090a8cfa
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789103882-0-0-2275b53b30d073c08f5f9b37a96a469b
 #EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151.png" group-title="SocoLive",CNCF CACup: Luis Angel Firpo vs CD Olimpia - BLV VOI
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789103582-0-0-465311b4784eaab4bd177b2a4725dc36
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789103882-0-0-60f25ac678b8d57a16dace78d58a7cc9
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg" group-title="SocoLive",AGB: Philippines vs Bahrain - CHAN SENA
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789103582-0-0-77e2051919619b79fc177f2ca88fdcf2
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789103882-0-0-1909b06c5d68a0e58c4bd7ce70360569
 #EXTINF:-1 tvg-id="room-9912144" tvg-logo="https://sta.vnres.co/file/common/20260911/77e77206253b2affeed8ee82f61d1a72.jpg" group-title="SocoLive",MEX D1: Pumas U.N.A.M. vs Club Leon - TẠ BIÊN GIỚI
-https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1789103582-0-0-2537f295676e23623404d601f382f017
+https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1789103882-0-0-2665bdc0f6877fa41869cfaa74f22394
