@@ -662,7 +662,7 @@
     "name": "Indonesia vs South Korea (AGB)",
     "logo": "https://sta.vnres.co/file/common/20260909/b45e8043a2963abeae38d8ced4f85831.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=a87d69630a4efffda014f185a845d587\u0026txTime=6aa2f8ce",
+    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=54b9db58cd7d75f04b2e79ce92273bc4\u0026txTime=6aa3f6ad",
     "type": "hls"
   },
   {
@@ -689,7 +689,7 @@
     "name": "Indonesia vs South Korea (AGB)",
     "logo": "https://sta.vnres.co/file/common/20260909/b45e8043a2963abeae38d8ced4f85831.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789098153-0-0-894014dda2767a8e4dd0b9c058c1ee23",
+    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789112402-0-0-d13f8a7aeac1ef89d5841a9762ff5fcf",
     "type": "hls"
   },
   {
@@ -716,7 +716,7 @@
     "name": "Tường thuật: UEFA CL - PSV Eindhoven vs FC Shakhtar Donetsk - Gà xào sả ớt",
     "logo": "https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=709f5cfd3a4027f581e02b884cb90824\u0026txTime=6aa3ee6e",
+    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=7bfb8f552466c223c52326f2ae6c48d4\u0026txTime=6aa3f6a2",
     "type": "hls"
   },
   {
@@ -725,7 +725,7 @@
     "name": "Tường thuật: UEFA CL - Fenerbahce vs AS Roma - Bò leo rào",
     "logo": "https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=9f8af91dfd25aa3977aea621986136df\u0026txTime=6aa3ee6e",
+    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=1f9254952aa988cf7a8eae5541ebb4d3\u0026txTime=6aa3f6a2",
     "type": "hls"
   },
   {
@@ -734,7 +734,7 @@
     "name": "Tường thuật: VIE D1 - The Cong-Viettel vs Cong An Ha Noi FC - Thỏ giang hồ",
     "logo": "https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=7041c9a8bcbd09913fad0c4fce22f842\u0026txTime=6aa3ee6e",
+    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=f13ed51b874117db42bcf25076efd083\u0026txTime=6aa3f6a2",
     "type": "hls"
   },
   {
@@ -743,7 +743,7 @@
     "name": "Tường thuật: QAT D1 - Al-Wakrah SC vs Al-Shamal SC - Hươu đau cổ",
     "logo": "https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=687d4c508a3c4f54f03db051084b54a9\u0026txTime=6aa3ee6e",
+    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=b725b4017ac865d260b47e42b6082362\u0026txTime=6aa3f6a2",
     "type": "hls"
   },
   {
@@ -752,7 +752,16 @@
     "name": "Tường thuật: UEFA CL - FC Bayern Munich vs FK Bodo/Glimt - Mèo méo meo",
     "logo": "https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=400b96916d2ad19d79026c8423dea304\u0026txTime=6aa3ee6e",
+    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=ec8edea50851d917b269aafcb8c6269b\u0026txTime=6aa3f6a2",
+    "type": "hls"
+  },
+  {
+    "id": "356042",
+    "tvg_id": "room-356042",
+    "name": "AGB: Indonesia vs South Korea - A CHÈ",
+    "logo": "https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=54b9db58cd7d75f04b2e79ce92273bc4\u0026txTime=6aa3f6ad",
     "type": "hls"
   },
   {
@@ -761,7 +770,16 @@
     "name": "Tường thuật: UEFA CL - Manchester United vs Sabah Baku - Rắn ở đáy sông",
     "logo": "https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=2fe8115290d7e4d99b7b55708e8e60f6\u0026txTime=6aa3ee6e",
+    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=c631fd8db39284eb5255ffc618ce759a\u0026txTime=6aa3f6a2",
+    "type": "hls"
+  },
+  {
+    "id": "9912106",
+    "tvg_id": "room-9912106",
+    "name": "AGB: Indonesia vs South Korea - BRIAN",
+    "logo": "https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789112402-0-0-d13f8a7aeac1ef89d5841a9762ff5fcf",
     "type": "hls"
   }
 ]
