@@ -126,6 +126,15 @@
     "type": "hls"
   },
   {
+    "id": "501412",
+    "tvg_id": "room-501412",
+    "name": "Vissel Kobe vs Kashima Antlers (JPN D1)",
+    "logo": "https://sta.vnres.co/file/common/20260907/3a4108152721f0a67b1323ec6901f5d6.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=da1d564968f0ebb249b8d74dd7269fc9\u0026txTime=6aa289ba",
+    "type": "hls"
+  },
+  {
     "id": "511367",
     "tvg_id": "room-511367",
     "name": "Ratchaburi FC vs True Bangkok United (THA PR)",
@@ -360,15 +369,6 @@
     "type": "hls"
   },
   {
-    "id": "622240",
-    "tvg_id": "room-622240",
-    "name": "SV Darmstadt 98 vs Arminia Bielefeld (GER D2)",
-    "logo": "https://sta.vnres.co/file/common/20260907/fb862b216aca6f26b6c46a6a026a6d93.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1789077599-0-0-e9ee13bd1f924e6652c8d6f613513bbf",
-    "type": "hls"
-  },
-  {
     "id": "622241",
     "tvg_id": "room-622241",
     "name": "SHB Da Nang vs Thep Xanh Nam Dinh FC (VIE D1)",
@@ -402,15 +402,6 @@
     "logo": "https://sta.vnres.co/file/common/20260907/660b7831046715d04f51a1ba24ec7e2c.png",
     "group": "Bóng đá",
     "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1789077936-0-0-575d176e4492a5a1d433e1a0cab9083d",
-    "type": "hls"
-  },
-  {
-    "id": "9912008",
-    "tvg_id": "room-9912008",
-    "name": "Garudayaksa FC vs Persik Kediri (IDN D1)",
-    "logo": "https://sta.vnres.co/file/common/20260907/7ff8ca12cfcbf45b309194f8faa36440.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789077485-0-0-54bf578a9bc6aa7e1f959ce65d723019",
     "type": "hls"
   },
   {
@@ -662,7 +653,7 @@
     "name": "Philippines vs Bahrain (AGB)",
     "logo": "https://sta.vnres.co/file/common/20260909/86eb5e61a804f40d8408128c6b45562b.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=59628bf88b762df2759be3af202d35a8\u0026txTime=6aa3e4d2",
+    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=222361fa5c0a8b1c9dade218baf928a5\u0026txTime=6aa3e5fe",
     "type": "hls"
   },
   {
@@ -689,7 +680,7 @@
     "name": "Philippines vs Bahrain (AGB)",
     "logo": "https://sta.vnres.co/file/common/20260909/86eb5e61a804f40d8408128c6b45562b.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789107842-0-0-a4f42f5933704acd86b7c4c007fbc444",
+    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789108142-0-0-f110a34c21945fa1931dc2a9bebdce5c",
     "type": "hls"
   },
   {
@@ -698,7 +689,7 @@
     "name": "Philippines vs Bahrain (AGB)",
     "logo": "https://sta.vnres.co/file/common/20260909/86eb5e61a804f40d8408128c6b45562b.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789107842-0-0-55db92639351964cc2648833b948dd33",
+    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789108142-0-0-7c981f6a3d877f7aa32d29ab4cbfb4a5",
     "type": "hls"
   },
   {
@@ -707,7 +698,7 @@
     "name": "Tường thuật: UEFA CL - PSV Eindhoven vs FC Shakhtar Donetsk - Gà xào sả ớt",
     "logo": "https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=68498d07b19b79c8f9438aa1a83d0730\u0026txTime=6aa3e4d2",
+    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=f2fc7378020a1710aa2f336fb8a00bd8\u0026txTime=6aa3e5fe",
     "type": "hls"
   },
   {
@@ -716,7 +707,7 @@
     "name": "Tường thuật: UEFA CL - Fenerbahce vs AS Roma - Bò leo rào",
     "logo": "https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=18d3a776aa97fc6343dc328f8c5343c5\u0026txTime=6aa3e4d2",
+    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=b47f31f551a65725baf324493bc5bdc8\u0026txTime=6aa3e5fe",
     "type": "hls"
   },
   {
@@ -725,7 +716,7 @@
     "name": "Tường thuật: VIE D1 - The Cong-Viettel vs Cong An Ha Noi FC - Thỏ giang hồ",
     "logo": "https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=4d16de9170920009a2040301de17818b\u0026txTime=6aa3e4d2",
+    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=a3414f14be495007e0429937704e70a3\u0026txTime=6aa3e5fe",
     "type": "hls"
   },
   {
@@ -734,7 +725,7 @@
     "name": "Tường thuật: QAT D1 - Al-Wakrah SC vs Al-Shamal SC - Hươu đau cổ",
     "logo": "https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=ade05431ac4bbbaa51c527c1d5c1c5c3\u0026txTime=6aa3e4d2",
+    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=d4ee75beee88a0b68122addb6fb8700e\u0026txTime=6aa3e5fe",
     "type": "hls"
   },
   {
@@ -743,7 +734,7 @@
     "name": "Tường thuật: UEFA CL - FC Bayern Munich vs FK Bodo/Glimt - Mèo méo meo",
     "logo": "https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=8578f0b40d6e8fa2e22d3075cb99164e\u0026txTime=6aa3e4d2",
+    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=7e50b2d3c0dcfbc19d1bc363dbc4b91f\u0026txTime=6aa3e5fe",
     "type": "hls"
   },
   {
@@ -752,7 +743,7 @@
     "name": "AGB: Philippines vs Bahrain - HUNTER",
     "logo": "https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=59628bf88b762df2759be3af202d35a8\u0026txTime=6aa3e4d2",
+    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=222361fa5c0a8b1c9dade218baf928a5\u0026txTime=6aa3e5fe",
     "type": "hls"
   },
   {
@@ -761,7 +752,7 @@
     "name": "Tường thuật: UEFA CL - Manchester United vs Sabah Baku - Rắn ở đáy sông",
     "logo": "https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=7dd724a56e52b62f274fbb44da6c3f7e\u0026txTime=6aa3e4d2",
+    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=cd2419d46c025f8374db668d9444c554\u0026txTime=6aa3e5fe",
     "type": "hls"
   },
   {
@@ -770,7 +761,7 @@
     "name": "AGB: Philippines vs Bahrain - BLV HENRY",
     "logo": "https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789107842-0-0-a4f42f5933704acd86b7c4c007fbc444",
+    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789108142-0-0-f110a34c21945fa1931dc2a9bebdce5c",
     "type": "hls"
   },
   {
@@ -779,7 +770,7 @@
     "name": "AGB: Philippines vs Bahrain - CHAN SENA",
     "logo": "https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789107842-0-0-55db92639351964cc2648833b948dd33",
+    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789108142-0-0-7c981f6a3d877f7aa32d29ab4cbfb4a5",
     "type": "hls"
   }
 ]
