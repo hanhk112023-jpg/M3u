@@ -32,7 +32,7 @@
     "name": "Club Atlético Newell's Old Boys vs Velez Sarsfield (ARG D1)",
     "logo": "https://sta.vnres.co/file/common/20260909/2689b372cee759366f8a2b791277bfd1.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1789167002-0-0-58b7e0ef365aeefd35409508ab985852",
+    "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1789167302-0-0-5762559ea3fbd74bfa454f59ec4ef1b4",
     "type": "hls"
   },
   {
@@ -86,7 +86,7 @@
     "name": "Club Atlético Newell's Old Boys vs Velez Sarsfield (ARG D1)",
     "logo": "https://sta.vnres.co/file/common/20260909/2689b372cee759366f8a2b791277bfd1.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=d4b1a4ea5f733884c3821f1c4f4a7d93\u0026txTime=6aa4cbea",
+    "url": "https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=8fc794382a8d932922a3a9ef95fa478e\u0026txTime=6aa4cd16",
     "type": "hls"
   },
   {
@@ -113,7 +113,7 @@
     "name": "Defensa Y Justicia vs Gimnasia y Esgrima de Mendoza (ARG D1)",
     "logo": "https://sta.vnres.co/file/common/20260909/ad02f4f30161006705c217d8e6db5e71.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=b98f489769e6e65b520ac6303acc7d3d\u0026txTime=6aa4cbea",
+    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=f292165b9e8ee0a71747f9f8f324cac9\u0026txTime=6aa4cd16",
     "type": "hls"
   },
   {
@@ -284,7 +284,7 @@
     "name": "Defensa Y Justicia vs Gimnasia y Esgrima de Mendoza (ARG D1)",
     "logo": "https://sta.vnres.co/file/common/20260909/ad02f4f30161006705c217d8e6db5e71.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789167002-0-0-06258d60f50ca4d23f05630651b21f0a",
+    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789167302-0-0-b68ef227d17a667a6b4475aa606c3588",
     "type": "hls"
   },
   {
@@ -356,7 +356,7 @@
     "name": "Defensa Y Justicia vs Gimnasia y Esgrima de Mendoza (ARG D1)",
     "logo": "https://sta.vnres.co/file/common/20260909/ad02f4f30161006705c217d8e6db5e71.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=dac064f8a604baca044ed3c1b954d8a5\u0026txTime=6aa4cbea",
+    "url": "https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=f5557f1fa9a2b89d21f6ae7a24c7edaa\u0026txTime=6aa4cd16",
     "type": "hls"
   },
   {
@@ -384,6 +384,15 @@
     "logo": "https://sta.vnres.co/file/common/20260907/20e7d5b19ade5fe48918bee6fed96a3c.png",
     "group": "Bóng đá",
     "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789158635-0-0-1bc56a8f2c179cdf9309c37bd84fea14",
+    "type": "hls"
+  },
+  {
+    "id": "625920",
+    "tvg_id": "room-625920",
+    "name": "Farul Constanta vs FC UT Arad (ROM D1)",
+    "logo": "https://sta.vnres.co/file/common/20260907/f946832bf408ddea3785123cd2e2b10a.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1789160426-0-0-0f9eab8ccb5d83587bc6d9ce5c9339aa",
     "type": "hls"
   },
   {
@@ -716,7 +725,7 @@
     "name": "Tường thuật: UEFA CL - PSV Eindhoven vs FC Shakhtar Donetsk - Gà xào sả ớt",
     "logo": "https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=5372239352ebde969072e6b3cefce512\u0026txTime=6aa4cbea",
+    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=ef34059fe67d50821f4d2b3ab43dc727\u0026txTime=6aa4cd16",
     "type": "hls"
   },
   {
@@ -725,7 +734,7 @@
     "name": "Tường thuật: UEFA CL - Fenerbahce vs AS Roma - Bò leo rào",
     "logo": "https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=5be078975063c30b6a205198865013f7\u0026txTime=6aa4cbea",
+    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=2abd399bc45813f2746cf20f17c654f3\u0026txTime=6aa4cd16",
     "type": "hls"
   },
   {
@@ -734,7 +743,7 @@
     "name": "Tường thuật: VIE D1 - The Cong-Viettel vs Cong An Ha Noi FC - Thỏ giang hồ",
     "logo": "https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=880ff526bca0d23f2b34f34559ab4773\u0026txTime=6aa4cbea",
+    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=caee2cedf49225b61e058578ec23a78a\u0026txTime=6aa4cd16",
     "type": "hls"
   },
   {
@@ -743,7 +752,7 @@
     "name": "Tường thuật: QAT D1 - Al-Wakrah SC vs Al-Shamal SC - Hươu đau cổ",
     "logo": "https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=2040e0a8e8302fb2102921ae4cdd140d\u0026txTime=6aa4cbea",
+    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=704ade230eebb652fca9a1a73a207fc3\u0026txTime=6aa4cd16",
     "type": "hls"
   },
   {
@@ -752,7 +761,7 @@
     "name": "ARG D1: Club Atlético Newell's Old Boys vs Velez Sarsfield - BLV LUCAS",
     "logo": "https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1789167002-0-0-58b7e0ef365aeefd35409508ab985852",
+    "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1789167302-0-0-5762559ea3fbd74bfa454f59ec4ef1b4",
     "type": "hls"
   },
   {
@@ -761,7 +770,7 @@
     "name": "Tường thuật: UEFA CL - FC Bayern Munich vs FK Bodo/Glimt - Mèo méo meo",
     "logo": "https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=da804d0ad7a643ffe39ee8e301000850\u0026txTime=6aa4cbea",
+    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=9e00f16654dc51d416f633c70c671709\u0026txTime=6aa4cd16",
     "type": "hls"
   },
   {
@@ -770,7 +779,7 @@
     "name": "ARG D1: Club Atlético Newell's Old Boys vs Velez Sarsfield - BLV ANH TÀI",
     "logo": "https://sta.vnres.co/file/common/20241220/6200343fea7ece69d7d92ae718616478.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=d4b1a4ea5f733884c3821f1c4f4a7d93\u0026txTime=6aa4cbea",
+    "url": "https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=8fc794382a8d932922a3a9ef95fa478e\u0026txTime=6aa4cd16",
     "type": "hls"
   },
   {
@@ -779,7 +788,7 @@
     "name": "ARG D1: Defensa Y Justicia vs Gimnasia y Esgrima de Mendoza - BLV CHIVAS",
     "logo": "https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=b98f489769e6e65b520ac6303acc7d3d\u0026txTime=6aa4cbea",
+    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=f292165b9e8ee0a71747f9f8f324cac9\u0026txTime=6aa4cd16",
     "type": "hls"
   },
   {
@@ -788,7 +797,7 @@
     "name": "ARG D1: Defensa Y Justicia vs Gimnasia y Esgrima de Mendoza - CƠM NẾP",
     "logo": "https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789167002-0-0-06258d60f50ca4d23f05630651b21f0a",
+    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789167302-0-0-b68ef227d17a667a6b4475aa606c3588",
     "type": "hls"
   },
   {
@@ -797,7 +806,7 @@
     "name": "ARG D1: Defensa Y Justicia vs Gimnasia y Esgrima de Mendoza - CHAN ĐÊ",
     "logo": "https://sta.vnres.co/file/common/20260728/c2935ca02d759ee77531ff32719f1b21.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=dac064f8a604baca044ed3c1b954d8a5\u0026txTime=6aa4cbea",
+    "url": "https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=f5557f1fa9a2b89d21f6ae7a24c7edaa\u0026txTime=6aa4cd16",
     "type": "hls"
   },
   {
@@ -806,7 +815,7 @@
     "name": "Tường thuật: UEFA CL - Manchester United vs Sabah Baku - Rắn ở đáy sông",
     "logo": "https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=b4315605e28cb87aab078c27ff17761d\u0026txTime=6aa4cbea",
+    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=632b65d5bff134d25a2ae12adc03d9c5\u0026txTime=6aa4cd16",
     "type": "hls"
   }
 ]
