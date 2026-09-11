@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 87
-# Updated: 11/09/2026 05:45:24
+# Channels: 88
+# Updated: 11/09/2026 05:50:29
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260909/a7b6401c6e63ea4eb1c150079cb78381.png" group-title="Bóng đá",Alianza vs Atletico Junior Barranquilla (COL D1)
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789106882-0-0-091617c1a91f104b87765281417b523c
@@ -152,28 +152,30 @@ https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789077554-0-0-1eb
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260909/b45e8043a2963abeae38d8ced4f85831.png" group-title="Bóng rổ",Indonesia vs South Korea (AGB)
 https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=a87d69630a4efffda014f185a845d587&txTime=6aa2f8ce
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260909/86eb5e61a804f40d8408128c6b45562b.png" group-title="Bóng rổ",Philippines vs Bahrain (AGB)
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=89c0b703606f99e17ea12c3781983890&txTime=6aa3e9be
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=ddba1450b0f8012550993d2b080c0568&txTime=6aa3eaea
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260909/f640537992a3effa07bb4997337ae00b.png" group-title="Bóng rổ",Bataan Risers vs GenSan Warriors (MPBL)
 https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788875090-0-0-c91030b9a09d677d62346f27a5eac98c
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260909/b45e8043a2963abeae38d8ced4f85831.png" group-title="Bóng rổ",Indonesia vs South Korea (AGB)
 https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789098153-0-0-894014dda2767a8e4dd0b9c058c1ee23
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260909/86eb5e61a804f40d8408128c6b45562b.png" group-title="Bóng rổ",Philippines vs Bahrain (AGB)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789109102-0-0-f9eade6170e602e03c46d59870ff1a80
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789109402-0-0-307a0581873e260ce57647764bec0032
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260909/86eb5e61a804f40d8408128c6b45562b.png" group-title="Bóng rổ",Philippines vs Bahrain (AGB)
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789109102-0-0-fce99d73f11098ff8179ad6e695c4faa
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789109402-0-0-4aab3ed6a7ecc98fdaba85bdfc1759ae
 #EXTINF:-1 tvg-id="room-133277" tvg-logo="https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg" group-title="SocoLive",Tường thuật: UEFA CL - PSV Eindhoven vs FC Shakhtar Donetsk - Gà xào sả ớt
-https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=e727e7eefdbd77615829b4d1190c406b&txTime=6aa3e982
+https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=fa337f3997e62eb7d2d8baac365b95a8&txTime=6aa3eaea
 #EXTINF:-1 tvg-id="room-133824" tvg-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg" group-title="SocoLive",Tường thuật: UEFA CL - Fenerbahce vs AS Roma - Bò leo rào
-https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=248a7f9209e2addc0123028a61c93152&txTime=6aa3e982
+https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=c9b6af315aca9b47aec7a092748f6bf9&txTime=6aa3eaea
 #EXTINF:-1 tvg-id="room-152898" tvg-logo="https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png" group-title="SocoLive",Tường thuật: VIE D1 - The Cong-Viettel vs Cong An Ha Noi FC - Thỏ giang hồ
-https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=09f7c32b791fdee13dc9f81c61473fa8&txTime=6aa3e982
+https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=7eaa0cf761975e603857b1d497df0a17&txTime=6aa3eaea
+#EXTINF:-1 tvg-id="room-179093" tvg-logo="https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg" group-title="SocoLive",Tường thuật: QAT D1 - Al-Wakrah SC vs Al-Shamal SC - Hươu đau cổ
+https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=276c4494a5e29ee51da6082511c53abf&txTime=6aa3eaea
 #EXTINF:-1 tvg-id="room-343500" tvg-logo="https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg" group-title="SocoLive",Tường thuật: UEFA CL - FC Bayern Munich vs FK Bodo/Glimt - Mèo méo meo
-https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=eaaa29886850785bbd3bf8a6c45c6303&txTime=6aa3e982
+https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=ccf6849e34ce757413a1dd46ef611330&txTime=6aa3eaea
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg" group-title="SocoLive",AGB: Philippines vs Bahrain - HUNTER
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=373d5d2984c9cad988fd52d80daa3298&txTime=6aa3e982
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=ddba1450b0f8012550993d2b080c0568&txTime=6aa3eaea
 #EXTINF:-1 tvg-id="room-9912079" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg" group-title="SocoLive",Tường thuật: UEFA CL - Manchester United vs Sabah Baku - Rắn ở đáy sông
-https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=808f645f728c4ffcb0414a05d71138c8&txTime=6aa3e982
+https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=38cd326b9e94790efa905fa4722b5575&txTime=6aa3eaea
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg" group-title="SocoLive",AGB: Philippines vs Bahrain - BLV HENRY
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789109042-0-0-165480fbcce425e4cd6de2d322eca4a6
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789109402-0-0-307a0581873e260ce57647764bec0032
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg" group-title="SocoLive",AGB: Philippines vs Bahrain - CHAN SENA
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789109042-0-0-e455f21b9403f17bf0787e24dc23d3e0
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789109402-0-0-4aab3ed6a7ecc98fdaba85bdfc1759ae
