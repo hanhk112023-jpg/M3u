@@ -50,7 +50,7 @@
     "name": "Ulsan HD FC vs Incheon United Club (KOR D1)",
     "logo": "https://sta.vnres.co/file/common/20260909/d68cef3768dc9e5fbd030aa350bec60c.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789203662-0-0-a4221c79176cfa250938ad1449aa1ea6",
+    "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789203962-0-0-18883616febd2472f0d2f2635ae3db21",
     "type": "hls"
   },
   {
@@ -122,7 +122,7 @@
     "name": "Bucheon FC 1995 vs Jeju SK FC (KOR D1)",
     "logo": "https://sta.vnres.co/file/common/20260909/7f90cada1a56623f92ba8c87c396f6ef.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=5fbb07a47cfb92be760df2862bdd010d\u0026txTime=6aa55b1e",
+    "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=ee22b52e3ce826ff684f3241f34b9280\u0026txTime=6aa55c4a",
     "type": "hls"
   },
   {
@@ -158,7 +158,7 @@
     "name": "Jeonbuk Hyundai Motors vs FC Seoul (KOR D1)",
     "logo": "https://sta.vnres.co/file/common/20260909/64bce68004028fcc2067855ab7dbdc23.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789203662-0-0-8290335b0c6698fdb9168ac853540c47",
+    "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789203962-0-0-4e28cd0600e60c5bcf2e7371d706daa8",
     "type": "hls"
   },
   {
@@ -176,7 +176,7 @@
     "name": "PSS Sleman vs Madura United (IDN D1)",
     "logo": "https://sta.vnres.co/file/common/20260909/8b315a2093c1cfd02ba7507a241edc7d.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=c951f40b61d1da2422c535b809c29ecf\u0026txTime=6aa55b1e",
+    "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=012ac7c06efc59a14dd64e3bcc35d3c6\u0026txTime=6aa55c4a",
     "type": "hls"
   },
   {
@@ -189,12 +189,21 @@
     "type": "hls"
   },
   {
+    "id": "552832",
+    "tvg_id": "room-552832",
+    "name": "Mito Hollyhock vs Kawasaki Frontale (JPN D1)",
+    "logo": "https://sta.vnres.co/file/common/20260909/0aa4da1822200c714f096115a2af0a29.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=b7d2bb60503b84a1e5607b6544da857d\u0026txTime=6aa52236",
+    "type": "hls"
+  },
+  {
     "id": "582342",
     "tvg_id": "room-582342",
     "name": "Ulsan HD FC vs Incheon United Club (KOR D1)",
     "logo": "https://sta.vnres.co/file/common/20260909/d68cef3768dc9e5fbd030aa350bec60c.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1789203662-0-0-df2543fe6f24228c54f2c65908c2b49e",
+    "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1789203962-0-0-22bfb5ccfc50222fabefa0c91948d04b",
     "type": "hls"
   },
   {
@@ -221,7 +230,7 @@
     "name": "PSS Sleman vs Madura United (IDN D1)",
     "logo": "https://sta.vnres.co/file/common/20260909/8b315a2093c1cfd02ba7507a241edc7d.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1789203662-0-0-5fd0ec38c2af3ece55aa3bf8ebf02b44",
+    "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1789203962-0-0-0b6c67ee6fed37d8d7dd03ea6f967620",
     "type": "hls"
   },
   {
@@ -302,7 +311,7 @@
     "name": "Bucheon FC 1995 vs Jeju SK FC (KOR D1)",
     "logo": "https://sta.vnres.co/file/common/20260909/7f90cada1a56623f92ba8c87c396f6ef.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789203662-0-0-789d57f6f2d9b1284ca79863c79d4023",
+    "url": "https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789203962-0-0-9cdf5d6cc2d3b2e2a1d64e162bacfe91",
     "type": "hls"
   },
   {
@@ -338,7 +347,7 @@
     "name": "Jeonbuk Hyundai Motors vs FC Seoul (KOR D1)",
     "logo": "https://sta.vnres.co/file/common/20260909/64bce68004028fcc2067855ab7dbdc23.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1789203662-0-0-aa62b465c96f143af960d77eb17f491c",
+    "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1789203962-0-0-8cadad6054e906a190129b50cf1bd389",
     "type": "hls"
   },
   {
@@ -374,7 +383,7 @@
     "name": "Jeonbuk Hyundai Motors vs FC Seoul (KOR D1)",
     "logo": "https://sta.vnres.co/file/common/20260909/64bce68004028fcc2067855ab7dbdc23.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789203662-0-0-64652903ce89dcc3e3cad4576a7f4f17",
+    "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789203962-0-0-f695961d7f9c23c27a01c22637202252",
     "type": "hls"
   },
   {
@@ -392,7 +401,7 @@
     "name": "Ulsan HD FC vs Incheon United Club (KOR D1)",
     "logo": "https://sta.vnres.co/file/common/20260909/d68cef3768dc9e5fbd030aa350bec60c.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789203662-0-0-834c17d9178b500c8af81e36af795586",
+    "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789203962-0-0-094448b0a38cb6eef6a80644ca641c05",
     "type": "hls"
   },
   {
@@ -410,7 +419,7 @@
     "name": "Persija Jakarta vs Persib Bandung (IDN D1)",
     "logo": "https://sta.vnres.co/file/common/20260909/18b57ef2b9af15238e4a473c0147b673.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789203662-0-0-6190444eecf8392fb8005dee69d56d63",
+    "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789203962-0-0-80817cf02c03511fb07cc43357bb7064",
     "type": "hls"
   },
   {
@@ -446,7 +455,7 @@
     "name": "Persija Jakarta vs Persib Bandung (IDN D1)",
     "logo": "https://sta.vnres.co/file/common/20260909/18b57ef2b9af15238e4a473c0147b673.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789185575-0-0-262514e4021b38b4be09c936f605280f",
+    "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789203979-0-0-4a004539d750fc1ab2d70508b7f9c745",
     "type": "hls"
   },
   {
@@ -482,7 +491,7 @@
     "name": "Jeonbuk Hyundai Motors vs FC Seoul (KOR D1)",
     "logo": "https://sta.vnres.co/file/common/20260909/64bce68004028fcc2067855ab7dbdc23.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789203662-0-0-ef1d64b839323d413081d9b2d1e36390",
+    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789203962-0-0-ffe5377678e22af40ae44f8a7f4483d2",
     "type": "hls"
   },
   {
@@ -500,7 +509,7 @@
     "name": "Ulsan HD FC vs Incheon United Club (KOR D1)",
     "logo": "https://sta.vnres.co/file/common/20260909/d68cef3768dc9e5fbd030aa350bec60c.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=0ab86f8da709bc009760144dc03227f0\u0026txTime=6aa55b1e",
+    "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=0d8912497f7981c067e280d6e257e1ad\u0026txTime=6aa55c4a",
     "type": "hls"
   },
   {
@@ -509,7 +518,7 @@
     "name": "Jeonbuk Hyundai Motors vs FC Seoul (KOR D1)",
     "logo": "https://sta.vnres.co/file/common/20260909/64bce68004028fcc2067855ab7dbdc23.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789203662-0-0-ab2b2f573587cc293b8182964797fa6e",
+    "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789203962-0-0-c744ed11a6b53c25fc02db35a9dd7870",
     "type": "hls"
   },
   {
@@ -518,7 +527,7 @@
     "name": "Jeonbuk Hyundai Motors vs FC Seoul (KOR D1)",
     "logo": "https://sta.vnres.co/file/common/20260909/64bce68004028fcc2067855ab7dbdc23.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=9fd3f438e6c3b505cabaf5a75b72c8d9\u0026txTime=6aa55b1e",
+    "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=0cd748542f086ea4ae0b4a7c8eea68e7\u0026txTime=6aa55c4a",
     "type": "hls"
   },
   {
@@ -590,7 +599,7 @@
     "name": "Persija Jakarta vs Persib Bandung (IDN D1)",
     "logo": "https://sta.vnres.co/file/common/20260909/18b57ef2b9af15238e4a473c0147b673.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=dbda34224cf4a469931e0710219d38a2\u0026txTime=6aa55b1e",
+    "url": "https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=34f491e1f90b31881cdbe4c6a3625559\u0026txTime=6aa55c4a",
     "type": "hls"
   },
   {
@@ -662,7 +671,7 @@
     "name": "Tasmania JackJumpers vs Sydney Kings (NBL)",
     "logo": "https://sta.vnres.co/file/common/20260910/8700a8187e551d9188eae34750afe6ab.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=23ca34cf0a70560b3add45e3b4128f4d\u0026txTime=6aa55b1e",
+    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=d9ba2b5dfcf837292d70903eacaaabd7\u0026txTime=6aa55c4a",
     "type": "hls"
   },
   {
@@ -689,7 +698,7 @@
     "name": "Bahrain vs China (AGB)",
     "logo": "https://sta.vnres.co/file/common/20260910/2ca8d30667709c656efbb3c79dd40158.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789203662-0-0-78b4d9014b6fde3db4d9749875085ada",
+    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789203962-0-0-95139705eaed3f0f78a2e8567c534571",
     "type": "hls"
   },
   {
@@ -698,7 +707,7 @@
     "name": "Tasmania JackJumpers vs Sydney Kings (NBL)",
     "logo": "https://sta.vnres.co/file/common/20260910/8700a8187e551d9188eae34750afe6ab.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789203662-0-0-4f4a48882ba3de2e229be6a6ca781798",
+    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789203962-0-0-0e1f009e30fca64fde13c6d48604cb36",
     "type": "hls"
   },
   {
@@ -707,7 +716,7 @@
     "name": "Bahrain vs China (AGB)",
     "logo": "https://sta.vnres.co/file/common/20260910/2ca8d30667709c656efbb3c79dd40158.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789203662-0-0-c51c1b5e39b2ee9716861d804c375675",
+    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789203962-0-0-508d4a8227260378b56a104b6d4b928a",
     "type": "hls"
   },
   {
@@ -716,7 +725,7 @@
     "name": "Tường thuật: MAS SL - Johor Darul Ta'zim FC vs Negeri Sembilan - Gà xào sả ớt",
     "logo": "https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=58fb8b7e577a1919d5e5495ba71f4449\u0026txTime=6aa55b1e",
+    "url": "https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=2f4d797af40bd1278615e851671bcac1\u0026txTime=6aa55c4a",
     "type": "hls"
   },
   {
@@ -725,7 +734,7 @@
     "name": "Tường thuật: QAT D1 - Al-Gharafa vs Lusail - Bò leo rào",
     "logo": "https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=c580459b92008c26713acc6d9e1468f5\u0026txTime=6aa55b1e",
+    "url": "https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=12e02ea2fd6b8ed217903644a0adb9a4\u0026txTime=6aa55c4a",
     "type": "hls"
   },
   {
@@ -734,7 +743,7 @@
     "name": "Tường thuật: MEX D1 - Necaxa vs Puebla - Thỏ giang hồ",
     "logo": "https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=1a10ecbf47604402d9305a4ddfa0609b\u0026txTime=6aa55b1e",
+    "url": "https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=d6e2d54c483690d5787d5b186ee4d504\u0026txTime=6aa55c4a",
     "type": "hls"
   },
   {
@@ -743,7 +752,7 @@
     "name": "Tường thuật: JPN D1 - Vissel Kobe vs Kashima Antlers - Hươu đau cổ",
     "logo": "https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=72bc94f41ea2e49000455ca0feb181fc\u0026txTime=6aa55b1e",
+    "url": "https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=2754d4e3b350b0dc305a367986b8b0dd\u0026txTime=6aa55c4a",
     "type": "hls"
   },
   {
@@ -752,7 +761,7 @@
     "name": "KOR D1: Ulsan HD FC vs Incheon United Club - BLV COCA",
     "logo": "https://sta.vnres.co/file/common/20260910/b74633428c7b7d75edf4a7dbb3d250cf.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789203662-0-0-a4221c79176cfa250938ad1449aa1ea6",
+    "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789203962-0-0-18883616febd2472f0d2f2635ae3db21",
     "type": "hls"
   },
   {
@@ -761,7 +770,7 @@
     "name": "Tường thuật: VIE D1 - SHB Da Nang vs Thep Xanh Nam Dinh FC - Mèo méo meo",
     "logo": "https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=07630c25763e29dfe592b5ffb4ababfb\u0026txTime=6aa55b1e",
+    "url": "https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=e616dac0fcadb2a62eeff604c9e5fb49\u0026txTime=6aa55c4a",
     "type": "hls"
   },
   {
@@ -770,7 +779,7 @@
     "name": "NBL: Tasmania JackJumpers vs Sydney Kings - A CHÈ",
     "logo": "https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=23ca34cf0a70560b3add45e3b4128f4d\u0026txTime=6aa55b1e",
+    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=d9ba2b5dfcf837292d70903eacaaabd7\u0026txTime=6aa55c4a",
     "type": "hls"
   },
   {
@@ -779,7 +788,7 @@
     "name": "KOR D1: Bucheon FC 1995 vs Jeju SK FC - BLV VIP",
     "logo": "https://sta.vnres.co/file/common/20250723/6b83b847d8944b57cc13043bae9fa7a8.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=5fbb07a47cfb92be760df2862bdd010d\u0026txTime=6aa55b1e",
+    "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=ee22b52e3ce826ff684f3241f34b9280\u0026txTime=6aa55c4a",
     "type": "hls"
   },
   {
@@ -788,7 +797,7 @@
     "name": "KOR D1: Jeonbuk Hyundai Motors vs FC Seoul - LÃO LÂM",
     "logo": "https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789203662-0-0-8290335b0c6698fdb9168ac853540c47",
+    "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789203962-0-0-4e28cd0600e60c5bcf2e7371d706daa8",
     "type": "hls"
   },
   {
@@ -797,7 +806,7 @@
     "name": "IDN D1: PSS Sleman vs Madura United - BLV RAMBO",
     "logo": "https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=c951f40b61d1da2422c535b809c29ecf\u0026txTime=6aa55b1e",
+    "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=012ac7c06efc59a14dd64e3bcc35d3c6\u0026txTime=6aa55c4a",
     "type": "hls"
   },
   {
@@ -806,7 +815,7 @@
     "name": "KOR D1: Ulsan HD FC vs Incheon United Club - BLV CÒ",
     "logo": "https://sta.vnres.co/file/common/20260911/5092224ec4c96a8b8625005b880ba090.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1789203662-0-0-df2543fe6f24228c54f2c65908c2b49e",
+    "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1789203962-0-0-22bfb5ccfc50222fabefa0c91948d04b",
     "type": "hls"
   },
   {
@@ -815,7 +824,7 @@
     "name": "IDN D1: PSS Sleman vs Madura United - BLV LION",
     "logo": "https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1789203662-0-0-5fd0ec38c2af3ece55aa3bf8ebf02b44",
+    "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1789203962-0-0-0b6c67ee6fed37d8d7dd03ea6f967620",
     "type": "hls"
   },
   {
@@ -824,7 +833,7 @@
     "name": "KOR D1: Bucheon FC 1995 vs Jeju SK FC - PEANUT",
     "logo": "https://sta.vnres.co/file/common/20260713/cbd81ea71d49b5b5f074a5f56678a9b6.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789203662-0-0-789d57f6f2d9b1284ca79863c79d4023",
+    "url": "https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789203962-0-0-9cdf5d6cc2d3b2e2a1d64e162bacfe91",
     "type": "hls"
   },
   {
@@ -833,7 +842,7 @@
     "name": "KOR D1: Jeonbuk Hyundai Motors vs FC Seoul - BLV BẢY",
     "logo": "https://sta.vnres.co/file/common/20260813/5d212275a6562e784f8ce4dd82466681.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1789203662-0-0-aa62b465c96f143af960d77eb17f491c",
+    "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1789203962-0-0-8cadad6054e906a190129b50cf1bd389",
     "type": "hls"
   },
   {
@@ -842,7 +851,7 @@
     "name": "KOR D1: Jeonbuk Hyundai Motors vs FC Seoul - BLV HEHE",
     "logo": "https://sta.vnres.co/file/common/20260911/bb1098e2b7926b5aae7e1d2f11383468.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789203662-0-0-64652903ce89dcc3e3cad4576a7f4f17",
+    "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789203962-0-0-f695961d7f9c23c27a01c22637202252",
     "type": "hls"
   },
   {
@@ -851,7 +860,7 @@
     "name": "KOR D1: Ulsan HD FC vs Incheon United Club - A MÂN",
     "logo": "https://sta.vnres.co/file/common/20260831/8c106fa0fe146cf7929663e53e921ba0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789203662-0-0-834c17d9178b500c8af81e36af795586",
+    "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789203962-0-0-094448b0a38cb6eef6a80644ca641c05",
     "type": "hls"
   },
   {
@@ -860,7 +869,7 @@
     "name": "IDN D1: Persija Jakarta vs Persib Bandung - BLV TOMIA",
     "logo": "https://sta.vnres.co/file/common/20260904/3360a52dcf3d4a0b945286a1e13d48ca.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789203662-0-0-6190444eecf8392fb8005dee69d56d63",
+    "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789203962-0-0-80817cf02c03511fb07cc43357bb7064",
     "type": "hls"
   },
   {
@@ -869,7 +878,7 @@
     "name": "Tường thuật: MEX D1 - Pumas U.N.A.M. vs Club Leon - Rắn ở đáy sông",
     "logo": "https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=ac1e53de2d72f335365a53799647f5ff\u0026txTime=6aa55b1e",
+    "url": "https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=4f2acd3391100b2f348b1facfaf2640e\u0026txTime=6aa55c4a",
     "type": "hls"
   },
   {
@@ -878,7 +887,7 @@
     "name": "AGB: Bahrain vs China - BRIAN",
     "logo": "https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789203662-0-0-78b4d9014b6fde3db4d9749875085ada",
+    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789203962-0-0-95139705eaed3f0f78a2e8567c534571",
     "type": "hls"
   },
   {
@@ -887,7 +896,7 @@
     "name": "NBL: Tasmania JackJumpers vs Sydney Kings - BLV HENRY",
     "logo": "https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789203662-0-0-4f4a48882ba3de2e229be6a6ca781798",
+    "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789203962-0-0-0e1f009e30fca64fde13c6d48604cb36",
     "type": "hls"
   },
   {
@@ -896,7 +905,7 @@
     "name": "AGB: Bahrain vs China - CHAN SENA",
     "logo": "https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789203662-0-0-c51c1b5e39b2ee9716861d804c375675",
+    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789203962-0-0-508d4a8227260378b56a104b6d4b928a",
     "type": "hls"
   },
   {
@@ -905,7 +914,7 @@
     "name": "KOR D1: Jeonbuk Hyundai Motors vs FC Seoul - KENCHU",
     "logo": "https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789203662-0-0-ef1d64b839323d413081d9b2d1e36390",
+    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789203962-0-0-ffe5377678e22af40ae44f8a7f4483d2",
     "type": "hls"
   },
   {
@@ -914,7 +923,7 @@
     "name": "KOR D1: Ulsan HD FC vs Incheon United Club - BLV PIRLO",
     "logo": "https://sta.vnres.co/file/common/20250320/efe293015c817dee46ccc81fa5e934d7.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=0ab86f8da709bc009760144dc03227f0\u0026txTime=6aa55b1e",
+    "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=0d8912497f7981c067e280d6e257e1ad\u0026txTime=6aa55c4a",
     "type": "hls"
   },
   {
@@ -923,7 +932,7 @@
     "name": "KOR D1: Jeonbuk Hyundai Motors vs FC Seoul - CACAO",
     "logo": "https://sta.vnres.co/file/common/20260729/2cca708e4ee1d3e988c578ff79960d7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789203662-0-0-ab2b2f573587cc293b8182964797fa6e",
+    "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789203962-0-0-c744ed11a6b53c25fc02db35a9dd7870",
     "type": "hls"
   },
   {
@@ -932,7 +941,7 @@
     "name": "KOR D1: Jeonbuk Hyundai Motors vs FC Seoul - QUỐC KHÁNH",
     "logo": "https://sta.vnres.co/file/common/20260911/086cd2434afcf6d930543296a5e89647.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=9fd3f438e6c3b505cabaf5a75b72c8d9\u0026txTime=6aa55b1e",
+    "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=0cd748542f086ea4ae0b4a7c8eea68e7\u0026txTime=6aa55c4a",
     "type": "hls"
   },
   {
@@ -941,7 +950,7 @@
     "name": "IDN D1: Persija Jakarta vs Persib Bandung - BLV A TINH",
     "logo": "https://sta.vnres.co/file/common/20260317/5be300857a15349a5324be170237948b.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=dbda34224cf4a469931e0710219d38a2\u0026txTime=6aa55b1e",
+    "url": "https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=34f491e1f90b31881cdbe4c6a3625559\u0026txTime=6aa55c4a",
     "type": "hls"
   }
 ]
