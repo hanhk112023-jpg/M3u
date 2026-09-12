@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 85
-# Updated: 12/09/2026 21:27:31
+# Channels: 87
+# Updated: 12/09/2026 21:32:35
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260910/294b07f5943139919e2435b39d17b5d7.png" group-title="Bóng đá",St. Louis City SC vs Minnesota United FC (USA MLS)
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789239442-0-0-191463e17978696e87474a43722de67a
@@ -28,21 +28,23 @@ https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=440af216a74abc886b7c
 #EXTINF:-1 tvg-id="room-459401" tvg-logo="https://sta.vnres.co/file/common/20260910/3190a03907981e7f741b4653f023c245.png" group-title="Bóng đá",Hong Linh Ha Tinh vs Truong Tuoi Dong Nai (VIE D1)
 https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=d41cafb79a34de038bc017a90f01da3c&txTime=6aa5ee84
 #EXTINF:-1 tvg-id="room-485739" tvg-logo="https://sta.vnres.co/file/common/20260910/165badd7c2b42a00bedcea323ef290aa.png" group-title="Bóng đá",Palmeiras - SP vs São Paulo - SP (BRA D1)
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=e4701a6d8c91c425043aa5fb8edd3acd&txTime=6aa61806
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=a363fee3b352aaf9ae89fa2a42475bd4&txTime=6aa61932
 #EXTINF:-1 tvg-id="room-491873" tvg-logo="https://sta.vnres.co/file/common/20260910/dde0a4bb27550b9aca4daf396ceffaeb.png" group-title="Bóng đá",FC Cincinnati vs Charlotte FC (USA MLS)
 https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=fda030cac40e0e50b208cbeda78966e4&txTime=6aa5c3a5
 #EXTINF:-1 tvg-id="room-501412" tvg-logo="https://sta.vnres.co/file/common/20260910/4f9713491882d78ef1e2131a405ed8c5.png" group-title="Bóng đá",Gimcheon Sangmu FC vs Gangwon FC (KOR D1)
 https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=25b271e1b26b84e391bf05b50e4f9cea&txTime=6aa611f1
 #EXTINF:-1 tvg-id="room-511367" tvg-logo="https://sta.vnres.co/file/common/20260910/7c5579542e55cb7672c9aaff3956dd78.png" group-title="Bóng đá",Atletico Tucuman vs River Plate (ARG D1)
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1789252022-0-0-34a0b015a3b0fdb0584cca4b7cba66f1
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1789252322-0-0-e730948d32db072465ecf942668f2f76
 #EXTINF:-1 tvg-id="room-527383" tvg-logo="https://sta.vnres.co/file/common/20260910/165badd7c2b42a00bedcea323ef290aa.png" group-title="Bóng đá",Palmeiras - SP vs São Paulo - SP (BRA D1)
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789252022-0-0-8fa73cde823ac4e28e59b5af16ac7d22
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789252322-0-0-8278abb1649a9b30c57730b0dc6aef55
 #EXTINF:-1 tvg-id="room-527384" tvg-logo="https://sta.vnres.co/file/common/20260909/c2fc67964990a54d08b12cf7a5925159.png" group-title="Bóng đá",Chelsea vs Hull City (ENG PR)
 https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789232531-0-0-01c3427ba033838b6e96687f8c52f539
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260910/64bd41036c13feb303c6cf693fc13aa1.png" group-title="Bóng đá",Inter Miami CF vs Nashville SC (USA MLS)
 https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789232353-0-0-c3162602f4cc4fd7420adf94966e9bd5
 #EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260910/cf30aa3686e0ea933e1ecf9cc2350d69.png" group-title="Bóng đá",Jeonnam Dragons vs Gimpo FC (KOR D2)
 https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=406a0e92281d7c8af419e2706e3be9fb&txTime=6aa5f61d
+#EXTINF:-1 tvg-id="room-536185" tvg-logo="https://sta.vnres.co/file/common/20260910/e229871b57def839956d6df4ac0e76d5.png" group-title="Bóng đá",Napoli vs Bologna (ITA D1)
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1789249111-0-0-7035386e345373186f839c8a41a923e5
 #EXTINF:-1 tvg-id="room-552832" tvg-logo="https://sta.vnres.co/file/common/20260909/9cbacc8ab26215053555adcc8367552b.png" group-title="Bóng đá",Bournemouth AFC vs Brentford (ENG PR)
 https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=ddbf608ad315b42ea35862aefef47a09&txTime=6aa61157
 #EXTINF:-1 tvg-id="room-582342" tvg-logo="https://sta.vnres.co/file/common/20260910/66e4a7cd900823ec8bf49d0119f7d4f5.png" group-title="Bóng đá",Rayados de Monterrey vs Tigres UANL (MEX D1)
@@ -58,13 +60,13 @@ https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789237114-0-0-2b8f
 #EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260910/3e1e2f3115d427125cc9ddf60d8eef3c.png" group-title="Bóng đá",Toluca vs Atlas (MEX D1)
 https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=0981c6f3810163a74e3fdf60df847ac1&txTime=6aa5cca1
 #EXTINF:-1 tvg-id="room-607552" tvg-logo="https://sta.vnres.co/file/common/20260910/7c5579542e55cb7672c9aaff3956dd78.png" group-title="Bóng đá",Atletico Tucuman vs River Plate (ARG D1)
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1789252022-0-0-a884aab5cba9e9c5c88f72ec58a6f66f
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1789252322-0-0-f6f9bf6adb0571ea5b11dfcdd132aabb
 #EXTINF:-1 tvg-id="room-610518" tvg-logo="https://sta.vnres.co/file/common/20260909/273b10020deeb156ab9c74948bffa0cb.png" group-title="Bóng đá",RC Strasbourg Alsace vs AS Monaco (FRA D1)
 https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=9f102e06a0088a95077fba5492b5381a&txTime=6aa60cdc
 #EXTINF:-1 tvg-id="room-617313" tvg-logo="https://sta.vnres.co/file/common/20260910/165badd7c2b42a00bedcea323ef290aa.png" group-title="Bóng đá",Palmeiras - SP vs São Paulo - SP (BRA D1)
-https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1789252022-0-0-81d5ca42f8a960fccfcf3a7bb6ea4608
+https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1789252322-0-0-5094bbbf6069f53f9a43ebf5ac75bdfb
 #EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260910/165badd7c2b42a00bedcea323ef290aa.png" group-title="Bóng đá",Palmeiras - SP vs São Paulo - SP (BRA D1)
-https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789252022-0-0-25310dab6089a57e2fbbc9f05986411a
+https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789252322-0-0-17da2276f64d2c9a8ef09c6e1f7cf793
 #EXTINF:-1 tvg-id="room-619561" tvg-logo="https://sta.vnres.co/file/common/20260910/ea2fd49548f77b20c33019eba7a94934.png" group-title="Bóng đá",FC Dallas vs Portland Timbers (USA MLS)
 https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1789216227-0-0-70c9293da7729356b2de8af27f7e9c3f
 #EXTINF:-1 tvg-id="room-619672" tvg-logo="https://sta.vnres.co/file/common/20260910/294b07f5943139919e2435b39d17b5d7.png" group-title="Bóng đá",St. Louis City SC vs Minnesota United FC (USA MLS)
@@ -75,6 +77,8 @@ https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789229057-0-0-9592
 https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1789246787-0-0-c697c878174877ac73c711089b0977b9
 #EXTINF:-1 tvg-id="room-620797" tvg-logo="https://sta.vnres.co/file/common/20260910/5895ec4dfc8dfc717ddb18cb448c729c.png" group-title="Bóng đá",Van Hien University vs Becamex Ho Chi Minh City (VIE D2)
 https://pull.niur.live/live/stream-620797_lhd.m3u8?txSecret=95ea881e13e6f03dd5b3d719d216102c&txTime=6aa603b6
+#EXTINF:-1 tvg-id="room-621840" tvg-logo="https://sta.vnres.co/file/common/20260910/a4e00c6cbd62c3fe28ba89e7007f6dea.png" group-title="Bóng đá",1. FC Heidenheim 1846 vs Holstein Kiel (GER D2)
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=022c6c30512745410c27ba08c17583c5&txTime=6aa60cb6
 #EXTINF:-1 tvg-id="room-621843" tvg-logo="https://sta.vnres.co/file/common/20260910/fe4cf42c2c58b5d9b85da75664771096.png" group-title="Bóng đá",Albirex Niigata vs Montedio Yamagata (JPN D2)
 https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1789243236-0-0-0861e70a9c85573db190012f8347a595
 #EXTINF:-1 tvg-id="room-621887" tvg-logo="https://sta.vnres.co/file/common/20260910/3e1e2f3115d427125cc9ddf60d8eef3c.png" group-title="Bóng đá",Toluca vs Atlas (MEX D1)
@@ -105,7 +109,7 @@ https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789231926-0-0-f34
 https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789222200-0-0-85ad7feafe42e467e8cb8c49b633134c
 #EXTINF:-1 tvg-id="room-9912119" tvg-logo="https://sta.vnres.co/file/common/20260910/6e66d85246d86db11fd79d1c32715bd4.png" group-title="Bóng đá",Sporting Kansas City vs Los Angeles FC (USA MLS)
 https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1788869952-0-0-1b46cb195e4cd08292cf744c4df159a4
-#EXTINF:-1 tvg-id="room-9912122" tvg-logo="https://sta.vnres.co/file/common/20260911/10dd4d4420c93485c434bd8a9ecb41e8.png" group-title="Bóng đá",Torino vs AS Roma (ITA D1)
+#EXTINF:-1 tvg-id="room-9912122" tvg-logo="https://sta.vnres.co/file/common/20260911/f600b11c3f26c7c692175b181817cd9b.png" group-title="Bóng đá",San Diego FC vs Philadelphia Union (USA MLS)
 https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=0583ab4859a525d8a0bca4cac06a90a8&txTime=6a963f68
 #EXTINF:-1 tvg-id="room-9912123" tvg-logo="https://sta.vnres.co/file/common/20260910/3932df85d33a0ad4d0961ef8a24449a4.png" group-title="Bóng đá",VfL Osnabrück vs Hertha Berlin (GER D2)
 https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1789249068-0-0-0b359d81b3b815b0d32edb74f778ab0f
@@ -162,14 +166,14 @@ https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789233308-0-0-1ab
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260911/012472ba2ac6227ec146883ec9fb10ae.png" group-title="Bóng rổ",Iran vs Jordan (AGB)
 https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789217718-0-0-191c1fd6cc78ccb6f18a74330cd15499
 #EXTINF:-1 tvg-id="room-485739" tvg-logo="https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg" group-title="SocoLive",BRA D1: Palmeiras - SP vs São Paulo - SP - BLV CHIVAS
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=27994adda2332b7b743441f828f5b349&txTime=6aa617ca
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=a363fee3b352aaf9ae89fa2a42475bd4&txTime=6aa61932
 #EXTINF:-1 tvg-id="room-511367" tvg-logo="https://sta.vnres.co/file/common/20251121/6d691b0b9dfd9eeb599401a2499400f0.png" group-title="SocoLive",ARG D1: Atletico Tucuman vs River Plate - BLV WUKONG
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1789251962-0-0-3c81bf11f71f3c39cccd78cb3bbe6b45
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1789252322-0-0-e730948d32db072465ecf942668f2f76
 #EXTINF:-1 tvg-id="room-527383" tvg-logo="https://sta.vnres.co/file/common/20260626/fcd1d9373f93de7ff3ebfbee3f073c7c.jpg" group-title="SocoLive",BRA D1: Palmeiras - SP vs São Paulo - SP - BLV ROBBEN
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789251962-0-0-025217bd6063dc8a4ee547c514afe037
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789252322-0-0-8278abb1649a9b30c57730b0dc6aef55
 #EXTINF:-1 tvg-id="room-607552" tvg-logo="https://sta.vnres.co/file/common/20260522/f2b4ef051d1e02300d2d5bf24f3828f0.png" group-title="SocoLive",ARG D1: Atletico Tucuman vs River Plate - ĐỖ TÚ TÀI
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1789251962-0-0-cb82f2911152f2f0eaf30c92af2ed4a1
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1789252322-0-0-f6f9bf6adb0571ea5b11dfcdd132aabb
 #EXTINF:-1 tvg-id="room-617313" tvg-logo="https://sta.vnres.co/file/common/20260910/0b1046f9ea6e137597f737c5d46ef984.jpg" group-title="SocoLive",BRA D1: Palmeiras - SP vs São Paulo - SP - VINFAST
-https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1789251962-0-0-e9d2faa95d8084aa8f29e2a8d69565f0
+https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1789252322-0-0-5094bbbf6069f53f9a43ebf5ac75bdfb
 #EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg" group-title="SocoLive",BRA D1: Palmeiras - SP vs São Paulo - SP - CƠM NẾP
-https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789251962-0-0-9cd271f636a8931aa826b8f88b5cfeae
+https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789252322-0-0-17da2276f64d2c9a8ef09c6e1f7cf793
