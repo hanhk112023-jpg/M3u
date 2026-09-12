@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 96
-# Updated: 12/09/2026 04:16:47
+# Channels: 95
+# Updated: 12/09/2026 04:21:52
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260909/c90ce1103df1c344b5730ef9ca175ec1.png" group-title="Bóng đá",Borussia Dortmund vs SC Paderborn 07 (GER D1)
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789106882-0-0-091617c1a91f104b87765281417b523c
@@ -20,11 +20,11 @@ https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1789189172-0-0-f67f
 #EXTINF:-1 tvg-id="room-380460" tvg-logo="https://sta.vnres.co/file/common/20260909/535ba10694d8c96e769c3893d44ad47a.png" group-title="Bóng đá",Aston Villa vs Nottingham Forest (ENG PR)
 https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1789162587-0-0-fd64d44f24acfb92e896421946c0a0ae
 #EXTINF:-1 tvg-id="room-387694" tvg-logo="https://sta.vnres.co/file/common/20260909/c6c8edc01eebccdcdbee6fd126729d85.png" group-title="Bóng đá",Atlante FC vs Pachuca (MEX D1)
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=0bf8896af80a1d889a214f22530b11d5&txTime=6aa52662
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=41788feb3446eeec73fd987379f1db75&txTime=6aa5278e
 #EXTINF:-1 tvg-id="room-406865" tvg-logo="https://sta.vnres.co/file/common/20260909/009004a7f6c28bad7d9d5228bfcab3ee.png" group-title="Bóng đá",VfL Bochum 1848 vs SpVgg Greuther Fürth (GER D2)
 https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=f334941d96729c5ae55fe9f7ccef707c&txTime=6aa4cdca
 #EXTINF:-1 tvg-id="room-414317" tvg-logo="https://sta.vnres.co/file/common/20260909/392096fc55ba3340e99f195f32a08a2f.png" group-title="Bóng đá",Club Tijuana vs Queretaro FC (MEX D1)
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=42153778a76b2804541760353c5d984c&txTime=6aa52662
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=ea0c4ca07ea751bfad44631776a0ba90&txTime=6aa5278e
 #EXTINF:-1 tvg-id="room-459401" tvg-logo="https://sta.vnres.co/file/common/20260909/8514ccec8c91a8f8ca40099bb374ebcb.png" group-title="Bóng đá",Shimizu S-Pulse vs Avispa Fukuoka (JPN D1)
 https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=59b4a068024b580318740875de29171a&txTime=6aa4bf98
 #EXTINF:-1 tvg-id="room-485739" tvg-logo="https://sta.vnres.co/file/common/20260909/009004a7f6c28bad7d9d5228bfcab3ee.png" group-title="Bóng đá",VfL Bochum 1848 vs SpVgg Greuther Fürth (GER D2)
@@ -38,9 +38,9 @@ https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1789163254-0-0-c1e8
 #EXTINF:-1 tvg-id="room-527383" tvg-logo="https://sta.vnres.co/file/common/20260909/ae7563b7be4c7ee0a611093da1cf9c36.png" group-title="Bóng đá",Hanoi FC vs Song Lam Nghe An (VIE D1)
 https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789162786-0-0-3986d0773e8708f396afc814d16cc5e8
 #EXTINF:-1 tvg-id="room-527384" tvg-logo="https://sta.vnres.co/file/common/20260909/c6c8edc01eebccdcdbee6fd126729d85.png" group-title="Bóng đá",Atlante FC vs Pachuca (MEX D1)
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789190162-0-0-590f62fba1d815ab8fccf6b0a6e3f571
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789190462-0-0-29187eb7de1f7d2519289b187e615cbb
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260909/c6c8edc01eebccdcdbee6fd126729d85.png" group-title="Bóng đá",Atlante FC vs Pachuca (MEX D1)
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789190162-0-0-57317c61100084b3fc06908df098ad51
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789190462-0-0-8afe4c46738f865636bf68b8db5914be
 #EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260909/8b315a2093c1cfd02ba7507a241edc7d.png" group-title="Bóng đá",PSS Sleman vs Madura United (IDN D1)
 https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=9d74e11197ac7a567f98a08109003b86&txTime=6aa4fc83
 #EXTINF:-1 tvg-id="room-536185" tvg-logo="https://sta.vnres.co/file/common/20260909/2586d0553605aed0879253d6453e34a4.png" group-title="Bóng đá",FC Köln vs SV Werder Bremen (GER D1)
@@ -96,17 +96,17 @@ https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789106410-0-0-5a85
 #EXTINF:-1 tvg-id="room-991140" tvg-logo="https://sta.vnres.co/file/common/20260909/0aa4da1822200c714f096115a2af0a29.png" group-title="Bóng đá",Mito Hollyhock vs Kawasaki Frontale (JPN D1)
 https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1789156755-0-0-2b4df3b03886aefdafc5574db549cb37
 #EXTINF:-1 tvg-id="room-9912008" tvg-logo="https://sta.vnres.co/file/common/20260909/c6c8edc01eebccdcdbee6fd126729d85.png" group-title="Bóng đá",Atlante FC vs Pachuca (MEX D1)
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789190162-0-0-73aecfa009795095c869d7338b287aeb
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789190462-0-0-3bb712c8f94ed33ba13b8085862443b3
 #EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260909/392096fc55ba3340e99f195f32a08a2f.png" group-title="Bóng đá",Club Tijuana vs Queretaro FC (MEX D1)
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=a94fb566216cd0397e8f60447086fd7a&txTime=6aa52662
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=9b6df55396af361c38d52272e25ce7ee&txTime=6aa5278e
 #EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260909/392096fc55ba3340e99f195f32a08a2f.png" group-title="Bóng đá",Club Tijuana vs Queretaro FC (MEX D1)
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789190162-0-0-8841f5f988688db4c690877b94f8398e
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789190462-0-0-8abbb27477565fe23abff2c1034fec3d
 #EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260909/dbc36a3cabb232f98a2bccfc2097a1a4.png" group-title="Bóng đá",Gamba Osaka vs FC Tokyo (JPN D1)
 https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=60d6423ad3e7a19b2166f07ccb9c2e09&txTime=6aa523fe
 #EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260909/18b57ef2b9af15238e4a473c0147b673.png" group-title="Bóng đá",Persija Jakarta vs Persib Bandung (IDN D1)
 https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789185575-0-0-262514e4021b38b4be09c936f605280f
 #EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260909/74a547f952292a19d5e81b2846475d8e.png" group-title="Bóng đá",Atlas Women vs Atlante Women (MEX WD1)
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789190162-0-0-fc53f278713ba1214694786cade77f80
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789190462-0-0-9f1d62d99b7b0306a2ecb1a0f6feda63
 #EXTINF:-1 tvg-id="room-9912119" tvg-logo="https://sta.vnres.co/file/common/20260910/6e66d85246d86db11fd79d1c32715bd4.png" group-title="Bóng đá",Sporting Kansas City vs Los Angeles FC (USA MLS)
 https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1788869952-0-0-1b46cb195e4cd08292cf744c4df159a4
 #EXTINF:-1 tvg-id="room-9912123" tvg-logo="https://sta.vnres.co/file/common/20260909/2586d0553605aed0879253d6453e34a4.png" group-title="Bóng đá",FC Köln vs SV Werder Bremen (GER D1)
@@ -132,7 +132,7 @@ https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1789162701-0-0-29f
 #EXTINF:-1 tvg-id="room-9912135" tvg-logo="https://sta.vnres.co/file/common/20260909/186f67fe76d49c72b5ee3f00180d366b.png" group-title="Bóng đá",Machida Zelvia vs Yokohama F. Marinos (JPN D1)
 https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1789156380-0-0-5cc15e02c6d8850c8c7bfa96fe23e67d
 #EXTINF:-1 tvg-id="room-9912136" tvg-logo="https://sta.vnres.co/file/common/20260909/392096fc55ba3340e99f195f32a08a2f.png" group-title="Bóng đá",Club Tijuana vs Queretaro FC (MEX D1)
-https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=2920a0af3b9caeb8f88a25470ae3d09d&txTime=6aa52662
+https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=011add6b9cb1f9645c7df6786108cb53&txTime=6aa5278e
 #EXTINF:-1 tvg-id="room-9912138" tvg-logo="https://sta.vnres.co/file/common/20260909/73520e0d5e19a699cc28f233c40b06e5.png" group-title="Bóng đá",Sanfrecce Hiroshima vs Cerezo Osaka (JPN D1)
 https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1789163740-0-0-cd40e3c9847d1008531e83be4b7bffeb
 #EXTINF:-1 tvg-id="room-9912139" tvg-logo="https://sta.vnres.co/file/common/20260909/18b57ef2b9af15238e4a473c0147b673.png" group-title="Bóng đá",Persija Jakarta vs Persib Bandung (IDN D1)
@@ -142,56 +142,54 @@ https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=a9d79db1c8ac966a0a7
 #EXTINF:-1 tvg-id="room-9912141" tvg-logo="https://sta.vnres.co/file/common/20260909/186f67fe76d49c72b5ee3f00180d366b.png" group-title="Bóng đá",Machida Zelvia vs Yokohama F. Marinos (JPN D1)
 https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789185768-0-0-0c010b84c06ad42dcce9776b6d56db5a
 #EXTINF:-1 tvg-id="room-9912142" tvg-logo="https://sta.vnres.co/file/common/20260909/392096fc55ba3340e99f195f32a08a2f.png" group-title="Bóng đá",Club Tijuana vs Queretaro FC (MEX D1)
-https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789190162-0-0-792ec6bc0597713e6c3f922d592e575f
+https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789190462-0-0-1048e1df7663aa2c1f57c8486f07ac28
 #EXTINF:-1 tvg-id="room-9912143" tvg-logo="https://sta.vnres.co/file/common/20260909/186f67fe76d49c72b5ee3f00180d366b.png" group-title="Bóng đá",Machida Zelvia vs Yokohama F. Marinos (JPN D1)
 https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789162455-0-0-f992ea8c1b868c0fdce692c3e280963d
 #EXTINF:-1 tvg-id="room-9912144" tvg-logo="https://sta.vnres.co/file/common/20260909/c6c8edc01eebccdcdbee6fd126729d85.png" group-title="Bóng đá",Atlante FC vs Pachuca (MEX D1)
-https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1789190162-0-0-8dd261f65eba5b49a12be21807129b0d
+https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1789190462-0-0-2461418e0297b4ff5c0e314907c3283e
 #EXTINF:-1 tvg-id="room-9912145" tvg-logo="https://sta.vnres.co/file/common/20260909/392096fc55ba3340e99f195f32a08a2f.png" group-title="Bóng đá",Club Tijuana vs Queretaro FC (MEX D1)
-https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789190162-0-0-da8a6eedd4904d586761a6e4c854f350
+https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789190462-0-0-eecfa5bac3bb7a9b34ba90a93576fed4
 #EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260909/c6c8edc01eebccdcdbee6fd126729d85.png" group-title="Bóng đá",Atlante FC vs Pachuca (MEX D1)
-https://pull.niur.live/live/stream-9912146_lhd.m3u8?txSecret=506eaaacca3cf28454414da7a8a9aae7&txTime=6aa52662
+https://pull.niur.live/live/stream-9912146_lhd.m3u8?txSecret=e4bfcf6627c1711e65906aadca4335db&txTime=6aa5278e
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260910/1e8b52e04dd8103c8d25e596b834e2cd.png" group-title="Bóng rổ",Qatar vs Jordan (AGB)
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=61f1614b4552613e5e0d39fd8dc5750d&txTime=6aa52662
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=501fda486bd76d54ce53d8c7e213f01b&txTime=6aa5278e
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260910/63b4f48dcbacdb79519b50d619cd95b7.png" group-title="Bóng rổ",Brisbane Bullets vs Cairns Taipans (NBL)
 https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=ae4a53a83b799560dcb9d97f19ac6502&txTime=6aa4a438
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260910/63b4f48dcbacdb79519b50d619cd95b7.png" group-title="Bóng rổ",Brisbane Bullets vs Cairns Taipans (NBL)
 https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789136446-0-0-6ba09c2d0edce5a32bdb3ed7542396b1
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260910/2ca8d30667709c656efbb3c79dd40158.png" group-title="Bóng rổ",Bahrain vs China (AGB)
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789190162-0-0-0d46c061c703a4c601e4120ae25a22dd
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789190362-0-0-8edc314004c9485df97a79faa0e331a2
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260910/8700a8187e551d9188eae34750afe6ab.png" group-title="Bóng rổ",Tasmania JackJumpers vs Sydney Kings (NBL)
 https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789127336-0-0-ff4287d4dfe4935a42f8fe6f7cc47575
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260910/1e8b52e04dd8103c8d25e596b834e2cd.png" group-title="Bóng rổ",Qatar vs Jordan (AGB)
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789190162-0-0-dc03653173e0a75e9dc0d32ddcabea92
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789190462-0-0-833f9b2440cc13939f97dc3c2fbfa9fa
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg" group-title="SocoLive",AGB: Qatar vs Jordan - A CHÈ
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=61f1614b4552613e5e0d39fd8dc5750d&txTime=6aa52662
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=501fda486bd76d54ce53d8c7e213f01b&txTime=6aa5278e
 #EXTINF:-1 tvg-id="room-387694" tvg-logo="https://sta.vnres.co/file/common/20260912/08a8665b28900d915fc442d816b9e3e7.PNG" group-title="SocoLive",MEX D1: Atlante FC vs Pachuca - CR Bưởi
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=0bf8896af80a1d889a214f22530b11d5&txTime=6aa52662
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=41788feb3446eeec73fd987379f1db75&txTime=6aa5278e
 #EXTINF:-1 tvg-id="room-414317" tvg-logo="https://sta.vnres.co/file/common/20260806/4c726754b547e8d50d1f1dd3d1304c4f.jpg" group-title="SocoLive",MEX D1: Club Tijuana vs Queretaro FC - THOMAS
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=42153778a76b2804541760353c5d984c&txTime=6aa52662
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=ea0c4ca07ea751bfad44631776a0ba90&txTime=6aa5278e
 #EXTINF:-1 tvg-id="room-527384" tvg-logo="https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg" group-title="SocoLive",MEX D1: Atlante FC vs Pachuca - LÃO LÂM
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789190162-0-0-590f62fba1d815ab8fccf6b0a6e3f571
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789190462-0-0-29187eb7de1f7d2519289b187e615cbb
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg" group-title="SocoLive",MEX D1: Atlante FC vs Pachuca - BLV ALEX
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789190162-0-0-57317c61100084b3fc06908df098ad51
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789190462-0-0-8afe4c46738f865636bf68b8db5914be
 #EXTINF:-1 tvg-id="room-9912008" tvg-logo="https://sta.vnres.co/file/common/20260904/3360a52dcf3d4a0b945286a1e13d48ca.png" group-title="SocoLive",MEX D1: Atlante FC vs Pachuca - BLV TOMIA
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789190162-0-0-73aecfa009795095c869d7338b287aeb
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789190462-0-0-3bb712c8f94ed33ba13b8085862443b3
 #EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56.jpg" group-title="SocoLive",MEX D1: Club Tijuana vs Queretaro FC - BLV TAP
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=a94fb566216cd0397e8f60447086fd7a&txTime=6aa52662
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=9b6df55396af361c38d52272e25ce7ee&txTime=6aa5278e
 #EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260909/7a29b362086bb982fdb5faa60979718c.png" group-title="SocoLive",MEX D1: Club Tijuana vs Queretaro FC - BLV Củ Cải
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789190162-0-0-8841f5f988688db4c690877b94f8398e
-#EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-title="SocoLive",LNBP: Astros vs Soles - BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789190162-0-0-0d46c061c703a4c601e4120ae25a22dd
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789190462-0-0-8abbb27477565fe23abff2c1034fec3d
 #EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151.png" group-title="SocoLive",MEX WD1: Atlas Women vs Atlante Women - BLV VOI
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789190162-0-0-fc53f278713ba1214694786cade77f80
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789190462-0-0-9f1d62d99b7b0306a2ecb1a0f6feda63
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg" group-title="SocoLive",AGB: Qatar vs Jordan - CHAN SENA
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789190162-0-0-dc03653173e0a75e9dc0d32ddcabea92
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789190462-0-0-833f9b2440cc13939f97dc3c2fbfa9fa
 #EXTINF:-1 tvg-id="room-9912136" tvg-logo="https://sta.vnres.co/file/common/20260810/b792b2c329f2ffe44037f2d5973945de.jpg" group-title="SocoLive",MEX D1: Club Tijuana vs Queretaro FC - BLV LONG
-https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=2920a0af3b9caeb8f88a25470ae3d09d&txTime=6aa52662
+https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=011add6b9cb1f9645c7df6786108cb53&txTime=6aa5278e
 #EXTINF:-1 tvg-id="room-9912142" tvg-logo="https://sta.vnres.co/file/common/20260830/683bbb96de277e28f88b1d08678ac124.png" group-title="SocoLive",MEX D1: Club Tijuana vs Queretaro FC - A BỆU
-https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789190162-0-0-792ec6bc0597713e6c3f922d592e575f
+https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789190462-0-0-1048e1df7663aa2c1f57c8486f07ac28
 #EXTINF:-1 tvg-id="room-9912144" tvg-logo="https://sta.vnres.co/file/common/20260911/77e77206253b2affeed8ee82f61d1a72.jpg" group-title="SocoLive",MEX D1: Atlante FC vs Pachuca - TẠ BIÊN GIỚI
-https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1789190162-0-0-8dd261f65eba5b49a12be21807129b0d
+https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1789190462-0-0-2461418e0297b4ff5c0e314907c3283e
 #EXTINF:-1 tvg-id="room-9912145" tvg-logo="https://sta.vnres.co/file/common/20260911/e90340496c72efd2b32ba4df5e3e91d4.jpg" group-title="SocoLive",MEX D1: Club Tijuana vs Queretaro FC - ZIDANE
-https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789190162-0-0-da8a6eedd4904d586761a6e4c854f350
+https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789190462-0-0-eecfa5bac3bb7a9b34ba90a93576fed4
 #EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260829/f6903a1879b3c7cc22d27c658db14d94.png" group-title="SocoLive",MEX D1: Atlante FC vs Pachuca - BLV CUỘI
-https://pull.niur.live/live/stream-9912146_lhd.m3u8?txSecret=506eaaacca3cf28454414da7a8a9aae7&txTime=6aa52662
+https://pull.niur.live/live/stream-9912146_lhd.m3u8?txSecret=e4bfcf6627c1711e65906aadca4335db&txTime=6aa5278e
