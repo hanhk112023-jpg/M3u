@@ -113,7 +113,7 @@
     "name": "Palmeiras - SP vs São Paulo - SP (BRA D1)",
     "logo": "https://sta.vnres.co/file/common/20260910/165badd7c2b42a00bedcea323ef290aa.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=27b8094a12f8946e65df4e2bb9d32b3e\u0026txTime=6aa62652",
+    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=1a8aef6305ea3223d1d38c959e7c9c8b\u0026txTime=6aa6277e",
     "type": "hls"
   },
   {
@@ -137,10 +137,10 @@
   {
     "id": "511367",
     "tvg_id": "room-511367",
-    "name": "Atletico Tucuman vs River Plate (ARG D1)",
-    "logo": "https://sta.vnres.co/file/common/20260910/7c5579542e55cb7672c9aaff3956dd78.png",
+    "name": "Gwangju FC vs FC Anyang (KOR D1)",
+    "logo": "https://sta.vnres.co/file/common/20260910/88a01fb1756d7a8768fdc93bb790dc9d.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1789255682-0-0-83be3e1a5b9221b4c714ccda97256700",
+    "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1789255829-0-0-2b3807a796c264f64e31edc3e287278b",
     "type": "hls"
   },
   {
@@ -149,7 +149,7 @@
     "name": "Palmeiras - SP vs São Paulo - SP (BRA D1)",
     "logo": "https://sta.vnres.co/file/common/20260910/165badd7c2b42a00bedcea323ef290aa.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789255682-0-0-8ad7940ff2f64c3f870a094b3bbc93f5",
+    "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789255982-0-0-7ff966df99549144d8cf6d423f28976b",
     "type": "hls"
   },
   {
@@ -254,8 +254,8 @@
   {
     "id": "607552",
     "tvg_id": "room-607552",
-    "name": "Atletico Tucuman vs River Plate (ARG D1)",
-    "logo": "https://sta.vnres.co/file/common/20260910/7c5579542e55cb7672c9aaff3956dd78.png",
+    "name": "SC Heerenveen vs SC Telstar (HOL D1)",
+    "logo": "https://sta.vnres.co/file/common/20260910/408b5643248dd4eb231b259c76c3be18.png",
     "group": "Bóng đá",
     "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1789255455-0-0-5aaff9c73aa443e1e12caa7357f379f0",
     "type": "hls"
@@ -275,7 +275,7 @@
     "name": "Palmeiras - SP vs São Paulo - SP (BRA D1)",
     "logo": "https://sta.vnres.co/file/common/20260910/165badd7c2b42a00bedcea323ef290aa.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1789255682-0-0-95dac88ad972117058efa5d1212a0fa6",
+    "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1789255982-0-0-a83dd0b4fb196a4c4c59402547989c7a",
     "type": "hls"
   },
   {
@@ -284,7 +284,7 @@
     "name": "Palmeiras - SP vs São Paulo - SP (BRA D1)",
     "logo": "https://sta.vnres.co/file/common/20260910/165badd7c2b42a00bedcea323ef290aa.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789255682-0-0-1df5849b215f50d80b1eee817b4f4307",
+    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789255982-0-0-f3bcace8b0b8b308a9a254bc0bcad875",
     "type": "hls"
   },
   {
@@ -608,7 +608,7 @@
     "name": "Toluca vs Atlas (MEX D1)",
     "logo": "https://sta.vnres.co/file/common/20260910/3e1e2f3115d427125cc9ddf60d8eef3c.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=70ae62d5524613f830c902c28d3f51ab\u0026txTime=6aa5cd65",
+    "url": "https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=ca2113cc044dcf8ae5f9f76019940357\u0026txTime=6aa6277e",
     "type": "hls"
   },
   {
@@ -734,16 +734,7 @@
     "name": "BRA D1: Palmeiras - SP vs São Paulo - SP - BLV CHIVAS",
     "logo": "https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=27b8094a12f8946e65df4e2bb9d32b3e\u0026txTime=6aa62652",
-    "type": "hls"
-  },
-  {
-    "id": "511367",
-    "tvg_id": "room-511367",
-    "name": "ARG D1: Atletico Tucuman vs River Plate - BLV WUKONG",
-    "logo": "https://sta.vnres.co/file/common/20251121/6d691b0b9dfd9eeb599401a2499400f0.png",
-    "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1789255682-0-0-83be3e1a5b9221b4c714ccda97256700",
+    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=1a8aef6305ea3223d1d38c959e7c9c8b\u0026txTime=6aa6277e",
     "type": "hls"
   },
   {
@@ -752,7 +743,7 @@
     "name": "BRA D1: Palmeiras - SP vs São Paulo - SP - BLV ROBBEN",
     "logo": "https://sta.vnres.co/file/common/20260626/fcd1d9373f93de7ff3ebfbee3f073c7c.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789255682-0-0-8ad7940ff2f64c3f870a094b3bbc93f5",
+    "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789255982-0-0-7ff966df99549144d8cf6d423f28976b",
     "type": "hls"
   },
   {
@@ -761,7 +752,7 @@
     "name": "BRA D1: Palmeiras - SP vs São Paulo - SP - VINFAST",
     "logo": "https://sta.vnres.co/file/common/20260910/0b1046f9ea6e137597f737c5d46ef984.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1789255682-0-0-95dac88ad972117058efa5d1212a0fa6",
+    "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1789255982-0-0-a83dd0b4fb196a4c4c59402547989c7a",
     "type": "hls"
   },
   {
@@ -770,7 +761,16 @@
     "name": "BRA D1: Palmeiras - SP vs São Paulo - SP - CƠM NẾP",
     "logo": "https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789255682-0-0-1df5849b215f50d80b1eee817b4f4307",
+    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789255982-0-0-f3bcace8b0b8b308a9a254bc0bcad875",
+    "type": "hls"
+  },
+  {
+    "id": "9912139",
+    "tvg_id": "room-9912139",
+    "name": "MEX D1: Toluca vs Atlas - BLV A TINH",
+    "logo": "https://sta.vnres.co/file/common/20260317/5be300857a15349a5324be170237948b.png",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=ca2113cc044dcf8ae5f9f76019940357\u0026txTime=6aa6277e",
     "type": "hls"
   }
 ]
