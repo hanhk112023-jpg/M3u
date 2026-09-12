@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 87
-# Updated: 12/09/2026 05:58:43
+# Channels: 84
+# Updated: 12/09/2026 06:04:08
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260909/c90ce1103df1c344b5730ef9ca175ec1.png" group-title="Bóng đá",Borussia Dortmund vs SC Paderborn 07 (GER D1)
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789106882-0-0-091617c1a91f104b87765281417b523c
@@ -21,8 +21,6 @@ https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1789189172-0-0-f67f
 https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1789162587-0-0-fd64d44f24acfb92e896421946c0a0ae
 #EXTINF:-1 tvg-id="room-387694" tvg-logo="https://sta.vnres.co/file/common/20260909/ad08ae82413b47973a76a5da73472b58.png" group-title="Bóng đá",Liverpool vs Fulham (ENG PR)
 https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=17eb1a3e6452e3a928a00e71e07c2a28&txTime=6aa5313c
-#EXTINF:-1 tvg-id="room-406865" tvg-logo="https://sta.vnres.co/file/common/20260909/009004a7f6c28bad7d9d5228bfcab3ee.png" group-title="Bóng đá",VfL Bochum 1848 vs SpVgg Greuther Fürth (GER D2)
-https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=f334941d96729c5ae55fe9f7ccef707c&txTime=6aa4cdca
 #EXTINF:-1 tvg-id="room-414317" tvg-logo="https://sta.vnres.co/file/common/20260909/44bfda86f6c5505246f83ad7d4357ef6.png" group-title="Bóng đá",Racing Santander vs Deportivo Alavés (SPA D1)
 https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=fcb7b5d01260a86d65c56b6d3c7b9e60&txTime=6aa53599
 #EXTINF:-1 tvg-id="room-459401" tvg-logo="https://sta.vnres.co/file/common/20260909/8514ccec8c91a8f8ca40099bb374ebcb.png" group-title="Bóng đá",Shimizu S-Pulse vs Avispa Fukuoka (JPN D1)
@@ -151,7 +149,7 @@ https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1789192912-0-0-334
 https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789193962-0-0-6b6d3f81c03b19f4aba81e48895ccfc5
 #EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260909/075d71d59a448e7c5f8a344c88c67e66.png" group-title="Bóng đá",Tianjin Jinmen Tiger vs Liaoning Tieren (CHA SL)
 https://pull.niur.live/live/stream-9912146_lhd.m3u8?txSecret=511ba7fc11dc3ef2fcff24cc223ce15d&txTime=6aa531e9
-#EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260910/1e8b52e04dd8103c8d25e596b834e2cd.png" group-title="Bóng rổ",Qatar vs Jordan (AGB)
+#EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260910/8700a8187e551d9188eae34750afe6ab.png" group-title="Bóng rổ",Tasmania JackJumpers vs Sydney Kings (NBL)
 https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=7a4458894a040b425db91b847c08f616&txTime=6aa53dd8
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260910/63b4f48dcbacdb79519b50d619cd95b7.png" group-title="Bóng rổ",Brisbane Bullets vs Cairns Taipans (NBL)
 https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=ae4a53a83b799560dcb9d97f19ac6502&txTime=6aa4a438
@@ -161,19 +159,15 @@ https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789136446-0-0-6ba
 https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789190362-0-0-8edc314004c9485df97a79faa0e331a2
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260910/8700a8187e551d9188eae34750afe6ab.png" group-title="Bóng rổ",Tasmania JackJumpers vs Sydney Kings (NBL)
 https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789127336-0-0-ff4287d4dfe4935a42f8fe6f7cc47575
-#EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260910/1e8b52e04dd8103c8d25e596b834e2cd.png" group-title="Bóng rổ",Qatar vs Jordan (AGB)
+#EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260910/2ca8d30667709c656efbb3c79dd40158.png" group-title="Bóng rổ",Bahrain vs China (AGB)
 https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789196318-0-0-507630003910607aa38d2a0763e83fd3
 #EXTINF:-1 tvg-id="room-133277" tvg-logo="https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg" group-title="SocoLive",Tường thuật: MAS SL - Johor Darul Ta'zim FC vs Negeri Sembilan - Gà xào sả ớt
-https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=edf19fc252899bda0fefd40998588d9b&txTime=6aa53e4a
+https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=436de73c75a2a1ab5a1746f4087a40d5&txTime=6aa53f76
 #EXTINF:-1 tvg-id="room-133824" tvg-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg" group-title="SocoLive",Tường thuật: QAT D1 - Al-Gharafa vs Lusail - Bò leo rào
-https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=2dd375180b2c16cc71adac7a2fb9b768&txTime=6aa53e4a
+https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=57b453e0004fe759314dec46220e48f1&txTime=6aa53f76
 #EXTINF:-1 tvg-id="room-152898" tvg-logo="https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png" group-title="SocoLive",Tường thuật: MEX D1 - Necaxa vs Puebla - Thỏ giang hồ
-https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=e49bf433d54c40602bad0cc369c903c0&txTime=6aa53e4a
+https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=5b947e56cdc1c4def9fa7b738d04a82b&txTime=6aa53f76
 #EXTINF:-1 tvg-id="room-179093" tvg-logo="https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg" group-title="SocoLive",Tường thuật: JPN D1 - Vissel Kobe vs Kashima Antlers - Hươu đau cổ
-https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=915ea06d08b4846a1f8f639e8ba5ae53&txTime=6aa53e4a
-#EXTINF:-1 tvg-id="room-343500" tvg-logo="https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg" group-title="SocoLive",Tường thuật: VIE D1 - SHB Da Nang vs Thep Xanh Nam Dinh FC - Mèo méo meo
-https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=f228e850389b50e68fd1aa7bc37b3734&txTime=6aa53e4a
+https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=cfc27d5dbcbeb9c2fc49056d739fd16f&txTime=6aa53f76
 #EXTINF:-1 tvg-id="room-9912079" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg" group-title="SocoLive",Tường thuật: MEX D1 - Pumas U.N.A.M. vs Club Leon - Rắn ở đáy sông
-https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=cd9737f362f61eba7d9be39861788927&txTime=6aa53e4a
-#EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg" group-title="SocoLive",AGB: Qatar vs Jordan - CHAN SENA
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789196282-0-0-9194af2bba046c737d5447d07fb37941
+https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=4582dfb63a1cad5b95474c2179104326&txTime=6aa53f76
