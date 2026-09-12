@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 115
-# Updated: 12/09/2026 08:57:36
+# Channels: 117
+# Updated: 12/09/2026 09:02:44
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260909/c90ce1103df1c344b5730ef9ca175ec1.png" group-title="Bóng đá",Borussia Dortmund vs SC Paderborn 07 (GER D1)
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789106882-0-0-091617c1a91f104b87765281417b523c
@@ -12,11 +12,11 @@ https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=8845e2f80e456c317616
 #EXTINF:-1 tvg-id="room-304148" tvg-logo="https://sta.vnres.co/file/common/20260909/c90ce1103df1c344b5730ef9ca175ec1.png" group-title="Bóng đá",Borussia Dortmund vs SC Paderborn 07 (GER D1)
 https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1789167908-0-0-137975f2ae36c70bfa36014712587f63
 #EXTINF:-1 tvg-id="room-321443" tvg-logo="https://sta.vnres.co/file/common/20260909/0aa4da1822200c714f096115a2af0a29.png" group-title="Bóng đá",Mito Hollyhock vs Kawasaki Frontale (JPN D1)
-https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=a18413e0738bfbe4b2c779489494e033&txTime=6aa5683e
+https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=c3755fb33e80d6290347d4d42c069e3c&txTime=6aa5696b
 #EXTINF:-1 tvg-id="room-327159" tvg-logo="https://sta.vnres.co/file/common/20260909/d68cef3768dc9e5fbd030aa350bec60c.png" group-title="Bóng đá",Ulsan HD FC vs Incheon United Club (KOR D1)
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789207022-0-0-6d1a06d6946e43933b13701d2990d2ac
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789207323-0-0-34a1bfdef3c9ace37b7ef82a9d3ff59a
 #EXTINF:-1 tvg-id="room-372746" tvg-logo="https://sta.vnres.co/file/common/20260909/8514ccec8c91a8f8ca40099bb374ebcb.png" group-title="Bóng đá",Shimizu S-Pulse vs Avispa Fukuoka (JPN D1)
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1789207022-0-0-2326cdf7552bab16d95a0fc9c08643d3
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1789207323-0-0-17df9abcb11bb1ffb3ea997b761135f2
 #EXTINF:-1 tvg-id="room-380460" tvg-logo="https://sta.vnres.co/file/common/20260909/535ba10694d8c96e769c3893d44ad47a.png" group-title="Bóng đá",Aston Villa vs Nottingham Forest (ENG PR)
 https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1789162587-0-0-fd64d44f24acfb92e896421946c0a0ae
 #EXTINF:-1 tvg-id="room-387694" tvg-logo="https://sta.vnres.co/file/common/20260909/ad08ae82413b47973a76a5da73472b58.png" group-title="Bóng đá",Liverpool vs Fulham (ENG PR)
@@ -26,11 +26,11 @@ https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=f334941d96729c5ae55f
 #EXTINF:-1 tvg-id="room-414317" tvg-logo="https://sta.vnres.co/file/common/20260909/44bfda86f6c5505246f83ad7d4357ef6.png" group-title="Bóng đá",Racing Santander vs Deportivo Alavés (SPA D1)
 https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=fcb7b5d01260a86d65c56b6d3c7b9e60&txTime=6aa53599
 #EXTINF:-1 tvg-id="room-459401" tvg-logo="https://sta.vnres.co/file/common/20260909/8514ccec8c91a8f8ca40099bb374ebcb.png" group-title="Bóng đá",Shimizu S-Pulse vs Avispa Fukuoka (JPN D1)
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=59b4a068024b580318740875de29171a&txTime=6aa4bf98
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=c05df81ee212a9fb47597bbb7a613f3b&txTime=6aa5696b
 #EXTINF:-1 tvg-id="room-485739" tvg-logo="https://sta.vnres.co/file/common/20260909/009004a7f6c28bad7d9d5228bfcab3ee.png" group-title="Bóng đá",VfL Bochum 1848 vs SpVgg Greuther Fürth (GER D2)
 https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=a88177e1c0b57ce327e11cdc544d5676&txTime=6aa51ee2
 #EXTINF:-1 tvg-id="room-491873" tvg-logo="https://sta.vnres.co/file/common/20260909/7f90cada1a56623f92ba8c87c396f6ef.png" group-title="Bóng đá",Bucheon FC 1995 vs Jeju SK FC (KOR D1)
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=4312b4bd8174e5b83cd6f573c8996250&txTime=6aa5683e
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=067ae2d611bf659488d4d189461373e5&txTime=6aa5696b
 #EXTINF:-1 tvg-id="room-501412" tvg-logo="https://sta.vnres.co/file/common/20260909/05b7eca7109de85be7e2bde46c05eed5.png" group-title="Bóng đá",FC Augsburg vs Bayer 04 Leverkusen (GER D1)
 https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=76342b78d0aec5ee7bd8d53ab3671c44&txTime=6aa4ba94
 #EXTINF:-1 tvg-id="room-511367" tvg-logo="https://sta.vnres.co/file/common/20260909/933a9688ee718a86a59b42b1aeffd84b.png" group-title="Bóng đá",SC Freiburg vs Borussia Monchengladbach (GER D1)
@@ -38,23 +38,23 @@ https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1789195818-0-0-8f56
 #EXTINF:-1 tvg-id="room-527383" tvg-logo="https://sta.vnres.co/file/common/20260909/ae7563b7be4c7ee0a611093da1cf9c36.png" group-title="Bóng đá",Hanoi FC vs Song Lam Nghe An (VIE D1)
 https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789162786-0-0-3986d0773e8708f396afc814d16cc5e8
 #EXTINF:-1 tvg-id="room-527384" tvg-logo="https://sta.vnres.co/file/common/20260909/64bce68004028fcc2067855ab7dbdc23.png" group-title="Bóng đá",Jeonbuk Hyundai Motors vs FC Seoul (KOR D1)
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789207022-0-0-6e40460afe2b5fd2122c1baeadc5311d
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789207323-0-0-6fa8d9096ab00445c2b896254ab05c7e
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260909/44bfda86f6c5505246f83ad7d4357ef6.png" group-title="Bóng đá",Racing Santander vs Deportivo Alavés (SPA D1)
 https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789192633-0-0-9f32340e4aaff1f31e3bb69190096dfd
 #EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260909/8b315a2093c1cfd02ba7507a241edc7d.png" group-title="Bóng đá",PSS Sleman vs Madura United (IDN D1)
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=d01506fec552e8df4c795e040b796f78&txTime=6aa5683e
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=9f5b8808bcbdcb6730e9c2ddaca63847&txTime=6aa5696b
 #EXTINF:-1 tvg-id="room-536185" tvg-logo="https://sta.vnres.co/file/common/20260909/2586d0553605aed0879253d6453e34a4.png" group-title="Bóng đá",FC Köln vs SV Werder Bremen (GER D1)
 https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1789160519-0-0-3aeb7235b31d22b7de534cfbca6abcce
 #EXTINF:-1 tvg-id="room-552832" tvg-logo="https://sta.vnres.co/file/common/20260909/0aa4da1822200c714f096115a2af0a29.png" group-title="Bóng đá",Mito Hollyhock vs Kawasaki Frontale (JPN D1)
-https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=f5c8357118bbca953b67b71d7b43221a&txTime=6aa5683e
+https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=74a901c22e87ede59bda71645b2ab163&txTime=6aa5696b
 #EXTINF:-1 tvg-id="room-582342" tvg-logo="https://sta.vnres.co/file/common/20260909/d68cef3768dc9e5fbd030aa350bec60c.png" group-title="Bóng đá",Ulsan HD FC vs Incheon United Club (KOR D1)
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1789207022-0-0-3f2a878d8581a8a8b18ea188f169ce01
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1789207323-0-0-8bf50390cc21583210f1213b0fb8f183
 #EXTINF:-1 tvg-id="room-597929" tvg-logo="https://sta.vnres.co/file/common/20260909/73520e0d5e19a699cc28f233c40b06e5.png" group-title="Bóng đá",Sanfrecce Hiroshima vs Cerezo Osaka (JPN D1)
 https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1789125970-0-0-2e058d1d8658a7a3393c3a4cca2b204a
 #EXTINF:-1 tvg-id="room-602019" tvg-logo="https://sta.vnres.co/file/common/20260909/c4a13bca860ae3e7bea1977c1c11e8d7.png" group-title="Bóng đá",1. FC Magdeburg vs 1. FC Kaiserslautern (GER D2)
 https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1789156550-0-0-3286ff3fa8c549994059903a0612e2df
 #EXTINF:-1 tvg-id="room-603255" tvg-logo="https://sta.vnres.co/file/common/20260909/44bfda86f6c5505246f83ad7d4357ef6.png" group-title="Bóng đá",Racing Santander vs Deportivo Alavés (SPA D1)
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1789207022-0-0-462d20d3682f97dbf515e53276312038
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1789207323-0-0-6a3fe4f90d2f5f47599207d35e75479c
 #EXTINF:-1 tvg-id="room-603914" tvg-logo="https://sta.vnres.co/file/common/20260909/73520e0d5e19a699cc28f233c40b06e5.png" group-title="Bóng đá",Sanfrecce Hiroshima vs Cerezo Osaka (JPN D1)
 https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789199211-0-0-9060005811aab37b717d89d2f2602200
 #EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260909/44bfda86f6c5505246f83ad7d4357ef6.png" group-title="Bóng đá",Racing Santander vs Deportivo Alavés (SPA D1)
@@ -64,23 +64,23 @@ https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1789163015-0-0-9328
 #EXTINF:-1 tvg-id="room-610518" tvg-logo="https://sta.vnres.co/file/common/20260909/c4a13bca860ae3e7bea1977c1c11e8d7.png" group-title="Bóng đá",1. FC Magdeburg vs 1. FC Kaiserslautern (GER D2)
 https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=8bc862263e5e62020f0ca67d7ef2644b&txTime=6aa4c1e3
 #EXTINF:-1 tvg-id="room-617313" tvg-logo="https://sta.vnres.co/file/common/20260909/8514ccec8c91a8f8ca40099bb374ebcb.png" group-title="Bóng đá",Shimizu S-Pulse vs Avispa Fukuoka (JPN D1)
-https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1789162753-0-0-1a2c11bb0f5f59cefca63e6a9bf4d2c5
+https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1789207323-0-0-b05f7e7800efa901250922a63068224f
 #EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260909/009004a7f6c28bad7d9d5228bfcab3ee.png" group-title="Bóng đá",VfL Bochum 1848 vs SpVgg Greuther Fürth (GER D2)
 https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789187548-0-0-d15b54938606980c55248659c8640606
 #EXTINF:-1 tvg-id="room-619561" tvg-logo="https://sta.vnres.co/file/common/20260909/8514ccec8c91a8f8ca40099bb374ebcb.png" group-title="Bóng đá",Shimizu S-Pulse vs Avispa Fukuoka (JPN D1)
-https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1789138656-0-0-b45cd5af3ed37c189042c7bc67826d3b
+https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1789207345-0-0-886ee9e0889c58c8d3201d2a35feda31
 #EXTINF:-1 tvg-id="room-619672" tvg-logo="https://sta.vnres.co/file/common/20260909/73520e0d5e19a699cc28f233c40b06e5.png" group-title="Bóng đá",Sanfrecce Hiroshima vs Cerezo Osaka (JPN D1)
 https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1789189123-0-0-d191517f018339c42e1a267669e798ee
 #EXTINF:-1 tvg-id="room-620084" tvg-logo="https://sta.vnres.co/file/common/20260909/7f90cada1a56623f92ba8c87c396f6ef.png" group-title="Bóng đá",Bucheon FC 1995 vs Jeju SK FC (KOR D1)
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789207022-0-0-59f9b83e51ea0c9b25814012db0787b5
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789207323-0-0-7ee6a19fd104bf82ab0b784d1061c318
 #EXTINF:-1 tvg-id="room-620504" tvg-logo="https://sta.vnres.co/file/common/20260909/0aa4da1822200c714f096115a2af0a29.png" group-title="Bóng đá",Mito Hollyhock vs Kawasaki Frontale (JPN D1)
-https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=02d9686c18b249b6487b19f79be398fb&txTime=6aa5683e
+https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=4ef9c9c822f5510561dc6ecd3b845f40&txTime=6aa5696b
 #EXTINF:-1 tvg-id="room-620797" tvg-logo="https://sta.vnres.co/file/common/20260909/3e9709cc7a1af41a8ccf031d867286d9.png" group-title="Bóng đá",Eintracht Braunschweig vs Dynamo Dresden (GER D2)
 https://pull.niur.live/live/stream-620797_lhd.m3u8?txSecret=00ecbe4fb91c195c783229c74ba63408&txTime=6aa4c1c2
 #EXTINF:-1 tvg-id="room-621840" tvg-logo="https://sta.vnres.co/file/common/20260909/2586d0553605aed0879253d6453e34a4.png" group-title="Bóng đá",FC Köln vs SV Werder Bremen (GER D1)
 https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=edaaf051eb49454299c4e6dc0ca2db4b&txTime=6aa4b0fa
 #EXTINF:-1 tvg-id="room-621843" tvg-logo="https://sta.vnres.co/file/common/20260909/64bce68004028fcc2067855ab7dbdc23.png" group-title="Bóng đá",Jeonbuk Hyundai Motors vs FC Seoul (KOR D1)
-https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1789207022-0-0-87fded8b0e04126a41dcb644f1fc5cbf
+https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1789207323-0-0-6c3674d9585a0ae79ccab3c99bf9dbcd
 #EXTINF:-1 tvg-id="room-621887" tvg-logo="https://sta.vnres.co/file/common/20260910/3e1e2f3115d427125cc9ddf60d8eef3c.png" group-title="Bóng đá",Toluca vs Atlas (MEX D1)
 https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=9813bd943cdeb658f4f002f132b0115d&txTime=6aa515c7
 #EXTINF:-1 tvg-id="room-622093" tvg-logo="https://sta.vnres.co/file/common/20260909/94919c64e5641194051a42a1f8a2aaeb.png" group-title="Bóng đá",1. FSV Mainz 05 vs Eintracht Frankfurt (GER D1)
@@ -88,23 +88,23 @@ https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=00e017e0f9ba876f56af
 #EXTINF:-1 tvg-id="room-622240" tvg-logo="https://sta.vnres.co/file/common/20260909/7a093112258fee9b2aecae39826ec9fc.png" group-title="Bóng đá",Derby County vs Birmingham City (ENG LCH)
 https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1789163228-0-0-8db7df312c377968f39d091997b1c50d
 #EXTINF:-1 tvg-id="room-622241" tvg-logo="https://sta.vnres.co/file/common/20260909/64bce68004028fcc2067855ab7dbdc23.png" group-title="Bóng đá",Jeonbuk Hyundai Motors vs FC Seoul (KOR D1)
-https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789207022-0-0-62af41e4fd6e377664c6561e25025ad0
+https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789207323-0-0-d53e1f1bada22ef9ec0a48a519011e7e
 #EXTINF:-1 tvg-id="room-625920" tvg-logo="https://sta.vnres.co/file/common/20260909/3e9709cc7a1af41a8ccf031d867286d9.png" group-title="Bóng đá",Eintracht Braunschweig vs Dynamo Dresden (GER D2)
 https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1789160426-0-0-0f9eab8ccb5d83587bc6d9ce5c9339aa
 #EXTINF:-1 tvg-id="room-627718" tvg-logo="https://sta.vnres.co/file/common/20260909/d68cef3768dc9e5fbd030aa350bec60c.png" group-title="Bóng đá",Ulsan HD FC vs Incheon United Club (KOR D1)
-https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789207022-0-0-b9d2b2ac53a160e361736daf20c727c3
+https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789207323-0-0-775b29172a7628147a926c615aa0570a
 #EXTINF:-1 tvg-id="room-991140" tvg-logo="https://sta.vnres.co/file/common/20260909/0aa4da1822200c714f096115a2af0a29.png" group-title="Bóng đá",Mito Hollyhock vs Kawasaki Frontale (JPN D1)
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1789207022-0-0-d0e14eecdb3e19e41c4c3fb125512ee9
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1789207323-0-0-7f83c851dcef4f3f053469b9a4fa5fe8
 #EXTINF:-1 tvg-id="room-9912008" tvg-logo="https://sta.vnres.co/file/common/20260909/18b57ef2b9af15238e4a473c0147b673.png" group-title="Bóng đá",Persija Jakarta vs Persib Bandung (IDN D1)
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789207022-0-0-3326791378537d88c4fb3f42bac45274
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789207323-0-0-e4faa96e72280d58063f11fe9f900a43
 #EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260909/18b57ef2b9af15238e4a473c0147b673.png" group-title="Bóng đá",Persija Jakarta vs Persib Bandung (IDN D1)
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=4cf9e835ecc3c08ea6943479e2079ccd&txTime=6aa5683e
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=76af364d59b4e2f7064921bcffffb7a8&txTime=6aa5696b
 #EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260909/0aa4da1822200c714f096115a2af0a29.png" group-title="Bóng đá",Mito Hollyhock vs Kawasaki Frontale (JPN D1)
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789207022-0-0-0b33270f1c3c23ae345782d798eaed0e
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789207323-0-0-6f11c641e05e48e05b9e08572659d823
 #EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260909/dbc36a3cabb232f98a2bccfc2097a1a4.png" group-title="Bóng đá",Gamba Osaka vs FC Tokyo (JPN D1)
 https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=927c4c08c76055d7e110503e25d2e5ae&txTime=6aa56795
 #EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260909/18b57ef2b9af15238e4a473c0147b673.png" group-title="Bóng đá",Persija Jakarta vs Persib Bandung (IDN D1)
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789207022-0-0-7ffb2da60304039c227a8100c4112c42
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789207323-0-0-afe46c855b1aff2c528081528b19d253
 #EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260909/3e9709cc7a1af41a8ccf031d867286d9.png" group-title="Bóng đá",Eintracht Braunschweig vs Dynamo Dresden (GER D2)
 https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789193446-0-0-2644595de4b446cdd48e26215b1e481b
 #EXTINF:-1 tvg-id="room-9912119" tvg-logo="https://sta.vnres.co/file/common/20260910/6e66d85246d86db11fd79d1c32715bd4.png" group-title="Bóng đá",Sporting Kansas City vs Los Angeles FC (USA MLS)
@@ -112,15 +112,15 @@ https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1788869952-0-0-1b4
 #EXTINF:-1 tvg-id="room-9912123" tvg-logo="https://sta.vnres.co/file/common/20260909/2586d0553605aed0879253d6453e34a4.png" group-title="Bóng đá",FC Köln vs SV Werder Bremen (GER D1)
 https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1789164304-0-0-0a6021b22b0d4189ca0d06ab86e814f6
 #EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260909/64bce68004028fcc2067855ab7dbdc23.png" group-title="Bóng đá",Jeonbuk Hyundai Motors vs FC Seoul (KOR D1)
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789207022-0-0-f98e2c7140ac19eff48d9f526b03deab
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789207323-0-0-8665215aea5498241a32746e56be1527
 #EXTINF:-1 tvg-id="room-9912126" tvg-logo="https://sta.vnres.co/file/common/20260909/316414fd515e58821cccbf99d93cbcf6.png" group-title="Bóng đá",V-Varen Nagasaki vs Nagoya Grampus (JPN D1)
 https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=a62cdba704bc65d0536304252810667c&txTime=6aa4bb12
 #EXTINF:-1 tvg-id="room-9912127" tvg-logo="https://sta.vnres.co/file/common/20260909/d68cef3768dc9e5fbd030aa350bec60c.png" group-title="Bóng đá",Ulsan HD FC vs Incheon United Club (KOR D1)
-https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=d4ababdabd3a1f271e90ee1b2bb48857&txTime=6aa5683e
+https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=779f0885cc57a815d714356a94bb4d1b&txTime=6aa5696b
 #EXTINF:-1 tvg-id="room-9912128" tvg-logo="https://sta.vnres.co/file/common/20260909/64bce68004028fcc2067855ab7dbdc23.png" group-title="Bóng đá",Jeonbuk Hyundai Motors vs FC Seoul (KOR D1)
-https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789207022-0-0-c92d49a2470eb7106099e9c227cfcaf3
+https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789207323-0-0-136e0bdabf96f28269217c50952b3299
 #EXTINF:-1 tvg-id="room-9912129" tvg-logo="https://sta.vnres.co/file/common/20260909/64bce68004028fcc2067855ab7dbdc23.png" group-title="Bóng đá",Jeonbuk Hyundai Motors vs FC Seoul (KOR D1)
-https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=83e127d017e61fee08e87399185f70e5&txTime=6aa5683e
+https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=710d5c9871f25bedb97311f1160220f9&txTime=6aa5696b
 #EXTINF:-1 tvg-id="room-9912130" tvg-logo="https://sta.vnres.co/file/common/20260909/c4a13bca860ae3e7bea1977c1c11e8d7.png" group-title="Bóng đá",1. FC Magdeburg vs 1. FC Kaiserslautern (GER D2)
 https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789162423-0-0-b87d94e54da0974816e63fcb747191fd
 #EXTINF:-1 tvg-id="room-9912131" tvg-logo="https://sta.vnres.co/file/common/20260909/c90ce1103df1c344b5730ef9ca175ec1.png" group-title="Bóng đá",Borussia Dortmund vs SC Paderborn 07 (GER D1)
@@ -136,7 +136,7 @@ https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=301b9277eccc4d24faa
 #EXTINF:-1 tvg-id="room-9912138" tvg-logo="https://sta.vnres.co/file/common/20260909/73520e0d5e19a699cc28f233c40b06e5.png" group-title="Bóng đá",Sanfrecce Hiroshima vs Cerezo Osaka (JPN D1)
 https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1789163740-0-0-cd40e3c9847d1008531e83be4b7bffeb
 #EXTINF:-1 tvg-id="room-9912139" tvg-logo="https://sta.vnres.co/file/common/20260909/18b57ef2b9af15238e4a473c0147b673.png" group-title="Bóng đá",Persija Jakarta vs Persib Bandung (IDN D1)
-https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=cb07045b697970469edd573d386d7c61&txTime=6aa5683e
+https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=b55fd916b36fc8a90683b9b78ccecb67&txTime=6aa5696b
 #EXTINF:-1 tvg-id="room-9912140" tvg-logo="https://sta.vnres.co/file/common/20260909/7a093112258fee9b2aecae39826ec9fc.png" group-title="Bóng đá",Derby County vs Birmingham City (ENG LCH)
 https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=a9d79db1c8ac966a0a7b3a57bce2d042&txTime=6aa442ad
 #EXTINF:-1 tvg-id="room-9912141" tvg-logo="https://sta.vnres.co/file/common/20260909/186f67fe76d49c72b5ee3f00180d366b.png" group-title="Bóng đá",Machida Zelvia vs Yokohama F. Marinos (JPN D1)
@@ -148,88 +148,92 @@ https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789162455-0-0-f99
 #EXTINF:-1 tvg-id="room-9912144" tvg-logo="https://sta.vnres.co/file/common/20260909/7a093112258fee9b2aecae39826ec9fc.png" group-title="Bóng đá",Derby County vs Birmingham City (ENG LCH)
 https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1789192912-0-0-334c89f3bb067a717815d7d2db408d54
 #EXTINF:-1 tvg-id="room-9912145" tvg-logo="https://sta.vnres.co/file/common/20260909/0aa4da1822200c714f096115a2af0a29.png" group-title="Bóng đá",Mito Hollyhock vs Kawasaki Frontale (JPN D1)
-https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789207022-0-0-34366979b14460606002390d752084dc
+https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789207323-0-0-b62dd201013333708e5ae82d9f9de292
 #EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260909/075d71d59a448e7c5f8a344c88c67e66.png" group-title="Bóng đá",Tianjin Jinmen Tiger vs Liaoning Tieren (CHA SL)
 https://pull.niur.live/live/stream-9912146_lhd.m3u8?txSecret=511ba7fc11dc3ef2fcff24cc223ce15d&txTime=6aa531e9
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260910/8700a8187e551d9188eae34750afe6ab.png" group-title="Bóng rổ",Tasmania JackJumpers vs Sydney Kings (NBL)
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=e48a7a0f2a351d665f5f39b38674be5d&txTime=6aa5683e
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=12d00e749f1812ab428285dc992853d4&txTime=6aa5696b
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260910/63b4f48dcbacdb79519b50d619cd95b7.png" group-title="Bóng rổ",Brisbane Bullets vs Cairns Taipans (NBL)
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=780ad84b070a042abb1917356a880330&txTime=6aa5683e
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=897b1f7409b027ced64476e14efcf987&txTime=6aa5696b
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260910/ee9829b6b4d497b8c80098d9603d35a2.png" group-title="Bóng rổ",Xin Hua vs IMG K-Star (SNBL)
 https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789136446-0-0-6ba09c2d0edce5a32bdb3ed7542396b1
-#EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260910/2ca8d30667709c656efbb3c79dd40158.png" group-title="Bóng rổ",Bahrain vs China (AGB)
+#EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260911/99217791782a2925278ce2c656809044.png" group-title="Bóng rổ",France Women vs Germany Women (FIBA W)
 https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789206839-0-0-b87110a1b6faf26af9b44862c94b4c71
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260910/8700a8187e551d9188eae34750afe6ab.png" group-title="Bóng rổ",Tasmania JackJumpers vs Sydney Kings (NBL)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789207022-0-0-0c4b876dc53a11ffb25ae6cd164e0098
-#EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260910/2ca8d30667709c656efbb3c79dd40158.png" group-title="Bóng rổ",Bahrain vs China (AGB)
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789207323-0-0-e38b4fc84074915650c177dc040c48c6
+#EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260910/1594ab14b31738c2edc549b203676b01.png" group-title="Bóng rổ",Kazakhstan vs Philippines (AGB)
 https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789206924-0-0-3b9f278a348f289652352e9359ce7475
 #EXTINF:-1 tvg-id="room-133277" tvg-logo="https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg" group-title="SocoLive",Tường thuật: MAS SL - Johor Darul Ta'zim FC vs Negeri Sembilan - Gà xào sả ớt
-https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=63a00995c52a4943086a7e9f78b7e038&txTime=6aa5683e
+https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=016bdd47d44cb3ca6a579cd17feaaf43&txTime=6aa5696a
 #EXTINF:-1 tvg-id="room-133824" tvg-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg" group-title="SocoLive",Tường thuật: QAT D1 - Al-Gharafa vs Lusail - Bò leo rào
-https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=57ac95c395f36330bd9ef7e558baaf2c&txTime=6aa5683e
+https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=fe0126e9b96e2ee266a7cb8b63ea209a&txTime=6aa5696b
 #EXTINF:-1 tvg-id="room-152898" tvg-logo="https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png" group-title="SocoLive",Tường thuật: MEX D1 - Necaxa vs Puebla - Thỏ giang hồ
-https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=7f7d19657aa911a18b0a69c1f3cb720e&txTime=6aa5683e
+https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=ab1b09370510aa9e85f046ab205815a7&txTime=6aa5696b
 #EXTINF:-1 tvg-id="room-179093" tvg-logo="https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg" group-title="SocoLive",Tường thuật: JPN D1 - Vissel Kobe vs Kashima Antlers - Hươu đau cổ
-https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=6736a24019eafd13e9d269d2e188ab42&txTime=6aa5683e
+https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=c98494a05a36b40c5a6a46b0c3a08d3b&txTime=6aa5696b
 #EXTINF:-1 tvg-id="room-321443" tvg-logo="https://sta.vnres.co/file/common/20260603/54289b9ef989aba74cff5bfdee1d4656.png" group-title="SocoLive",JPN D1: Mito Hollyhock vs Kawasaki Frontale - BLV GIÓ
-https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=a18413e0738bfbe4b2c779489494e033&txTime=6aa5683e
+https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=c3755fb33e80d6290347d4d42c069e3c&txTime=6aa5696b
 #EXTINF:-1 tvg-id="room-327159" tvg-logo="https://sta.vnres.co/file/common/20260910/b74633428c7b7d75edf4a7dbb3d250cf.jpg" group-title="SocoLive",KOR D1: Ulsan HD FC vs Incheon United Club - BLV COCA
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789207022-0-0-6d1a06d6946e43933b13701d2990d2ac
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789207323-0-0-34a1bfdef3c9ace37b7ef82a9d3ff59a
 #EXTINF:-1 tvg-id="room-343500" tvg-logo="https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg" group-title="SocoLive",Tường thuật: VIE D1 - SHB Da Nang vs Thep Xanh Nam Dinh FC - Mèo méo meo
-https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=317e91cebfec9a69081aa586832f3183&txTime=6aa5683e
+https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=3baece29238bca421c31282dabd38d35&txTime=6aa5696b
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg" group-title="SocoLive",NBL: Tasmania JackJumpers vs Sydney Kings - A CHÈ
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=e48a7a0f2a351d665f5f39b38674be5d&txTime=6aa5683e
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=12d00e749f1812ab428285dc992853d4&txTime=6aa5696b
 #EXTINF:-1 tvg-id="room-372746" tvg-logo="https://sta.vnres.co/file/common/20260728/ba06eac3dc3ffeee0de25e8e0deaaceb.jpg" group-title="SocoLive",JPN D1: Shimizu S-Pulse vs Avispa Fukuoka - BLV YONE
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1789207022-0-0-2326cdf7552bab16d95a0fc9c08643d3
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1789207323-0-0-17df9abcb11bb1ffb3ea997b761135f2
+#EXTINF:-1 tvg-id="room-459401" tvg-logo="https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4.jpg" group-title="SocoLive",JPN D1: Shimizu S-Pulse vs Avispa Fukuoka - BLV BÉO
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=c05df81ee212a9fb47597bbb7a613f3b&txTime=6aa5696b
 #EXTINF:-1 tvg-id="room-491873" tvg-logo="https://sta.vnres.co/file/common/20250723/6b83b847d8944b57cc13043bae9fa7a8.jpg" group-title="SocoLive",KOR D1: Bucheon FC 1995 vs Jeju SK FC - BLV VIP
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=4312b4bd8174e5b83cd6f573c8996250&txTime=6aa5683e
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=067ae2d611bf659488d4d189461373e5&txTime=6aa5696b
 #EXTINF:-1 tvg-id="room-527384" tvg-logo="https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg" group-title="SocoLive",KOR D1: Jeonbuk Hyundai Motors vs FC Seoul - LÃO LÂM
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789207022-0-0-6e40460afe2b5fd2122c1baeadc5311d
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789207323-0-0-6fa8d9096ab00445c2b896254ab05c7e
 #EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg" group-title="SocoLive",IDN D1: PSS Sleman vs Madura United - BLV RAMBO
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=d01506fec552e8df4c795e040b796f78&txTime=6aa5683e
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=9f5b8808bcbdcb6730e9c2ddaca63847&txTime=6aa5696b
 #EXTINF:-1 tvg-id="room-552832" tvg-logo="https://sta.vnres.co/file/common/20251111/6a43978efb637082f6eb906c1e7f1621.jpg" group-title="SocoLive",JPN D1: Mito Hollyhock vs Kawasaki Frontale - LOGAN
-https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=f5c8357118bbca953b67b71d7b43221a&txTime=6aa5683e
+https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=74a901c22e87ede59bda71645b2ab163&txTime=6aa5696b
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg" group-title="SocoLive",NBL: Brisbane Bullets vs Cairns Taipans - HUNTER
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=780ad84b070a042abb1917356a880330&txTime=6aa5683e
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=897b1f7409b027ced64476e14efcf987&txTime=6aa5696b
 #EXTINF:-1 tvg-id="room-582342" tvg-logo="https://sta.vnres.co/file/common/20260911/5092224ec4c96a8b8625005b880ba090.jpg" group-title="SocoLive",KOR D1: Ulsan HD FC vs Incheon United Club - BLV CÒ
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1789207022-0-0-3f2a878d8581a8a8b18ea188f169ce01
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1789207323-0-0-8bf50390cc21583210f1213b0fb8f183
 #EXTINF:-1 tvg-id="room-603255" tvg-logo="https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7.png" group-title="SocoLive",IDN D1: PSS Sleman vs Madura United - BLV LION
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1789207022-0-0-462d20d3682f97dbf515e53276312038
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1789207323-0-0-6a3fe4f90d2f5f47599207d35e75479c
+#EXTINF:-1 tvg-id="room-617313" tvg-logo="https://sta.vnres.co/file/common/20260910/0b1046f9ea6e137597f737c5d46ef984.jpg" group-title="SocoLive",JPN D1: Shimizu S-Pulse vs Avispa Fukuoka - VINFAST
+https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1789207323-0-0-b05f7e7800efa901250922a63068224f
+#EXTINF:-1 tvg-id="room-619561" tvg-logo="https://sta.vnres.co/file/common/20260729/d06a0efe274bce28547238bec2a125b9.jpg" group-title="SocoLive",JPN D1: Shimizu S-Pulse vs Avispa Fukuoka - BÚN ĐẬU
+https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1789207328-0-0-53444b5e55947404bf62832266520a68
 #EXTINF:-1 tvg-id="room-620084" tvg-logo="https://sta.vnres.co/file/common/20260713/cbd81ea71d49b5b5f074a5f56678a9b6.png" group-title="SocoLive",KOR D1: Bucheon FC 1995 vs Jeju SK FC - PEANUT
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789207022-0-0-59f9b83e51ea0c9b25814012db0787b5
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789207323-0-0-7ee6a19fd104bf82ab0b784d1061c318
 #EXTINF:-1 tvg-id="room-620504" tvg-logo="https://sta.vnres.co/file/common/20260802/d0b756ac34b8f00d22a6d687f86fe8b2.jpg" group-title="SocoLive",JPN D1: Mito Hollyhock vs Kawasaki Frontale - BOSS
-https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=02d9686c18b249b6487b19f79be398fb&txTime=6aa5683e
+https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=4ef9c9c822f5510561dc6ecd3b845f40&txTime=6aa5696b
 #EXTINF:-1 tvg-id="room-621843" tvg-logo="https://sta.vnres.co/file/common/20260813/5d212275a6562e784f8ce4dd82466681.png" group-title="SocoLive",KOR D1: Jeonbuk Hyundai Motors vs FC Seoul - BLV BẢY
-https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1789207022-0-0-87fded8b0e04126a41dcb644f1fc5cbf
+https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1789207323-0-0-6c3674d9585a0ae79ccab3c99bf9dbcd
 #EXTINF:-1 tvg-id="room-622241" tvg-logo="https://sta.vnres.co/file/common/20260911/bb1098e2b7926b5aae7e1d2f11383468.jpg" group-title="SocoLive",KOR D1: Jeonbuk Hyundai Motors vs FC Seoul - BLV HEHE
-https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789207022-0-0-62af41e4fd6e377664c6561e25025ad0
+https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789207323-0-0-d53e1f1bada22ef9ec0a48a519011e7e
 #EXTINF:-1 tvg-id="room-627718" tvg-logo="https://sta.vnres.co/file/common/20260831/8c106fa0fe146cf7929663e53e921ba0.jpg" group-title="SocoLive",KOR D1: Ulsan HD FC vs Incheon United Club - A MÂN
-https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789207022-0-0-b9d2b2ac53a160e361736daf20c727c3
+https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789207323-0-0-775b29172a7628147a926c615aa0570a
 #EXTINF:-1 tvg-id="room-991140" tvg-logo="https://sta.vnres.co/file/common/20240614/d900dd8841b1223c7b58554cde34df75.jpg" group-title="SocoLive",JPN D1: Mito Hollyhock vs Kawasaki Frontale - BLV FIREMAN
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1789207022-0-0-d0e14eecdb3e19e41c4c3fb125512ee9
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1789207323-0-0-7f83c851dcef4f3f053469b9a4fa5fe8
 #EXTINF:-1 tvg-id="room-9912008" tvg-logo="https://sta.vnres.co/file/common/20260904/3360a52dcf3d4a0b945286a1e13d48ca.png" group-title="SocoLive",IDN D1: Persija Jakarta vs Persib Bandung - BLV TOMIA
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789207022-0-0-3326791378537d88c4fb3f42bac45274
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789207323-0-0-e4faa96e72280d58063f11fe9f900a43
 #EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56.jpg" group-title="SocoLive",IDN D1: Persija Jakarta vs Persib Bandung - BLV TAP
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=4cf9e835ecc3c08ea6943479e2079ccd&txTime=6aa5683e
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=76af364d59b4e2f7064921bcffffb7a8&txTime=6aa5696b
 #EXTINF:-1 tvg-id="room-9912079" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg" group-title="SocoLive",Tường thuật: MEX D1 - Pumas U.N.A.M. vs Club Leon - Rắn ở đáy sông
-https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=574fdc94ae39d2a0abccdc4993461fe5&txTime=6aa5683e
+https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=cf68d2396ef865f3f922d6b064f7b55b&txTime=6aa5696b
 #EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260909/7a29b362086bb982fdb5faa60979718c.png" group-title="SocoLive",JPN D1: Mito Hollyhock vs Kawasaki Frontale - BLV Củ Cải
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789207022-0-0-0b33270f1c3c23ae345782d798eaed0e
-#EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-title="SocoLive",AGB: Bahrain vs China - BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789206839-0-0-b87110a1b6faf26af9b44862c94b4c71
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789207323-0-0-6f11c641e05e48e05b9e08572659d823
 #EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260909/49ea9eeb016497362bc20e6f236451a4.png" group-title="SocoLive",IDN D1: Persija Jakarta vs Persib Bandung - BLV ZOWIE
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789207022-0-0-7ffb2da60304039c227a8100c4112c42
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789207323-0-0-afe46c855b1aff2c528081528b19d253
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg" group-title="SocoLive",NBL: Tasmania JackJumpers vs Sydney Kings - BLV HENRY
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789207022-0-0-0c4b876dc53a11ffb25ae6cd164e0098
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789207323-0-0-e38b4fc84074915650c177dc040c48c6
 #EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg" group-title="SocoLive",KOR D1: Jeonbuk Hyundai Motors vs FC Seoul - KENCHU
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789207022-0-0-f98e2c7140ac19eff48d9f526b03deab
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789207323-0-0-8665215aea5498241a32746e56be1527
 #EXTINF:-1 tvg-id="room-9912127" tvg-logo="https://sta.vnres.co/file/common/20250320/efe293015c817dee46ccc81fa5e934d7.jpg" group-title="SocoLive",KOR D1: Ulsan HD FC vs Incheon United Club - BLV PIRLO
-https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=d4ababdabd3a1f271e90ee1b2bb48857&txTime=6aa5683e
+https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=779f0885cc57a815d714356a94bb4d1b&txTime=6aa5696b
 #EXTINF:-1 tvg-id="room-9912128" tvg-logo="https://sta.vnres.co/file/common/20260729/2cca708e4ee1d3e988c578ff79960d7b.jpg" group-title="SocoLive",KOR D1: Jeonbuk Hyundai Motors vs FC Seoul - CACAO
-https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789207022-0-0-c92d49a2470eb7106099e9c227cfcaf3
+https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789207323-0-0-136e0bdabf96f28269217c50952b3299
 #EXTINF:-1 tvg-id="room-9912129" tvg-logo="https://sta.vnres.co/file/common/20260911/086cd2434afcf6d930543296a5e89647.jpg" group-title="SocoLive",KOR D1: Jeonbuk Hyundai Motors vs FC Seoul - QUỐC KHÁNH
-https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=83e127d017e61fee08e87399185f70e5&txTime=6aa5683e
+https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=710d5c9871f25bedb97311f1160220f9&txTime=6aa5696b
 #EXTINF:-1 tvg-id="room-9912139" tvg-logo="https://sta.vnres.co/file/common/20260317/5be300857a15349a5324be170237948b.png" group-title="SocoLive",IDN D1: Persija Jakarta vs Persib Bandung - BLV A TINH
-https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=cb07045b697970469edd573d386d7c61&txTime=6aa5683e
+https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=b55fd916b36fc8a90683b9b78ccecb67&txTime=6aa5696b
 #EXTINF:-1 tvg-id="room-9912145" tvg-logo="https://sta.vnres.co/file/common/20260911/e90340496c72efd2b32ba4df5e3e91d4.jpg" group-title="SocoLive",JPN D1: Mito Hollyhock vs Kawasaki Frontale - ZIDANE
-https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789207022-0-0-34366979b14460606002390d752084dc
+https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789207323-0-0-b62dd201013333708e5ae82d9f9de292
