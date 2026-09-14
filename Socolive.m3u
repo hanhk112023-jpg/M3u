@@ -1,89 +1,97 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 42
-# Updated: 15/09/2026 02:25:05
+# Channels: 46
+# Updated: 15/09/2026 02:35:05
 
 #EXTINF:-1 tvg-id="room-291277" tvg-logo="https://sta.vnres.co/file/common/20260912/79dd64c8bf8bd764662af3aad455b9f1.png" group-title="Bóng đá",Inter Milan vs Udinese (ITA D1)
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=9b2ce6eddfac7f669985aa76a4f09d72&txTime=6aa89d06
-#EXTINF:-1 tvg-id="room-406865" tvg-logo="https://sta.vnres.co/file/common/20260912/0d1755dfea316992f3d4e8120c696df9.png" group-title="Bóng đá",IK Sirius FK vs Degerfors IF (SWE D1)
-https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=5988cc93baf022676095abe6b3e2668b&txTime=6aa89b8f
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=2e22097e885b29e341408b5727c50e72&txTime=6aa89f5e
+#EXTINF:-1 tvg-id="room-380460" tvg-logo="https://sta.vnres.co/file/common/20260912/b3952d43355c15929dfa327dd096a986.png" group-title="Bóng đá",Leeds United vs Newcastle United (ENG PR)
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1789417742-0-0-f30fbbb53ec0899b2e09814bd6173d95
 #EXTINF:-1 tvg-id="room-536185" tvg-logo="https://sta.vnres.co/file/common/20260912/c4d41defa8635cd8416ae54d77a32dab.png" group-title="Bóng đá",Al Qadsiah vs Al-Wasl SC (ACL Elite)
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1789417442-0-0-d39d41e170480257c36902b03af089d6
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1789418042-0-0-b8882b6be90f61ba8be918c3058ba3e3
 #EXTINF:-1 tvg-id="room-602019" tvg-logo="https://sta.vnres.co/file/common/20260912/35b491dbc8d485e0d9a97de508052b5a.png" group-title="Bóng đá",Villarreal CF vs Real Betis (SPA D1)
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1789417442-0-0-2726a4426bca1c8746f6876ccd32d85c
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1789418042-0-0-4dd627f9d1417030dd609cbe44aaf74f
 #EXTINF:-1 tvg-id="room-617313" tvg-logo="https://sta.vnres.co/file/common/20260912/c4d41defa8635cd8416ae54d77a32dab.png" group-title="Bóng đá",Al Qadsiah vs Al-Wasl SC (ACL Elite)
-https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1789417442-0-0-6c91a5ae87007b72884c19f34b2903b5
-#EXTINF:-1 tvg-id="room-620504" tvg-logo="https://sta.vnres.co/file/common/20260912/0d1755dfea316992f3d4e8120c696df9.png" group-title="Bóng đá",IK Sirius FK vs Degerfors IF (SWE D1)
-https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1789416792-0-0-5f4915dd1974f08a4e035840aa54e621
+https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1789418042-0-0-35ffc8a67d736a250a5abc0731a42434
 #EXTINF:-1 tvg-id="room-620797" tvg-logo="https://sta.vnres.co/file/common/20260912/657c0b17034a24e1662ba149155dfe55.png" group-title="Bóng đá",Al Ahli SC vs Pakhtakor (ACL Elite)
-https://pull.niur.live/live/stream-620797_lhd.m3u8?txSecret=215d4d362b3737f6bdee9de188d17a47&txTime=6aa89e32
+https://pull.niur.live/live/stream-620797_lhd.m3u8?txSecret=5f13954a64e4e7e27ba5d8f230bb52ae&txTime=6aa8a08a
 #EXTINF:-1 tvg-id="room-621840" tvg-logo="https://sta.vnres.co/file/common/20260912/f7cf01b4444ff80cd282815693e7d85a.png" group-title="Bóng đá",Esteghlal Tehran vs Al-Sadd (ACL Elite)
-https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=d2d1957b95b45c782b47c18c3d1335f9&txTime=6aa89e32
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=003b43a87d037f3544a2539f316692c8&txTime=6aa8a08a
 #EXTINF:-1 tvg-id="room-621843" tvg-logo="https://sta.vnres.co/file/common/20260912/35b491dbc8d485e0d9a97de508052b5a.png" group-title="Bóng đá",Villarreal CF vs Real Betis (SPA D1)
-https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1789417442-0-0-22c75f494df1c899b656cd9a2296209d
+https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1789418042-0-0-904e5f9e903f0e21d3d4789680613a77
 #EXTINF:-1 tvg-id="room-622093" tvg-logo="https://sta.vnres.co/file/common/20260912/657c0b17034a24e1662ba149155dfe55.png" group-title="Bóng đá",Al Ahli SC vs Pakhtakor (ACL Elite)
-https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=ed922f13625cb248287b1b5ea6339e13&txTime=6aa89e32
+https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=f1f4e2c323d752d8dc709a6ff5365755&txTime=6aa8a08a
 #EXTINF:-1 tvg-id="room-622240" tvg-logo="https://sta.vnres.co/file/common/20260912/79dd64c8bf8bd764662af3aad455b9f1.png" group-title="Bóng đá",Inter Milan vs Udinese (ITA D1)
-https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1789417442-0-0-825bf3c4c49fb01b5562c75358a5105a
+https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1789418042-0-0-c574b8b16312845f02821de6ea326298
 #EXTINF:-1 tvg-id="room-625920" tvg-logo="https://sta.vnres.co/file/common/20260912/35b491dbc8d485e0d9a97de508052b5a.png" group-title="Bóng đá",Villarreal CF vs Real Betis (SPA D1)
-https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1789417442-0-0-fcb51c98fc09c60a0b41ef2d5e9b1ea2
+https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1789418042-0-0-2d08425226c7878cd65917b2b5dd1fe6
 #EXTINF:-1 tvg-id="room-991140" tvg-logo="https://sta.vnres.co/file/common/20260912/79dd64c8bf8bd764662af3aad455b9f1.png" group-title="Bóng đá",Inter Milan vs Udinese (ITA D1)
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1789417442-0-0-9e3492ce2030584347551cd1b6518c09
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1789418042-0-0-a952d04632673a5744290290909d5368
 #EXTINF:-1 tvg-id="room-9912119" tvg-logo="https://sta.vnres.co/file/common/20260912/79dd64c8bf8bd764662af3aad455b9f1.png" group-title="Bóng đá",Inter Milan vs Udinese (ITA D1)
-https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789417442-0-0-78f9b5bd576d02af7131329c95f92826
+https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789418042-0-0-0d46a541713993c06fd484cf7c2faf57
+#EXTINF:-1 tvg-id="room-9912122" tvg-logo="https://sta.vnres.co/file/common/20260912/b3952d43355c15929dfa327dd096a986.png" group-title="Bóng đá",Leeds United vs Newcastle United (ENG PR)
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=8cffeb608dbbac9e031b43db5e78e93b&txTime=6aa8a08a
+#EXTINF:-1 tvg-id="room-9912129" tvg-logo="https://sta.vnres.co/file/common/20260912/b3952d43355c15929dfa327dd096a986.png" group-title="Bóng đá",Leeds United vs Newcastle United (ENG PR)
+https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=9730e9d60943e1e658321efac3d33880&txTime=6aa8a08a
 #EXTINF:-1 tvg-id="room-9912130" tvg-logo="https://sta.vnres.co/file/common/20260912/35b491dbc8d485e0d9a97de508052b5a.png" group-title="Bóng đá",Villarreal CF vs Real Betis (SPA D1)
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789417442-0-0-99962a94f146543850c9f205d406e0e8
+https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789418042-0-0-31bb27cf591e730cc0e306990209071f
+#EXTINF:-1 tvg-id="room-9912131" tvg-logo="https://sta.vnres.co/file/common/20260912/b3952d43355c15929dfa327dd096a986.png" group-title="Bóng đá",Leeds United vs Newcastle United (ENG PR)
+https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1789418042-0-0-1fef1c806daa380b53e7d993aa354c58
 #EXTINF:-1 tvg-id="room-9912133" tvg-logo="https://sta.vnres.co/file/common/20260912/79dd64c8bf8bd764662af3aad455b9f1.png" group-title="Bóng đá",Inter Milan vs Udinese (ITA D1)
-https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1789417442-0-0-2f7b05dba0c020d5ba699e6435032db4
+https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1789418042-0-0-9bf329bc18960813a44e107599df590b
+#EXTINF:-1 tvg-id="room-9912135" tvg-logo="https://sta.vnres.co/file/common/20260912/b3952d43355c15929dfa327dd096a986.png" group-title="Bóng đá",Leeds United vs Newcastle United (ENG PR)
+https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1789418042-0-0-c7a42609bbda9ef76d70c554c5d22b92
+#EXTINF:-1 tvg-id="room-9912141" tvg-logo="https://sta.vnres.co/file/common/20260912/b3952d43355c15929dfa327dd096a986.png" group-title="Bóng đá",Leeds United vs Newcastle United (ENG PR)
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789418042-0-0-6a48f56f805f06b9abbe53def6e56764
 #EXTINF:-1 tvg-id="room-9912142" tvg-logo="https://sta.vnres.co/file/common/20260912/79dd64c8bf8bd764662af3aad455b9f1.png" group-title="Bóng đá",Inter Milan vs Udinese (ITA D1)
-https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789417442-0-0-a5f7f7ed74faf91a7427ac6fb66124ff
+https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789418042-0-0-7ed8c77d115a29980ea41995df26c523
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260913/ef46503b9b1e4ebb21828b9076932392.png" group-title="Bóng rổ",Wurzburg vs Manchester Basketball (BCL)
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1789417142-0-0-29da6d43b2484822e1849cf39d2de1e9
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1789417742-0-0-f6d30747e493db9db6734988ead6c985
 #EXTINF:-1 tvg-id="room-291277" tvg-logo="https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg" group-title="SocoLive",ITA D1: Inter Milan vs Udinese - CÔNG CHẤT
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=9b2ce6eddfac7f669985aa76a4f09d72&txTime=6aa89d06
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=2e22097e885b29e341408b5727c50e72&txTime=6aa89f5e
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg" group-title="SocoLive",BCL: Wurzburg vs Manchester Basketball - A CHÈ
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1789417142-0-0-29da6d43b2484822e1849cf39d2de1e9
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1789417742-0-0-f6d30747e493db9db6734988ead6c985
 #EXTINF:-1 tvg-id="room-380460" tvg-logo="https://sta.vnres.co/file/common/20260827/1d4f9eca02a381435aaec138589dd9ef.jpg" group-title="SocoLive",ENG PR: Leeds United vs Newcastle United - BLV ENZO
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1789417142-0-0-b8f64e01603176e000434f1024865b34
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1789417742-0-0-f30fbbb53ec0899b2e09814bd6173d95
 #EXTINF:-1 tvg-id="room-536185" tvg-logo="https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg" group-title="SocoLive",ACL Elite: Al Qadsiah vs Al-Wasl SC - BLV A WIN
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1789417142-0-0-acbe44bbe6c8626e7546fc723d1dbc05
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1789417742-0-0-d16ff6bab5d4420425459e378d01f55e
 #EXTINF:-1 tvg-id="room-602019" tvg-logo="https://sta.vnres.co/file/common/20260329/46d787b8716ab82aff515db39b5a55a1.jpg" group-title="SocoLive",SPA D1: Villarreal CF vs Real Betis - BLV RYO
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1789417142-0-0-bc5e26a6fe5015133a9678aa8b2bd562
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1789417742-0-0-49dad7d7a7195e16fd19c35b072a8c3b
 #EXTINF:-1 tvg-id="room-617313" tvg-logo="https://sta.vnres.co/file/common/20260910/0b1046f9ea6e137597f737c5d46ef984.jpg" group-title="SocoLive",ACL Elite: Al Qadsiah vs Al-Wasl SC - VINFAST
-https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1789417142-0-0-f97997453a3f720727e29c21f1ce0dde
+https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1789417742-0-0-b7c240dff449d6c689788e02382a46ea
 #EXTINF:-1 tvg-id="room-620797" tvg-logo="https://sta.vnres.co/file/common/20260721/eae172928facf755dbf2027ca230e55e.png" group-title="SocoLive",ACL Elite: Al Ahli SC vs Pakhtakor - BÒ TƯƠI
-https://pull.niur.live/live/stream-620797_lhd.m3u8?txSecret=9595b788954e86b86ed577e9325f7214&txTime=6aa89d06
+https://pull.niur.live/live/stream-620797_lhd.m3u8?txSecret=c308864345270a95223d71b0d35bdb0d&txTime=6aa89f5e
 #EXTINF:-1 tvg-id="room-621840" tvg-logo="https://sta.vnres.co/file/common/20260810/042a00493898027e5f644f6f24e88c53.png" group-title="SocoLive",ACL Elite: Esteghlal Tehran vs Al-Sadd - MP3
-https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=fdd415cd39170cad3c31f56ec56fe576&txTime=6aa89d06
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=ad7b8145e44f006f03ccd6d03cfc9443&txTime=6aa89f5e
 #EXTINF:-1 tvg-id="room-621843" tvg-logo="https://sta.vnres.co/file/common/20260915/538bd5ce748fcf2ac41fe33e2c7dc3bd.jpg" group-title="SocoLive",SPA D1: Villarreal CF vs Real Betis - BLV BẢY
-https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1789417142-0-0-1475d5a7943aeb2db2babe7cff52aa74
+https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1789417742-0-0-7243a31a6bcda90c5913afeaf25e969e
 #EXTINF:-1 tvg-id="room-622093" tvg-logo="https://sta.vnres.co/file/common/20260703/fe517d18a8df723cee92683347d70be9.jpg" group-title="SocoLive",ACL Elite: Al Ahli SC vs Pakhtakor - GRAP
-https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=c4c8e5e70c0d401e76f098f74f92b4ad&txTime=6aa89d06
+https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=639fbb3238282dde092a9db492c49961&txTime=6aa89f5e
 #EXTINF:-1 tvg-id="room-622240" tvg-logo="https://sta.vnres.co/file/common/20260809/8d3ecd1339e9fe41608eb4b7f008436c.jpg" group-title="SocoLive",ITA D1: Inter Milan vs Udinese - CURRY
-https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1789417142-0-0-16846627f4b573a26edc80d2e00e4f96
+https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1789417742-0-0-6a75c4fc8cc408a6ddb493dd6d7a02fb
 #EXTINF:-1 tvg-id="room-625920" tvg-logo="https://sta.vnres.co/file/common/20260828/e0638aedd6aef31974244bd226615764.jpg" group-title="SocoLive",SPA D1: Villarreal CF vs Real Betis - NEKO
-https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1789417142-0-0-4b974f8b9b95c88bf2ded70e956aaa3c
+https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1789417742-0-0-5fa9fa8771ab997a26c06b2fa9e932e3
 #EXTINF:-1 tvg-id="room-991140" tvg-logo="https://sta.vnres.co/file/common/20240614/d900dd8841b1223c7b58554cde34df75.jpg" group-title="SocoLive",ITA D1: Inter Milan vs Udinese - BLV FIREMAN
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1789417142-0-0-bd1d5c13cacae4f189fc0a554ad3af11
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1789417742-0-0-720e81156f79d4afa6b6ffc2caa72b27
 #EXTINF:-1 tvg-id="room-9912119" tvg-logo="https://sta.vnres.co/file/common/20260829/f624027ec79ccc757bf8d5a663d63763.jpg" group-title="SocoLive",ITA D1: Inter Milan vs Udinese - HẢI THANH
-https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789417142-0-0-18e221f8fedbb712c705aef820757e55
+https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789417742-0-0-7fb468845241ba4d5f268d1ed628da36
 #EXTINF:-1 tvg-id="room-9912122" tvg-logo="https://sta.vnres.co/file/common/20260620/4cbae14a2d06d1635a160fc8c2beb182.jpg" group-title="SocoLive",ENG PR: Leeds United vs Newcastle United - RICKHANTER
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=ce8919100edd4d602888a6e1b8809132&txTime=6aa89d06
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=f04ee04dce41cd6008498aedd6a50d39&txTime=6aa89f5e
 #EXTINF:-1 tvg-id="room-9912123" tvg-logo="https://sta.vnres.co/file/common/20260725/0eb3315ecb9cf5c7f5f9b102d38e52f9.jpg" group-title="SocoLive",POR D1: Sporting Braga vs Estoril - RỒNG ĐẤT
-https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1789417142-0-0-a689531194a96f5e1bf41ad6ce9a7f2e
+https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1789417742-0-0-d0f730dd7f33671256f1cff81efeff75
 #EXTINF:-1 tvg-id="room-9912129" tvg-logo="https://sta.vnres.co/file/common/20260915/20419a30f8d1b89662509ee49207f427.png" group-title="SocoLive",ENG PR: Leeds United vs Newcastle United - QUỐC KHÁNH
-https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=789f87652eab725b67db04bea97ee567&txTime=6aa89d06
+https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=205fdc011fd6fcda0003cefc311d3a95&txTime=6aa89f5e
 #EXTINF:-1 tvg-id="room-9912130" tvg-logo="https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png" group-title="SocoLive",SPA D1: Villarreal CF vs Real Betis - BLV A TÚ
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789417142-0-0-7330b1a818b23604d28580bb27d60594
+https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789417742-0-0-d61fcaaed8956bc86d860ed59920aa9e
 #EXTINF:-1 tvg-id="room-9912131" tvg-logo="https://sta.vnres.co/file/common/20260609/b3e04b0f7d210d67052a911512e39f54.jpg" group-title="SocoLive",ENG PR: Leeds United vs Newcastle United - CHÍ PHÈO
-https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1789417142-0-0-b7061ec09e4579d4bd15bee1d1cc643c
+https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1789417742-0-0-e60d8f4157f29c49a76b08f08e892bdd
 #EXTINF:-1 tvg-id="room-9912133" tvg-logo="https://sta.vnres.co/file/common/20260411/c1490960e7f4b63fdc78206c576d2da8.png" group-title="SocoLive",ITA D1: Inter Milan vs Udinese - LOKA
-https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1789417142-0-0-b74ea6ffbff30b5969c9f6d7a5fece90
+https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1789417742-0-0-c1f0f3255b06778daf65b842144c9363
 #EXTINF:-1 tvg-id="room-9912135" tvg-logo="https://sta.vnres.co/file/common/20260801/16b69ccb9ccf1f371806a3f19e7dc683.jpg" group-title="SocoLive",ENG PR: Leeds United vs Newcastle United - BLV PEWPEW
-https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1789417142-0-0-70ebe92f159cb9e730e005d38f0a4ff0
+https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1789417742-0-0-51c9288a17cbdb4045f7b39dcd1bfef0
 #EXTINF:-1 tvg-id="room-9912138" tvg-logo="https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg" group-title="SocoLive",POR D1: Sporting Braga vs Estoril - TUẤN CÙI
-https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1789417142-0-0-1a428d506053f3d46da21c8332e6ffa1
+https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1789417742-0-0-78a09e7965ff6cc10813cdb891a30a1b
 #EXTINF:-1 tvg-id="room-9912141" tvg-logo="https://sta.vnres.co/file/common/20260909/1edb9c9016b6d011552439c71d3e5158.jpg" group-title="SocoLive",ENG PR: Leeds United vs Newcastle United - BLV MESSI
-https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789417142-0-0-b012a243aaf8ae5f3b9a71d25173b53b
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789417742-0-0-7c14bd8a927bfb33b8a4ad62a7b1c2e2
 #EXTINF:-1 tvg-id="room-9912142" tvg-logo="https://sta.vnres.co/file/common/20260830/683bbb96de277e28f88b1d08678ac124.png" group-title="SocoLive",ITA D1: Inter Milan vs Udinese - A BỆU
-https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789417142-0-0-9963b75d9eb6c3ea324367e03a415492
+https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789417742-0-0-a0f13635337842f6da524787d9f878fd
