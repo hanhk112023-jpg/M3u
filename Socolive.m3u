@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 42
-# Updated: 15/09/2026 03:55:05
+# Channels: 34
+# Updated: 15/09/2026 04:05:04
 
 #EXTINF:-1 tvg-id="room-283501" tvg-logo="https://sta.vnres.co/file/common/20260912/d200b45e4c2f1e0adf8ad811831a8503.png" group-title="Bóng đá",Deportivo Riestra vs Club Atlético Lanús (ARG D1)
 https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=012fe820c0b23df77cbc973fc70bf0c4&txTime=6aa834e8
@@ -10,7 +10,7 @@ https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789405488-0-0-78d6
 #EXTINF:-1 tvg-id="room-372746" tvg-logo="https://sta.vnres.co/file/common/20260912/a898e4a58d05177a40924c2a6715d8b3.png" group-title="Bóng đá",CA Banfield vs CA Barracas Central (ARG D1)
 https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1789361670-0-0-e98d1751e3c35f0615c8b852b7375202
 #EXTINF:-1 tvg-id="room-380460" tvg-logo="https://sta.vnres.co/file/common/20260912/b3952d43355c15929dfa327dd096a986.png" group-title="Bóng đá",Leeds United vs Newcastle United (ENG PR)
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1789422542-0-0-2402ea6eca5aee483124b9faf7633fa5
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1789423097-0-0-a204bd762e420ea439b40f1b47e02ed9
 #EXTINF:-1 tvg-id="room-491873" tvg-logo="https://sta.vnres.co/file/common/20260912/eb6eea7ee651fabc4e09b237e38a4eca.png" group-title="Bóng đá",America MG vs Sao Bernardo (BRA D2)
 https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=2803f61e3affb7b5edd25d0a5e3f6c44&txTime=6aa7882b
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260912/a898e4a58d05177a40924c2a6715d8b3.png" group-title="Bóng đá",CA Banfield vs CA Barracas Central (ARG D1)
@@ -18,7 +18,7 @@ https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789392450-0-0-16cb
 #EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260912/d200b45e4c2f1e0adf8ad811831a8503.png" group-title="Bóng đá",Deportivo Riestra vs Club Atlético Lanús (ARG D1)
 https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=a8c730293280693d2416ef44af714650&txTime=6aa85256
 #EXTINF:-1 tvg-id="room-602019" tvg-logo="https://sta.vnres.co/file/common/20260912/35b491dbc8d485e0d9a97de508052b5a.png" group-title="Bóng đá",Villarreal CF vs Real Betis (SPA D1)
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1789422542-0-0-9b31dd8812d29de0ecf1c6d7fc6d20d2
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1789422867-0-0-e38d4355c595fe1293438ebf395cdf36
 #EXTINF:-1 tvg-id="room-603914" tvg-logo="https://sta.vnres.co/file/common/20260912/eb6eea7ee651fabc4e09b237e38a4eca.png" group-title="Bóng đá",America MG vs Sao Bernardo (BRA D2)
 https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789409301-0-0-f60d2218911e7bc6f12cfca6ffc9ed54
 #EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260912/a898e4a58d05177a40924c2a6715d8b3.png" group-title="Bóng đá",CA Banfield vs CA Barracas Central (ARG D1)
@@ -26,64 +26,48 @@ https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=a6de4146deeef007eb0c
 #EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260912/d200b45e4c2f1e0adf8ad811831a8503.png" group-title="Bóng đá",Deportivo Riestra vs Club Atlético Lanús (ARG D1)
 https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789351603-0-0-8173447ca5df8423006ecfc5935f8b5c
 #EXTINF:-1 tvg-id="room-621843" tvg-logo="https://sta.vnres.co/file/common/20260912/35b491dbc8d485e0d9a97de508052b5a.png" group-title="Bóng đá",Villarreal CF vs Real Betis (SPA D1)
-https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1789422898-0-0-693175b6371255f3cf2ff8cdca658285
+https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1789423192-0-0-561fdda5d184f97a4b6638d91e3f4012
 #EXTINF:-1 tvg-id="room-621887" tvg-logo="https://sta.vnres.co/file/common/20260912/a898e4a58d05177a40924c2a6715d8b3.png" group-title="Bóng đá",CA Banfield vs CA Barracas Central (ARG D1)
 https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=d2059b80d0719cfa16fa5e647f12f6cd&txTime=6aa7bab4
 #EXTINF:-1 tvg-id="room-625920" tvg-logo="https://sta.vnres.co/file/common/20260912/35b491dbc8d485e0d9a97de508052b5a.png" group-title="Bóng đá",Villarreal CF vs Real Betis (SPA D1)
-https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1789422842-0-0-5ff5494583e49b4da29a1634462fc3d9
+https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1789423178-0-0-90d48d9864bbac06afbc35c38a56f874
 #EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260912/41068279d6b305796617416ee104131c.png" group-title="Bóng đá",Botafogo SP vs Goias Esporte Clube (BRA D2)
 https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789361667-0-0-95b8e9ee0268dc82b40b03ef243790bc
 #EXTINF:-1 tvg-id="room-9912122" tvg-logo="https://sta.vnres.co/file/common/20260912/b3952d43355c15929dfa327dd096a986.png" group-title="Bóng đá",Leeds United vs Newcastle United (ENG PR)
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=fc297f56856f4265f9137dd1f77a6806&txTime=6aa8b34a
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=9f2e91fe44386c08ff07ff52cbee92bf&txTime=6aa8b3df
 #EXTINF:-1 tvg-id="room-9912123" tvg-logo="https://sta.vnres.co/file/common/20260912/6190d337b928771209f45d5dec595947.png" group-title="Bóng đá",Sporting Braga vs Estoril (POR D1)
-https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1789422842-0-0-09ede88ec9b69bc122e65ac0b9f6cf37
+https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1789423142-0-0-dd865bd8b4fb9e122128362b7c3b8502
 #EXTINF:-1 tvg-id="room-9912129" tvg-logo="https://sta.vnres.co/file/common/20260912/b3952d43355c15929dfa327dd096a986.png" group-title="Bóng đá",Leeds United vs Newcastle United (ENG PR)
-https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=b20b5c7706b91b9471351b1dd456d64b&txTime=6aa8b34a
+https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=47d0d40d513f4310d9a639cbe9886f8f&txTime=6aa8b399
 #EXTINF:-1 tvg-id="room-9912130" tvg-logo="https://sta.vnres.co/file/common/20260912/35b491dbc8d485e0d9a97de508052b5a.png" group-title="Bóng đá",Villarreal CF vs Real Betis (SPA D1)
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789422842-0-0-fb24bb5b20e45ef5317e4e2d3d473bf0
+https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789422929-0-0-edf3e68f9828e51ec4ad83ebe5f4bf26
 #EXTINF:-1 tvg-id="room-9912131" tvg-logo="https://sta.vnres.co/file/common/20260912/b3952d43355c15929dfa327dd096a986.png" group-title="Bóng đá",Leeds United vs Newcastle United (ENG PR)
-https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1789422842-0-0-12654fc2502218fe11652dbe10bf4ddb
+https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1789422917-0-0-8c70bbbd73d03ef44ea74f8105794a81
 #EXTINF:-1 tvg-id="room-9912135" tvg-logo="https://sta.vnres.co/file/common/20260912/b3952d43355c15929dfa327dd096a986.png" group-title="Bóng đá",Leeds United vs Newcastle United (ENG PR)
-https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1789422842-0-0-6ff153e30512d1d603d9ac251ccda483
+https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1789423442-0-0-dfcbd993be82b83ea58996e316c8e83a
 #EXTINF:-1 tvg-id="room-9912138" tvg-logo="https://sta.vnres.co/file/common/20260912/6190d337b928771209f45d5dec595947.png" group-title="Bóng đá",Sporting Braga vs Estoril (POR D1)
-https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1789422842-0-0-f78088af4cc9d4de064dc2fb1cde8e9e
+https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1789423442-0-0-ec173fca0b2d0ee90dfa56695fdd2758
 #EXTINF:-1 tvg-id="room-9912139" tvg-logo="https://sta.vnres.co/file/common/20260912/41068279d6b305796617416ee104131c.png" group-title="Bóng đá",Botafogo SP vs Goias Esporte Clube (BRA D2)
 https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=247fe28d5a3a93f5577c48d26c708d7e&txTime=6aa86f76
 #EXTINF:-1 tvg-id="room-9912141" tvg-logo="https://sta.vnres.co/file/common/20260912/b3952d43355c15929dfa327dd096a986.png" group-title="Bóng đá",Leeds United vs Newcastle United (ENG PR)
-https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789422842-0-0-a14cc9903371f5e4e9bf0c59c442d525
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789422972-0-0-611f3816eed5fcfa59a98a5a6b203980
 #EXTINF:-1 tvg-id="room-133277" tvg-logo="https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg" group-title="SocoLive",Tường thuật: FRA D1 - Stade Brestois 29 vs Paris Saint Germain - Gà xào sả ớt
-https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=b3a9c598ba94eeda59484e9ae7c98f14&txTime=6aa8b21e
+https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=e426f4a9cb7cb404b0656092e4bb8d5b&txTime=6aa8b476
 #EXTINF:-1 tvg-id="room-133824" tvg-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg" group-title="SocoLive",Tường thuật: GER D1 - SV 07 Elversberg vs FC Bayern Munich - Bò leo rào
-https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=e1544431f972fcab81f6075bdc978dc7&txTime=6aa8b21e
+https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=16d2ce05e145b9d7965cdb1a2129b20c&txTime=6aa8b476
 #EXTINF:-1 tvg-id="room-152898" tvg-logo="https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png" group-title="SocoLive",Tường thuật: SPA D1 - RC Celta vs Malaga - Thỏ giang hồ
-https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=d302f742efb6c63552889eaafd11c18e&txTime=6aa8b21e
+https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=76070a87b0ef89fa7fcc342626553c24&txTime=6aa8b476
 #EXTINF:-1 tvg-id="room-179093" tvg-logo="https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg" group-title="SocoLive",Tường thuật: ENG PR - Coventry City vs Brighton Hove Albion - Hươu đau cổ
-https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=05f3b09d009ff8416f6df87aa4c6b71d&txTime=6aa8b21e
+https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=36e61a5956aa51e7a2a40cfcf13ccc34&txTime=6aa8b476
 #EXTINF:-1 tvg-id="room-343500" tvg-logo="https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg" group-title="SocoLive",Tường thuật: ENG PR - Manchester United vs Manchester City - Mèo méo meo
-https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=a89fc409efd9e2a667a921618ba9b8bc&txTime=6aa8b21e
-#EXTINF:-1 tvg-id="room-380460" tvg-logo="https://sta.vnres.co/file/common/20260827/1d4f9eca02a381435aaec138589dd9ef.jpg" group-title="SocoLive",ENG PR: Leeds United vs Newcastle United - BLV ENZO
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1789422542-0-0-2402ea6eca5aee483124b9faf7633fa5
-#EXTINF:-1 tvg-id="room-602019" tvg-logo="https://sta.vnres.co/file/common/20260329/46d787b8716ab82aff515db39b5a55a1.jpg" group-title="SocoLive",SPA D1: Villarreal CF vs Real Betis - BLV RYO
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1789422542-0-0-9b31dd8812d29de0ecf1c6d7fc6d20d2
-#EXTINF:-1 tvg-id="room-621843" tvg-logo="https://sta.vnres.co/file/common/20260915/538bd5ce748fcf2ac41fe33e2c7dc3bd.jpg" group-title="SocoLive",SPA D1: Villarreal CF vs Real Betis - BLV BẢY
-https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1789422542-0-0-4a58488ec7894c4b275959d51f863692
+https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=ea2f04d4440e5a6f871c2f2e6d5d43ef&txTime=6aa8b476
 #EXTINF:-1 tvg-id="room-625920" tvg-logo="https://sta.vnres.co/file/common/20260828/e0638aedd6aef31974244bd226615764.jpg" group-title="SocoLive",SPA D1: Villarreal CF vs Real Betis - NEKO
-https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1789422542-0-0-1eedcbacbc7fa2addb956b922f111845
+https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1789423178-0-0-90d48d9864bbac06afbc35c38a56f874
 #EXTINF:-1 tvg-id="room-9912079" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg" group-title="SocoLive",Tường thuật: ITA D1 - Napoli vs Bologna - Rắn ở đáy sông
-https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=4a733e391db461cea9e0004140972b4f&txTime=6aa8b21e
-#EXTINF:-1 tvg-id="room-9912122" tvg-logo="https://sta.vnres.co/file/common/20260620/4cbae14a2d06d1635a160fc8c2beb182.jpg" group-title="SocoLive",ENG PR: Leeds United vs Newcastle United - RICKHANTER
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=8fc0c36006d6004d53a79f2d6b58be64&txTime=6aa8b21e
+https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=bdc59df6417e199855cc7f3466941f4b&txTime=6aa8b476
 #EXTINF:-1 tvg-id="room-9912123" tvg-logo="https://sta.vnres.co/file/common/20260725/0eb3315ecb9cf5c7f5f9b102d38e52f9.jpg" group-title="SocoLive",POR D1: Sporting Braga vs Estoril - RỒNG ĐẤT
-https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1789422542-0-0-a52cdefb81eae701f64f33b664d47da6
-#EXTINF:-1 tvg-id="room-9912129" tvg-logo="https://sta.vnres.co/file/common/20260915/20419a30f8d1b89662509ee49207f427.png" group-title="SocoLive",ENG PR: Leeds United vs Newcastle United - QUỐC KHÁNH
-https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=64b66a40a125246af6a02fef2276e14f&txTime=6aa8b21e
-#EXTINF:-1 tvg-id="room-9912130" tvg-logo="https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png" group-title="SocoLive",SPA D1: Villarreal CF vs Real Betis - BLV A TÚ
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789422542-0-0-aa047acc5d8f67161e45069161e8e1a5
-#EXTINF:-1 tvg-id="room-9912131" tvg-logo="https://sta.vnres.co/file/common/20260609/b3e04b0f7d210d67052a911512e39f54.jpg" group-title="SocoLive",ENG PR: Leeds United vs Newcastle United - CHÍ PHÈO
-https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1789422542-0-0-7fcc9aa6deb3342b7890e0a132a1b561
+https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1789423142-0-0-dd865bd8b4fb9e122128362b7c3b8502
 #EXTINF:-1 tvg-id="room-9912135" tvg-logo="https://sta.vnres.co/file/common/20260801/16b69ccb9ccf1f371806a3f19e7dc683.jpg" group-title="SocoLive",ENG PR: Leeds United vs Newcastle United - BLV PEWPEW
-https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1789422542-0-0-7f277c055d3422681ff6c6f250a0ea5d
+https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1789423142-0-0-dd9b39efa2c34cf5cd5ddf3294b92fe9
 #EXTINF:-1 tvg-id="room-9912138" tvg-logo="https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg" group-title="SocoLive",POR D1: Sporting Braga vs Estoril - TUẤN CÙI
-https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1789422542-0-0-816446b0a4ae44b0aa3129d9b3973ee9
-#EXTINF:-1 tvg-id="room-9912141" tvg-logo="https://sta.vnres.co/file/common/20260909/1edb9c9016b6d011552439c71d3e5158.jpg" group-title="SocoLive",ENG PR: Leeds United vs Newcastle United - BLV MESSI
-https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789422542-0-0-0181361f6bd6659f3c58c079426de6a9
+https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1789423142-0-0-61ed14f4220e519f1fdec26e8829b39d
