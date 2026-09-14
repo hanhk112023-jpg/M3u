@@ -1,111 +1,91 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 53
-# Updated: 14/09/2026 22:45:08
+# Channels: 43
+# Updated: 14/09/2026 22:55:04
 
 #EXTINF:-1 tvg-id="room-291277" tvg-logo="https://sta.vnres.co/file/common/20260911/2380e90b6cf747239e9210434cfa0bba.png" group-title="Bóng đá",Inter Turku vs Vaasa VPS (FIN D1)
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=db496937577bb3630aed8254a4f44535&txTime=6aa86ade
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=dfe1d9c1a4618a37c6daf33e0d6023be&txTime=6aa86bce
 #EXTINF:-1 tvg-id="room-327159" tvg-logo="https://sta.vnres.co/file/common/20260911/337102c2f79a0e5ba42eafa1749962fc.png" group-title="Bóng đá",Tala'ea El Gaish vs Smouha SC (EGY D1)
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789404302-0-0-8bd2a91a5bff7736230eae8257d11557
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789404542-0-0-078a4d96e905d572f5cb43188fe5ee77
 #EXTINF:-1 tvg-id="room-387694" tvg-logo="https://sta.vnres.co/file/common/20260911/2380e90b6cf747239e9210434cfa0bba.png" group-title="Bóng đá",Inter Turku vs Vaasa VPS (FIN D1)
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=926a6fff56f435ddecbb658661057d8b&txTime=6aa86ade
-#EXTINF:-1 tvg-id="room-459401" tvg-logo="https://sta.vnres.co/file/common/20260911/3225e9abf5ef11374d74ddc159f7e5ee.png" group-title="Bóng đá",Neftchi Fergana vs Al Quwa Al Jawiya (ACL Elite)
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=70b2bd123d4a80f91d7b1168ba3e0029&txTime=6aa86ade
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=497b8e52ee1ed112f989fcbd2609b14a&txTime=6aa86cfa
 #EXTINF:-1 tvg-id="room-527383" tvg-logo="https://sta.vnres.co/file/common/20260911/d1bd2848e76b32c346d03a0c35a46d9e.png" group-title="Bóng đá",Uniao Leiria U23 vs Benfica U23 (POR LRU23)
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789404302-0-0-edf714b99e675352be0fae6c44f8162f
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789404842-0-0-5fda1a2cc00db7d20ac45302ee6a754a
 #EXTINF:-1 tvg-id="room-536185" tvg-logo="https://sta.vnres.co/file/common/20260911/4fc05e6c8f12116736e1751ff419f3c7.png" group-title="Bóng đá",FC Universitatea Cluj vs FC Otelul Galati (ROM D1)
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1789404302-0-0-0168e28bfb2da2cc250f5ba5f9b33724
-#EXTINF:-1 tvg-id="room-552832" tvg-logo="https://sta.vnres.co/file/common/20260911/3225e9abf5ef11374d74ddc159f7e5ee.png" group-title="Bóng đá",Neftchi Fergana vs Al Quwa Al Jawiya (ACL Elite)
-https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=dac147d43a80082ab92471ab02ef8bbf&txTime=6aa869d4
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1789404842-0-0-872876f6bb5057779f5c51d12f90a1af
 #EXTINF:-1 tvg-id="room-617313" tvg-logo="https://sta.vnres.co/file/common/20260911/4fc05e6c8f12116736e1751ff419f3c7.png" group-title="Bóng đá",FC Universitatea Cluj vs FC Otelul Galati (ROM D1)
-https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1789404302-0-0-5bc79cf688b0dfe6796444c98c2953fb
+https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1789404842-0-0-f0e92ffeeed9ffb67a793a87cd895620
 #EXTINF:-1 tvg-id="room-620084" tvg-logo="https://sta.vnres.co/file/common/20260911/337102c2f79a0e5ba42eafa1749962fc.png" group-title="Bóng đá",Tala'ea El Gaish vs Smouha SC (EGY D1)
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789404302-0-0-d6ed5c3a7e4b70a528b99d275d490161
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789404842-0-0-545a71592c67570791cfc63808ae3c65
 #EXTINF:-1 tvg-id="room-620504" tvg-logo="https://sta.vnres.co/file/common/20260911/d1bd2848e76b32c346d03a0c35a46d9e.png" group-title="Bóng đá",Uniao Leiria U23 vs Benfica U23 (POR LRU23)
-https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1789404302-0-0-7efa410af434ce8fd63522fec218aed3
+https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1789404842-0-0-0a605aa27bbadec1e6942d74c765d907
 #EXTINF:-1 tvg-id="room-620797" tvg-logo="https://sta.vnres.co/file/common/20260911/ad92960a54b6fa5c2a1a14c5065e5324.png" group-title="Bóng đá",Safa Baku vs Sabah Baku (AZE PR)
-https://pull.niur.live/live/stream-620797_lhd.m3u8?txSecret=70771f9ee0fe0ae6de5030db4fe1809e&txTime=6aa86ade
+https://pull.niur.live/live/stream-620797_lhd.m3u8?txSecret=7d2ac2b651e97c324baa397d39d6a870&txTime=6aa86cfa
 #EXTINF:-1 tvg-id="room-621840" tvg-logo="https://sta.vnres.co/file/common/20260911/bee6884ccd78b403c7b186314e8e9ced.png" group-title="Bóng đá",FC Shakhtar Donetsk vs Chornomorets Odesa (UKR D1)
-https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=01602d16cc6760ff5250dd756357515f&txTime=6aa86ade
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=f5ea1b268d974abc60b2f2ca47f9fa37&txTime=6aa86cfa
 #EXTINF:-1 tvg-id="room-622093" tvg-logo="https://sta.vnres.co/file/common/20260911/ad92960a54b6fa5c2a1a14c5065e5324.png" group-title="Bóng đá",Safa Baku vs Sabah Baku (AZE PR)
-https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=7d57b06ab4b65821c97aeb72504fafa5&txTime=6aa86ade
-#EXTINF:-1 tvg-id="room-622241" tvg-logo="https://sta.vnres.co/file/common/20260911/3225e9abf5ef11374d74ddc159f7e5ee.png" group-title="Bóng đá",Neftchi Fergana vs Al Quwa Al Jawiya (ACL Elite)
-https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789404152-0-0-a5f84498ab4084a0e069522ebd49bafa
+https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=33ffb8f5d00afd0baf983052ec59368e&txTime=6aa86cfa
 #EXTINF:-1 tvg-id="room-627718" tvg-logo="https://sta.vnres.co/file/common/20260911/337102c2f79a0e5ba42eafa1749962fc.png" group-title="Bóng đá",Tala'ea El Gaish vs Smouha SC (EGY D1)
-https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789404302-0-0-ce50c52ac78d495eac5e457f72d54267
+https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789404842-0-0-03fd8be41b46b8416fe8685186379a03
 #EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260911/2380e90b6cf747239e9210434cfa0bba.png" group-title="Bóng đá",Inter Turku vs Vaasa VPS (FIN D1)
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789404302-0-0-7760b176a96d16b95876d42fe9cb24a8
-#EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260911/3225e9abf5ef11374d74ddc159f7e5ee.png" group-title="Bóng đá",Neftchi Fergana vs Al Quwa Al Jawiya (ACL Elite)
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789404277-0-0-fbba81d4a161db51f508db8aeaa9c87d
-#EXTINF:-1 tvg-id="room-9912128" tvg-logo="https://sta.vnres.co/file/common/20260911/3225e9abf5ef11374d74ddc159f7e5ee.png" group-title="Bóng đá",Neftchi Fergana vs Al Quwa Al Jawiya (ACL Elite)
-https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789404208-0-0-18e5d3702736ac579fc821f09195fdba
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789404842-0-0-035002406256c143f66cce9a62c424ba
 #EXTINF:-1 tvg-id="room-9912132" tvg-logo="https://sta.vnres.co/file/common/20260911/2380e90b6cf747239e9210434cfa0bba.png" group-title="Bóng đá",Inter Turku vs Vaasa VPS (FIN D1)
-https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=7b71755335e114a61e76423694e45f3d&txTime=6aa86ade
+https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=ef908c1faf005c7310e8597884fde1da&txTime=6aa86cfa
 #EXTINF:-1 tvg-id="room-9912136" tvg-logo="https://sta.vnres.co/file/common/20260911/2380e90b6cf747239e9210434cfa0bba.png" group-title="Bóng đá",Inter Turku vs Vaasa VPS (FIN D1)
-https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=bf8810ded3b080d6db2b8faa09426d72&txTime=6aa86ade
+https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=f9d1ba6c278d224f486815469183a324&txTime=6aa86cfa
 #EXTINF:-1 tvg-id="room-9912139" tvg-logo="https://sta.vnres.co/file/common/20260911/337102c2f79a0e5ba42eafa1749962fc.png" group-title="Bóng đá",Tala'ea El Gaish vs Smouha SC (EGY D1)
-https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=5755252cd8a791bb371a714fe7322517&txTime=6aa86ade
-#EXTINF:-1 tvg-id="room-9912145" tvg-logo="https://sta.vnres.co/file/common/20260911/3225e9abf5ef11374d74ddc159f7e5ee.png" group-title="Bóng đá",Neftchi Fergana vs Al Quwa Al Jawiya (ACL Elite)
-https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789404302-0-0-4ce50397751b902f903d474e45ca63da
+https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=eeb56d2a184a2f7fba12ce938896e6c0&txTime=6aa86cfa
+#EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260912/afe691c5de8852f4bc5e53f623b001f2.png" group-title="Bóng rổ",C.B. Breogan Lugo vs Rilski Sportist (BCL)
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789404842-0-0-92acc15b08879291b22c5d1486badd70
+#EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260912/afe691c5de8852f4bc5e53f623b001f2.png" group-title="Bóng rổ",C.B. Breogan Lugo vs Rilski Sportist (BCL)
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789404842-0-0-da122bba804b7913c843aa57e10e1aef
 #EXTINF:-1 tvg-id="room-291277" tvg-logo="https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg" group-title="SocoLive",FIN D1: Inter Turku vs Vaasa VPS - CÔNG CHẤT
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=239e1c6a220381c572ec4100e8335e13&txTime=6aa86976
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=dfe1d9c1a4618a37c6daf33e0d6023be&txTime=6aa86bce
 #EXTINF:-1 tvg-id="room-327159" tvg-logo="https://sta.vnres.co/file/common/20260910/b74633428c7b7d75edf4a7dbb3d250cf.jpg" group-title="SocoLive",EGY D1: Tala'ea El Gaish vs Smouha SC - BLV COCA
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789403942-0-0-0cc5350f401a969857e0cf203a3d1d14
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789404542-0-0-078a4d96e905d572f5cb43188fe5ee77
 #EXTINF:-1 tvg-id="room-387694" tvg-logo="https://sta.vnres.co/file/common/20260914/d6606cc9e775c7930d8842d35a6093a6.jpg" group-title="SocoLive",FIN D1: Inter Turku vs Vaasa VPS - CR Bưởi
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=19aed29263dc4064bffc46d7173b075e&txTime=6aa86976
-#EXTINF:-1 tvg-id="room-459401" tvg-logo="https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4.jpg" group-title="SocoLive",ACL Elite: Neftchi Fergana vs Al Quwa Al Jawiya - BLV BÉO
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=2280d34478a25b4717de8fe361ec9c06&txTime=6aa86976
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=8eb786cf551355dac87656bb8573ab1b&txTime=6aa86bce
 #EXTINF:-1 tvg-id="room-527383" tvg-logo="https://sta.vnres.co/file/common/20260626/fcd1d9373f93de7ff3ebfbee3f073c7c.jpg" group-title="SocoLive",POR LRU23: Uniao Leiria U23 vs Benfica U23 - BLV ROBBEN
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789403942-0-0-ccfe4f98989969fcc35a770fad0357c3
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789404542-0-0-7b2d3112166ab2d07f6ca8fa965b0716
 #EXTINF:-1 tvg-id="room-536185" tvg-logo="https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg" group-title="SocoLive",ROM D1: FC Universitatea Cluj vs FC Otelul Galati - BLV A WIN
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1789403942-0-0-0c2dab65a112f2486eceb5e1effb0007
-#EXTINF:-1 tvg-id="room-552832" tvg-logo="https://sta.vnres.co/file/common/20251111/6a43978efb637082f6eb906c1e7f1621.jpg" group-title="SocoLive",ACL Elite: Neftchi Fergana vs Al Quwa Al Jawiya - LOGAN
-https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=8f8ace0f43703064d6eaa646a20ae43d&txTime=6aa86976
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1789404542-0-0-50cd1de511ad8c1e75ed67f4b2c73267
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg" group-title="SocoLive",WCF: Shumen (Bul) vs Cherno More (Bul) - HUNTER
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=5f80a4769004ea6dac545e3e5d154a03&txTime=6aa86976
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=16c9949aaa9bd1b97a0d868b3038381f&txTime=6aa86bce
 #EXTINF:-1 tvg-id="room-602019" tvg-logo="https://sta.vnres.co/file/common/20260329/46d787b8716ab82aff515db39b5a55a1.jpg" group-title="SocoLive",ACL Elite: Al-Shamal SC vs Al Ittihad - BLV RYO
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1789403942-0-0-af99994c1bfb39d3274f2e30f1b7f6bf
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1789404542-0-0-a54f50d9fb2f15bb471e5c527a095e47
 #EXTINF:-1 tvg-id="room-617313" tvg-logo="https://sta.vnres.co/file/common/20260910/0b1046f9ea6e137597f737c5d46ef984.jpg" group-title="SocoLive",ROM D1: FC Universitatea Cluj vs FC Otelul Galati - VINFAST
-https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1789403942-0-0-37783c20bbf45010860790e92d4ba6ca
+https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1789404542-0-0-9babde2cfa8af3dbc91cfef9f2534ebc
 #EXTINF:-1 tvg-id="room-620084" tvg-logo="https://sta.vnres.co/file/common/20260713/cbd81ea71d49b5b5f074a5f56678a9b6.png" group-title="SocoLive",EGY D1: Tala'ea El Gaish vs Smouha SC - PEANUT
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789403942-0-0-48cafcca4c795edc38c7b25af4deef69
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789404542-0-0-c229872d99f95ac5eb5008a23b12746a
 #EXTINF:-1 tvg-id="room-620504" tvg-logo="https://sta.vnres.co/file/common/20260802/d0b756ac34b8f00d22a6d687f86fe8b2.jpg" group-title="SocoLive",POR LRU23: Uniao Leiria U23 vs Benfica U23 - BOSS
-https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1789404002-0-0-9487a8809d562ec807fdc6d0db02b46c
+https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1789404542-0-0-76b80170e70315845a2614a26b3bfe16
 #EXTINF:-1 tvg-id="room-620797" tvg-logo="https://sta.vnres.co/file/common/20260721/eae172928facf755dbf2027ca230e55e.png" group-title="SocoLive",AZE PR: Safa Baku vs Sabah Baku - BÒ TƯƠI
-https://pull.niur.live/live/stream-620797_lhd.m3u8?txSecret=0025919613c9d18a9c1a212b2b4c3535&txTime=6aa869b2
+https://pull.niur.live/live/stream-620797_lhd.m3u8?txSecret=2fd1bc1df781688f7e8489c4d476380c&txTime=6aa86bce
 #EXTINF:-1 tvg-id="room-621840" tvg-logo="https://sta.vnres.co/file/common/20260810/042a00493898027e5f644f6f24e88c53.png" group-title="SocoLive",UKR D1: FC Shakhtar Donetsk vs Chornomorets Odesa - MP3
-https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=77b855cefebd27d1cbff33c06e9bf2c7&txTime=6aa869b2
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=c229cb41b9854abaaf6c4cc8896cfac4&txTime=6aa86bce
 #EXTINF:-1 tvg-id="room-621843" tvg-logo="https://sta.vnres.co/file/common/20260813/5d212275a6562e784f8ce4dd82466681.png" group-title="SocoLive",ACL Elite: Shabab Al Ahli vs Tractor S.C. - BLV BẢY
-https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1789404002-0-0-ed782dec9d7bf7316a83239a881288ea
+https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1789404542-0-0-3dd109595ae723d22209b582498aef30
 #EXTINF:-1 tvg-id="room-622093" tvg-logo="https://sta.vnres.co/file/common/20260703/fe517d18a8df723cee92683347d70be9.jpg" group-title="SocoLive",AZE PR: Safa Baku vs Sabah Baku - GRAP
-https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=45e03e4c48e589cd01e3d13462e31245&txTime=6aa869b2
-#EXTINF:-1 tvg-id="room-622241" tvg-logo="https://sta.vnres.co/file/common/20260914/76c0fe465e1b9b82a4586bfbd49cb618.jpg" group-title="SocoLive",ACL Elite: Neftchi Fergana vs Al Quwa Al Jawiya - BLV HEHE
-https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789404002-0-0-190306670439510f490cf17160af446c
+https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=be8cb4c1d228ff48bbbcf4d1e2be47f9&txTime=6aa86bce
 #EXTINF:-1 tvg-id="room-625920" tvg-logo="https://sta.vnres.co/file/common/20260828/e0638aedd6aef31974244bd226615764.jpg" group-title="SocoLive",ACL Elite: Shabab Al Ahli vs Tractor S.C. - NEKO
-https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1789404002-0-0-102fdf54742ee1c112da4e81348adb10
+https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1789404542-0-0-79821cf80dca2dddfdc5f5b7f520a4ca
 #EXTINF:-1 tvg-id="room-627718" tvg-logo="https://sta.vnres.co/file/common/20260831/8c106fa0fe146cf7929663e53e921ba0.jpg" group-title="SocoLive",EGY D1: Tala'ea El Gaish vs Smouha SC - A MÂN
-https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789404002-0-0-b6052ba6b1613458df671d209d85ffa1
-#EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-title="SocoLive",BCL: BK Opava vs Dziki Warszawa - KING
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789404002-0-0-61b59c93fe8f6228a6bf3eef71d43c53
+https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789404542-0-0-a82719272ccd735523893dc4615c9731
+#EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-title="SocoLive",BCL: C.B. Breogan Lugo vs Rilski Sportist - KING
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789404542-0-0-290326bbebe7c2454b4773f053cfe25b
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-title="SocoLive",BCL: C.B. Breogan Lugo vs Rilski Sportist - BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789404002-0-0-e0d46ad632ce7d95f12660a60642ae8e
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789404542-0-0-66db5e92fb313f075405562609c3199c
 #EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260914/4668dc4fe05d802b4fda3b6c5027b260.png" group-title="SocoLive",FIN D1: Inter Turku vs Vaasa VPS - BLV ZOWIE
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789404002-0-0-e6e5c956d92989ce93dfd4dff3e7e246
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789404542-0-0-bc7c648732d2098ab91714c5e6aef9f4
 #EXTINF:-1 tvg-id="room-9912123" tvg-logo="https://sta.vnres.co/file/common/20260725/0eb3315ecb9cf5c7f5f9b102d38e52f9.jpg" group-title="SocoLive",ACL Elite: Al-Shamal SC vs Al Ittihad - RỒNG ĐẤT
-https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1789404002-0-0-38e9f219f39b32a1fba6a3c201240b05
-#EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg" group-title="SocoLive",ACL Elite: Neftchi Fergana vs Al Quwa Al Jawiya - KENCHU
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789404002-0-0-ed93f61aa7bab873528585879f986020
-#EXTINF:-1 tvg-id="room-9912128" tvg-logo="https://sta.vnres.co/file/common/20260729/2cca708e4ee1d3e988c578ff79960d7b.jpg" group-title="SocoLive",ACL Elite: Neftchi Fergana vs Al Quwa Al Jawiya - CACAO
-https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789404002-0-0-d364b3f855821157460625f02e0431d8
+https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1789404542-0-0-58b3f4cae5338ea9f00a3955a1820f9b
 #EXTINF:-1 tvg-id="room-9912130" tvg-logo="https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png" group-title="SocoLive",ACL Elite: Al-Shamal SC vs Al Ittihad - BLV A TÚ
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789404002-0-0-e4cacdeeac568ad10b510ae471d8d15b
+https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789404542-0-0-18c6bd63da51914e504c13a2255d5e48
 #EXTINF:-1 tvg-id="room-9912132" tvg-logo="https://sta.vnres.co/file/common/20260613/cc7eb6fb9d74dfa083a48c861b135ae8.jpg" group-title="SocoLive",FIN D1: Inter Turku vs Vaasa VPS - BLV XO
-https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=1baa9317450386e2a78eaac5fdc85a6c&txTime=6aa869b2
+https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=175ea2fe786fae3a456b939449ce0ec6&txTime=6aa86bce
 #EXTINF:-1 tvg-id="room-9912136" tvg-logo="https://sta.vnres.co/file/common/20260810/b792b2c329f2ffe44037f2d5973945de.jpg" group-title="SocoLive",FIN D1: Inter Turku vs Vaasa VPS - BLV LONG
-https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=71d00eacc852ef6ecfe897757d633925&txTime=6aa86aa2
+https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=b9b985dba41bcb1321e963b3aa558e6f&txTime=6aa86bce
 #EXTINF:-1 tvg-id="room-9912138" tvg-logo="https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg" group-title="SocoLive",ACL Elite: Al-Shamal SC vs Al Ittihad - TUẤN CÙI
-https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1789404242-0-0-d9fb830525ea59e600807839753f4af1
+https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1789404542-0-0-0ab6d48fc223ce69235ddd1a04d804b5
 #EXTINF:-1 tvg-id="room-9912139" tvg-logo="https://sta.vnres.co/file/common/20260317/5be300857a15349a5324be170237948b.png" group-title="SocoLive",EGY D1: Tala'ea El Gaish vs Smouha SC - BLV A TINH
-https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=8e930bbe780a7cfaedb2b5df0decb6ae&txTime=6aa86aa2
-#EXTINF:-1 tvg-id="room-9912145" tvg-logo="https://sta.vnres.co/file/common/20260914/7a8a1e1bb151aa92518b281e42dad673.jpg" group-title="SocoLive",ACL Elite: Neftchi Fergana vs Al Quwa Al Jawiya - ZIDANE
-https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789404242-0-0-b784d52d61ca0c2e6348064219836f10
+https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=6297f2ebc14083854483ddba47aac153&txTime=6aa86bce
