@@ -1,67 +1,75 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 31
-# Updated: 15/09/2026 05:15:05
+# Channels: 35
+# Updated: 15/09/2026 05:35:05
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260912/5dbfe654a08ac3964a2341d6e3eeab0e.png" group-title="Bóng đá",Instituto de Córdoba vs AA Estudiantes (Río Cuarto) (ARG D1)
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789379885-0-0-41a6a443b88ca5485b165628d9c32499
 #EXTINF:-1 tvg-id="room-283501" tvg-logo="https://sta.vnres.co/file/common/20260912/d200b45e4c2f1e0adf8ad811831a8503.png" group-title="Bóng đá",Deportivo Riestra vs Club Atlético Lanús (ARG D1)
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=39c690330ee00452aa19831b3314cde6&txTime=6aa8c4de
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=5b55615128108f4da6251993648493de&txTime=6aa8c98e
 #EXTINF:-1 tvg-id="room-327159" tvg-logo="https://sta.vnres.co/file/common/20260912/d200b45e4c2f1e0adf8ad811831a8503.png" group-title="Bóng đá",Deportivo Riestra vs Club Atlético Lanús (ARG D1)
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789427342-0-0-52f34eb5ddfdf5ff0a51827264c021c0
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789428542-0-0-0d6f4c0eae8e3f800f6b73e9f8d5777f
 #EXTINF:-1 tvg-id="room-372746" tvg-logo="https://sta.vnres.co/file/common/20260912/a898e4a58d05177a40924c2a6715d8b3.png" group-title="Bóng đá",CA Banfield vs CA Barracas Central (ARG D1)
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1789427342-0-0-f7f66ce3bf11bca6d923a7d98f095d91
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1789428542-0-0-7ce909e67496a0c60b2104e56088f9f6
 #EXTINF:-1 tvg-id="room-491873" tvg-logo="https://sta.vnres.co/file/common/20260912/eb6eea7ee651fabc4e09b237e38a4eca.png" group-title="Bóng đá",America MG vs Sao Bernardo (BRA D2)
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=da202f3c8dad2d00fd148739b786a26d&txTime=6aa8c4de
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=97a517418488ca4caa207c5e1fbd75ab&txTime=6aa8c98e
 #EXTINF:-1 tvg-id="room-527383" tvg-logo="https://sta.vnres.co/file/common/20260912/47c892acea505e062de36e0eac347c3b.png" group-title="Bóng đá",Bahia - BA vs Remo - PA (BRA D1)
 https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789405537-0-0-691c66b17a444fe5c317c4b6875336b2
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260912/a898e4a58d05177a40924c2a6715d8b3.png" group-title="Bóng đá",CA Banfield vs CA Barracas Central (ARG D1)
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789427342-0-0-f7be5e6cb35642baa5d052065ceb929d
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789428542-0-0-1106509bbd3c157e354d25d987a803e8
 #EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260912/d200b45e4c2f1e0adf8ad811831a8503.png" group-title="Bóng đá",Deportivo Riestra vs Club Atlético Lanús (ARG D1)
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=2d999e4b5d3b5c01623e4f03e5612f36&txTime=6aa8c4de
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=ba513aae10d0301e730478f5689bf37a&txTime=6aa8c98e
 #EXTINF:-1 tvg-id="room-597929" tvg-logo="https://sta.vnres.co/file/common/20260912/9cb050c67fdbd04ba2a2e66e944c46c1.png" group-title="Bóng đá",Union La Calera vs Deportes Limache (CHI D1)
 https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1789401457-0-0-e0a194dea8a343e7b80ce53fab51e457
 #EXTINF:-1 tvg-id="room-603914" tvg-logo="https://sta.vnres.co/file/common/20260912/eb6eea7ee651fabc4e09b237e38a4eca.png" group-title="Bóng đá",America MG vs Sao Bernardo (BRA D2)
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789427342-0-0-06236f2ed4ccd20b9519ad141ccecf5a
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789428542-0-0-f4655b854bacf7e73b5c644cd280678f
 #EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260912/a898e4a58d05177a40924c2a6715d8b3.png" group-title="Bóng đá",CA Banfield vs CA Barracas Central (ARG D1)
-https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=ae5f69c35529ab78a45144509a51ad36&txTime=6aa8c4de
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=67b96cd913fffefc6cd14a04ab628715&txTime=6aa8c98e
 #EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260912/d200b45e4c2f1e0adf8ad811831a8503.png" group-title="Bóng đá",Deportivo Riestra vs Club Atlético Lanús (ARG D1)
-https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789427342-0-0-862e5bdf7686f590953026fdf7598fb0
+https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789428542-0-0-c98ef880aeba5624d37aa74969ca7ee3
 #EXTINF:-1 tvg-id="room-619561" tvg-logo="https://sta.vnres.co/file/common/20260912/9cb050c67fdbd04ba2a2e66e944c46c1.png" group-title="Bóng đá",Union La Calera vs Deportes Limache (CHI D1)
 https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1789401451-0-0-9226c75dd71fc1bfabdea55efa822f33
 #EXTINF:-1 tvg-id="room-620084" tvg-logo="https://sta.vnres.co/file/common/20260912/47c892acea505e062de36e0eac347c3b.png" group-title="Bóng đá",Bahia - BA vs Remo - PA (BRA D1)
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789405488-0-0-aa982306e947070909aa0ff4a53acec6
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789428842-0-0-47984604255485a2ac7340d745236031
 #EXTINF:-1 tvg-id="room-621887" tvg-logo="https://sta.vnres.co/file/common/20260912/a898e4a58d05177a40924c2a6715d8b3.png" group-title="Bóng đá",CA Banfield vs CA Barracas Central (ARG D1)
-https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=ff2384972ff8b34383438626c516c393&txTime=6aa8c4de
+https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=6b28f8cfa7662cdd1a78589d58eda171&txTime=6aa8caba
 #EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260912/47c892acea505e062de36e0eac347c3b.png" group-title="Bóng đá",Bahia - BA vs Remo - PA (BRA D1)
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=fdb682c8f3b1b98e66f020868144cac9&txTime=6aa8c3e6
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=272920bee2bbb5736d0e5c6b7278e05b&txTime=6aa8caba
 #EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260912/41068279d6b305796617416ee104131c.png" group-title="Bóng đá",Botafogo SP vs Goias Esporte Clube (BRA D2)
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789361667-0-0-95b8e9ee0268dc82b40b03ef243790bc
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789428842-0-0-5242d75ad4e5c125fb9c947bce56189b
 #EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260912/47c892acea505e062de36e0eac347c3b.png" group-title="Bóng đá",Bahia - BA vs Remo - PA (BRA D1)
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789404277-0-0-fbba81d4a161db51f508db8aeaa9c87d
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789428842-0-0-fc6904a0682a92c6971dedd89eafdbb4
 #EXTINF:-1 tvg-id="room-9912132" tvg-logo="https://sta.vnres.co/file/common/20260912/5dbfe654a08ac3964a2341d6e3eeab0e.png" group-title="Bóng đá",Instituto de Córdoba vs AA Estudiantes (Río Cuarto) (ARG D1)
 https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=a91b87dd214057af5efe67376d0cf5a3&txTime=6aa87c66
 #EXTINF:-1 tvg-id="room-9912139" tvg-logo="https://sta.vnres.co/file/common/20260912/41068279d6b305796617416ee104131c.png" group-title="Bóng đá",Botafogo SP vs Goias Esporte Clube (BRA D2)
-https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=1c41bf4a5ce2f9fe15e84fd32b6a96f9&txTime=6aa8c60a
+https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=6b4742775c2eee293005efba0549a837&txTime=6aa8caba
 #EXTINF:-1 tvg-id="room-283501" tvg-logo="https://sta.vnres.co/file/common/20260915/4ef00588ca1031f086484b0f7ed529ff.png" group-title="SocoLive",ARG D1: Deportivo Riestra vs Club Atlético Lanús - BLV KAN
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=39c690330ee00452aa19831b3314cde6&txTime=6aa8c4de
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=5b55615128108f4da6251993648493de&txTime=6aa8c98e
 #EXTINF:-1 tvg-id="room-327159" tvg-logo="https://sta.vnres.co/file/common/20260910/b74633428c7b7d75edf4a7dbb3d250cf.jpg" group-title="SocoLive",ARG D1: Deportivo Riestra vs Club Atlético Lanús - BLV COCA
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789427342-0-0-52f34eb5ddfdf5ff0a51827264c021c0
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789428542-0-0-0d6f4c0eae8e3f800f6b73e9f8d5777f
 #EXTINF:-1 tvg-id="room-372746" tvg-logo="https://sta.vnres.co/file/common/20260728/ba06eac3dc3ffeee0de25e8e0deaaceb.jpg" group-title="SocoLive",ARG D1: CA Banfield vs CA Barracas Central - BLV YONE
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1789427342-0-0-f7f66ce3bf11bca6d923a7d98f095d91
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1789428542-0-0-7ce909e67496a0c60b2104e56088f9f6
 #EXTINF:-1 tvg-id="room-491873" tvg-logo="https://sta.vnres.co/file/common/20250723/6b83b847d8944b57cc13043bae9fa7a8.jpg" group-title="SocoLive",BRA D2: America MG vs Sao Bernardo - BLV VIP
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=da202f3c8dad2d00fd148739b786a26d&txTime=6aa8c4de
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=97a517418488ca4caa207c5e1fbd75ab&txTime=6aa8c98e
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg" group-title="SocoLive",ARG D1: CA Banfield vs CA Barracas Central - BLV ALEX
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789427342-0-0-f7be5e6cb35642baa5d052065ceb929d
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789428542-0-0-1106509bbd3c157e354d25d987a803e8
 #EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg" group-title="SocoLive",ARG D1: Deportivo Riestra vs Club Atlético Lanús - BLV RAMBO
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=2d999e4b5d3b5c01623e4f03e5612f36&txTime=6aa8c4de
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=ba513aae10d0301e730478f5689bf37a&txTime=6aa8c98e
 #EXTINF:-1 tvg-id="room-603914" tvg-logo="https://sta.vnres.co/file/common/20260904/c08eebf8c66b882d5d57e203ae571c7a.jpg" group-title="SocoLive",BRA D2: America MG vs Sao Bernardo - TRÀ ĐÁ
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789427342-0-0-06236f2ed4ccd20b9519ad141ccecf5a
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789428542-0-0-f4655b854bacf7e73b5c644cd280678f
 #EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg" group-title="SocoLive",ARG D1: CA Banfield vs CA Barracas Central - HÀ DUY KIÊN
-https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=ae5f69c35529ab78a45144509a51ad36&txTime=6aa8c4de
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=67b96cd913fffefc6cd14a04ab628715&txTime=6aa8c98e
 #EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg" group-title="SocoLive",ARG D1: Deportivo Riestra vs Club Atlético Lanús - CƠM NẾP
-https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789427342-0-0-862e5bdf7686f590953026fdf7598fb0
+https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789428542-0-0-c98ef880aeba5624d37aa74969ca7ee3
+#EXTINF:-1 tvg-id="room-620084" tvg-logo="https://sta.vnres.co/file/common/20260713/cbd81ea71d49b5b5f074a5f56678a9b6.png" group-title="SocoLive",BRA D1: Bahia - BA vs Remo - PA - PEANUT
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789428542-0-0-c47b71b71663a7a7331d24c977442ec5
 #EXTINF:-1 tvg-id="room-621887" tvg-logo="https://sta.vnres.co/file/common/20260728/c2935ca02d759ee77531ff32719f1b21.png" group-title="SocoLive",ARG D1: CA Banfield vs CA Barracas Central - CHAN ĐÊ
-https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=ff2384972ff8b34383438626c516c393&txTime=6aa8c4de
+https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=7206278066650ab235d34dbb5880b81e&txTime=6aa8c98e
+#EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg" group-title="SocoLive",BRA D1: Bahia - BA vs Remo - PA - BLV RÔSI
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=efe77776fdf641ac72ded7d2db9650dd&txTime=6aa8c98e
+#EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151.png" group-title="SocoLive",BRA D2: Botafogo SP vs Goias Esporte Clube - BLV VOI
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789428542-0-0-81ef6544c4a068571b36ae60c08fbe6c
+#EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg" group-title="SocoLive",BRA D1: Bahia - BA vs Remo - PA - KENCHU
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789428542-0-0-9ce2f1bdc807f4b01c97521efb3dabb1
 #EXTINF:-1 tvg-id="room-9912139" tvg-logo="https://sta.vnres.co/file/common/20260317/5be300857a15349a5324be170237948b.png" group-title="SocoLive",BRA D2: Botafogo SP vs Goias Esporte Clube - BLV A TINH
-https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=3eb539e9902b20b5583949840db9a934&txTime=6aa8c4de
+https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=ccdbf24e92698fdb2383c43df9d52c27&txTime=6aa8c98e
