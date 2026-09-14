@@ -1,81 +1,83 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 38
-# Updated: 14/09/2026 19:45:04
+# Channels: 39
+# Updated: 14/09/2026 20:05:06
 
 #EXTINF:-1 tvg-id="room-327159" tvg-logo="https://sta.vnres.co/file/common/20260911/f8379946dee76dc958e6d5c06614ae3e.png" group-title="Bóng đá",Shan United vs Ezra FC (ASEAN CC)
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789393142-0-0-6c9f35cdef81149c032b63dbd484392b
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789394402-0-0-0c666d1ec0e4485ad3992f261d5e27ab
 #EXTINF:-1 tvg-id="room-387694" tvg-logo="https://sta.vnres.co/file/common/20260911/e9d9f0482d8d8a3d82c09b746542d010.png" group-title="Bóng đá",Dynamo Kyiv vs FK Epitsentr Dunayivtsi (UKR D1)
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=674b8e1818d5620226d5a3b1f60b6fe2&txTime=6aa83f46
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=4ddfb922d6c4bab3a124ca9ef54e14f4&txTime=6aa84432
 #EXTINF:-1 tvg-id="room-406865" tvg-logo="https://sta.vnres.co/file/common/20260911/484e31345dfaf68a9cd414c37df397d5.png" group-title="Bóng đá",Geylang United FC vs Tanjong Pagar United (SIN D1)
-https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=9016680e3400a3aa4b0f1f6e93caa4aa&txTime=6aa83f46
+https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=af744ed472a2dab27d61d99b0df4417e&txTime=6aa84432
 #EXTINF:-1 tvg-id="room-527384" tvg-logo="https://sta.vnres.co/file/common/20260911/e9d9f0482d8d8a3d82c09b746542d010.png" group-title="Bóng đá",Dynamo Kyiv vs FK Epitsentr Dunayivtsi (UKR D1)
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789393142-0-0-145220545175a52bf94c70b8f3b8a37b
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789394402-0-0-95e7bc25e05a0c538d7c9556dfacc41d
 #EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260911/7dd6926c1605d4e0e11e7dd174df2686.png" group-title="Bóng đá",Moreirense U23 vs Braga U23 (POR LRU23)
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=3bc1cf14d53f0e0afdc72329ff21c34d&txTime=6aa83f46
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=d3b64adccf36b07a403e438226d030fb&txTime=6aa84432
 #EXTINF:-1 tvg-id="room-582342" tvg-logo="https://sta.vnres.co/file/common/20260911/e9d9f0482d8d8a3d82c09b746542d010.png" group-title="Bóng đá",Dynamo Kyiv vs FK Epitsentr Dunayivtsi (UKR D1)
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1789393142-0-0-cbcb0ab1b3f01e2477c3bb00aff967f1
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1789394402-0-0-92c21533e319dc55b79c6fc14dd2e242
 #EXTINF:-1 tvg-id="room-603255" tvg-logo="https://sta.vnres.co/file/common/20260911/dcc8170a36a24fd004d69c2d694e0e68.png" group-title="Bóng đá",FC Meshakhte Tkibuli vs FC Metalurgi Rustavi (GEO D1)
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1789393142-0-0-0ccc35b802e627a4a290d665750e16e5
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1789394642-0-0-0eb3d6a1d0affaa53a5fa87dd64d8591
 #EXTINF:-1 tvg-id="room-607552" tvg-logo="https://sta.vnres.co/file/common/20260911/7dd6926c1605d4e0e11e7dd174df2686.png" group-title="Bóng đá",Moreirense U23 vs Braga U23 (POR LRU23)
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1789393442-0-0-2d55a71a65e4e6e818c3a4ae916cfb90
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1789394642-0-0-209c30810e2fba57927861f4af92c4f2
 #EXTINF:-1 tvg-id="room-619672" tvg-logo="https://sta.vnres.co/file/common/20260911/484e31345dfaf68a9cd414c37df397d5.png" group-title="Bóng đá",Geylang United FC vs Tanjong Pagar United (SIN D1)
-https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1789393442-0-0-13a813de9a421fd80ca5a1615993da95
+https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1789394642-0-0-29453f3be0b76e22592230c614191468
 #EXTINF:-1 tvg-id="room-621840" tvg-logo="https://sta.vnres.co/file/common/20260911/f8379946dee76dc958e6d5c06614ae3e.png" group-title="Bóng đá",Shan United vs Ezra FC (ASEAN CC)
-https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=5b21ab2f097fe9d02874d5abaa6c8be1&txTime=6aa84072
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=8cdb7a016058a4e758dd3c905150a769&txTime=6aa84522
 #EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260911/f8379946dee76dc958e6d5c06614ae3e.png" group-title="Bóng đá",Shan United vs Ezra FC (ASEAN CC)
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=9fd33f4edd78a54df39d9de4850f9045&txTime=6aa84072
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=d0ffd34474f9cd6e602dee2eb615e3d1&txTime=6aa84522
 #EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260911/e9d9f0482d8d8a3d82c09b746542d010.png" group-title="Bóng đá",Dynamo Kyiv vs FK Epitsentr Dunayivtsi (UKR D1)
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789393442-0-0-ec510652ce271c388680bf7a296a2bb0
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789394642-0-0-efdad93a2f8fd9154d70f0bde3d88a98
 #EXTINF:-1 tvg-id="room-9912119" tvg-logo="https://sta.vnres.co/file/common/20260911/f8379946dee76dc958e6d5c06614ae3e.png" group-title="Bóng đá",Shan United vs Ezra FC (ASEAN CC)
-https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789393442-0-0-0992cbbf522409aacedb8c1f092a10ea
+https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789394642-0-0-fb0acf3da8c4a67d665a24d4f4eaa081
 #EXTINF:-1 tvg-id="room-9912130" tvg-logo="https://sta.vnres.co/file/common/20260911/dcc8170a36a24fd004d69c2d694e0e68.png" group-title="Bóng đá",FC Meshakhte Tkibuli vs FC Metalurgi Rustavi (GEO D1)
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789393442-0-0-9804472e06e00a63f22500a82cb50421
+https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789394642-0-0-9855f67fa3828c340f9d55182efc7f94
 #EXTINF:-1 tvg-id="room-9912132" tvg-logo="https://sta.vnres.co/file/common/20260911/e9d9f0482d8d8a3d82c09b746542d010.png" group-title="Bóng đá",Dynamo Kyiv vs FK Epitsentr Dunayivtsi (UKR D1)
-https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=2d20b41c4ab4ab4284e1fce799bfd69f&txTime=6aa84072
+https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=ce1f7b00f2a7ff5f1f3e68ac4b935977&txTime=6aa84522
 #EXTINF:-1 tvg-id="room-9912143" tvg-logo="https://sta.vnres.co/file/common/20260911/e9d9f0482d8d8a3d82c09b746542d010.png" group-title="Bóng đá",Dynamo Kyiv vs FK Epitsentr Dunayivtsi (UKR D1)
-https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789393442-0-0-1e94bacd40216d3e74b25f07e95c4391
+https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789394642-0-0-44f9695cfc26d3cef3764a5f839d35c3
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260912/8b1f0fdc5c81df81fd6401aed0568cd6.png" group-title="Bóng rổ",VEF Riga Juniors vs Absheron Lions (BCL)
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789393442-0-0-0f60e2deb914904699f41c6ba2c1ed64
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789394642-0-0-9962672fb0b3f5cca261879f4ec51aed
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260912/36cdb52e7a08f405fcd4e4b488e082c5.png" group-title="Bóng rổ",Quezon City vs Pasig City (MPBL)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789393442-0-0-01ef4ba362cb60784c93f3c94c4c439e
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789394642-0-0-879ba7e8aafbf2d0af97c52f7d7a4f96
 #EXTINF:-1 tvg-id="room-327159" tvg-logo="https://sta.vnres.co/file/common/20260910/b74633428c7b7d75edf4a7dbb3d250cf.jpg" group-title="SocoLive",ASEAN CC: Shan United vs Ezra FC - BLV COCA
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789393142-0-0-6c9f35cdef81149c032b63dbd484392b
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789394402-0-0-0c666d1ec0e4485ad3992f261d5e27ab
 #EXTINF:-1 tvg-id="room-387694" tvg-logo="https://sta.vnres.co/file/common/20260914/e9c0298e5b10bb0848b9be5b38345f63.png" group-title="SocoLive",UKR D1: Dynamo Kyiv vs FK Epitsentr Dunayivtsi - CR Bưởi
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=674b8e1818d5620226d5a3b1f60b6fe2&txTime=6aa83f46
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=4ddfb922d6c4bab3a124ca9ef54e14f4&txTime=6aa84432
 #EXTINF:-1 tvg-id="room-406865" tvg-logo="https://sta.vnres.co/file/common/20241220/6200343fea7ece69d7d92ae718616478.jpg" group-title="SocoLive",SIN D1: Geylang United FC vs Tanjong Pagar United - BLV ANH TÀI
-https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=9016680e3400a3aa4b0f1f6e93caa4aa&txTime=6aa83f46
+https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=af744ed472a2dab27d61d99b0df4417e&txTime=6aa84432
 #EXTINF:-1 tvg-id="room-527384" tvg-logo="https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg" group-title="SocoLive",UKR D1: Dynamo Kyiv vs FK Epitsentr Dunayivtsi - LÃO LÂM
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789393142-0-0-145220545175a52bf94c70b8f3b8a37b
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789394402-0-0-95e7bc25e05a0c538d7c9556dfacc41d
 #EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg" group-title="SocoLive",POR LRU23: Moreirense U23 vs Braga U23 - BLV RAMBO
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=3bc1cf14d53f0e0afdc72329ff21c34d&txTime=6aa83f46
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=d3b64adccf36b07a403e438226d030fb&txTime=6aa84432
 #EXTINF:-1 tvg-id="room-582342" tvg-logo="https://sta.vnres.co/file/common/20260911/5092224ec4c96a8b8625005b880ba090.jpg" group-title="SocoLive",UKR D1: Dynamo Kyiv vs FK Epitsentr Dunayivtsi - BLV CÒ
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1789393142-0-0-cbcb0ab1b3f01e2477c3bb00aff967f1
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1789394402-0-0-92c21533e319dc55b79c6fc14dd2e242
 #EXTINF:-1 tvg-id="room-597929" tvg-logo="https://sta.vnres.co/file/common/20260312/cb002ebc914e9240a9242c43ec27aacb.jpg" group-title="SocoLive",ITA YTHL: AS Roma U20 vs Como U20 - BLV CÁO
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1789393142-0-0-e668e5a8fb4357a851c8112e09080131
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1789394403-0-0-1cbb1946ea3f452fa9d85083609f19ce
 #EXTINF:-1 tvg-id="room-603255" tvg-logo="https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7.png" group-title="SocoLive",GEO D1: FC Meshakhte Tkibuli vs FC Metalurgi Rustavi - BLV LION
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1789393142-0-0-0ccc35b802e627a4a290d665750e16e5
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1789394403-0-0-d5f295a0ab4a83456f7d3c7ac72c3e09
 #EXTINF:-1 tvg-id="room-607552" tvg-logo="https://sta.vnres.co/file/common/20260522/f2b4ef051d1e02300d2d5bf24f3828f0.png" group-title="SocoLive",POR LRU23: Moreirense U23 vs Braga U23 - ĐỖ TÚ TÀI
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1789393142-0-0-1a6753aed421e1c99602ae306690f26c
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1789394403-0-0-d00647c69010a1ab3fd6efcb505ab385
 #EXTINF:-1 tvg-id="room-619561" tvg-logo="https://sta.vnres.co/file/common/20260729/d06a0efe274bce28547238bec2a125b9.jpg" group-title="SocoLive",ITA YTHL: AS Roma U20 vs Como U20 - BÚN ĐẬU
-https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1789393142-0-0-ed0ac12dc6427236381b5faefdf2d6ed
+https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1789394403-0-0-5bf88d70cb760f5ee7b7555222d07736
 #EXTINF:-1 tvg-id="room-619672" tvg-logo="https://sta.vnres.co/file/common/20260808/4818d723b5e85850f66dfc3b5aed49d8.png" group-title="SocoLive",SIN D1: Geylang United FC vs Tanjong Pagar United - T REX
-https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1789393142-0-0-b60d47a2fca08faf9508f24641d44de2
+https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1789394403-0-0-2af598b137d601a62c75af974f9cdf11
 #EXTINF:-1 tvg-id="room-621840" tvg-logo="https://sta.vnres.co/file/common/20260810/042a00493898027e5f644f6f24e88c53.png" group-title="SocoLive",ASEAN CC: Shan United vs Ezra FC - MP3
-https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=8b2c726d923027f9bb6a1d16037165d8&txTime=6aa83f46
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=550b8b02387b58598fd631bb2512d209&txTime=6aa84433
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-title="SocoLive",BCL: VEF Riga Juniors vs Absheron Lions - KING
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789393142-0-0-fce60ab56ca02a99cc405d791af1e602
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789394402-0-0-387a9e59b28d6cd59e10a60e22c3a689
 #EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg" group-title="SocoLive",ASEAN CC: Shan United vs Ezra FC - BLV RÔSI
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=5d8ab5a1e3a463b53e158718ed1890b8&txTime=6aa83f46
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=f06637accf26aff29d7b0dfcfd5fd3b7&txTime=6aa84432
 #EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260914/4668dc4fe05d802b4fda3b6c5027b260.png" group-title="SocoLive",UKR D1: Dynamo Kyiv vs FK Epitsentr Dunayivtsi - BLV ZOWIE
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789393142-0-0-8e06c1f6623da869293d4f84686f0eb0
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789394402-0-0-acd91b7a1a2ee32ce1d6e1713598afdb
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg" group-title="SocoLive",MPBL: Quezon City vs Pasig City - BLV HENRY
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789393142-0-0-7fcc2001c4f89d9c29ddc91ff5695b01
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789394402-0-0-35a66c2da03b2303d0559ed598e85a08
 #EXTINF:-1 tvg-id="room-9912119" tvg-logo="https://sta.vnres.co/file/common/20260829/f624027ec79ccc757bf8d5a663d63763.jpg" group-title="SocoLive",ASEAN CC: Shan United vs Ezra FC - HẢI THANH
-https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789393142-0-0-56cbc3e40f6876d81b63fa240beaef14
+https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789394403-0-0-7f9da43de66f00438ff5be7718ac7df8
 #EXTINF:-1 tvg-id="room-9912130" tvg-logo="https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png" group-title="SocoLive",GEO D1: FC Meshakhte Tkibuli vs FC Metalurgi Rustavi - BLV A TÚ
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789393142-0-0-8fa227877487df740e907173a023a2e0
+https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789394402-0-0-9aef9ab04df1ec7bb4c2ce3cf527997a
 #EXTINF:-1 tvg-id="room-9912132" tvg-logo="https://sta.vnres.co/file/common/20260613/cc7eb6fb9d74dfa083a48c861b135ae8.jpg" group-title="SocoLive",UKR D1: Dynamo Kyiv vs FK Epitsentr Dunayivtsi - BLV XO
-https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=d1fc0559f0b253189e833ea3d28395ba&txTime=6aa83f46
+https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=c16ff030033f1fdacf6bba96f093a1b1&txTime=6aa84432
 #EXTINF:-1 tvg-id="room-9912143" tvg-logo="https://sta.vnres.co/file/common/20260908/25a8cd45f3d227a96b46e77ba0d942c2.png" group-title="SocoLive",UKR D1: Dynamo Kyiv vs FK Epitsentr Dunayivtsi - NGƯỜI CÁ
-https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789393142-0-0-eeb68e81aac0351c62763299aadc0aa0
+https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789394403-0-0-b8186d0e13eefc45099ca0e69f10b36f
+#EXTINF:-1 tvg-id="room-9912145" tvg-logo="https://sta.vnres.co/file/common/20260914/7a8a1e1bb151aa92518b281e42dad673.jpg" group-title="SocoLive",ACL Elite: Neftchi Fergana vs Al Quwa Al Jawiya - ZIDANE
+https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789394402-0-0-ef8b56f750d1020fb44b73b81a32a75d
