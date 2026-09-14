@@ -1,11 +1,38 @@
 [
   {
+    "id": "283501",
+    "tvg_id": "room-283501",
+    "name": "Deportivo Riestra vs Club Atlético Lanús (ARG D1)",
+    "logo": "https://sta.vnres.co/file/common/20260912/d200b45e4c2f1e0adf8ad811831a8503.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=012fe820c0b23df77cbc973fc70bf0c4\u0026txTime=6aa834e8",
+    "type": "hls"
+  },
+  {
     "id": "291277",
     "tvg_id": "room-291277",
     "name": "Inter Milan vs Udinese (ITA D1)",
     "logo": "https://sta.vnres.co/file/common/20260912/79dd64c8bf8bd764662af3aad455b9f1.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=c0cd2cbedd9dc8cd66b2969625dd7237\u0026txTime=6aa8a8be",
+    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=dfc24246f9ac0382519c7193edce65ad\u0026txTime=6aa8ab16",
+    "type": "hls"
+  },
+  {
+    "id": "327159",
+    "tvg_id": "room-327159",
+    "name": "Deportivo Riestra vs Club Atlético Lanús (ARG D1)",
+    "logo": "https://sta.vnres.co/file/common/20260912/d200b45e4c2f1e0adf8ad811831a8503.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789405488-0-0-78d6dff05b912ebccc7eddde84537246",
+    "type": "hls"
+  },
+  {
+    "id": "372746",
+    "tvg_id": "room-372746",
+    "name": "CA Banfield vs CA Barracas Central (ARG D1)",
+    "logo": "https://sta.vnres.co/file/common/20260912/a898e4a58d05177a40924c2a6715d8b3.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1789361670-0-0-e98d1751e3c35f0615c8b852b7375202",
     "type": "hls"
   },
   {
@@ -14,16 +41,34 @@
     "name": "Leeds United vs Newcastle United (ENG PR)",
     "logo": "https://sta.vnres.co/file/common/20260912/b3952d43355c15929dfa327dd096a986.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1789420142-0-0-0ed2abe0abc338fefce66a1d30458900",
+    "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1789420742-0-0-bc20412ac2bde1772dd0a928a08f2f15",
     "type": "hls"
   },
   {
-    "id": "536185",
-    "tvg_id": "room-536185",
-    "name": "Al Qadsiah vs Al-Wasl SC (ACL Elite)",
-    "logo": "https://sta.vnres.co/file/common/20260912/c4d41defa8635cd8416ae54d77a32dab.png",
+    "id": "491873",
+    "tvg_id": "room-491873",
+    "name": "America MG vs Sao Bernardo (BRA D2)",
+    "logo": "https://sta.vnres.co/file/common/20260912/eb6eea7ee651fabc4e09b237e38a4eca.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1789420142-0-0-5e0f035aaf38cb89a3af7754802a46d4",
+    "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=2803f61e3affb7b5edd25d0a5e3f6c44\u0026txTime=6aa7882b",
+    "type": "hls"
+  },
+  {
+    "id": "532081",
+    "tvg_id": "room-532081",
+    "name": "CA Banfield vs CA Barracas Central (ARG D1)",
+    "logo": "https://sta.vnres.co/file/common/20260912/a898e4a58d05177a40924c2a6715d8b3.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789392450-0-0-16cb838ca5fb546840b44e8e4356cbf6",
+    "type": "hls"
+  },
+  {
+    "id": "534055",
+    "tvg_id": "room-534055",
+    "name": "Deportivo Riestra vs Club Atlético Lanús (ARG D1)",
+    "logo": "https://sta.vnres.co/file/common/20260912/d200b45e4c2f1e0adf8ad811831a8503.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=a8c730293280693d2416ef44af714650\u0026txTime=6aa85256",
     "type": "hls"
   },
   {
@@ -32,34 +77,34 @@
     "name": "Villarreal CF vs Real Betis (SPA D1)",
     "logo": "https://sta.vnres.co/file/common/20260912/35b491dbc8d485e0d9a97de508052b5a.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1789420442-0-0-816a2e3f34285f259e78638f386c0c88",
+    "url": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1789421042-0-0-b1a1b6363508f9a8476cd05eef76e149",
     "type": "hls"
   },
   {
-    "id": "617313",
-    "tvg_id": "room-617313",
-    "name": "Al Qadsiah vs Al-Wasl SC (ACL Elite)",
-    "logo": "https://sta.vnres.co/file/common/20260912/c4d41defa8635cd8416ae54d77a32dab.png",
+    "id": "603914",
+    "tvg_id": "room-603914",
+    "name": "America MG vs Sao Bernardo (BRA D2)",
+    "logo": "https://sta.vnres.co/file/common/20260912/eb6eea7ee651fabc4e09b237e38a4eca.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1789420442-0-0-ec6af56f807d182dde951e6e167d2694",
+    "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789409301-0-0-f60d2218911e7bc6f12cfca6ffc9ed54",
     "type": "hls"
   },
   {
-    "id": "620797",
-    "tvg_id": "room-620797",
-    "name": "Al Ahli SC vs Pakhtakor (ACL Elite)",
-    "logo": "https://sta.vnres.co/file/common/20260912/657c0b17034a24e1662ba149155dfe55.png",
+    "id": "607400",
+    "tvg_id": "room-607400",
+    "name": "CA Banfield vs CA Barracas Central (ARG D1)",
+    "logo": "https://sta.vnres.co/file/common/20260912/a898e4a58d05177a40924c2a6715d8b3.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-620797_lhd.m3u8?txSecret=19e8a957a691a1f900c8c5194974f04d\u0026txTime=6aa8a9f9",
+    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=a6de4146deeef007eb0c5fc6a669d772\u0026txTime=6aa7ba7e",
     "type": "hls"
   },
   {
-    "id": "621840",
-    "tvg_id": "room-621840",
-    "name": "Esteghlal Tehran vs Al-Sadd (ACL Elite)",
-    "logo": "https://sta.vnres.co/file/common/20260912/f7cf01b4444ff80cd282815693e7d85a.png",
+    "id": "618950",
+    "tvg_id": "room-618950",
+    "name": "Deportivo Riestra vs Club Atlético Lanús (ARG D1)",
+    "logo": "https://sta.vnres.co/file/common/20260912/d200b45e4c2f1e0adf8ad811831a8503.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=07bd39ef984f0da9554cd84693cffcb4\u0026txTime=6aa8a9ef",
+    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789351603-0-0-8173447ca5df8423006ecfc5935f8b5c",
     "type": "hls"
   },
   {
@@ -68,16 +113,16 @@
     "name": "Villarreal CF vs Real Betis (SPA D1)",
     "logo": "https://sta.vnres.co/file/common/20260912/35b491dbc8d485e0d9a97de508052b5a.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1789420442-0-0-a8d0f97a2c1ea212a055a41d56d2dcf5",
+    "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1789421042-0-0-6aabdb0c1baf4b586a4a9b4670684343",
     "type": "hls"
   },
   {
-    "id": "622093",
-    "tvg_id": "room-622093",
-    "name": "Al Ahli SC vs Pakhtakor (ACL Elite)",
-    "logo": "https://sta.vnres.co/file/common/20260912/657c0b17034a24e1662ba149155dfe55.png",
+    "id": "621887",
+    "tvg_id": "room-621887",
+    "name": "CA Banfield vs CA Barracas Central (ARG D1)",
+    "logo": "https://sta.vnres.co/file/common/20260912/a898e4a58d05177a40924c2a6715d8b3.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=34b2ed47270b0ad90967ee58e657805b\u0026txTime=6aa8a9d6",
+    "url": "https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=d2059b80d0719cfa16fa5e647f12f6cd\u0026txTime=6aa7bab4",
     "type": "hls"
   },
   {
@@ -86,7 +131,7 @@
     "name": "Inter Milan vs Udinese (ITA D1)",
     "logo": "https://sta.vnres.co/file/common/20260912/79dd64c8bf8bd764662af3aad455b9f1.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1789420442-0-0-bab8fb6ba21aef9c82cbb7f745b71406",
+    "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1789421042-0-0-e6097c4369519d9d2591d5c4b37dbb12",
     "type": "hls"
   },
   {
@@ -95,7 +140,7 @@
     "name": "Villarreal CF vs Real Betis (SPA D1)",
     "logo": "https://sta.vnres.co/file/common/20260912/35b491dbc8d485e0d9a97de508052b5a.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1789420442-0-0-31aea9085bba7871af4842c46d78ffa8",
+    "url": "https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1789421042-0-0-7dc0690ccf0ef48e07151f86f92dab73",
     "type": "hls"
   },
   {
@@ -104,7 +149,7 @@
     "name": "Inter Milan vs Udinese (ITA D1)",
     "logo": "https://sta.vnres.co/file/common/20260912/79dd64c8bf8bd764662af3aad455b9f1.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1789420442-0-0-f14ff6da381960e701d555e04ee1aa67",
+    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1789421042-0-0-5cef8d549da4d9facc87e95ac097dbbd",
     "type": "hls"
   },
   {
@@ -113,7 +158,7 @@
     "name": "Inter Milan vs Udinese (ITA D1)",
     "logo": "https://sta.vnres.co/file/common/20260912/79dd64c8bf8bd764662af3aad455b9f1.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789420442-0-0-9046d916cb882687e7fb71bfc346ba09",
+    "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789421042-0-0-41c3d5e04ce84cbfa2aef3b335cb90aa",
     "type": "hls"
   },
   {
@@ -122,7 +167,7 @@
     "name": "Leeds United vs Newcastle United (ENG PR)",
     "logo": "https://sta.vnres.co/file/common/20260912/b3952d43355c15929dfa327dd096a986.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=e04da74b57730831aeb730f96f398c35\u0026txTime=6aa8a9ea",
+    "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=9af140841b7cb3c579c9e10c7f80448f\u0026txTime=6aa8ac42",
     "type": "hls"
   },
   {
@@ -131,7 +176,7 @@
     "name": "Sporting Braga vs Estoril (POR D1)",
     "logo": "https://sta.vnres.co/file/common/20260912/6190d337b928771209f45d5dec595947.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1789420442-0-0-2c0471e12d073fc60d3e79144e01f7e0",
+    "url": "https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1789421042-0-0-89428c25803aab66082e9c2b1fb167ee",
     "type": "hls"
   },
   {
@@ -140,7 +185,7 @@
     "name": "Leeds United vs Newcastle United (ENG PR)",
     "logo": "https://sta.vnres.co/file/common/20260912/b3952d43355c15929dfa327dd096a986.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=79d51f452d6a913a1b04d4bcf2d50cfc\u0026txTime=6aa8a9ea",
+    "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=a1212905bafd3aab60982e055842126d\u0026txTime=6aa8ac42",
     "type": "hls"
   },
   {
@@ -149,7 +194,7 @@
     "name": "Villarreal CF vs Real Betis (SPA D1)",
     "logo": "https://sta.vnres.co/file/common/20260912/35b491dbc8d485e0d9a97de508052b5a.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789420442-0-0-68e50147a7f410256985b8455431a15f",
+    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789421042-0-0-5278435bf27b6a71aa3d05626269dd81",
     "type": "hls"
   },
   {
@@ -158,7 +203,7 @@
     "name": "Leeds United vs Newcastle United (ENG PR)",
     "logo": "https://sta.vnres.co/file/common/20260912/b3952d43355c15929dfa327dd096a986.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1789420442-0-0-f1023e7903df2e5b45ee586b85982dc4",
+    "url": "https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1789421042-0-0-623b93a8abb0d284223e97c83bc3b6f8",
     "type": "hls"
   },
   {
@@ -167,7 +212,7 @@
     "name": "Inter Milan vs Udinese (ITA D1)",
     "logo": "https://sta.vnres.co/file/common/20260912/79dd64c8bf8bd764662af3aad455b9f1.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1789420442-0-0-ac02b5b190ecdcd53cfd7c82b02d92d2",
+    "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1789421042-0-0-0434c902d0bb62d8810dfbc2371a3789",
     "type": "hls"
   },
   {
@@ -176,7 +221,7 @@
     "name": "Leeds United vs Newcastle United (ENG PR)",
     "logo": "https://sta.vnres.co/file/common/20260912/b3952d43355c15929dfa327dd096a986.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1789420442-0-0-f040e3f67fb76bcc710a0730561cd4b6",
+    "url": "https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1789421042-0-0-02f8029de8bb73e32e3d3dd74ef0e5cf",
     "type": "hls"
   },
   {
@@ -185,7 +230,7 @@
     "name": "Sporting Braga vs Estoril (POR D1)",
     "logo": "https://sta.vnres.co/file/common/20260912/6190d337b928771209f45d5dec595947.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1789420442-0-0-c622d7c828b649418c08a36acbc36d3e",
+    "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1789421042-0-0-403474376d33bae91aa715aacc985f68",
     "type": "hls"
   },
   {
@@ -194,7 +239,7 @@
     "name": "Leeds United vs Newcastle United (ENG PR)",
     "logo": "https://sta.vnres.co/file/common/20260912/b3952d43355c15929dfa327dd096a986.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789420442-0-0-a8ab442def95c79cc6a997f854834121",
+    "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789421042-0-0-d0e9e76779c9fbe84883c956c58e62c3",
     "type": "hls"
   },
   {
@@ -203,7 +248,7 @@
     "name": "Inter Milan vs Udinese (ITA D1)",
     "logo": "https://sta.vnres.co/file/common/20260912/79dd64c8bf8bd764662af3aad455b9f1.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789420442-0-0-ab08e340e8b7662d717d588023559a84",
+    "url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789421042-0-0-1fc86dbfa318c0a9c5b96117e3299a2c",
     "type": "hls"
   },
   {
@@ -212,16 +257,7 @@
     "name": "ITA D1: Inter Milan vs Udinese - CÔNG CHẤT",
     "logo": "https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=c0cd2cbedd9dc8cd66b2969625dd7237\u0026txTime=6aa8a8be",
-    "type": "hls"
-  },
-  {
-    "id": "356042",
-    "tvg_id": "room-356042",
-    "name": "BCL: Wurzburg vs Manchester Basketball - A CHÈ",
-    "logo": "https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1789420142-0-0-793ab131dd3598efa75eafc894f529c3",
+    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=dfc24246f9ac0382519c7193edce65ad\u0026txTime=6aa8ab16",
     "type": "hls"
   },
   {
@@ -230,16 +266,7 @@
     "name": "ENG PR: Leeds United vs Newcastle United - BLV ENZO",
     "logo": "https://sta.vnres.co/file/common/20260827/1d4f9eca02a381435aaec138589dd9ef.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1789420142-0-0-0ed2abe0abc338fefce66a1d30458900",
-    "type": "hls"
-  },
-  {
-    "id": "536185",
-    "tvg_id": "room-536185",
-    "name": "ACL Elite: Al Qadsiah vs Al-Wasl SC - BLV A WIN",
-    "logo": "https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1789420142-0-0-5e0f035aaf38cb89a3af7754802a46d4",
+    "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1789420742-0-0-bc20412ac2bde1772dd0a928a08f2f15",
     "type": "hls"
   },
   {
@@ -248,7 +275,7 @@
     "name": "SPA D1: Villarreal CF vs Real Betis - BLV RYO",
     "logo": "https://sta.vnres.co/file/common/20260329/46d787b8716ab82aff515db39b5a55a1.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1789420142-0-0-949e0d47871ba947970b2251c8e276c4",
+    "url": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1789420742-0-0-6146bd2a4e65e73ce73f715c7c902b0a",
     "type": "hls"
   },
   {
@@ -257,16 +284,7 @@
     "name": "ACL Elite: Al Qadsiah vs Al-Wasl SC - VINFAST",
     "logo": "https://sta.vnres.co/file/common/20260910/0b1046f9ea6e137597f737c5d46ef984.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1789420142-0-0-c7f364f5a23d5b5f64c3b26e988d4356",
-    "type": "hls"
-  },
-  {
-    "id": "620797",
-    "tvg_id": "room-620797",
-    "name": "ACL Elite: Al Ahli SC vs Pakhtakor - BÒ TƯƠI",
-    "logo": "https://sta.vnres.co/file/common/20260721/eae172928facf755dbf2027ca230e55e.png",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-620797_lhd.m3u8?txSecret=719d0f75a16edd15f675a7060c50c5f7\u0026txTime=6aa8a8be",
+    "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1789420556-0-0-ebfbf75bede2d5a9779b575f81725082",
     "type": "hls"
   },
   {
@@ -275,7 +293,7 @@
     "name": "ACL Elite: Esteghlal Tehran vs Al-Sadd - MP3",
     "logo": "https://sta.vnres.co/file/common/20260810/042a00493898027e5f644f6f24e88c53.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=e21b560dda5737207d67617ebadc40d3\u0026txTime=6aa8a8be",
+    "url": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=07bd39ef984f0da9554cd84693cffcb4\u0026txTime=6aa8a9ef",
     "type": "hls"
   },
   {
@@ -284,16 +302,7 @@
     "name": "SPA D1: Villarreal CF vs Real Betis - BLV BẢY",
     "logo": "https://sta.vnres.co/file/common/20260915/538bd5ce748fcf2ac41fe33e2c7dc3bd.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1789420142-0-0-41c125d5cd73e08504ec8f282d61db45",
-    "type": "hls"
-  },
-  {
-    "id": "622093",
-    "tvg_id": "room-622093",
-    "name": "ACL Elite: Al Ahli SC vs Pakhtakor - GRAP",
-    "logo": "https://sta.vnres.co/file/common/20260703/fe517d18a8df723cee92683347d70be9.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=c25fd85d5e222e878f931654b1b4e3d4\u0026txTime=6aa8a8be",
+    "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1789420742-0-0-533aecdb9d361d4e195cb4b05ac3db95",
     "type": "hls"
   },
   {
@@ -302,7 +311,7 @@
     "name": "ITA D1: Inter Milan vs Udinese - CURRY",
     "logo": "https://sta.vnres.co/file/common/20260809/8d3ecd1339e9fe41608eb4b7f008436c.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1789420142-0-0-5567c4381ca32f0ba72064dac2347df2",
+    "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1789420742-0-0-fa4818e771cdce17bead228fe1f57995",
     "type": "hls"
   },
   {
@@ -311,7 +320,7 @@
     "name": "SPA D1: Villarreal CF vs Real Betis - NEKO",
     "logo": "https://sta.vnres.co/file/common/20260828/e0638aedd6aef31974244bd226615764.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1789420142-0-0-22873404b2de2de19766ec220f4ea795",
+    "url": "https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1789420742-0-0-602b9953f2e50986bc2cb84f8d417b47",
     "type": "hls"
   },
   {
@@ -320,7 +329,7 @@
     "name": "ITA D1: Inter Milan vs Udinese - BLV FIREMAN",
     "logo": "https://sta.vnres.co/file/common/20240614/d900dd8841b1223c7b58554cde34df75.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1789420142-0-0-f860f4f822ce95964e4d37325eb36d78",
+    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1789420742-0-0-f2b37b639751aa67da1e290d89c325eb",
     "type": "hls"
   },
   {
@@ -329,7 +338,7 @@
     "name": "ITA D1: Inter Milan vs Udinese - HẢI THANH",
     "logo": "https://sta.vnres.co/file/common/20260829/f624027ec79ccc757bf8d5a663d63763.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789420142-0-0-7a8e9e6a53d40069b61975c983e0dc2c",
+    "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789420742-0-0-ee60846fab9ff4cd45115d918f98bbba",
     "type": "hls"
   },
   {
@@ -338,7 +347,7 @@
     "name": "ENG PR: Leeds United vs Newcastle United - RICKHANTER",
     "logo": "https://sta.vnres.co/file/common/20260620/4cbae14a2d06d1635a160fc8c2beb182.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=6fd12020db6033771e5bc2221bdbc801\u0026txTime=6aa8a8be",
+    "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=51e966ad0426a4668d0775425d689233\u0026txTime=6aa8ab16",
     "type": "hls"
   },
   {
@@ -347,7 +356,7 @@
     "name": "POR D1: Sporting Braga vs Estoril - RỒNG ĐẤT",
     "logo": "https://sta.vnres.co/file/common/20260725/0eb3315ecb9cf5c7f5f9b102d38e52f9.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1789420142-0-0-0b0f96b6d1b82223bfe93b68a1f26a94",
+    "url": "https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1789420742-0-0-97568191ca84478f73de2ae48d92e5c5",
     "type": "hls"
   },
   {
@@ -356,7 +365,7 @@
     "name": "ENG PR: Leeds United vs Newcastle United - QUỐC KHÁNH",
     "logo": "https://sta.vnres.co/file/common/20260915/20419a30f8d1b89662509ee49207f427.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=c710233114af92c3ad3c70f87e484d9a\u0026txTime=6aa8a8be",
+    "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=ce913c1008809595a660eacdeedf0519\u0026txTime=6aa8ab16",
     "type": "hls"
   },
   {
@@ -365,7 +374,7 @@
     "name": "SPA D1: Villarreal CF vs Real Betis - BLV A TÚ",
     "logo": "https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789420142-0-0-9448ae0533a57be960de625a086e6674",
+    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789420742-0-0-f09af0e5e76ee70630a78a400ee33e16",
     "type": "hls"
   },
   {
@@ -374,7 +383,7 @@
     "name": "ENG PR: Leeds United vs Newcastle United - CHÍ PHÈO",
     "logo": "https://sta.vnres.co/file/common/20260609/b3e04b0f7d210d67052a911512e39f54.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1789420142-0-0-c20753f401dc2c138b1d30ad0c0738fe",
+    "url": "https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1789420742-0-0-9a4a90cae58f1c137df0a1ae78ef394e",
     "type": "hls"
   },
   {
@@ -383,7 +392,7 @@
     "name": "ITA D1: Inter Milan vs Udinese - LOKA",
     "logo": "https://sta.vnres.co/file/common/20260411/c1490960e7f4b63fdc78206c576d2da8.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1789420142-0-0-8cfcaecd895661a6084ce2f6a14eff59",
+    "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1789420742-0-0-d20ae30c5bfd67353e96f1cfbc36d144",
     "type": "hls"
   },
   {
@@ -392,7 +401,7 @@
     "name": "ENG PR: Leeds United vs Newcastle United - BLV PEWPEW",
     "logo": "https://sta.vnres.co/file/common/20260801/16b69ccb9ccf1f371806a3f19e7dc683.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1789420142-0-0-5ba578a5c42df96ed0a1a0f132f079d0",
+    "url": "https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1789420742-0-0-e2530e62b3cf8f4002e8ebaf7bf767c8",
     "type": "hls"
   },
   {
@@ -401,7 +410,7 @@
     "name": "POR D1: Sporting Braga vs Estoril - TUẤN CÙI",
     "logo": "https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1789420142-0-0-e52c98d48c335bf020748711ad0b0db5",
+    "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1789420742-0-0-7e841585e974661b0177854bdadda811",
     "type": "hls"
   },
   {
@@ -410,7 +419,7 @@
     "name": "ENG PR: Leeds United vs Newcastle United - BLV MESSI",
     "logo": "https://sta.vnres.co/file/common/20260909/1edb9c9016b6d011552439c71d3e5158.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789420142-0-0-4b69abd7302f15b49b5fce1e880ab27b",
+    "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789420742-0-0-4c2264cf28de4d9cc3fa62d38a51f7d4",
     "type": "hls"
   },
   {
@@ -419,7 +428,7 @@
     "name": "ITA D1: Inter Milan vs Udinese - A BỆU",
     "logo": "https://sta.vnres.co/file/common/20260830/683bbb96de277e28f88b1d08678ac124.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789420142-0-0-d60b7ce63be4430cc605d8588d0a6025",
+    "url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789420742-0-0-207f6c2758939cce485d9f0b9aaa36b3",
     "type": "hls"
   }
 ]
