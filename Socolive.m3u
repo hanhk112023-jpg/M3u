@@ -1,85 +1,93 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 40
-# Updated: 15/09/2026 07:35:04
+# Channels: 44
+# Updated: 15/09/2026 07:45:04
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260912/5dbfe654a08ac3964a2341d6e3eeab0e.png" group-title="Bóng đá",Instituto de Córdoba vs AA Estudiantes (Río Cuarto) (ARG D1)
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789435742-0-0-c44152bcf748834910bf0e8f0afcf0e4
-#EXTINF:-1 tvg-id="room-491873" tvg-logo="https://sta.vnres.co/file/common/20260912/eb6eea7ee651fabc4e09b237e38a4eca.png" group-title="Bóng đá",America MG vs Sao Bernardo (BRA D2)
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=6d96756805fefd87829fe66dbb40d332&txTime=6aa8e5b5
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789436342-0-0-89b0c92d44db0229cd8022cc16e8f086
+#EXTINF:-1 tvg-id="room-327159" tvg-logo="https://sta.vnres.co/file/common/20260912/e7b9ed0a6e3ce3eb44657c6a1ee65151.png" group-title="Bóng đá",America de Cali vs Deportivo Pasto (COL D1)
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789436342-0-0-ec0f1c7b26642d78ac7618385193bdb8
+#EXTINF:-1 tvg-id="room-387694" tvg-logo="https://sta.vnres.co/file/common/20260912/e7b9ed0a6e3ce3eb44657c6a1ee65151.png" group-title="Bóng đá",America de Cali vs Deportivo Pasto (COL D1)
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=9144fc3dfa50e94d20ccc59b6646be7d&txTime=6aa8e83a
 #EXTINF:-1 tvg-id="room-527383" tvg-logo="https://sta.vnres.co/file/common/20260912/47c892acea505e062de36e0eac347c3b.png" group-title="Bóng đá",Bahia - BA vs Remo - PA (BRA D1)
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789435742-0-0-22995d5307aa2975c176b95e7ffd8573
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789436342-0-0-adfc8279713c2211ba3c2d13d88acd49
 #EXTINF:-1 tvg-id="room-527384" tvg-logo="https://sta.vnres.co/file/common/20260912/8f875e9221dd14548b7dd5f95bc40c9f.png" group-title="Bóng đá",Club Leon vs Atletico San Luis (MEX D1)
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789435742-0-0-412d3af36bd0f5d0a88b0e7d0d41f09c
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789436342-0-0-d5d02f2d34586909f2b8836d7cd6a94b
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260912/5dbfe654a08ac3964a2341d6e3eeab0e.png" group-title="Bóng đá",Instituto de Córdoba vs AA Estudiantes (Río Cuarto) (ARG D1)
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789435742-0-0-31e2e34c7359775670de3749723951ce
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789436342-0-0-2ecb885790ab1db368cf84db94dacab0
 #EXTINF:-1 tvg-id="room-597929" tvg-logo="https://sta.vnres.co/file/common/20260912/9cb050c67fdbd04ba2a2e66e944c46c1.png" group-title="Bóng đá",Union La Calera vs Deportes Limache (CHI D1)
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1789435742-0-0-2163af04c987525bf3b6c4a10f5561ed
-#EXTINF:-1 tvg-id="room-603914" tvg-logo="https://sta.vnres.co/file/common/20260912/eb6eea7ee651fabc4e09b237e38a4eca.png" group-title="Bóng đá",America MG vs Sao Bernardo (BRA D2)
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789435742-0-0-d25427b59ea5834b61f34f2c28342005
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1789436642-0-0-170db153abf828553d8416d52cb9ee6b
+#EXTINF:-1 tvg-id="room-603914" tvg-logo="https://sta.vnres.co/file/common/20260912/f192ebf80de73cbf8b4c96efcf36d977.png" group-title="Bóng đá",Pachuca Women vs Leon Women (MEX WD1)
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789436642-0-0-d0ef73712c8981337edc7732ec8b0ce4
 #EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260912/d7d2c42a5665c0116ddee8f2a883f938.png" group-title="Bóng đá",Avaí FC vs Vila Nova (BRA D2)
-https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=c98dbc3e1c2e4e0bc93688c0ec31270e&txTime=6aa8e5ae
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=be8df5d588731a2d4060a10af7fa6c81&txTime=6aa8e932
 #EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260912/5dbfe654a08ac3964a2341d6e3eeab0e.png" group-title="Bóng đá",Instituto de Córdoba vs AA Estudiantes (Río Cuarto) (ARG D1)
-https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789436042-0-0-8c8efa03fd12fd31af339cdc7ce1d79b
+https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789436642-0-0-097033922af9014badfebf6049e40ff9
 #EXTINF:-1 tvg-id="room-619561" tvg-logo="https://sta.vnres.co/file/common/20260912/9cb050c67fdbd04ba2a2e66e944c46c1.png" group-title="Bóng đá",Union La Calera vs Deportes Limache (CHI D1)
-https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1789436042-0-0-c9312a88cda31d7bc24f1d412d7fc8b0
+https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1789436642-0-0-14ac45d7a789a1c2dbe3e0b99b2f59de
+#EXTINF:-1 tvg-id="room-619672" tvg-logo="https://sta.vnres.co/file/common/20260912/f192ebf80de73cbf8b4c96efcf36d977.png" group-title="Bóng đá",Pachuca Women vs Leon Women (MEX WD1)
+https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1789436642-0-0-516e02efc39ca4b5ccedb5c159931df4
 #EXTINF:-1 tvg-id="room-620084" tvg-logo="https://sta.vnres.co/file/common/20260912/47c892acea505e062de36e0eac347c3b.png" group-title="Bóng đá",Bahia - BA vs Remo - PA (BRA D1)
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789436042-0-0-b4265fd51e4647afb705e5125d85d96c
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789436642-0-0-6c85e1c657108c36e873e2e913592bf0
 #EXTINF:-1 tvg-id="room-621887" tvg-logo="https://sta.vnres.co/file/common/20260912/d7d2c42a5665c0116ddee8f2a883f938.png" group-title="Bóng đá",Avaí FC vs Vila Nova (BRA D2)
-https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=e038c8f3cac25a31514f09a7edf9faab&txTime=6aa8e6da
+https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=d3879a0ea92bffefe6a5bee5e047d7d5&txTime=6aa8e932
 #EXTINF:-1 tvg-id="room-9912008" tvg-logo="https://sta.vnres.co/file/common/20260912/8f875e9221dd14548b7dd5f95bc40c9f.png" group-title="Bóng đá",Club Leon vs Atletico San Luis (MEX D1)
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789436094-0-0-b05cac8f909db16c116e7dcbc7b736ac
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789436642-0-0-2d920128914358c4b2fc63cb5ddaf7f4
 #EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260912/8f875e9221dd14548b7dd5f95bc40c9f.png" group-title="Bóng đá",Club Leon vs Atletico San Luis (MEX D1)
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=63dbb15a3210fc617ffc8679a3d172e5&txTime=6aa8e6da
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=1bd71e27232520a0d51303f1a795cc0c&txTime=6aa8e932
 #EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260912/47c892acea505e062de36e0eac347c3b.png" group-title="Bóng đá",Bahia - BA vs Remo - PA (BRA D1)
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=4b66a5cb60b8fee4d48f27d40e840f83&txTime=6aa8e6da
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=563b2a77b83324358907e0810b37ea7c&txTime=6aa8e932
 #EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260912/8f875e9221dd14548b7dd5f95bc40c9f.png" group-title="Bóng đá",Club Leon vs Atletico San Luis (MEX D1)
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789408543-0-0-e6689a0141810a816a695634fbccfb24
-#EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260912/41068279d6b305796617416ee104131c.png" group-title="Bóng đá",Botafogo SP vs Goias Esporte Clube (BRA D2)
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789436042-0-0-453b99b94daa7cdc03a201569e8b2fef
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789436642-0-0-f341ca1c36f0051e06402bee464813cd
 #EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260912/47c892acea505e062de36e0eac347c3b.png" group-title="Bóng đá",Bahia - BA vs Remo - PA (BRA D1)
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789436042-0-0-fe50fd566e884476b3f4a67c7247ef12
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789436642-0-0-b0c0746d9c356746481b1b2db7eea370
 #EXTINF:-1 tvg-id="room-9912132" tvg-logo="https://sta.vnres.co/file/common/20260912/5dbfe654a08ac3964a2341d6e3eeab0e.png" group-title="Bóng đá",Instituto de Córdoba vs AA Estudiantes (Río Cuarto) (ARG D1)
-https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=d4dbc119fe0ff342d65f70d2ea75747e&txTime=6aa8e6da
-#EXTINF:-1 tvg-id="room-9912139" tvg-logo="https://sta.vnres.co/file/common/20260912/41068279d6b305796617416ee104131c.png" group-title="Bóng đá",Botafogo SP vs Goias Esporte Clube (BRA D2)
-https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=0d1df41b34622522f79e9434575f0888&txTime=6aa8e6da
+https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=c040d4e845c8a1d38bcd91730bdcea49&txTime=6aa8e932
+#EXTINF:-1 tvg-id="room-9912139" tvg-logo="https://sta.vnres.co/file/common/20260912/e7b9ed0a6e3ce3eb44657c6a1ee65151.png" group-title="Bóng đá",America de Cali vs Deportivo Pasto (COL D1)
+https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=4aa3a5b67052985b53cdcd097f71cec5&txTime=6aa8e932
+#EXTINF:-1 tvg-id="room-9912143" tvg-logo="https://sta.vnres.co/file/common/20260912/e7b9ed0a6e3ce3eb44657c6a1ee65151.png" group-title="Bóng đá",America de Cali vs Deportivo Pasto (COL D1)
+https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789436672-0-0-b828dc522d2aa3c1f6b693c6e280d338
 #EXTINF:-1 tvg-id="room-9912144" tvg-logo="https://sta.vnres.co/file/common/20260912/8f875e9221dd14548b7dd5f95bc40c9f.png" group-title="Bóng đá",Club Leon vs Atletico San Luis (MEX D1)
-https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1789372546-0-0-bfd96f62a134342cc7654348173ee4c7
+https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1789436642-0-0-691ddb641b30a43428119f9eaef45c89
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260910/379b8f839c5b1772d5cb338b94e9bbc8.jpg" group-title="SocoLive",ARG D1: Instituto de Córdoba vs AA Estudiantes (Río Cuarto) - A PÁO
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789435742-0-0-c44152bcf748834910bf0e8f0afcf0e4
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789436342-0-0-89b0c92d44db0229cd8022cc16e8f086
 #EXTINF:-1 tvg-id="room-327159" tvg-logo="https://sta.vnres.co/file/common/20260910/b74633428c7b7d75edf4a7dbb3d250cf.jpg" group-title="SocoLive",ARG D1: Deportivo Riestra vs Club Atlético Lanús - BLV COCA
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789435742-0-0-9c1aea20617ce9a32a3dc1fe60f1ff65
-#EXTINF:-1 tvg-id="room-491873" tvg-logo="https://sta.vnres.co/file/common/20250723/6b83b847d8944b57cc13043bae9fa7a8.jpg" group-title="SocoLive",BRA D2: America MG vs Sao Bernardo - BLV VIP
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=6d96756805fefd87829fe66dbb40d332&txTime=6aa8e5b5
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789436342-0-0-ec0f1c7b26642d78ac7618385193bdb8
 #EXTINF:-1 tvg-id="room-527383" tvg-logo="https://sta.vnres.co/file/common/20260626/fcd1d9373f93de7ff3ebfbee3f073c7c.jpg" group-title="SocoLive",BRA D1: Bahia - BA vs Remo - PA - BLV ROBBEN
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789435742-0-0-22995d5307aa2975c176b95e7ffd8573
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789436342-0-0-adfc8279713c2211ba3c2d13d88acd49
 #EXTINF:-1 tvg-id="room-527384" tvg-logo="https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg" group-title="SocoLive",MEX D1: Club Leon vs Atletico San Luis - LÃO LÂM
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789435742-0-0-412d3af36bd0f5d0a88b0e7d0d41f09c
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789436342-0-0-d5d02f2d34586909f2b8836d7cd6a94b
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg" group-title="SocoLive",ARG D1: Instituto de Córdoba vs AA Estudiantes (Río Cuarto) - BLV ALEX
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789435742-0-0-31e2e34c7359775670de3749723951ce
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789436342-0-0-2ecb885790ab1db368cf84db94dacab0
 #EXTINF:-1 tvg-id="room-597929" tvg-logo="https://sta.vnres.co/file/common/20260312/cb002ebc914e9240a9242c43ec27aacb.jpg" group-title="SocoLive",CHI D1: Union La Calera vs Deportes Limache - BLV CÁO
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1789435742-0-0-2163af04c987525bf3b6c4a10f5561ed
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1789436342-0-0-0d60f2c45eda3045e379bedfc49578b5
+#EXTINF:-1 tvg-id="room-603914" tvg-logo="https://sta.vnres.co/file/common/20260904/c08eebf8c66b882d5d57e203ae571c7a.jpg" group-title="SocoLive",MEX WD1: Pachuca Women vs Leon Women - TRÀ ĐÁ
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789436342-0-0-af176666629573984525e4d9092aa8ac
 #EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg" group-title="SocoLive",BRA D2: Avaí FC vs Vila Nova - HÀ DUY KIÊN
-https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=c98dbc3e1c2e4e0bc93688c0ec31270e&txTime=6aa8e5ae
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=856e23ae4f4ea6c26650aead1b512e17&txTime=6aa8e806
 #EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg" group-title="SocoLive",ARG D1: Instituto de Córdoba vs AA Estudiantes (Río Cuarto) - CƠM NẾP
-https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789435742-0-0-9ffe270629d81ed54b8429571d470a52
+https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789436342-0-0-d550054981136dc033b65fb476571098
 #EXTINF:-1 tvg-id="room-619561" tvg-logo="https://sta.vnres.co/file/common/20260729/d06a0efe274bce28547238bec2a125b9.jpg" group-title="SocoLive",CHI D1: Union La Calera vs Deportes Limache - BÚN ĐẬU
-https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1789435742-0-0-190c920170c2fd6e77a64bd3b47d04a2
+https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1789436342-0-0-689537b2673423d711856a1c0e959293
+#EXTINF:-1 tvg-id="room-619672" tvg-logo="https://sta.vnres.co/file/common/20260808/4818d723b5e85850f66dfc3b5aed49d8.png" group-title="SocoLive",MEX WD1: Pachuca Women vs Leon Women - T REX
+https://pull.niues.live/live/stream-619672_lhd.m3u8?auth_key=1789436342-0-0-3405a6d9a59b7802a7352d273bd434dd
 #EXTINF:-1 tvg-id="room-620084" tvg-logo="https://sta.vnres.co/file/common/20260713/cbd81ea71d49b5b5f074a5f56678a9b6.png" group-title="SocoLive",BRA D1: Bahia - BA vs Remo - PA - PEANUT
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789435742-0-0-81dd8709f0bcd3ee9c5656715339325f
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789436342-0-0-5d4d51267410f6df2269df09871f1d34
 #EXTINF:-1 tvg-id="room-621887" tvg-logo="https://sta.vnres.co/file/common/20260728/c2935ca02d759ee77531ff32719f1b21.png" group-title="SocoLive",BRA D2: Avaí FC vs Vila Nova - CHAN ĐÊ
-https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=4eb53f8315a095743b0a905e4e0918d0&txTime=6aa8e5ae
+https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=6a5cc786d73603aa965b34d8ff323988&txTime=6aa8e806
+#EXTINF:-1 tvg-id="room-9912008" tvg-logo="https://sta.vnres.co/file/common/20260914/c5f40052c3711b0419d6b19e42a3bfe9.png" group-title="SocoLive",MEX D1: Club Leon vs Atletico San Luis - BLV TOMIA
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789436342-0-0-6672f87d6030f7159c0bcefb7838c925
 #EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56.jpg" group-title="SocoLive",MEX D1: Club Leon vs Atletico San Luis - BLV TAP
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=28b9c8ec7929a9526d5097975a4152a1&txTime=6aa8e5ae
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=e703d3b0a260455a558eebbc3151a106&txTime=6aa8e806
 #EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg" group-title="SocoLive",BRA D1: Bahia - BA vs Remo - PA - BLV RÔSI
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=904060c1f1b5eed368b8c96333637743&txTime=6aa8e5ae
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=b6f62bd00f1aee6f3ef10ad4c137c307&txTime=6aa8e806
 #EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151.png" group-title="SocoLive",BRA D2: Botafogo SP vs Goias Esporte Clube - BLV VOI
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789435742-0-0-4a433380198821e9d8667f3afade71a1
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789436369-0-0-c680b8372259183654c5c13089003fb0
 #EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg" group-title="SocoLive",BRA D1: Bahia - BA vs Remo - PA - KENCHU
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789435742-0-0-394bb46fa3e4ff6a5205ea62048c00b9
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789436342-0-0-68ec0a0f44eaa20f7ee00dadd5be6bf5
 #EXTINF:-1 tvg-id="room-9912132" tvg-logo="https://sta.vnres.co/file/common/20260613/cc7eb6fb9d74dfa083a48c861b135ae8.jpg" group-title="SocoLive",ARG D1: Instituto de Córdoba vs AA Estudiantes (Río Cuarto) - BLV XO
-https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=cc7fdb4d7b533868b9bc5e16d7336d52&txTime=6aa8e5ae
+https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=37d0214936cd9178c7af6c730a267cf4&txTime=6aa8e806
 #EXTINF:-1 tvg-id="room-9912139" tvg-logo="https://sta.vnres.co/file/common/20260317/5be300857a15349a5324be170237948b.png" group-title="SocoLive",COL D1: America de Cali vs Deportivo Pasto - BLV A TINH
-https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=db17f69ae10ae69c0b376f8260b22282&txTime=6aa8e5ae
+https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=4530d586c92e3f6d3f5cd2e095f10a52&txTime=6aa8e806
 #EXTINF:-1 tvg-id="room-9912143" tvg-logo="https://sta.vnres.co/file/common/20260908/25a8cd45f3d227a96b46e77ba0d942c2.png" group-title="SocoLive",COL D1: America de Cali vs Deportivo Pasto - NGƯỜI CÁ
-https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789435742-0-0-a8eaf5f6e10ed9f43849e80e571ea913
+https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789436342-0-0-acc23aea9fd8c85082867b7b09097026
