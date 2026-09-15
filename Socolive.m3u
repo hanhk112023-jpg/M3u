@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 30
-# Updated: 16/09/2026 04:10:05
+# Channels: 31
+# Updated: 16/09/2026 04:30:04
 
 #EXTINF:-1 tvg-id="room-283501" tvg-logo="https://sta.vnres.co/file/common/20260913/9fb3cc5bcde1707ccc38e3fadf2baa74.png" group-title="Bóng đá",Vasco da Gama Saf - RJ vs Independiente Santa Fe (CON CSA)
 https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=b33eb7eaeb0ce9c14a953ab4f2bf1905&txTime=6aa97f3f
@@ -10,9 +10,9 @@ https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789444888-0-0-5d5a
 #EXTINF:-1 tvg-id="room-372746" tvg-logo="https://sta.vnres.co/file/common/20260913/abb7589e70ee925f6c6cb371ea3f3459.png" group-title="Bóng đá",CA Platense vs Fluminense - RJ (LIB Cup)
 https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1789433753-0-0-8ec2c45b2197581f977560eeae3697bc
 #EXTINF:-1 tvg-id="room-485739" tvg-logo="https://sta.vnres.co/file/common/20260913/abb7589e70ee925f6c6cb371ea3f3459.png" group-title="Bóng đá",CA Platense vs Fluminense - RJ (LIB Cup)
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=15b7f90562326a3942d1737bfa57565d&txTime=6aa98786
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=276e48f2ad6f8af1948b17a34d4ecfe4&txTime=6aaa0bd2
 #EXTINF:-1 tvg-id="room-491873" tvg-logo="https://sta.vnres.co/file/common/20260913/9fb3cc5bcde1707ccc38e3fadf2baa74.png" group-title="Bóng đá",Vasco da Gama Saf - RJ vs Independiente Santa Fe (CON CSA)
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=cfecf78c87d637347e913678b22fca4c&txTime=6aa9868e
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=69c234ee622966a9b68711cf5791fa7c&txTime=6aaa0bf8
 #EXTINF:-1 tvg-id="room-527383" tvg-logo="https://sta.vnres.co/file/common/20260913/7433a4b60726a7b3c6aa62799ede7257.png" group-title="Bóng đá",Nautico (PE) vs Operario Ferroviario PR (BRA D2)
 https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789477306-0-0-d31343ed09667ee8f7e95a3fcd84e1b2
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260913/abb7589e70ee925f6c6cb371ea3f3459.png" group-title="Bóng đá",CA Platense vs Fluminense - RJ (LIB Cup)
@@ -22,7 +22,7 @@ https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=c556a3097cba7cca3016
 #EXTINF:-1 tvg-id="room-603914" tvg-logo="https://sta.vnres.co/file/common/20260913/9fb3cc5bcde1707ccc38e3fadf2baa74.png" group-title="Bóng đá",Vasco da Gama Saf - RJ vs Independiente Santa Fe (CON CSA)
 https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789474975-0-0-57af590bf6655c90de89df393f784746
 #EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260913/abb7589e70ee925f6c6cb371ea3f3459.png" group-title="Bóng đá",CA Platense vs Fluminense - RJ (LIB Cup)
-https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=556072cb8139424b871cd4f480627cf9&txTime=6aaa075e
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=452f0d7eee793f1ee0b89bb5d433a2a7&txTime=6aaa0bd2
 #EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260913/abb7589e70ee925f6c6cb371ea3f3459.png" group-title="Bóng đá",CA Platense vs Fluminense - RJ (LIB Cup)
 https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789441797-0-0-d7e9eb20c4bfd8b385e957e36e6dfff7
 #EXTINF:-1 tvg-id="room-620084" tvg-logo="https://sta.vnres.co/file/common/20260913/46b239488fd074564a084dfb3e0a0290.png" group-title="Bóng đá",Indy Eleven vs Brooklyn FC (USLC)
@@ -30,36 +30,38 @@ https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789476904-0-0-d3e7
 #EXTINF:-1 tvg-id="room-621887" tvg-logo="https://sta.vnres.co/file/common/20260913/9fb3cc5bcde1707ccc38e3fadf2baa74.png" group-title="Bóng đá",Vasco da Gama Saf - RJ vs Independiente Santa Fe (CON CSA)
 https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=7e8b1d0298cd52508bed90a8042fd7a4&txTime=6aa90215
 #EXTINF:-1 tvg-id="room-991140" tvg-logo="https://sta.vnres.co/file/common/20260913/eb36b9a4ca24077736990bb0c32a506d.png" group-title="Bóng đá",Elche CF vs Real Madrid (SPA D1)
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1789509902-0-0-266ab3dc422292c3cc4afef3e2eef096
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1789511042-0-0-a2f8fbb3f50bfa45e88ffd64cea742d3
 #EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260913/46b239488fd074564a084dfb3e0a0290.png" group-title="Bóng đá",Indy Eleven vs Brooklyn FC (USLC)
 https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=869ee262624fb1748b5c2eba214c24e6&txTime=6aa9bc57
 #EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260913/d480527e61a305d85631905f41167e2e.png" group-title="Bóng đá",Londrina PR vs Ponte Preta (BRA D2)
 https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789491571-0-0-a370d290ace839305a057793ac6a6dde
 #EXTINF:-1 tvg-id="room-9912119" tvg-logo="https://sta.vnres.co/file/common/20260913/eb36b9a4ca24077736990bb0c32a506d.png" group-title="Bóng đá",Elche CF vs Real Madrid (SPA D1)
-https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789509902-0-0-f58f6c627c55d5bf60a26b64f9e38315
+https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789511042-0-0-01162be5c5c02d89f95df249b36e20b9
 #EXTINF:-1 tvg-id="room-9912129" tvg-logo="https://sta.vnres.co/file/common/20260913/eb36b9a4ca24077736990bb0c32a506d.png" group-title="Bóng đá",Elche CF vs Real Madrid (SPA D1)
-https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=e3658a6ea4a416b74df61a3592ae901a&txTime=6aaa075e
+https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=b180d37bbbdcc65e8757b1926700b037&txTime=6aaa0bd2
 #EXTINF:-1 tvg-id="room-9912130" tvg-logo="https://sta.vnres.co/file/common/20260913/7433a4b60726a7b3c6aa62799ede7257.png" group-title="Bóng đá",Nautico (PE) vs Operario Ferroviario PR (BRA D2)
 https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789502478-0-0-715ebc5bc20d8ff7e034924779d8fad3
 #EXTINF:-1 tvg-id="room-9912139" tvg-logo="https://sta.vnres.co/file/common/20260913/d480527e61a305d85631905f41167e2e.png" group-title="Bóng đá",Londrina PR vs Ponte Preta (BRA D2)
 https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=d4cef6c2535e5113dd40d063f3de6c12&txTime=6aa9099c
 #EXTINF:-1 tvg-id="room-9912140" tvg-logo="https://sta.vnres.co/file/common/20260913/eb36b9a4ca24077736990bb0c32a506d.png" group-title="Bóng đá",Elche CF vs Real Madrid (SPA D1)
-https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=fcf9e383d6b015a8f55ec9d8b40e37c9&txTime=6aaa084e
+https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=7993c54091369022a9857e70626dda3e&txTime=6aaa0cfe
 #EXTINF:-1 tvg-id="room-9912141" tvg-logo="https://sta.vnres.co/file/common/20260913/eb36b9a4ca24077736990bb0c32a506d.png" group-title="Bóng đá",Elche CF vs Real Madrid (SPA D1)
-https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789510142-0-0-5c72ee29169597707ab86bdea1d48026
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789511342-0-0-91a77574c220899134125f37fa30cb61
 #EXTINF:-1 tvg-id="room-9912142" tvg-logo="https://sta.vnres.co/file/common/20260913/eb36b9a4ca24077736990bb0c32a506d.png" group-title="Bóng đá",Elche CF vs Real Madrid (SPA D1)
-https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789510142-0-0-e9c0cf46d6a31023b9f593473072cad0
+https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789511342-0-0-9270bbc79d919dad1134abf9d9213742
+#EXTINF:-1 tvg-id="room-485739" tvg-logo="https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg" group-title="SocoLive",LIB Cup: CA Platense vs Fluminense - RJ - BLV CHIVAS
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=276e48f2ad6f8af1948b17a34d4ecfe4&txTime=6aaa0bd2
 #EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg" group-title="SocoLive",LIB Cup: CA Platense vs Fluminense - RJ - HÀ DUY KIÊN
-https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=c5df27da89537433cab754ea47fd36ba&txTime=6aaa0722
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=452f0d7eee793f1ee0b89bb5d433a2a7&txTime=6aaa0bd2
 #EXTINF:-1 tvg-id="room-991140" tvg-logo="https://sta.vnres.co/file/common/20240614/d900dd8841b1223c7b58554cde34df75.jpg" group-title="SocoLive",SPA D1: Elche CF vs Real Madrid - BLV FIREMAN
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1789509842-0-0-98eed581a25e27632aa88776cc0b92e2
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1789511042-0-0-a2f8fbb3f50bfa45e88ffd64cea742d3
 #EXTINF:-1 tvg-id="room-9912119" tvg-logo="https://sta.vnres.co/file/common/20260829/f624027ec79ccc757bf8d5a663d63763.jpg" group-title="SocoLive",SPA D1: Elche CF vs Real Madrid - HẢI THANH
-https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789509842-0-0-1869bf5ed82448d97faebbd02f93e374
+https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789511042-0-0-01162be5c5c02d89f95df249b36e20b9
 #EXTINF:-1 tvg-id="room-9912129" tvg-logo="https://sta.vnres.co/file/common/20260915/edde8f865053412e4297a6f08d77569b.jpg" group-title="SocoLive",SPA D1: Elche CF vs Real Madrid - QUỐC KHÁNH
-https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=c6f10811b97c924983a4f3809dd4eff0&txTime=6aaa0722
+https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=b180d37bbbdcc65e8757b1926700b037&txTime=6aaa0bd2
 #EXTINF:-1 tvg-id="room-9912140" tvg-logo="https://sta.vnres.co/file/common/20260807/a76465a880a2789f42e440cf03e9db6b.jpg" group-title="SocoLive",SPA D1: Elche CF vs Real Madrid - SAO LA
-https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=fada519731d206f77c5ec8d274468c98&txTime=6aaa0722
+https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=f7392a94fc9d39b24064d479d637cf9a&txTime=6aaa0bd2
 #EXTINF:-1 tvg-id="room-9912141" tvg-logo="https://sta.vnres.co/file/common/20260909/1edb9c9016b6d011552439c71d3e5158.jpg" group-title="SocoLive",SPA D1: Elche CF vs Real Madrid - BLV MESSI
-https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789509842-0-0-4cdfd27b2b6edef32ef45d60ecf4342f
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789511042-0-0-570c9d8300690c70312ab237362a38dc
 #EXTINF:-1 tvg-id="room-9912142" tvg-logo="https://sta.vnres.co/file/common/20260830/683bbb96de277e28f88b1d08678ac124.png" group-title="SocoLive",SPA D1: Elche CF vs Real Madrid - A BỆU
-https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789509842-0-0-8b82f6a2f9e2c30350090788e71eb72d
+https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789511042-0-0-777fffbf18c2ad2cb84082c464c4f570
