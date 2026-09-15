@@ -5,7 +5,7 @@
     "name": "Genoa vs SudTirol (ITA Cup)",
     "logo": "https://sta.vnres.co/file/common/20260912/9115db8d44056c1a817741780da17ce3.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=174d4184b0ed601a0927e40567f5747d\u0026txTime=6aa9d4be",
+    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=a3f2f4cf6fca0792fc8199763738b3ef\u0026txTime=6aa9d716",
     "type": "hls"
   },
   {
@@ -14,7 +14,7 @@
     "name": "Genoa vs SudTirol (ITA Cup)",
     "logo": "https://sta.vnres.co/file/common/20260912/9115db8d44056c1a817741780da17ce3.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-304148_lhd.m3u8?txSecret=de9ca62553b6abd031cef4f266439cbe\u0026txTime=6aa9d4be",
+    "url": "https://pull.niur.live/live/stream-304148_lhd.m3u8?txSecret=fffb480ba89aed933fd7b46269fac9db\u0026txTime=6aa9d716",
     "type": "hls"
   },
   {
@@ -23,7 +23,7 @@
     "name": "Al-Orobah FC vs Al Jeel (KSA D1)",
     "logo": "https://sta.vnres.co/file/common/20260912/f039a1870ec76f4c6f14c9e0929e81a5.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=1ccd45f6f864f16fea7a4262d93ae851\u0026txTime=6aa9d4be",
+    "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=28016541f1d64f02fe19308616f410e5\u0026txTime=6aa9d716",
     "type": "hls"
   },
   {
@@ -32,7 +32,7 @@
     "name": "Genoa vs SudTirol (ITA Cup)",
     "logo": "https://sta.vnres.co/file/common/20260912/9115db8d44056c1a817741780da17ce3.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1789496942-0-0-c405021b07052ec30ac6aed7e0c030e1",
+    "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1789497542-0-0-ddd47a88960fed9f7322be96d1e5dd76",
     "type": "hls"
   },
   {
@@ -41,7 +41,16 @@
     "name": "Al-Ain FC vs Al Nassr (ACL Elite)",
     "logo": "https://sta.vnres.co/file/common/20260912/f639946c68318364c975d8463171b7ea.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=b9ef9dc18f073c71247489a5b3c06af4\u0026txTime=6aa9d4be",
+    "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=f1e81177ac5b143712d329cc69dca9db\u0026txTime=6aa9d716",
+    "type": "hls"
+  },
+  {
+    "id": "501412",
+    "tvg_id": "room-501412",
+    "name": "Rayo Vallecano vs RCD Espanyol (SPA D1)",
+    "logo": "https://sta.vnres.co/file/common/20260913/0e4bd90dd255e91d9f4ec8fdbb23890b.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=8157e3c91f01ff2c4e8a4f2faca6a7a0\u0026txTime=6aa9d716",
     "type": "hls"
   },
   {
@@ -50,7 +59,16 @@
     "name": "Super Nova vs Riga FC (LAT D1)",
     "logo": "https://sta.vnres.co/file/common/20260913/5785afb6a629a99e44d88b581928c672.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1789496942-0-0-c75043118d8435ec2ea1b5aa8ddc1365",
+    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1789497542-0-0-2e539825acf30bea2b7d5426e60e43d7",
+    "type": "hls"
+  },
+  {
+    "id": "582342",
+    "tvg_id": "room-582342",
+    "name": "Rayo Vallecano vs RCD Espanyol (SPA D1)",
+    "logo": "https://sta.vnres.co/file/common/20260913/0e4bd90dd255e91d9f4ec8fdbb23890b.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1789497542-0-0-5fee0c2e8ceaf98cadf595eacf59d785",
     "type": "hls"
   },
   {
@@ -59,16 +77,7 @@
     "name": "Super Nova vs Riga FC (LAT D1)",
     "logo": "https://sta.vnres.co/file/common/20260913/5785afb6a629a99e44d88b581928c672.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1789496942-0-0-6fc1557b27d7c5b4ef61cf493e743a38",
-    "type": "hls"
-  },
-  {
-    "id": "622093",
-    "tvg_id": "room-622093",
-    "name": "Al-Adalah vs Al-Jandal (KSA D1)",
-    "logo": "https://sta.vnres.co/file/common/20260912/f31ffdd772eac83c9f6363913436ac90.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=89553b787091e31149fed511abce7d11\u0026txTime=6aa9d43a",
+    "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1789497542-0-0-fb21389e79ce8b5e6a9e1ea7df3980ce",
     "type": "hls"
   },
   {
@@ -77,7 +86,7 @@
     "name": "Genoa vs SudTirol (ITA Cup)",
     "logo": "https://sta.vnres.co/file/common/20260912/9115db8d44056c1a817741780da17ce3.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1789496942-0-0-471e479d7555a6730aad934976cba831",
+    "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1789497542-0-0-49a315fbab93832a0601f8f2c0fb6509",
     "type": "hls"
   },
   {
@@ -86,7 +95,7 @@
     "name": "Rakow Czestochowa vs Zaglebie Lubin (POL D1)",
     "logo": "https://sta.vnres.co/file/common/20260912/d0287ecefda750d058ab809d7b403638.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1789496942-0-0-5c0678319914f538d819b3f5905e8174",
+    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1789497542-0-0-773a15a3684f82ca41af30c8f2195f5a",
     "type": "hls"
   },
   {
@@ -95,7 +104,7 @@
     "name": "Al-Ain FC vs Al Nassr (ACL Elite)",
     "logo": "https://sta.vnres.co/file/common/20260912/f639946c68318364c975d8463171b7ea.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789496942-0-0-e1ecad082254b073bcf27c4d8ac1960b",
+    "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789497542-0-0-6217a347b0fd3a0838d10ce6952d8924",
     "type": "hls"
   },
   {
@@ -104,16 +113,43 @@
     "name": "Al-Orobah FC vs Al Jeel (KSA D1)",
     "logo": "https://sta.vnres.co/file/common/20260912/f039a1870ec76f4c6f14c9e0929e81a5.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1789496942-0-0-428b1c9c7da8e98f943bfa61fe60bd06",
+    "url": "https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1789497586-0-0-3a075e6dcd701ba45ab5a6985813e32b",
     "type": "hls"
   },
   {
-    "id": "9912138",
-    "tvg_id": "room-9912138",
-    "name": "Al-Adalah vs Al-Jandal (KSA D1)",
-    "logo": "https://sta.vnres.co/file/common/20260912/f31ffdd772eac83c9f6363913436ac90.png",
+    "id": "9912127",
+    "tvg_id": "room-9912127",
+    "name": "Rayo Vallecano vs RCD Espanyol (SPA D1)",
+    "logo": "https://sta.vnres.co/file/common/20260913/0e4bd90dd255e91d9f4ec8fdbb23890b.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1789496828-0-0-8da42c84b81bc1e2bcdc8bb4c5af742b",
+    "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=c71f25c4725be71ee958ca381cba12fc\u0026txTime=6aa9d716",
+    "type": "hls"
+  },
+  {
+    "id": "9912128",
+    "tvg_id": "room-9912128",
+    "name": "Rayo Vallecano vs RCD Espanyol (SPA D1)",
+    "logo": "https://sta.vnres.co/file/common/20260913/0e4bd90dd255e91d9f4ec8fdbb23890b.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789497542-0-0-f8206a7bd45dce96a21c3f7da8572dcc",
+    "type": "hls"
+  },
+  {
+    "id": "9912130",
+    "tvg_id": "room-9912130",
+    "name": "Rayo Vallecano vs RCD Espanyol (SPA D1)",
+    "logo": "https://sta.vnres.co/file/common/20260913/0e4bd90dd255e91d9f4ec8fdbb23890b.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789497542-0-0-83c42e09d51d546131fc9aaba514a9d9",
+    "type": "hls"
+  },
+  {
+    "id": "9912135",
+    "tvg_id": "room-9912135",
+    "name": "Rayo Vallecano vs RCD Espanyol (SPA D1)",
+    "logo": "https://sta.vnres.co/file/common/20260913/0e4bd90dd255e91d9f4ec8fdbb23890b.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1789497542-0-0-01a9ed0014854d475a97358dd8f4ec8d",
     "type": "hls"
   },
   {
@@ -122,7 +158,7 @@
     "name": "Genoa vs SudTirol (ITA Cup)",
     "logo": "https://sta.vnres.co/file/common/20260912/9115db8d44056c1a817741780da17ce3.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=b94e7299103409220a7e7183f5c8ec96\u0026txTime=6aa9d4be",
+    "url": "https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=386a6290b2dcc6c9ff950ccd0fe2102b\u0026txTime=6aa9d716",
     "type": "hls"
   },
   {
@@ -131,7 +167,7 @@
     "name": "Al-Ain FC vs Al Nassr (ACL Elite)",
     "logo": "https://sta.vnres.co/file/common/20260912/f639946c68318364c975d8463171b7ea.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789496942-0-0-42ea7e5f358fc3797eb3faee4a05c292",
+    "url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789497542-0-0-ecf663e718b2c80fc2cceba1c383ab2a",
     "type": "hls"
   },
   {
@@ -140,7 +176,7 @@
     "name": "Al-Ain FC vs Al Nassr (ACL Elite)",
     "logo": "https://sta.vnres.co/file/common/20260912/f639946c68318364c975d8463171b7ea.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1789496942-0-0-5f2418ede368d3d0995cc7b99e4f08ea",
+    "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1789497542-0-0-e02d71aaef7a220671929c53a88ad019",
     "type": "hls"
   },
   {
@@ -149,7 +185,7 @@
     "name": "Al-Ain FC vs Al Nassr (ACL Elite)",
     "logo": "https://sta.vnres.co/file/common/20260912/f639946c68318364c975d8463171b7ea.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789496942-0-0-fe98cea91517c08141947e3675daa0bb",
+    "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789497542-0-0-48c907424cd88bf5eb97b2d3b9ee37a6",
     "type": "hls"
   },
   {
@@ -158,7 +194,7 @@
     "name": "Al-Ain FC vs Al Nassr (ACL Elite)",
     "logo": "https://sta.vnres.co/file/common/20260912/f639946c68318364c975d8463171b7ea.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789496942-0-0-d25bc264f7f06cc512ea555f40f66193",
+    "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789497542-0-0-936774bf823c595c680db3ec6d9d93c2",
     "type": "hls"
   },
   {
@@ -167,7 +203,7 @@
     "name": "Benfica vs Geneva Lions (BCL)",
     "logo": "https://sta.vnres.co/file/common/20260913/5f6e026a665095a2e86882ee118ea457.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=a6935369447ec853ee28042c5f519d7d\u0026txTime=6aa9d4be",
+    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=2a2c0c599f7aad18e992ecc0a4a36e1f\u0026txTime=6aa9d716",
     "type": "hls"
   },
   {
@@ -176,7 +212,7 @@
     "name": "Benfica vs Geneva Lions (BCL)",
     "logo": "https://sta.vnres.co/file/common/20260913/5f6e026a665095a2e86882ee118ea457.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=a517764a80a12ee7e751e9a0d036447e\u0026txTime=6aa9d4be",
+    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=64feee821f44c05ffcedb071702ce465\u0026txTime=6aa9d716",
     "type": "hls"
   },
   {
@@ -185,7 +221,7 @@
     "name": "ITA Cup: Genoa vs SudTirol - CÔNG CHẤT",
     "logo": "https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=ef05c13d77fccb200c8f1db0041a2af4\u0026txTime=6aa9d392",
+    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=5dcf04826f71d2a16ca790f06bdbfd3e\u0026txTime=6aa9d627",
     "type": "hls"
   },
   {
@@ -194,7 +230,7 @@
     "name": "ITA Cup: Genoa vs SudTirol - BLV LUCAS",
     "logo": "https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-304148_lhd.m3u8?txSecret=12dd3f63b7853bdf0dd33a9343933a67\u0026txTime=6aa9d392",
+    "url": "https://pull.niur.live/live/stream-304148_lhd.m3u8?txSecret=bb6f190be2984c4540395ff4654db4d6\u0026txTime=6aa9d627",
     "type": "hls"
   },
   {
@@ -203,7 +239,7 @@
     "name": "KSA D1: Al-Orobah FC vs Al Jeel - BLV GIÓ",
     "logo": "https://sta.vnres.co/file/common/20260603/54289b9ef989aba74cff5bfdee1d4656.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=74fef54a7c07d91fa42ecad97df24ffc\u0026txTime=6aa9d392",
+    "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=f951a2f53f10eb616c7aa1c5b7503bff\u0026txTime=6aa9d627",
     "type": "hls"
   },
   {
@@ -212,7 +248,7 @@
     "name": "BCL: Benfica vs Geneva Lions - A CHÈ",
     "logo": "https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=aa5320ff42a2f7fd075eb2c03985b41b\u0026txTime=6aa9d392",
+    "url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=10d4ae2a1f5f342c5ab3b1ce25cf8043\u0026txTime=6aa9d627",
     "type": "hls"
   },
   {
@@ -221,7 +257,7 @@
     "name": "ITA Cup: Genoa vs SudTirol - BLV ENZO",
     "logo": "https://sta.vnres.co/file/common/20260827/1d4f9eca02a381435aaec138589dd9ef.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1789496642-0-0-eb5ca0350bfd29370292cc3e1ea6acba",
+    "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1789497303-0-0-37e5688e98a83b913c6e79286101320d",
     "type": "hls"
   },
   {
@@ -230,7 +266,16 @@
     "name": "ACL Elite: Al-Ain FC vs Al Nassr - CR Bưởi",
     "logo": "https://sta.vnres.co/file/common/20260915/460fa39b934df5a913a55fb3032f43a7.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=40a55c15d692844178d1b15a9c6630e8\u0026txTime=6aa9d392",
+    "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=f46252b89e4908b1cc1ad9196afcecfd\u0026txTime=6aa9d627",
+    "type": "hls"
+  },
+  {
+    "id": "459401",
+    "tvg_id": "room-459401",
+    "name": "HOL D1: AFC Ajax vs Willem II - BLV BÉO",
+    "logo": "https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=aa4c387edd4771232bec0f6a91b12886\u0026txTime=6aa9d627",
     "type": "hls"
   },
   {
@@ -239,7 +284,7 @@
     "name": "SPA D1: Rayo Vallecano vs RCD Espanyol - XUÂN SON",
     "logo": "https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=42faaa2053ee8d6ff8261a8daf66eb5d\u0026txTime=6aa9d392",
+    "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=525d4f886e759f7b2b1ee42f812cf1bb\u0026txTime=6aa9d627",
     "type": "hls"
   },
   {
@@ -248,7 +293,7 @@
     "name": "LAT D1: Super Nova vs Riga FC - BLV A WIN",
     "logo": "https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1789496642-0-0-286771119896627379e25ab3eddf6d2d",
+    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1789497303-0-0-3559095caec02b922d40ef1a6806d7a8",
     "type": "hls"
   },
   {
@@ -257,7 +302,7 @@
     "name": "BCL: Benfica vs Geneva Lions - HUNTER",
     "logo": "https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=2a8ee5e49abf726d4a5703e8f8c5b1cd\u0026txTime=6aa9d392",
+    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=c1a48fee16b5763af2ecff28cef84404\u0026txTime=6aa9d627",
     "type": "hls"
   },
   {
@@ -266,7 +311,7 @@
     "name": "SPA D1: Rayo Vallecano vs RCD Espanyol - BLV CÒ",
     "logo": "https://sta.vnres.co/file/common/20260911/5092224ec4c96a8b8625005b880ba090.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1789496642-0-0-af2b628538581f4948eddea5b813983d",
+    "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1789497303-0-0-ad62ac5860983855ee8eb647b5cab502",
     "type": "hls"
   },
   {
@@ -275,16 +320,7 @@
     "name": "LAT D1: Super Nova vs Riga FC - VINFAST",
     "logo": "https://sta.vnres.co/file/common/20260910/0b1046f9ea6e137597f737c5d46ef984.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1789496642-0-0-786ed2ba4da52da7b2c893aed76f1061",
-    "type": "hls"
-  },
-  {
-    "id": "622093",
-    "tvg_id": "room-622093",
-    "name": "KSA D1: Al-Adalah vs Al-Jandal - GRAP",
-    "logo": "https://sta.vnres.co/file/common/20260703/fe517d18a8df723cee92683347d70be9.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=46e448ead94a78554fd4a6799c61047f\u0026txTime=6aa9d392",
+    "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1789497303-0-0-db51808740dc075e05e81eae791b432f",
     "type": "hls"
   },
   {
@@ -293,7 +329,7 @@
     "name": "ITA Cup: Genoa vs SudTirol - CURRY",
     "logo": "https://sta.vnres.co/file/common/20260809/8d3ecd1339e9fe41608eb4b7f008436c.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1789496642-0-0-2a050cd2f3f4c8dac76de1648ff8c008",
+    "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1789497303-0-0-4bf6ec45649304eebd18381ec4411de6",
     "type": "hls"
   },
   {
@@ -302,7 +338,7 @@
     "name": "POL D1: Rakow Czestochowa vs Zaglebie Lubin - BLV FIREMAN",
     "logo": "https://sta.vnres.co/file/common/20240614/d900dd8841b1223c7b58554cde34df75.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1789496642-0-0-82f6282a08286ab1d133314c0f14fdc3",
+    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1789497303-0-0-611aee3094d9627ebd9c82ef621ac6e4",
     "type": "hls"
   },
   {
@@ -311,7 +347,16 @@
     "name": "ACL Elite: Al-Ain FC vs Al Nassr - BLV Củ Cải",
     "logo": "https://sta.vnres.co/file/common/20260915/893ad4ee41df27854e4c061dedffb1e3.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789496642-0-0-a4e21075d8769f94f8dd3ef67b5599f5",
+    "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789497303-0-0-fdb66bf38f64ad6948aca4ef37f94358",
+    "type": "hls"
+  },
+  {
+    "id": "9912116",
+    "tvg_id": "room-9912116",
+    "name": "SPA D1: Deportivo Alavés vs Valencia CF - THẠCH TÚ",
+    "logo": "https://sta.vnres.co/file/common/20260914/f04c175cdb83fc9fca5281ccb9f1a78e.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=dd58bba68a075ea5d8706ac8b7ad2c3d\u0026txTime=6aa9d627",
     "type": "hls"
   },
   {
@@ -320,7 +365,7 @@
     "name": "KSA D1: Al-Orobah FC vs Al Jeel - RỒNG ĐẤT",
     "logo": "https://sta.vnres.co/file/common/20260725/0eb3315ecb9cf5c7f5f9b102d38e52f9.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1789496642-0-0-5738a39d8402c6f88cb3cbb8aa761612",
+    "url": "https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1789497315-0-0-2dced1cec627ab21e9369f41d8d95b96",
     "type": "hls"
   },
   {
@@ -329,7 +374,7 @@
     "name": "SPA D1: Deportivo Alavés vs Valencia CF - KENCHU",
     "logo": "https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789496642-0-0-084f021940126bd0ffeae098967145f6",
+    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789497303-0-0-a9b7705e101a7a15f84bc69874be4859",
     "type": "hls"
   },
   {
@@ -338,7 +383,7 @@
     "name": "SPA D1: Rayo Vallecano vs RCD Espanyol - BLV PIRLO",
     "logo": "https://sta.vnres.co/file/common/20250320/efe293015c817dee46ccc81fa5e934d7.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=cf51f5d9dad9647eaf0cabd46599e975\u0026txTime=6aa9d392",
+    "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=1943cdfaf486a834e41a0d5f93e101bf\u0026txTime=6aa9d627",
     "type": "hls"
   },
   {
@@ -347,7 +392,7 @@
     "name": "SPA D1: Rayo Vallecano vs RCD Espanyol - CACAO",
     "logo": "https://sta.vnres.co/file/common/20260729/2cca708e4ee1d3e988c578ff79960d7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789496642-0-0-45d43fa23310c1a030502d1b4066dd98",
+    "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789497303-0-0-4ac37dfa4d7a7f23bb37e8f5b0eeb702",
     "type": "hls"
   },
   {
@@ -356,7 +401,7 @@
     "name": "SPA D1: Rayo Vallecano vs RCD Espanyol - BLV A TÚ",
     "logo": "https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789496642-0-0-f2aacaa525e45300186cb7ff9749089c",
+    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789497303-0-0-5efbbd83838f98ed70c5acba75d6bc9e",
     "type": "hls"
   },
   {
@@ -365,16 +410,16 @@
     "name": "SPA D1: Rayo Vallecano vs RCD Espanyol - BLV PEWPEW",
     "logo": "https://sta.vnres.co/file/common/20260801/16b69ccb9ccf1f371806a3f19e7dc683.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1789496642-0-0-2ca3104e83d8144724cacd7e767bc6cf",
+    "url": "https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1789497303-0-0-7cce336e1029acfbfebd6ec0335e2594",
     "type": "hls"
   },
   {
-    "id": "9912138",
-    "tvg_id": "room-9912138",
-    "name": "KSA D1: Al-Adalah vs Al-Jandal - TUẤN CÙI",
-    "logo": "https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg",
+    "id": "9912136",
+    "tvg_id": "room-9912136",
+    "name": "HOL D1: AFC Ajax vs Willem II - BLV LONG",
+    "logo": "https://sta.vnres.co/file/common/20260810/b792b2c329f2ffe44037f2d5973945de.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1789496642-0-0-bfbb2c967b8cb3740ceee3ddf2879bcd",
+    "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=ff4b310fd80c320ceea2279f45849739\u0026txTime=6aa9d627",
     "type": "hls"
   },
   {
@@ -383,7 +428,7 @@
     "name": "ITA Cup: Genoa vs SudTirol - SAO LA",
     "logo": "https://sta.vnres.co/file/common/20260807/a76465a880a2789f42e440cf03e9db6b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=2bc5607ea933b0fa0f2d290ee66114d6\u0026txTime=6aa9d392",
+    "url": "https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=271ea5c04b8ed20de84b76f723eb3820\u0026txTime=6aa9d627",
     "type": "hls"
   },
   {
@@ -392,7 +437,7 @@
     "name": "ACL Elite: Al-Ain FC vs Al Nassr - A BỆU",
     "logo": "https://sta.vnres.co/file/common/20260830/683bbb96de277e28f88b1d08678ac124.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789496642-0-0-c0c8c94d14865211a0b90a65e75bcac8",
+    "url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789497303-0-0-640711f96cb40e9ddcb9ee1c97f6770f",
     "type": "hls"
   },
   {
@@ -401,7 +446,7 @@
     "name": "ACL Elite: Al-Ain FC vs Al Nassr - TẠ BIÊN GIỚI",
     "logo": "https://sta.vnres.co/file/common/20260915/a0897a3f0cacab0bc573c92bcdf58986.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1789496642-0-0-7c7918fe3e2ca909a80bd6ce1244a289",
+    "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1789497303-0-0-1018339107eb1eac0460bdd5dd530ba7",
     "type": "hls"
   },
   {
@@ -410,7 +455,7 @@
     "name": "ACL Elite: Al-Ain FC vs Al Nassr - ZIDANE",
     "logo": "https://sta.vnres.co/file/common/20260915/29e96f79dd38215c79f8633d382de1d4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789496642-0-0-377d7dc88a33ea2761201f81cb84effc",
+    "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789497303-0-0-5a7c792c3d710b97d20f7ba4b435fdfa",
     "type": "hls"
   },
   {
@@ -419,7 +464,7 @@
     "name": "ACL Elite: Al-Ain FC vs Al Nassr - BLV CUỘI",
     "logo": "https://sta.vnres.co/file/common/20260829/f6903a1879b3c7cc22d27c658db14d94.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789496642-0-0-f17dd97ce4e93bdb29f255fd7f515aa8",
+    "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789497542-0-0-936774bf823c595c680db3ec6d9d93c2",
     "type": "hls"
   }
 ]
