@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 35
-# Updated: 15/09/2026 15:45:05
+# Channels: 36
+# Updated: 15/09/2026 15:55:07
 
 #EXTINF:-1 tvg-id="room-283501" tvg-logo="https://sta.vnres.co/file/common/20260912/100bbf339d1dc5069a9e91d93358c956.png" group-title="Bóng đá",South Melbourne vs Queensland Lions SC (AUS FFA)
 https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=1393bea4849091ee350bd4676701e064&txTime=6aa8dd2f
@@ -10,7 +10,7 @@ https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1789415658-0-0-3108
 #EXTINF:-1 tvg-id="room-321443" tvg-logo="https://sta.vnres.co/file/common/20260912/2d054b43830f6f41d3b2f40e41ac6407.png" group-title="Bóng đá",Ratchaburi FC vs Shanghai Port (ACL Elite)
 https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=0ad8a2f2f1766865feae139b5f86fcab&txTime=6aa7903f
 #EXTINF:-1 tvg-id="room-414317" tvg-logo="https://sta.vnres.co/file/common/20260912/100bbf339d1dc5069a9e91d93358c956.png" group-title="Bóng đá",South Melbourne vs Queensland Lions SC (AUS FFA)
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=1dd220359a67a5cf3bc120354404f043&txTime=6aa955a1
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=1a988ce5864ca3b880cd7b6542b01391&txTime=6aa95b1a
 #EXTINF:-1 tvg-id="room-485739" tvg-logo="https://sta.vnres.co/file/common/20260912/2d054b43830f6f41d3b2f40e41ac6407.png" group-title="Bóng đá",Ratchaburi FC vs Shanghai Port (ACL Elite)
 https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=7bd2da22b600dbe35869bf665854ba9d&txTime=6aa897a7
 #EXTINF:-1 tvg-id="room-491873" tvg-logo="https://sta.vnres.co/file/common/20260912/1a52949bb9cc20a33ba686a8c0d27f89.png" group-title="Bóng đá",Kashima Antlers vs Newcastle Jets (ACL Elite)
@@ -40,7 +40,7 @@ https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789464049-0-0-9af
 #EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260912/0c7756c2434e0fd61a03cbcc07e483a8.png" group-title="Bóng đá",Daejeon Hana Citizen vs Kyoto Sanga (ACL Elite)
 https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789436369-0-0-c680b8372259183654c5c13089003fb0
 #EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260912/2d054b43830f6f41d3b2f40e41ac6407.png" group-title="Bóng đá",Ratchaburi FC vs Shanghai Port (ACL Elite)
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789437891-0-0-f1aa2b43ee70f3ebed9909bd2ab7e28e
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789465713-0-0-f6fce4c539b920a20e7cce0373070236
 #EXTINF:-1 tvg-id="room-9912127" tvg-logo="https://sta.vnres.co/file/common/20260912/1a52949bb9cc20a33ba686a8c0d27f89.png" group-title="Bóng đá",Kashima Antlers vs Newcastle Jets (ACL Elite)
 https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=50b9744be4c5e6ef2b6c630545d6bd55&txTime=6aa8972c
 #EXTINF:-1 tvg-id="room-9912132" tvg-logo="https://sta.vnres.co/file/common/20260912/1a52949bb9cc20a33ba686a8c0d27f89.png" group-title="Bóng đá",Kashima Antlers vs Newcastle Jets (ACL Elite)
@@ -52,24 +52,26 @@ https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1789444766-0-0-7d4
 #EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260912/d0c4bf54f1a1ed74b2ce7eee5479bfbe.png" group-title="Bóng đá",Vietnam U23 vs Kuwait U23 (AGS)
 https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789379760-0-0-bb7cae1ce72811e2e468afdf738de04e
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260913/deb2f6c31986602a0ec9a3a99a368360.png" group-title="Bóng rổ",San Juan Knights vs Bulacan Kuyas (MPBL)
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789465202-0-0-c9715965e6d92da08821f10e075014a7
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789465802-0-0-8614893b7c9918df4720c0afa8eacced
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260913/a457e96edbdff30403a4f04f1a7ddd4b.png" group-title="Bóng rổ",Quezon Huskers vs Zamboanga Sikat (MPBL)
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789465202-0-0-66668656c45305576cfdbdd6fd339a6a
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789465802-0-0-8642144b596d57a5682c6a1689d303e0
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260913/deb2f6c31986602a0ec9a3a99a368360.png" group-title="Bóng rổ",San Juan Knights vs Bulacan Kuyas (MPBL)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789465442-0-0-46b62362169bae7966fd445240b3e97c
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789466042-0-0-307bdd4c8a5d415080cca560c87f02e4
 #EXTINF:-1 tvg-id="room-133824" tvg-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg" group-title="SocoLive",Tường thuật: ITA D1 - Como vs Parma - Bò leo rào
-https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=d24e88a920b50348135480b5bd86ce94&txTime=6aa95886
+https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=8f912c2b8b9b3f26092a2929856bb942&txTime=6aa95b1a
 #EXTINF:-1 tvg-id="room-152898" tvg-logo="https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png" group-title="SocoLive",Tường thuật: AGSW - Chinese Taipei Women vs Vietnam Women - Thỏ giang hồ
-https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=e3a207e7782fbcef9448733f104948a0&txTime=6aa95886
+https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=886d8328c5ed5a7a2359fa15d0cb4267&txTime=6aa95b1a
 #EXTINF:-1 tvg-id="room-179093" tvg-logo="https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg" group-title="SocoLive",Tường thuật: FIN D1 - Inter Turku vs Vaasa VPS - Hươu đau cổ
-https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=28e77b7788ccbbf42590faddad786f33&txTime=6aa958c2
+https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=9300a6f25fea73e9238eb87213fee996&txTime=6aa95b1a
 #EXTINF:-1 tvg-id="room-343500" tvg-logo="https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg" group-title="SocoLive",Tường thuật: ENG PR - Leeds United vs Newcastle United - Mèo méo meo
-https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=b13a07fe2a15f0396367628153d17fd7&txTime=6aa958c2
+https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=ae197f6c2a1a91c753188b70b52e685f&txTime=6aa95b1a
+#EXTINF:-1 tvg-id="room-414317" tvg-logo="https://sta.vnres.co/file/common/20260806/4c726754b547e8d50d1f1dd3d1304c4f.jpg" group-title="SocoLive",AUS FFA: South Melbourne vs Queensland Lions SC - THOMAS
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=1a988ce5864ca3b880cd7b6542b01391&txTime=6aa95b1a
 #EXTINF:-1 tvg-id="room-9912079" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg" group-title="SocoLive",Tường thuật: ITA D1 - Inter Milan vs Udinese - Rắn ở đáy sông
-https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=79d4808e906bcc4ef018afdf136b6f6c&txTime=6aa958c2
+https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=9e5cbe4bd5ee9ed06e4e55f4186c6d55&txTime=6aa95b1a
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-title="SocoLive",MPBL: San Juan Knights vs Bulacan Kuyas - KING
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789465202-0-0-c9715965e6d92da08821f10e075014a7
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789465802-0-0-8614893b7c9918df4720c0afa8eacced
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-title="SocoLive",MPBL: Quezon Huskers vs Zamboanga Sikat - BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789465202-0-0-66668656c45305576cfdbdd6fd339a6a
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789465802-0-0-8642144b596d57a5682c6a1689d303e0
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg" group-title="SocoLive",MPBL: San Juan Knights vs Bulacan Kuyas - BLV HENRY
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789465202-0-0-1bf0864b193aa86f76f991703149da6a
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789465803-0-0-60cfa2576b838cb3ad3db2b1a127df3e
