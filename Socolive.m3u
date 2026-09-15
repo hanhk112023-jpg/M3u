@@ -1,149 +1,143 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 72
-# Updated: 15/09/2026 18:35:05
+# Channels: 69
+# Updated: 15/09/2026 18:50:05
 
-#EXTINF:-1 tvg-id="room-283501" tvg-logo="https://sta.vnres.co/file/common/20260912/100bbf339d1dc5069a9e91d93358c956.png" group-title="Bóng đá",South Melbourne vs Queensland Lions SC (AUS FFA)
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=b33eb7eaeb0ce9c14a953ab4f2bf1905&txTime=6aa97f3f
 #EXTINF:-1 tvg-id="room-291277" tvg-logo="https://sta.vnres.co/file/common/20260912/1c026f7b4d7051c8cde4555759c52886.png" group-title="Bóng đá",Qatar U23 vs South Korea U23 (AGS)
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=ada90c4fc294780fa151cde303055929&txTime=6aa9805e
-#EXTINF:-1 tvg-id="room-304148" tvg-logo="https://sta.vnres.co/file/common/20260912/100bbf339d1dc5069a9e91d93358c956.png" group-title="Bóng đá",South Melbourne vs Queensland Lions SC (AUS FFA)
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1789475190-0-0-273c9064c125c8f2be317722bec9f154
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=d5b43e66f7dc0edb9bcd34fe846f158f&txTime=6aa983e2
 #EXTINF:-1 tvg-id="room-321443" tvg-logo="https://sta.vnres.co/file/common/20260912/2d054b43830f6f41d3b2f40e41ac6407.png" group-title="Bóng đá",Ratchaburi FC vs Shanghai Port (ACL Elite)
-https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=90956acc3f8627107c0ede078e4bfdd0&txTime=6aa9805e
+https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=5ca9e8a5046b2e4f234a3a72f9865461&txTime=6aa983e2
 #EXTINF:-1 tvg-id="room-387694" tvg-logo="https://sta.vnres.co/file/common/20260912/12c5fdf0a3fa7d8278d9debda1acd1da.png" group-title="Bóng đá",Gamba Osaka vs Cong An Ha Noi FC (ACL Elite)
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=a8bb4462c3f7c146efa3574ac3817b7c&txTime=6aa9805e
-#EXTINF:-1 tvg-id="room-414317" tvg-logo="https://sta.vnres.co/file/common/20260912/100bbf339d1dc5069a9e91d93358c956.png" group-title="Bóng đá",South Melbourne vs Queensland Lions SC (AUS FFA)
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=4f4f290a52fb418fc299b9ddcedb6921&txTime=6aa97f8b
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=2fc0363a6617c66708971727a1974ce1&txTime=6aa983e2
 #EXTINF:-1 tvg-id="room-491873" tvg-logo="https://sta.vnres.co/file/common/20260912/1a52949bb9cc20a33ba686a8c0d27f89.png" group-title="Bóng đá",Kashima Antlers vs Newcastle Jets (ACL Elite)
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=d44bed4e7e65fbd79fb3483fb9627233&txTime=6aa9805e
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=a428411bed49e21cb97ddc8b5b91c86e&txTime=6aa983e2
 #EXTINF:-1 tvg-id="room-501412" tvg-logo="https://sta.vnres.co/file/common/20260912/1c026f7b4d7051c8cde4555759c52886.png" group-title="Bóng đá",Qatar U23 vs South Korea U23 (AGS)
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=3fb714cd37ceb7ba87b6c13a66cf8045&txTime=6aa9805e
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=5e6abadfeb257487892a42f69b7311c9&txTime=6aa983e2
 #EXTINF:-1 tvg-id="room-527383" tvg-logo="https://sta.vnres.co/file/common/20260912/2d054b43830f6f41d3b2f40e41ac6407.png" group-title="Bóng đá",Ratchaburi FC vs Shanghai Port (ACL Elite)
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789475342-0-0-735c7a8ba8a22a44420b4d10d8b32cfc
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789476242-0-0-4d8b28d207c3c7e8b400fa52e82ade0a
 #EXTINF:-1 tvg-id="room-527384" tvg-logo="https://sta.vnres.co/file/common/20260912/d0c4bf54f1a1ed74b2ce7eee5479bfbe.png" group-title="Bóng đá",Vietnam U23 vs Kuwait U23 (AGS)
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789475342-0-0-6a51cf583eb071b061cc5d18098d969a
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789476242-0-0-6a998886363ea0839b55d2b4aaa32835
 #EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260912/0c7756c2434e0fd61a03cbcc07e483a8.png" group-title="Bóng đá",Daejeon Hana Citizen vs Kyoto Sanga (ACL Elite)
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=4744283078e88919ef8a5d6908c0eec9&txTime=6aa9805e
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=0dd2430df98821bf5394a2b3faab8448&txTime=6aa983e2
 #EXTINF:-1 tvg-id="room-552832" tvg-logo="https://sta.vnres.co/file/common/20260912/1c026f7b4d7051c8cde4555759c52886.png" group-title="Bóng đá",Qatar U23 vs South Korea U23 (AGS)
-https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=64a162dbb622c26ee8c3a0a28194d005&txTime=6aa9805e
+https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=50c22048734fd04d00df42b90a22599b&txTime=6aa983e2
 #EXTINF:-1 tvg-id="room-582342" tvg-logo="https://sta.vnres.co/file/common/20260912/1a52949bb9cc20a33ba686a8c0d27f89.png" group-title="Bóng đá",Kashima Antlers vs Newcastle Jets (ACL Elite)
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1789475342-0-0-6489f7bfaf4231166d515a75023c07ba
-#EXTINF:-1 tvg-id="room-603914" tvg-logo="https://sta.vnres.co/file/common/20260912/100bbf339d1dc5069a9e91d93358c956.png" group-title="Bóng đá",South Melbourne vs Queensland Lions SC (AUS FFA)
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789474975-0-0-57af590bf6655c90de89df393f784746
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1789476242-0-0-2049db3fa18e7d770d7719add11d2a79
 #EXTINF:-1 tvg-id="room-619561" tvg-logo="https://sta.vnres.co/file/common/20260912/0c7756c2434e0fd61a03cbcc07e483a8.png" group-title="Bóng đá",Daejeon Hana Citizen vs Kyoto Sanga (ACL Elite)
-https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1789475342-0-0-072bcf35de8b4c52e9b159826e2d3fcf
+https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1789476243-0-0-8deff016bea89b0c3550eb5589ffb0fc
 #EXTINF:-1 tvg-id="room-620084" tvg-logo="https://sta.vnres.co/file/common/20260912/0c7756c2434e0fd61a03cbcc07e483a8.png" group-title="Bóng đá",Daejeon Hana Citizen vs Kyoto Sanga (ACL Elite)
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789475342-0-0-4fbde7ab4825f757ac163ae6d5088a09
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789476243-0-0-93dffb939a7c06a9aa6d5a30a816f1cd
 #EXTINF:-1 tvg-id="room-622241" tvg-logo="https://sta.vnres.co/file/common/20260912/12c5fdf0a3fa7d8278d9debda1acd1da.png" group-title="Bóng đá",Gamba Osaka vs Cong An Ha Noi FC (ACL Elite)
-https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789475342-0-0-96713874dabdd2d5c3d7c1c925f3afc1
+https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789476243-0-0-d88abad101ed860b4491663eb27fde3a
 #EXTINF:-1 tvg-id="room-625920" tvg-logo="https://sta.vnres.co/file/common/20260912/1c026f7b4d7051c8cde4555759c52886.png" group-title="Bóng đá",Qatar U23 vs South Korea U23 (AGS)
-https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1789475342-0-0-47cb691644f66559d9962af81d81345d
+https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1789476243-0-0-8b48a32afdca12847b9552cf9477536f
 #EXTINF:-1 tvg-id="room-627718" tvg-logo="https://sta.vnres.co/file/common/20260912/1a52949bb9cc20a33ba686a8c0d27f89.png" group-title="Bóng đá",Kashima Antlers vs Newcastle Jets (ACL Elite)
-https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789475342-0-0-44ec448800fa8258165358759ef284ac
+https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789476243-0-0-7f6555fb7564b2ccedb30b650cc6d6d9
 #EXTINF:-1 tvg-id="room-9912008" tvg-logo="https://sta.vnres.co/file/common/20260912/12c5fdf0a3fa7d8278d9debda1acd1da.png" group-title="Bóng đá",Gamba Osaka vs Cong An Ha Noi FC (ACL Elite)
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789475342-0-0-dcc2007b274b1126b657f075f70be70c
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789476242-0-0-2730e8c4a02f6d662ef931f1e9e4ea2c
 #EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260912/d0c4bf54f1a1ed74b2ce7eee5479bfbe.png" group-title="Bóng đá",Vietnam U23 vs Kuwait U23 (AGS)
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=461326e780147c549ffa3bf004df2db3&txTime=6aa9805e
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=9315c3ebddad24dc3eab9cfc02819f10&txTime=6aa983e2
 #EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260912/d0c4bf54f1a1ed74b2ce7eee5479bfbe.png" group-title="Bóng đá",Vietnam U23 vs Kuwait U23 (AGS)
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789475342-0-0-638fd47f274feaa2fa4029fed8cfccb8
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789476242-0-0-95ffadc6612fae118f621345b6a1f83e
 #EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260912/d0c4bf54f1a1ed74b2ce7eee5479bfbe.png" group-title="Bóng đá",Vietnam U23 vs Kuwait U23 (AGS)
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789475342-0-0-130c19272ba6d1f52cc664fb002e94a2
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789476242-0-0-8fc0b88315157c19017a1ae501e91d81
 #EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260912/0c7756c2434e0fd61a03cbcc07e483a8.png" group-title="Bóng đá",Daejeon Hana Citizen vs Kyoto Sanga (ACL Elite)
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789475342-0-0-851720ff90463c862f6a7f16b19fd0c7
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789476242-0-0-206e8f00bfc0a3e8cd88bf136721d26e
 #EXTINF:-1 tvg-id="room-9912119" tvg-logo="https://sta.vnres.co/file/common/20260912/1c026f7b4d7051c8cde4555759c52886.png" group-title="Bóng đá",Qatar U23 vs South Korea U23 (AGS)
-https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789475342-0-0-2f785835d2b90f529bc1e93dc67a1fb6
+https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789476242-0-0-bcb0eef1752f6eacc0f335579a6d59e9
 #EXTINF:-1 tvg-id="room-9912122" tvg-logo="https://sta.vnres.co/file/common/20260912/12c5fdf0a3fa7d8278d9debda1acd1da.png" group-title="Bóng đá",Gamba Osaka vs Cong An Ha Noi FC (ACL Elite)
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=30c659ea598013a0de8b907235e2f9f5&txTime=6aa9805e
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=f309548857bf8b9c62c078d6766f4544&txTime=6aa9841e
 #EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260912/2d054b43830f6f41d3b2f40e41ac6407.png" group-title="Bóng đá",Ratchaburi FC vs Shanghai Port (ACL Elite)
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789475642-0-0-e11a0babeb053caa3be65bff742d16c7
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789476243-0-0-cdcac6295e8ed95950a7d8290381bc98
 #EXTINF:-1 tvg-id="room-9912127" tvg-logo="https://sta.vnres.co/file/common/20260912/1a52949bb9cc20a33ba686a8c0d27f89.png" group-title="Bóng đá",Kashima Antlers vs Newcastle Jets (ACL Elite)
-https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=32303d0d94ff288258e39564f2a5761e&txTime=6aa9818a
+https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=3609b864802f746eb4413c25657245aa&txTime=6aa9841e
 #EXTINF:-1 tvg-id="room-9912130" tvg-logo="https://sta.vnres.co/file/common/20260912/1c026f7b4d7051c8cde4555759c52886.png" group-title="Bóng đá",Qatar U23 vs South Korea U23 (AGS)
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789475642-0-0-b033880c5e86c0e9d39d82db57eed607
+https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789476302-0-0-fe81945523f5a030e599e635de2e3918
 #EXTINF:-1 tvg-id="room-9912132" tvg-logo="https://sta.vnres.co/file/common/20260912/1a52949bb9cc20a33ba686a8c0d27f89.png" group-title="Bóng đá",Kashima Antlers vs Newcastle Jets (ACL Elite)
-https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=26c3e2ce6fac2e8d42c30a07bc621b57&txTime=6aa9818a
+https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=213da630e495582d38918a6473cfaa89&txTime=6aa9850e
 #EXTINF:-1 tvg-id="room-9912135" tvg-logo="https://sta.vnres.co/file/common/20260912/1a52949bb9cc20a33ba686a8c0d27f89.png" group-title="Bóng đá",Kashima Antlers vs Newcastle Jets (ACL Elite)
-https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1789475642-0-0-8bdef4a210ac6583145b388cab44a275
+https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1789476542-0-0-1a18f6e37fd461b629f6b5566ddbe3b6
 #EXTINF:-1 tvg-id="room-9912143" tvg-logo="https://sta.vnres.co/file/common/20260912/12c5fdf0a3fa7d8278d9debda1acd1da.png" group-title="Bóng đá",Gamba Osaka vs Cong An Ha Noi FC (ACL Elite)
-https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789475642-0-0-c36eda76367c401c450d61c658a72994
+https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789476542-0-0-d93c577c724dd840a15778b419d1a245
 #EXTINF:-1 tvg-id="room-9912144" tvg-logo="https://sta.vnres.co/file/common/20260912/d0c4bf54f1a1ed74b2ce7eee5479bfbe.png" group-title="Bóng đá",Vietnam U23 vs Kuwait U23 (AGS)
-https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1789475642-0-0-f9c7fb53522d193fb2af3ee2fc34dc18
+https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1789476542-0-0-58c4e455a91e2fbfb0a8c5b71cde1160
 #EXTINF:-1 tvg-id="room-9912145" tvg-logo="https://sta.vnres.co/file/common/20260912/12c5fdf0a3fa7d8278d9debda1acd1da.png" group-title="Bóng đá",Gamba Osaka vs Cong An Ha Noi FC (ACL Elite)
-https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789475642-0-0-b284c85b4341624200f11abe1e699c04
+https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789476542-0-0-53678334a1d8f7b457f2df45dcabc4f1
 #EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260912/d0c4bf54f1a1ed74b2ce7eee5479bfbe.png" group-title="Bóng đá",Vietnam U23 vs Kuwait U23 (AGS)
-https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789475642-0-0-0fbdfd4afe540cc4c8e380b046b4086f
-#EXTINF:-1 tvg-id="room-283501" tvg-logo="https://sta.vnres.co/file/common/20260915/b404bfe11bd78a945429e3406d7e507d.png" group-title="SocoLive",AUS FFA: South Melbourne vs Queensland Lions SC - BLV KAN
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=b33eb7eaeb0ce9c14a953ab4f2bf1905&txTime=6aa97f3f
+https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789476542-0-0-99f0d3ad1a96a5ecdad2e4508fa851d1
+#EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260913/1fc67b5e4eb59ac12468fcdc48193b94.png" group-title="Bóng rổ",Batang Kankaloo vs Batangas City (MPBL)
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789476242-0-0-6ef2cdd36b364c7ca3bb6bdb8d20574e
+#EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260913/1fc67b5e4eb59ac12468fcdc48193b94.png" group-title="Bóng rổ",Batang Kankaloo vs Batangas City (MPBL)
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789476242-0-0-a6f60d65faa898284f98d3c7549b3006
 #EXTINF:-1 tvg-id="room-291277" tvg-logo="https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg" group-title="SocoLive",AGS: Qatar U23 vs South Korea U23 - CÔNG CHẤT
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=941fd68ecb75e04790dba919515844f9&txTime=6aa97f32
-#EXTINF:-1 tvg-id="room-304148" tvg-logo="https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg" group-title="SocoLive",AUS FFA: South Melbourne vs Queensland Lions SC - BLV LUCAS
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1789475042-0-0-83f3e3a413bc1722110d71b33c52515a
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=6b8809d43015105c482ff219377037b6&txTime=6aa982b6
 #EXTINF:-1 tvg-id="room-321443" tvg-logo="https://sta.vnres.co/file/common/20260603/54289b9ef989aba74cff5bfdee1d4656.png" group-title="SocoLive",ACL Elite: Ratchaburi FC vs Shanghai Port - BLV GIÓ
-https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=f49195a53ade4fce6b3ab3d2f5f8d03d&txTime=6aa97f32
+https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=cae128f9fa981cb9c6c54cedb9774388&txTime=6aa982b6
 #EXTINF:-1 tvg-id="room-387694" tvg-logo="https://sta.vnres.co/file/common/20260915/a0820aa982fc0266edcb09f51a484a05.png" group-title="SocoLive",ACL Elite: Gamba Osaka vs Cong An Ha Noi FC - CR Bưởi
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=2882ab7fb6a44746ffdcd0ac5168d356&txTime=6aa97f32
-#EXTINF:-1 tvg-id="room-414317" tvg-logo="https://sta.vnres.co/file/common/20260806/4c726754b547e8d50d1f1dd3d1304c4f.jpg" group-title="SocoLive",AUS FFA: South Melbourne vs Queensland Lions SC - THOMAS
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=6098e86a7046cd914931b5be4d2ed29b&txTime=6aa97f32
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=55dd54692c496ef71db0e01be4f2b51a&txTime=6aa982b6
 #EXTINF:-1 tvg-id="room-491873" tvg-logo="https://sta.vnres.co/file/common/20250723/6b83b847d8944b57cc13043bae9fa7a8.jpg" group-title="SocoLive",ACL Elite: Kashima Antlers vs Newcastle Jets - BLV VIP
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=8cbffe2050d3983ccbe98d83cec7e6da&txTime=6aa97f32
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=9db8255513c6dc15ff852a04c856fc7f&txTime=6aa982b6
 #EXTINF:-1 tvg-id="room-501412" tvg-logo="https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png" group-title="SocoLive",AGS: Qatar U23 vs South Korea U23 - XUÂN SON
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=737cfdbd8d3e6792049d384d728eed44&txTime=6aa97f32
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=04f9c4a517a6ac4c56c0216b981ed7ad&txTime=6aa982b6
 #EXTINF:-1 tvg-id="room-527383" tvg-logo="https://sta.vnres.co/file/common/20260626/fcd1d9373f93de7ff3ebfbee3f073c7c.jpg" group-title="SocoLive",ACL Elite: Ratchaburi FC vs Shanghai Port - BLV ROBBEN
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789475042-0-0-ab7fdc613b1f7b72ce653277cd4422ca
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789475942-0-0-312beec168506f3d743a83783cbf30dd
 #EXTINF:-1 tvg-id="room-527384" tvg-logo="https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg" group-title="SocoLive",AGS: Vietnam U23 vs Kuwait U23 - LÃO LÂM
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789475042-0-0-884a80c6f9ec7a79ef4d5e7ff3f1b475
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789475942-0-0-a84a1af9d2a914d85ae40affa2a3e231
+#EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg" group-title="SocoLive",ACL Elite: Beijing Guoan vs Pohang Steelers - BLV ALEX
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789475942-0-0-20e15577e35ae2a4004575795ccf7ad9
 #EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg" group-title="SocoLive",ACL Elite: Daejeon Hana Citizen vs Kyoto Sanga - BLV RAMBO
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=45b70308302f79f46e59d782c757f07c&txTime=6aa97f32
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=f3b51d3131b48438396c18040555a791&txTime=6aa982b6
 #EXTINF:-1 tvg-id="room-552832" tvg-logo="https://sta.vnres.co/file/common/20251111/6a43978efb637082f6eb906c1e7f1621.jpg" group-title="SocoLive",AGS: Qatar U23 vs South Korea U23 - LOGAN
-https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=2fee3063564fd840c93c335818ff0d2f&txTime=6aa97f32
+https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=6e6563c05f061e42709603cc4c343184&txTime=6aa982b6
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg" group-title="SocoLive",BCL: Promitheas vs Vienna Basket - HUNTER
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=bcec77f57f33280b388398bdb67ce9f5&txTime=6aa97f32
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=c862369846a1a09f0da116fd6a5d0e7d&txTime=6aa982b6
 #EXTINF:-1 tvg-id="room-582342" tvg-logo="https://sta.vnres.co/file/common/20260911/5092224ec4c96a8b8625005b880ba090.jpg" group-title="SocoLive",ACL Elite: Kashima Antlers vs Newcastle Jets - BLV CÒ
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1789475042-0-0-7127791140a6cc52437449e21fbf18bb
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1789475942-0-0-62eb439435a8acd268b456347e226423
 #EXTINF:-1 tvg-id="room-619561" tvg-logo="https://sta.vnres.co/file/common/20260729/d06a0efe274bce28547238bec2a125b9.jpg" group-title="SocoLive",ACL Elite: Daejeon Hana Citizen vs Kyoto Sanga - BÚN ĐẬU
-https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1789475042-0-0-f8870ec31ac741fd85f388b3941d41bf
+https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1789475942-0-0-c8d2dbcb23611ef48f8aa24a51789d3c
 #EXTINF:-1 tvg-id="room-620084" tvg-logo="https://sta.vnres.co/file/common/20260713/cbd81ea71d49b5b5f074a5f56678a9b6.png" group-title="SocoLive",ACL Elite: Daejeon Hana Citizen vs Kyoto Sanga - PEANUT
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789475042-0-0-5cb0209252faa38d107142c1fae9c3c3
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789475942-0-0-c74f9f9e19cb5950d7ec89fdbbc4aa7c
 #EXTINF:-1 tvg-id="room-622241" tvg-logo="https://sta.vnres.co/file/common/20260914/76c0fe465e1b9b82a4586bfbd49cb618.jpg" group-title="SocoLive",ACL Elite: Gamba Osaka vs Cong An Ha Noi FC - BLV HEHE
-https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789475042-0-0-725e83a1eaf6bcd7044a0f55b4ffc32d
+https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789475942-0-0-ba3958255963cf4f8e9149bc5b75cb8f
 #EXTINF:-1 tvg-id="room-625920" tvg-logo="https://sta.vnres.co/file/common/20260828/e0638aedd6aef31974244bd226615764.jpg" group-title="SocoLive",AGS: Qatar U23 vs South Korea U23 - NEKO
-https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1789475042-0-0-f29f419f9a1f874c3f4b551663ec3932
+https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1789475942-0-0-9c941d9494a67e02fca553cef53f08dc
 #EXTINF:-1 tvg-id="room-627718" tvg-logo="https://sta.vnres.co/file/common/20260831/8c106fa0fe146cf7929663e53e921ba0.jpg" group-title="SocoLive",ACL Elite: Kashima Antlers vs Newcastle Jets - A MÂN
-https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789475042-0-0-a73b615c18f58e5a4f1a461540768c41
+https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789475942-0-0-5ad785a096f05157a3837b39c4e08e5d
 #EXTINF:-1 tvg-id="room-9912008" tvg-logo="https://sta.vnres.co/file/common/20260915/2e67c2e55e1143f31810e78f163f4549.jpg" group-title="SocoLive",ACL Elite: Gamba Osaka vs Cong An Ha Noi FC - BLV TOMIA
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789475042-0-0-1b3c4a765472c833c75f6f943847474d
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789475942-0-0-f2447ef9876f346ed5afd502ea5f3ba4
 #EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56.jpg" group-title="SocoLive",AGS: Vietnam U23 vs Kuwait U23 - BLV TAP
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=486c536fb6f8af524ba31a48e17bd0c3&txTime=6aa97f32
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=bb972ccbf44d22904b882c75d2874c93&txTime=6aa982b6
 #EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260915/f2eff0b75ed88ec718835b196d98e15a.jpg" group-title="SocoLive",AGS: Vietnam U23 vs Kuwait U23 - BLV Củ Cải
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789475042-0-0-7cf9e402710d79793a6e9b9c73b734c1
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789475942-0-0-04992bc2c3e256ad6c5c80121100bb25
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-title="SocoLive",MPBL: Batang Kankaloo vs Batangas City - KING
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789475042-0-0-8fa0857059935aec508c9ee646febfb7
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789475942-0-0-ce6c6db67fe29dec2d1344f8aeff8d1e
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-title="SocoLive",MPBL: Batang Kankaloo vs Batangas City - BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789475042-0-0-27580a8a4aaef63046ab3778269fa4ab
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789475942-0-0-509d403c118ec0e633cbefac640de094
 #EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260914/4668dc4fe05d802b4fda3b6c5027b260.png" group-title="SocoLive",AGS: Vietnam U23 vs Kuwait U23 - BLV ZOWIE
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789475042-0-0-eadcc378a5dbabc7302f28da5eeb3bdb
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789475942-0-0-41bfd433b5a9619a104f5e6998dad679
 #EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151.png" group-title="SocoLive",ACL Elite: Daejeon Hana Citizen vs Kyoto Sanga - BLV VOI
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789475042-0-0-206d715d842c48880323a16b97b0e6c9
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789475942-0-0-bf60e7f6e36f5fe9459458bad094fa1b
 #EXTINF:-1 tvg-id="room-9912119" tvg-logo="https://sta.vnres.co/file/common/20260829/f624027ec79ccc757bf8d5a663d63763.jpg" group-title="SocoLive",AGS: Qatar U23 vs South Korea U23 - HẢI THANH
-https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789475042-0-0-5e8c1bee5d268e2545b650432e626723
+https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789475942-0-0-4430264fb6a47a449eb0ceff26f67121
 #EXTINF:-1 tvg-id="room-9912122" tvg-logo="https://sta.vnres.co/file/common/20260620/4cbae14a2d06d1635a160fc8c2beb182.jpg" group-title="SocoLive",ACL Elite: Gamba Osaka vs Cong An Ha Noi FC - RICKHANTER
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=30c659ea598013a0de8b907235e2f9f5&txTime=6aa9805e
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=9face9a44c7baaa4846d6174e2fa4477&txTime=6aa982b6
 #EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg" group-title="SocoLive",ACL Elite: Ratchaburi FC vs Shanghai Port - KENCHU
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789475342-0-0-67ac472af4c8f49d5d9450c70f08c7f4
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789475942-0-0-b9973c92a8c5b84fce3d3d287758da70
+#EXTINF:-1 tvg-id="room-9912126" tvg-logo="https://sta.vnres.co/file/common/20260715/0e572fd7d0bfc5ce5cf538c09b8cace4.jpg" group-title="SocoLive",POR LRU23: Penafiel U23 vs Santa Clara U23 - SEVEN
+https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=36ef46c648c9db3a61a5a09f5648be12&txTime=6aa983e3
 #EXTINF:-1 tvg-id="room-9912127" tvg-logo="https://sta.vnres.co/file/common/20250320/efe293015c817dee46ccc81fa5e934d7.jpg" group-title="SocoLive",ACL Elite: Kashima Antlers vs Newcastle Jets - BLV PIRLO
-https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=d04a9777e31622857d72a51c779a44b7&txTime=6aa9805e
+https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=aad0cfb7614fcb7e3c8ef5b2a5030bef&txTime=6aa983e2
 #EXTINF:-1 tvg-id="room-9912130" tvg-logo="https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png" group-title="SocoLive",AGS: Qatar U23 vs South Korea U23 - BLV A TÚ
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789475342-0-0-054a04e00a618d9e685ea6db6ac958b7
+https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789476242-0-0-b877c292bcbb7b726417bfe4105a9195
 #EXTINF:-1 tvg-id="room-9912132" tvg-logo="https://sta.vnres.co/file/common/20260613/cc7eb6fb9d74dfa083a48c861b135ae8.jpg" group-title="SocoLive",ACL Elite: Kashima Antlers vs Newcastle Jets - BLV XO
-https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=7e892bea3ecc8fa6db903e508c989c3f&txTime=6aa9805e
+https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=55e1df1f4b745709037f2c76eb0e6a80&txTime=6aa983e2
 #EXTINF:-1 tvg-id="room-9912135" tvg-logo="https://sta.vnres.co/file/common/20260801/16b69ccb9ccf1f371806a3f19e7dc683.jpg" group-title="SocoLive",ACL Elite: Kashima Antlers vs Newcastle Jets - BLV PEWPEW
-https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1789475342-0-0-8034b4643788e0062da9e89bd43c8433
+https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1789476242-0-0-067d8c7b8931aaac5d26c126594549b6
 #EXTINF:-1 tvg-id="room-9912143" tvg-logo="https://sta.vnres.co/file/common/20260908/25a8cd45f3d227a96b46e77ba0d942c2.png" group-title="SocoLive",ACL Elite: Gamba Osaka vs Cong An Ha Noi FC - NGƯỜI CÁ
-https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789475342-0-0-b19560ed1af0d8724ff83c38ab40f30e
+https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789476242-0-0-a89c9f5b07340ef2076bb2d14e32e561
 #EXTINF:-1 tvg-id="room-9912144" tvg-logo="https://sta.vnres.co/file/common/20260915/b7415eb52845aae00a899e231c114a49.png" group-title="SocoLive",AGS: Vietnam U23 vs Kuwait U23 - TẠ BIÊN GIỚI
-https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1789475342-0-0-665d3314f306c1480979fbc7934cff4f
+https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1789476242-0-0-495cb72565536ef0951e2e6560861f13
 #EXTINF:-1 tvg-id="room-9912145" tvg-logo="https://sta.vnres.co/file/common/20260914/7a8a1e1bb151aa92518b281e42dad673.jpg" group-title="SocoLive",ACL Elite: Gamba Osaka vs Cong An Ha Noi FC - ZIDANE
-https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789475342-0-0-fa476fe4ed0a27f183e14acac7fd057f
+https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789476242-0-0-9b8d08e5c5c178fae8bb09d44ccbdc0f
 #EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260829/f6903a1879b3c7cc22d27c658db14d94.png" group-title="SocoLive",AGS: Vietnam U23 vs Kuwait U23 - BLV CUỘI
-https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789475342-0-0-216f4066cba2ba216bde63279a39f57a
+https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789476242-0-0-e1a43bbb93f6ab2c7e62272ed15a998a
