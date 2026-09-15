@@ -1,91 +1,79 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 43
-# Updated: 15/09/2026 19:35:05
+# Channels: 37
+# Updated: 15/09/2026 19:45:05
 
-#EXTINF:-1 tvg-id="room-291277" tvg-logo="https://sta.vnres.co/file/common/20260912/1c026f7b4d7051c8cde4555759c52886.png" group-title="Bóng đá",Qatar U23 vs South Korea U23 (AGS)
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=d9c79d912fc07bfcd70c6d6fe552ed06&txTime=6aa98e7a
 #EXTINF:-1 tvg-id="room-406865" tvg-logo="https://sta.vnres.co/file/common/20260912/569d0b57fbbfb873f957a2c6da09cf16.png" group-title="Bóng đá",Arkadag FK vs Al-Muharraq (ACL2)
 https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=72e46a00ecf442f9d433b7ce8e143bd0&txTime=6aa97815
-#EXTINF:-1 tvg-id="room-501412" tvg-logo="https://sta.vnres.co/file/common/20260912/1c026f7b4d7051c8cde4555759c52886.png" group-title="Bóng đá",Qatar U23 vs South Korea U23 (AGS)
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=9f9c833d2f0c8238f144bea05ffd603e&txTime=6aa98e10
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260912/cbdbde385cf003f0e565382ea53a2a2b.png" group-title="Bóng đá",Beijing Guoan vs Pohang Steelers (ACL Elite)
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789479002-0-0-7991f39f54e6f7397bb4fc3eea6ec752
-#EXTINF:-1 tvg-id="room-552832" tvg-logo="https://sta.vnres.co/file/common/20260912/1c026f7b4d7051c8cde4555759c52886.png" group-title="Bóng đá",Qatar U23 vs South Korea U23 (AGS)
-https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=006e4786ea01d82a10e0151a83fbfd51&txTime=6aa98d63
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789479603-0-0-d9862417fec4858aa9d252896ae09982
 #EXTINF:-1 tvg-id="room-622241" tvg-logo="https://sta.vnres.co/file/common/20260912/f5806593322df301adb8e8f17ed5f728.png" group-title="Bóng đá",Johor Darul Ta'zim FC vs Buriram United (ACL Elite)
-https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789479002-0-0-beee9b9c5d5ef3aa4c7c5573d0b380fb
-#EXTINF:-1 tvg-id="room-625920" tvg-logo="https://sta.vnres.co/file/common/20260912/1c026f7b4d7051c8cde4555759c52886.png" group-title="Bóng đá",Qatar U23 vs South Korea U23 (AGS)
-https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1789478704-0-0-50c0dfba012bfbdf8c243b3743ca80f0
+https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789479603-0-0-74f6d22c2543038c8cf2f2f7d72b7005
+#EXTINF:-1 tvg-id="room-9912008" tvg-logo="https://sta.vnres.co/file/common/20260912/64115c4af2bff671d0d62b835ebdb810.png" group-title="Bóng đá",Gol Gohar FC vs Al-Jazira(UAE) (ACL2)
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789476862-0-0-082a9d5eedd7b558a20f3576ed5199d8
 #EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260912/f5806593322df301adb8e8f17ed5f728.png" group-title="Bóng đá",Johor Darul Ta'zim FC vs Buriram United (ACL Elite)
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=6622a8399ff6a5337cba68ebb49d250d&txTime=6aa98f9a
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=3bd37688072bd97246f245cc32ac1afb&txTime=6aa99102
 #EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260912/f5806593322df301adb8e8f17ed5f728.png" group-title="Bóng đá",Johor Darul Ta'zim FC vs Buriram United (ACL Elite)
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789479242-0-0-b6d30f8b8c1ebbcf3986c59f80034720
-#EXTINF:-1 tvg-id="room-9912119" tvg-logo="https://sta.vnres.co/file/common/20260912/1c026f7b4d7051c8cde4555759c52886.png" group-title="Bóng đá",Qatar U23 vs South Korea U23 (AGS)
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789479603-0-0-cf4afb9020be611abd0e61cf94cb686c
+#EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260912/64115c4af2bff671d0d62b835ebdb810.png" group-title="Bóng đá",Gol Gohar FC vs Al-Jazira(UAE) (ACL2)
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=1337846a5d93346abc2be06170aec604&txTime=6aa96c13
+#EXTINF:-1 tvg-id="room-9912119" tvg-logo="https://sta.vnres.co/file/common/20260912/64115c4af2bff671d0d62b835ebdb810.png" group-title="Bóng đá",Gol Gohar FC vs Al-Jazira(UAE) (ACL2)
 https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789478704-0-0-12fcfa315490eb0ee94a763f34a0d749
 #EXTINF:-1 tvg-id="room-9912122" tvg-logo="https://sta.vnres.co/file/common/20260912/f5806593322df301adb8e8f17ed5f728.png" group-title="Bóng đá",Johor Darul Ta'zim FC vs Buriram United (ACL Elite)
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=d3e44e0cbfdc03f6cd5a7029d8c847d4&txTime=6aa98f9a
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=e377aefed3f73d8a0468e3790156f824&txTime=6aa99102
 #EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260912/569d0b57fbbfb873f957a2c6da09cf16.png" group-title="Bóng đá",Arkadag FK vs Al-Muharraq (ACL2)
 https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789477335-0-0-612e14adbf8a2d7e6b39b6ae12bd3c55
 #EXTINF:-1 tvg-id="room-9912128" tvg-logo="https://sta.vnres.co/file/common/20260912/cbdbde385cf003f0e565382ea53a2a2b.png" group-title="Bóng đá",Beijing Guoan vs Pohang Steelers (ACL Elite)
-https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789479242-0-0-7450af3895d1f2e21c0e47657ed20e69
+https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789479842-0-0-ca4bdfd0a605aeed84d3a25001a874ad
 #EXTINF:-1 tvg-id="room-9912129" tvg-logo="https://sta.vnres.co/file/common/20260912/cbdbde385cf003f0e565382ea53a2a2b.png" group-title="Bóng đá",Beijing Guoan vs Pohang Steelers (ACL Elite)
-https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=e752dce93aa9a26a66aafa57556c4e8a&txTime=6aa98f9a
-#EXTINF:-1 tvg-id="room-9912130" tvg-logo="https://sta.vnres.co/file/common/20260912/1c026f7b4d7051c8cde4555759c52886.png" group-title="Bóng đá",Qatar U23 vs South Korea U23 (AGS)
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789478703-0-0-168a8d8e605850fcb366cc3697552bb1
+https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=ac71c18ad2e17e9ffcf42311496dcf50&txTime=6aa991f2
 #EXTINF:-1 tvg-id="room-9912131" tvg-logo="https://sta.vnres.co/file/common/20260912/569d0b57fbbfb873f957a2c6da09cf16.png" group-title="Bóng đá",Arkadag FK vs Al-Muharraq (ACL2)
 https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1789422917-0-0-8c70bbbd73d03ef44ea74f8105794a81
+#EXTINF:-1 tvg-id="room-9912133" tvg-logo="https://sta.vnres.co/file/common/20260912/64115c4af2bff671d0d62b835ebdb810.png" group-title="Bóng đá",Gol Gohar FC vs Al-Jazira(UAE) (ACL2)
+https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1789422118-0-0-1edf990671f718b1f258ba9726522036
 #EXTINF:-1 tvg-id="room-9912136" tvg-logo="https://sta.vnres.co/file/common/20260912/cbdbde385cf003f0e565382ea53a2a2b.png" group-title="Bóng đá",Beijing Guoan vs Pohang Steelers (ACL Elite)
-https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=f87e889b80b9f9af94504d38e9097a00&txTime=6aa98f9a
+https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=7c947c422c6db64e17f2e99e25f0ea39&txTime=6aa991f2
 #EXTINF:-1 tvg-id="room-9912140" tvg-logo="https://sta.vnres.co/file/common/20260912/cbdbde385cf003f0e565382ea53a2a2b.png" group-title="Bóng đá",Beijing Guoan vs Pohang Steelers (ACL Elite)
-https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=937d4d1032b8825d36700fe3cb7ae659&txTime=6aa98f9a
+https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=579c88206fd82a0579a5694c9ff3a0cd&txTime=6aa991f2
 #EXTINF:-1 tvg-id="room-9912141" tvg-logo="https://sta.vnres.co/file/common/20260912/cbdbde385cf003f0e565382ea53a2a2b.png" group-title="Bóng đá",Beijing Guoan vs Pohang Steelers (ACL Elite)
-https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789479242-0-0-898d54404fadbbc44dd248a7c9c8f0a6
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789479842-0-0-96190e711dfe761dfea6c9c7f82d9402
 #EXTINF:-1 tvg-id="room-9912145" tvg-logo="https://sta.vnres.co/file/common/20260912/f5806593322df301adb8e8f17ed5f728.png" group-title="Bóng đá",Johor Darul Ta'zim FC vs Buriram United (ACL Elite)
-https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789479242-0-0-d65d4aed1b273fb5776938d3280ae8d0
+https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789479842-0-0-da8de3e30fbb15176f16bdef803fac71
 #EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260912/f5806593322df301adb8e8f17ed5f728.png" group-title="Bóng đá",Johor Darul Ta'zim FC vs Buriram United (ACL Elite)
-https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789479242-0-0-8ac91147c73e98576bc591d2a56ea6cf
+https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789479842-0-0-6160f083c44541e4c3f15f03b2d51188
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260913/1d7da17045f6bc048d3110dc77c4889e.png" group-title="Bóng rổ",Promitheas vs Vienna Basket (BCL)
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=0a87b498b23eb03fdb1a57a206413583&txTime=6aa98eaa
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=800da8028e367ffd50befc307a2a6f0f&txTime=6aa99103
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260913/1fc67b5e4eb59ac12468fcdc48193b94.png" group-title="Bóng rổ",Batang Kankaloo vs Batangas City (MPBL)
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789479242-0-0-263b343b000fce111fdfae86b40c8352
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789479603-0-0-3fa918b5675d4fb7b3b7a56003714193
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260913/1fc67b5e4eb59ac12468fcdc48193b94.png" group-title="Bóng rổ",Batang Kankaloo vs Batangas City (MPBL)
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789479242-0-0-0fe9a1bbb944b22c8ba2c3673c508b84
-#EXTINF:-1 tvg-id="room-291277" tvg-logo="https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg" group-title="SocoLive",AGS: Qatar U23 vs South Korea U23 - CÔNG CHẤT
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=d9c79d912fc07bfcd70c6d6fe552ed06&txTime=6aa98e7a
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789479602-0-0-f9c5cc1b600b84911b08373acbb9c9ff
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg" group-title="SocoLive",ACL Elite: Beijing Guoan vs Pohang Steelers - BLV ALEX
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789478942-0-0-9cc5ca5a474b33f80e19d57dd8c15bd5
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789479603-0-0-d9862417fec4858aa9d252896ae09982
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg" group-title="SocoLive",BCL: Promitheas vs Vienna Basket - HUNTER
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=703b72c561e5d7d48b05da280c4c8ba9&txTime=6aa98e6e
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=800da8028e367ffd50befc307a2a6f0f&txTime=6aa99103
 #EXTINF:-1 tvg-id="room-622241" tvg-logo="https://sta.vnres.co/file/common/20260914/76c0fe465e1b9b82a4586bfbd49cb618.jpg" group-title="SocoLive",ACL Elite: Johor Darul Ta'zim FC vs Buriram United - BLV HEHE
-https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789478942-0-0-8263fff29edcf8a0134974d056dd1050
-#EXTINF:-1 tvg-id="room-625920" tvg-logo="https://sta.vnres.co/file/common/20260828/e0638aedd6aef31974244bd226615764.jpg" group-title="SocoLive",AGS: Qatar U23 vs South Korea U23 - NEKO
-https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1789478704-0-0-50c0dfba012bfbdf8c243b3743ca80f0
+https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789479603-0-0-74f6d22c2543038c8cf2f2f7d72b7005
 #EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56.jpg" group-title="SocoLive",ACL Elite: Johor Darul Ta'zim FC vs Buriram United - BLV TAP
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=02f30e434def1c6473243f192c09a7e8&txTime=6aa98e6e
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=3bd37688072bd97246f245cc32ac1afb&txTime=6aa99102
 #EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260915/9d06516be747afb9ab76a88a9408dfc7.jpg" group-title="SocoLive",ACL Elite: Johor Darul Ta'zim FC vs Buriram United - BLV Củ Cải
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789478942-0-0-4d8083a769b76b4148d15072afb6a824
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789479603-0-0-cf4afb9020be611abd0e61cf94cb686c
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-title="SocoLive",MPBL: Batang Kankaloo vs Batangas City - KING
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789478942-0-0-8121f20b953b4c2c28770f64368633c1
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789479603-0-0-3fa918b5675d4fb7b3b7a56003714193
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-title="SocoLive",MPBL: Batang Kankaloo vs Batangas City - BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789478942-0-0-5785d004459d0cf1ffb244c82f3d4eb5
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789479602-0-0-f9c5cc1b600b84911b08373acbb9c9ff
 #EXTINF:-1 tvg-id="room-9912122" tvg-logo="https://sta.vnres.co/file/common/20260620/4cbae14a2d06d1635a160fc8c2beb182.jpg" group-title="SocoLive",ACL Elite: Johor Darul Ta'zim FC vs Buriram United - RICKHANTER
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=b1a4dde19f1e31621493ba41361955ae&txTime=6aa98e6e
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=e377aefed3f73d8a0468e3790156f824&txTime=6aa99102
 #EXTINF:-1 tvg-id="room-9912128" tvg-logo="https://sta.vnres.co/file/common/20260729/2cca708e4ee1d3e988c578ff79960d7b.jpg" group-title="SocoLive",ACL Elite: Beijing Guoan vs Pohang Steelers - CACAO
-https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789478942-0-0-a6a884d24fd4fe8e32ff7c579e38b503
+https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789479603-0-0-c4b2b0fc2864417852d94f9cbda1ddd2
 #EXTINF:-1 tvg-id="room-9912129" tvg-logo="https://sta.vnres.co/file/common/20260915/edde8f865053412e4297a6f08d77569b.jpg" group-title="SocoLive",ACL Elite: Beijing Guoan vs Pohang Steelers - QUỐC KHÁNH
-https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=1fafd44e2a16e3039c36df522a396310&txTime=6aa98e6e
-#EXTINF:-1 tvg-id="room-9912130" tvg-logo="https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png" group-title="SocoLive",AGS: Qatar U23 vs South Korea U23 - BLV A TÚ
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789478703-0-0-168a8d8e605850fcb366cc3697552bb1
-#EXTINF:-1 tvg-id="room-9912135" tvg-logo="https://sta.vnres.co/file/common/20260801/16b69ccb9ccf1f371806a3f19e7dc683.jpg" group-title="SocoLive",ACL Elite: Kashima Antlers vs Newcastle Jets - BLV PEWPEW
-https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1789478994-0-0-73ef7ce2eb1a70c2f32f43e22b1f7c8d
+https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=ed460293cb91e323e71d0229fe72aa7a&txTime=6aa99103
 #EXTINF:-1 tvg-id="room-9912136" tvg-logo="https://sta.vnres.co/file/common/20260810/b792b2c329f2ffe44037f2d5973945de.jpg" group-title="SocoLive",ACL Elite: Beijing Guoan vs Pohang Steelers - BLV LONG
-https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=d98f19bd9dadb2b2a9892fa74e2f72c9&txTime=6aa98eaa
+https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=4dac1f5bd453e4447dee5be3f283da7b&txTime=6aa99102
 #EXTINF:-1 tvg-id="room-9912140" tvg-logo="https://sta.vnres.co/file/common/20260807/a76465a880a2789f42e440cf03e9db6b.jpg" group-title="SocoLive",ACL Elite: Beijing Guoan vs Pohang Steelers - SAO LA
-https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=e538c3654dab6a2b61964f65ac2a383d&txTime=6aa98e6e
+https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=d7ade6ee252b550babb08e9f10d11f05&txTime=6aa99103
 #EXTINF:-1 tvg-id="room-9912141" tvg-logo="https://sta.vnres.co/file/common/20260909/1edb9c9016b6d011552439c71d3e5158.jpg" group-title="SocoLive",ACL Elite: Beijing Guoan vs Pohang Steelers - BLV MESSI
-https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789478942-0-0-f1696703347d3520981c2c1f595e3f6f
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789479603-0-0-edaad477d1a2dc388603cce1a7c65e80
 #EXTINF:-1 tvg-id="room-9912145" tvg-logo="https://sta.vnres.co/file/common/20260914/7a8a1e1bb151aa92518b281e42dad673.jpg" group-title="SocoLive",ACL Elite: Johor Darul Ta'zim FC vs Buriram United - ZIDANE
-https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789479002-0-0-9f2d0d37134a77526bb9db0dbcfc6518
+https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789479603-0-0-f99dbd94c1ee528b805bcbd4cbcf563e
 #EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260829/f6903a1879b3c7cc22d27c658db14d94.png" group-title="SocoLive",ACL Elite: Johor Darul Ta'zim FC vs Buriram United - BLV CUỘI
-https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789479002-0-0-d08ad43f773d24b071d3cdd94b48cff2
+https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789479603-0-0-86065b7e1fc5d1c8bebd69f7676bb946
