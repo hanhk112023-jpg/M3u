@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 33
-# Updated: 15/09/2026 11:45:05
+# Channels: 36
+# Updated: 15/09/2026 13:05:05
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260912/45500dc4a2c29d1b92aace4fb3e7dce1.png" group-title="Bóng đá",Uzbekistan U23 vs Philippines U23 (AGS)
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789442137-0-0-f0b18036111019ba20ca8e29dee26d7a
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789455542-0-0-69470207c2d611c37c3a5abffc8228f0
 #EXTINF:-1 tvg-id="room-283501" tvg-logo="https://sta.vnres.co/file/common/20260912/100bbf339d1dc5069a9e91d93358c956.png" group-title="Bóng đá",South Melbourne vs Queensland Lions SC (AUS FFA)
 https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=1393bea4849091ee350bd4676701e064&txTime=6aa8dd2f
 #EXTINF:-1 tvg-id="room-304148" tvg-logo="https://sta.vnres.co/file/common/20260912/100bbf339d1dc5069a9e91d93358c956.png" group-title="Bóng đá",South Melbourne vs Queensland Lions SC (AUS FFA)
@@ -14,13 +14,13 @@ https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=904fd3d22902a75376a6
 #EXTINF:-1 tvg-id="room-491873" tvg-logo="https://sta.vnres.co/file/common/20260912/1a52949bb9cc20a33ba686a8c0d27f89.png" group-title="Bóng đá",Kashima Antlers vs Newcastle Jets (ACL Elite)
 https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=6d96756805fefd87829fe66dbb40d332&txTime=6aa8e5b5
 #EXTINF:-1 tvg-id="room-501412" tvg-logo="https://sta.vnres.co/file/common/20260912/45500dc4a2c29d1b92aace4fb3e7dce1.png" group-title="Bóng đá",Uzbekistan U23 vs Philippines U23 (AGS)
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=38050294ae5293644c00133ce5d89268&txTime=6aa75e20
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=74f7ab2bb6d7bafbb77ffb04157af269&txTime=6aa92c7a
 #EXTINF:-1 tvg-id="room-527384" tvg-logo="https://sta.vnres.co/file/common/20260912/d0c4bf54f1a1ed74b2ce7eee5479bfbe.png" group-title="Bóng đá",Vietnam U23 vs Kuwait U23 (AGS)
 https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789444742-0-0-0c428b83ad1a9f9ead725037035826f5
 #EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260912/0c7756c2434e0fd61a03cbcc07e483a8.png" group-title="Bóng đá",Daejeon Hana Citizen vs Kyoto Sanga (ACL Elite)
 https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=f952157f15f2b29e42eb5f7b7ca87e4a&txTime=6aa8dd07
 #EXTINF:-1 tvg-id="room-552832" tvg-logo="https://sta.vnres.co/file/common/20260912/45500dc4a2c29d1b92aace4fb3e7dce1.png" group-title="Bóng đá",Uzbekistan U23 vs Philippines U23 (AGS)
-https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=dac147d43a80082ab92471ab02ef8bbf&txTime=6aa869d4
+https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=d199c724f7c7428da82ab9a6120ac9f7&txTime=6aa93340
 #EXTINF:-1 tvg-id="room-582342" tvg-logo="https://sta.vnres.co/file/common/20260912/1a52949bb9cc20a33ba686a8c0d27f89.png" group-title="Bóng đá",Kashima Antlers vs Newcastle Jets (ACL Elite)
 https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1789416059-0-0-c9ac1a9c0688c1353bba8ebc840341ba
 #EXTINF:-1 tvg-id="room-603914" tvg-logo="https://sta.vnres.co/file/common/20260912/100bbf339d1dc5069a9e91d93358c956.png" group-title="Bóng đá",South Melbourne vs Queensland Lions SC (AUS FFA)
@@ -30,7 +30,7 @@ https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1789439548-0-0-96a8
 #EXTINF:-1 tvg-id="room-620084" tvg-logo="https://sta.vnres.co/file/common/20260912/0c7756c2434e0fd61a03cbcc07e483a8.png" group-title="Bóng đá",Daejeon Hana Citizen vs Kyoto Sanga (ACL Elite)
 https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789437739-0-0-2321c533a71060bf5f8824b3f8f18f31
 #EXTINF:-1 tvg-id="room-622241" tvg-logo="https://sta.vnres.co/file/common/20260912/45500dc4a2c29d1b92aace4fb3e7dce1.png" group-title="Bóng đá",Uzbekistan U23 vs Philippines U23 (AGS)
-https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789410540-0-0-71c38461a9e618cf16ddae26827fc78c
+https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789455542-0-0-8a26f2513d174d5146af3abe0f3c86e9
 #EXTINF:-1 tvg-id="room-627718" tvg-logo="https://sta.vnres.co/file/common/20260912/1a52949bb9cc20a33ba686a8c0d27f89.png" group-title="Bóng đá",Kashima Antlers vs Newcastle Jets (ACL Elite)
 https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789405492-0-0-eae5c6a461f285d9758c5d5d0fdaf91f
 #EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260912/d0c4bf54f1a1ed74b2ce7eee5479bfbe.png" group-title="Bóng đá",Vietnam U23 vs Kuwait U23 (AGS)
@@ -38,7 +38,7 @@ https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=219829b9e9559ae6a4f
 #EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260912/d0c4bf54f1a1ed74b2ce7eee5479bfbe.png" group-title="Bóng đá",Vietnam U23 vs Kuwait U23 (AGS)
 https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789392569-0-0-af9dfea2583085b05ec0fe09f083d0a2
 #EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260912/45500dc4a2c29d1b92aace4fb3e7dce1.png" group-title="Bóng đá",Uzbekistan U23 vs Philippines U23 (AGS)
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789444598-0-0-cd6113bb6e3f3ae3b522694d89578168
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789455842-0-0-b6e791ccc4232da2e647421aa872dac0
 #EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260912/0c7756c2434e0fd61a03cbcc07e483a8.png" group-title="Bóng đá",Daejeon Hana Citizen vs Kyoto Sanga (ACL Elite)
 https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789436369-0-0-c680b8372259183654c5c13089003fb0
 #EXTINF:-1 tvg-id="room-9912127" tvg-logo="https://sta.vnres.co/file/common/20260912/1a52949bb9cc20a33ba686a8c0d27f89.png" group-title="Bóng đá",Kashima Antlers vs Newcastle Jets (ACL Elite)
@@ -56,16 +56,22 @@ https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789411457-0-0-70a
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260913/a457e96edbdff30403a4f04f1a7ddd4b.png" group-title="Bóng rổ",Quezon Huskers vs Zamboanga Sikat (MPBL)
 https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789450485-0-0-24586165788e52e333ea5262c06017e4
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260913/deb2f6c31986602a0ec9a3a99a368360.png" group-title="Bóng rổ",San Juan Knights vs Bulacan Kuyas (MPBL)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789450235-0-0-41020faccdd002fea4239e21342a8c52
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789451015-0-0-e2ac4e72cbf3063d8a2b4e9fca1884bf
 #EXTINF:-1 tvg-id="room-133277" tvg-logo="https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg" group-title="SocoLive",Tường thuật: ITA D1 - Torino vs AS Roma - Gà xào sả ớt
-https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=6a4d3976750c0d3189e8639b06771183&txTime=6aa92046
+https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=67bc9031dc8b7db25b8542da9d2978a2&txTime=6aa93306
 #EXTINF:-1 tvg-id="room-133824" tvg-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg" group-title="SocoLive",Tường thuật: ITA D1 - Como vs Parma - Bò leo rào
-https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=8b65e86ee5efeccef6086a52a1fc3df9&txTime=6aa92046
+https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=7a1510689b2adfb74bcc2ded178f3ac3&txTime=6aa93306
 #EXTINF:-1 tvg-id="room-152898" tvg-logo="https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png" group-title="SocoLive",Tường thuật: AGSW - Chinese Taipei Women vs Vietnam Women - Thỏ giang hồ
-https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=f767cda2d6f0408b311fe528bebc899b&txTime=6aa92046
+https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=761a324ea62e83487fcd2bdaf61bdeac&txTime=6aa93306
 #EXTINF:-1 tvg-id="room-179093" tvg-logo="https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg" group-title="SocoLive",Tường thuật: FIN D1 - Inter Turku vs Vaasa VPS - Hươu đau cổ
-https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=2c10b7b2513f30bc1ac930c7c8c95c86&txTime=6aa92046
+https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=462087ce8331d070fcd01873ddfe4624&txTime=6aa93306
+#EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260910/379b8f839c5b1772d5cb338b94e9bbc8.jpg" group-title="SocoLive",AGS: Uzbekistan U23 vs Philippines U23 - A PÁO
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789455542-0-0-69470207c2d611c37c3a5abffc8228f0
 #EXTINF:-1 tvg-id="room-343500" tvg-logo="https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg" group-title="SocoLive",Tường thuật: ENG PR - Leeds United vs Newcastle United - Mèo méo meo
-https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=f02cb2901e5ea323273fee3b95cd772c&txTime=6aa92046
+https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=5631976c4ea912b1af411b59bc401721&txTime=6aa93306
+#EXTINF:-1 tvg-id="room-622241" tvg-logo="https://sta.vnres.co/file/common/20260914/76c0fe465e1b9b82a4586bfbd49cb618.jpg" group-title="SocoLive",AGS: Uzbekistan U23 vs Philippines U23 - BLV HEHE
+https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789455542-0-0-8a26f2513d174d5146af3abe0f3c86e9
 #EXTINF:-1 tvg-id="room-9912079" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg" group-title="SocoLive",Tường thuật: ITA D1 - Inter Milan vs Udinese - Rắn ở đáy sông
-https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=80868066bc6760d92d013cc28794143a&txTime=6aa92046
+https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=626630e5a41475a4d1171fb9e5de3ef5&txTime=6aa93306
+#EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260914/4668dc4fe05d802b4fda3b6c5027b260.png" group-title="SocoLive",AGS: Uzbekistan U23 vs Philippines U23 - BLV ZOWIE
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789455542-0-0-e7634c1a628edcf13605d03b52d00997
