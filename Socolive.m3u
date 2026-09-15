@@ -1,103 +1,97 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 49
-# Updated: 16/09/2026 03:00:05
+# Channels: 46
+# Updated: 16/09/2026 03:10:05
 
 #EXTINF:-1 tvg-id="room-291277" tvg-logo="https://sta.vnres.co/file/common/20260913/13910cb2624ba1fc2e1c072ced8407ed.png" group-title="Bóng đá",Ipswich Town vs Arsenal (ENG LC)
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=617e8d149f5b2b7fec7a9dc5fa1fabf4&txTime=6aa9f7e6
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=546354a5552015e061c75b27e13b2b63&txTime=6aa9f912
 #EXTINF:-1 tvg-id="room-304148" tvg-logo="https://sta.vnres.co/file/common/20260913/13910cb2624ba1fc2e1c072ced8407ed.png" group-title="Bóng đá",Ipswich Town vs Arsenal (ENG LC)
-https://pull.niur.live/live/stream-304148_lhd.m3u8?txSecret=833cc4c71f4614858093a79fc951ada3&txTime=6aa9f7e6
-#EXTINF:-1 tvg-id="room-406865" tvg-logo="https://sta.vnres.co/file/common/20260913/8592d18ff58ca789eec8a7ec6f989805.png" group-title="Bóng đá",Deportivo Alavés vs Valencia CF (SPA D1)
-https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=bc0203e25baa41baa1b34cbfd24d3c65&txTime=6aa9f782
-#EXTINF:-1 tvg-id="room-459401" tvg-logo="https://sta.vnres.co/file/common/20260913/add3bb917d71603a44efdfc06446b70e.png" group-title="Bóng đá",AFC Ajax vs Willem II (HOL D1)
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=3c883d72cdabffc0328a4c35b2877caa&txTime=6aa9f62b
+https://pull.niur.live/live/stream-304148_lhd.m3u8?txSecret=25d035f9a612042c7af4bb70b5ab027b&txTime=6aa9f912
+#EXTINF:-1 tvg-id="room-321443" tvg-logo="https://sta.vnres.co/file/common/20260913/7d802d2aa45597b6d171ac65b8b83cf0.png" group-title="Bóng đá",Reading vs Brentford (ENG LC)
+https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=d21a0a3db3973d0fa577bd6f01398c20&txTime=6aa9f912
 #EXTINF:-1 tvg-id="room-511367" tvg-logo="https://sta.vnres.co/file/common/20260913/13910cb2624ba1fc2e1c072ced8407ed.png" group-title="Bóng đá",Ipswich Town vs Arsenal (ENG LC)
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1789505942-0-0-e02054702f2a638827eeafec51f9b515
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1789506542-0-0-0b97a663197d39a874fcb66edbdcd5e9
 #EXTINF:-1 tvg-id="room-536185" tvg-logo="https://sta.vnres.co/file/common/20260913/a4c08eaea0cd6c368f5aab49792b5842.png" group-title="Bóng đá",Liverpool vs Tottenham Hotspur (ENG LC)
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1789505942-0-0-05427ffb83f8d3efb84a67a2d66c25b0
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1789506542-0-0-3385c782ccaac23620a4148d1e50e997
 #EXTINF:-1 tvg-id="room-603255" tvg-logo="https://sta.vnres.co/file/common/20260913/0c0609f3baf5e044aa011e1cd8ada0d1.png" group-title="Bóng đá",Al Hilal vs Al-Gharafa SC (ACL Elite)
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1789505942-0-0-3091688d99b346da3c7bf0385d5b7cfc
-#EXTINF:-1 tvg-id="room-607552" tvg-logo="https://sta.vnres.co/file/common/20260913/8592d18ff58ca789eec8a7ec6f989805.png" group-title="Bóng đá",Deportivo Alavés vs Valencia CF (SPA D1)
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1789505853-0-0-0b678adfff0c5554885dcf29ad01e1b9
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1789506597-0-0-71e2074630ffe6b74b7387132a38c597
 #EXTINF:-1 tvg-id="room-610518" tvg-logo="https://sta.vnres.co/file/common/20260913/a4c08eaea0cd6c368f5aab49792b5842.png" group-title="Bóng đá",Liverpool vs Tottenham Hotspur (ENG LC)
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=a1ca3305b11468959878a4aff14a3f95&txTime=6aa9f7e6
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=c772b53fd0a24bd9ed12042e5b95c9dc&txTime=6aa9fa3e
 #EXTINF:-1 tvg-id="room-617313" tvg-logo="https://sta.vnres.co/file/common/20260913/a4c08eaea0cd6c368f5aab49792b5842.png" group-title="Bóng đá",Liverpool vs Tottenham Hotspur (ENG LC)
-https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1789505942-0-0-53258b607db8bcd6e6d9baa0b9ec9190
+https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1789506542-0-0-9e79e42231516f6399cca35aa1ce453e
 #EXTINF:-1 tvg-id="room-620504" tvg-logo="https://sta.vnres.co/file/common/20260913/0c0609f3baf5e044aa011e1cd8ada0d1.png" group-title="Bóng đá",Al Hilal vs Al-Gharafa SC (ACL Elite)
-https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1789505942-0-0-c28798fecb2242d6e2bb65ef79eb5095
+https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1789506542-0-0-30dab054d9c5764b53d56720e9768c55
 #EXTINF:-1 tvg-id="room-620797" tvg-logo="https://sta.vnres.co/file/common/20260913/13910cb2624ba1fc2e1c072ced8407ed.png" group-title="Bóng đá",Ipswich Town vs Arsenal (ENG LC)
-https://pull.niur.live/live/stream-620797_lhd.m3u8?txSecret=a1d20306e0ff4f1d2e820ed2ae63b0e5&txTime=6aa9f7e6
+https://pull.niur.live/live/stream-620797_lhd.m3u8?txSecret=5ae828c9710f192102f459792b40634a&txTime=6aa9fa3e
 #EXTINF:-1 tvg-id="room-621840" tvg-logo="https://sta.vnres.co/file/common/20260913/a8b2d6d70f4796201e84d4f770d479ac.png" group-title="Bóng đá",West Ham United vs Fulham (ENG LC)
-https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=f7fe2765fc1de0afb81cf92447c46762&txTime=6aa9f7e6
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=0a17d36f5095c7c0cbd9b1c1d0b45dfc&txTime=6aa9fa3e
 #EXTINF:-1 tvg-id="room-621843" tvg-logo="https://sta.vnres.co/file/common/20260913/a4c08eaea0cd6c368f5aab49792b5842.png" group-title="Bóng đá",Liverpool vs Tottenham Hotspur (ENG LC)
-https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1789505942-0-0-b490f62729b43d3fd7167467b87c6277
+https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1789506542-0-0-da0dcd090a8ce5464f16b2f19b81270e
 #EXTINF:-1 tvg-id="room-622093" tvg-logo="https://sta.vnres.co/file/common/20260913/a4c08eaea0cd6c368f5aab49792b5842.png" group-title="Bóng đá",Liverpool vs Tottenham Hotspur (ENG LC)
-https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=fb5e490516e3c9cd48a66ccdc3415fc0&txTime=6aa9f7e6
+https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=cd0b246843d661ae0988ebe02f23ef68&txTime=6aa9fa3e
 #EXTINF:-1 tvg-id="room-622240" tvg-logo="https://sta.vnres.co/file/common/20260913/13910cb2624ba1fc2e1c072ced8407ed.png" group-title="Bóng đá",Ipswich Town vs Arsenal (ENG LC)
-https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1789505942-0-0-c51b0d4a385cb9146ccf307ae1f163bd
-#EXTINF:-1 tvg-id="room-9912116" tvg-logo="https://sta.vnres.co/file/common/20260913/8592d18ff58ca789eec8a7ec6f989805.png" group-title="Bóng đá",Deportivo Alavés vs Valencia CF (SPA D1)
-https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=bb456d38111d52de1545016c540062c1&txTime=6aa9f7d7
-#EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260913/8592d18ff58ca789eec8a7ec6f989805.png" group-title="Bóng đá",Deportivo Alavés vs Valencia CF (SPA D1)
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789505942-0-0-63424863e30afb2d5f68e621432055f3
+https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1789506542-0-0-0c5154b4e543809fcb5879457a44eb19
+#EXTINF:-1 tvg-id="room-991140" tvg-logo="https://sta.vnres.co/file/common/20260913/eb36b9a4ca24077736990bb0c32a506d.png" group-title="Bóng đá",Elche CF vs Real Madrid (SPA D1)
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1789506542-0-0-04bc1bc8909fcfb3c6be6fcb6c145790
+#EXTINF:-1 tvg-id="room-9912119" tvg-logo="https://sta.vnres.co/file/common/20260913/eb36b9a4ca24077736990bb0c32a506d.png" group-title="Bóng đá",Elche CF vs Real Madrid (SPA D1)
+https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789506542-0-0-ef82ab97afd29bc9945fca3ec2246995
+#EXTINF:-1 tvg-id="room-9912129" tvg-logo="https://sta.vnres.co/file/common/20260913/eb36b9a4ca24077736990bb0c32a506d.png" group-title="Bóng đá",Elche CF vs Real Madrid (SPA D1)
+https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=f72fb297c4528f3caf2984427154fee5&txTime=6aa9fa3e
 #EXTINF:-1 tvg-id="room-9912133" tvg-logo="https://sta.vnres.co/file/common/20260913/13910cb2624ba1fc2e1c072ced8407ed.png" group-title="Bóng đá",Ipswich Town vs Arsenal (ENG LC)
-https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1789505942-0-0-d034cc4763dbfa25364adf18a756b76f
-#EXTINF:-1 tvg-id="room-9912136" tvg-logo="https://sta.vnres.co/file/common/20260913/add3bb917d71603a44efdfc06446b70e.png" group-title="Bóng đá",AFC Ajax vs Willem II (HOL D1)
-https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=fc0a16d43851d1aa1871ae8529f99e0d&txTime=6aa9f670
+https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1789506542-0-0-49a63435fe192a0df9f195e5d65fc368
 #EXTINF:-1 tvg-id="room-9912138" tvg-logo="https://sta.vnres.co/file/common/20260913/a4c08eaea0cd6c368f5aab49792b5842.png" group-title="Bóng đá",Liverpool vs Tottenham Hotspur (ENG LC)
-https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1789505942-0-0-e396c7e91b1403c18d3a2c0a41632f68
+https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1789506542-0-0-cedb6190d15e3a3be2cc6f521a075a26
+#EXTINF:-1 tvg-id="room-9912140" tvg-logo="https://sta.vnres.co/file/common/20260913/eb36b9a4ca24077736990bb0c32a506d.png" group-title="Bóng đá",Elche CF vs Real Madrid (SPA D1)
+https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=c7838ce4f9c170d6df67d4a35e62ed93&txTime=6aa9fa3e
+#EXTINF:-1 tvg-id="room-9912141" tvg-logo="https://sta.vnres.co/file/common/20260913/eb36b9a4ca24077736990bb0c32a506d.png" group-title="Bóng đá",Elche CF vs Real Madrid (SPA D1)
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789506542-0-0-83b9ad73eeb011907742604974a6d3da
+#EXTINF:-1 tvg-id="room-9912142" tvg-logo="https://sta.vnres.co/file/common/20260913/eb36b9a4ca24077736990bb0c32a506d.png" group-title="Bóng đá",Elche CF vs Real Madrid (SPA D1)
+https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789506542-0-0-66cf15681211166dad18bc2721f7463e
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260915/bf711d8c1b205c3b9f219bf68777b47e.png" group-title="Bóng rổ",RASTA Vechta vs Merkezefendi (BCL)
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=29fee74bbd797f57c44c40638e86e9d8&txTime=6aa9f7e6
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=8aa8431e22d93ab1591bbbc031beba01&txTime=6aa9f912
 #EXTINF:-1 tvg-id="room-291277" tvg-logo="https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg" group-title="SocoLive",ENG LC: Ipswich Town vs Arsenal - CÔNG CHẤT
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=4799848692a2aca360ee145af59d3adb&txTime=6aa9f6ba
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=546354a5552015e061c75b27e13b2b63&txTime=6aa9f912
 #EXTINF:-1 tvg-id="room-304148" tvg-logo="https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg" group-title="SocoLive",ENG LC: Ipswich Town vs Arsenal - BLV LUCAS
-https://pull.niur.live/live/stream-304148_lhd.m3u8?txSecret=34130338286d64980e6853969c80a79f&txTime=6aa9f6ba
+https://pull.niur.live/live/stream-304148_lhd.m3u8?txSecret=25d035f9a612042c7af4bb70b5ab027b&txTime=6aa9f912
 #EXTINF:-1 tvg-id="room-321443" tvg-logo="https://sta.vnres.co/file/common/20260603/54289b9ef989aba74cff5bfdee1d4656.png" group-title="SocoLive",ENG LC: Reading vs Brentford - BLV GIÓ
-https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=fdf6a15bd2e64496a05f6f8be7589c7a&txTime=6aa9f6ba
+https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=d21a0a3db3973d0fa577bd6f01398c20&txTime=6aa9f912
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg" group-title="SocoLive",BCL: RASTA Vechta vs Merkezefendi - A CHÈ
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=46a25b737b027a546bb90a40679d7d74&txTime=6aa9f6ba
-#EXTINF:-1 tvg-id="room-406865" tvg-logo="https://sta.vnres.co/file/common/20241220/6200343fea7ece69d7d92ae718616478.jpg" group-title="SocoLive",SPA D1: Deportivo Alavés vs Valencia CF - BLV ANH TÀI
-https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=cb47a778edeb444918786420e69fe60d&txTime=6aa9f6ba
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=8aa8431e22d93ab1591bbbc031beba01&txTime=6aa9f912
 #EXTINF:-1 tvg-id="room-511367" tvg-logo="https://sta.vnres.co/file/common/20251121/6d691b0b9dfd9eeb599401a2499400f0.png" group-title="SocoLive",ENG LC: Ipswich Town vs Arsenal - BLV WUKONG
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1789505642-0-0-1dc2290aac1484dd710d0321d22ac205
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1789506242-0-0-68d88055af28c645d61c320846e74ce1
 #EXTINF:-1 tvg-id="room-536185" tvg-logo="https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg" group-title="SocoLive",ENG LC: Liverpool vs Tottenham Hotspur - BLV A WIN
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1789505642-0-0-11189db8f93d29b821238c160c91c97b
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1789506242-0-0-67753a4d3e3141529894dfca20b25711
 #EXTINF:-1 tvg-id="room-603255" tvg-logo="https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7.png" group-title="SocoLive",ACL Elite: Al Hilal vs Al-Gharafa SC - BLV LION
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1789505642-0-0-06297a6540484949f5dd0eb248ba4f53
-#EXTINF:-1 tvg-id="room-607552" tvg-logo="https://sta.vnres.co/file/common/20260522/f2b4ef051d1e02300d2d5bf24f3828f0.png" group-title="SocoLive",SPA D1: Deportivo Alavés vs Valencia CF - ĐỖ TÚ TÀI
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1789505642-0-0-3b76fa2d91def27ad720fcbf10dff1f2
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1789506242-0-0-e6f6dd39ffabb1d3ec10bfc397602fc4
 #EXTINF:-1 tvg-id="room-610518" tvg-logo="https://sta.vnres.co/file/common/20260628/336b2e008de11bb26c1d4e0e46bc9f95.jpg" group-title="SocoLive",ENG LC: Liverpool vs Tottenham Hotspur - XUÂN TÓC ĐỎ
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=6efd301e1a7dbb07b981177db86ac994&txTime=6aa9f6ba
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=1f9a016a97e50c843635e6e957cbc390&txTime=6aa9f912
 #EXTINF:-1 tvg-id="room-617313" tvg-logo="https://sta.vnres.co/file/common/20260910/0b1046f9ea6e137597f737c5d46ef984.jpg" group-title="SocoLive",ENG LC: Liverpool vs Tottenham Hotspur - VINFAST
-https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1789505642-0-0-0d1ee27f35b39b6db18fb2e3483f69db
+https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1789506242-0-0-5ebdfa1b2fb57ef0848902295d0b4530
 #EXTINF:-1 tvg-id="room-620504" tvg-logo="https://sta.vnres.co/file/common/20260802/d0b756ac34b8f00d22a6d687f86fe8b2.jpg" group-title="SocoLive",ACL Elite: Al Hilal vs Al-Gharafa SC - BOSS
-https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1789505642-0-0-ed1ef45ea97ef64329818f8e6a9d369c
+https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1789506242-0-0-dc1c47eb6797c086467d8ddade0983b2
 #EXTINF:-1 tvg-id="room-620797" tvg-logo="https://sta.vnres.co/file/common/20260721/eae172928facf755dbf2027ca230e55e.png" group-title="SocoLive",ENG LC: Ipswich Town vs Arsenal - BÒ TƯƠI
-https://pull.niur.live/live/stream-620797_lhd.m3u8?txSecret=61fb412dd733ceaa00093a2c7b582814&txTime=6aa9f6ba
+https://pull.niur.live/live/stream-620797_lhd.m3u8?txSecret=2a0e0642b93a7eaf4fe9d1dd5d893c04&txTime=6aa9f912
 #EXTINF:-1 tvg-id="room-621840" tvg-logo="https://sta.vnres.co/file/common/20260810/042a00493898027e5f644f6f24e88c53.png" group-title="SocoLive",ENG LC: West Ham United vs Fulham - MP3
-https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=6a27f10d2ecb853b30046e54562b5d05&txTime=6aa9f6ba
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=1d31d701e2cbe4ee3c56ba34184da701&txTime=6aa9f912
 #EXTINF:-1 tvg-id="room-621843" tvg-logo="https://sta.vnres.co/file/common/20260916/8dbaa2f0131b4746f88aeb17321c75d7.jpg" group-title="SocoLive",ENG LC: Liverpool vs Tottenham Hotspur - BLV BẢY
-https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1789505642-0-0-b773396de4cf1d09a4de7eedf52dc5f5
+https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1789506242-0-0-f50602af34b5de2a4dae531de344119f
 #EXTINF:-1 tvg-id="room-622093" tvg-logo="https://sta.vnres.co/file/common/20260703/fe517d18a8df723cee92683347d70be9.jpg" group-title="SocoLive",ENG LC: Liverpool vs Tottenham Hotspur - GRAP
-https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=4193fdf27ca08edcd15a56144282d853&txTime=6aa9f6ba
+https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=ca700ec0fcdf5622f96fbbdad1de78d4&txTime=6aa9f912
 #EXTINF:-1 tvg-id="room-622240" tvg-logo="https://sta.vnres.co/file/common/20260809/8d3ecd1339e9fe41608eb4b7f008436c.jpg" group-title="SocoLive",ENG LC: Ipswich Town vs Arsenal - CURRY
-https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1789505642-0-0-442fc6b49c9d2c605a02733904632ee7
+https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1789506242-0-0-2fc9c77da5fbb15db154109a345e44a3
 #EXTINF:-1 tvg-id="room-991140" tvg-logo="https://sta.vnres.co/file/common/20240614/d900dd8841b1223c7b58554cde34df75.jpg" group-title="SocoLive",SPA D1: Elche CF vs Real Madrid - BLV FIREMAN
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1789505642-0-0-920acf27241e8705e85320cdfd3a24cc
-#EXTINF:-1 tvg-id="room-9912116" tvg-logo="https://sta.vnres.co/file/common/20260914/f04c175cdb83fc9fca5281ccb9f1a78e.jpg" group-title="SocoLive",SPA D1: Deportivo Alavés vs Valencia CF - THẠCH TÚ
-https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=89fb2ba37fe841c0ec365fe9334372f2&txTime=6aa9f6ba
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1789506242-0-0-9a4068c5714580ab3390dd433bfccc53
 #EXTINF:-1 tvg-id="room-9912119" tvg-logo="https://sta.vnres.co/file/common/20260829/f624027ec79ccc757bf8d5a663d63763.jpg" group-title="SocoLive",SPA D1: Elche CF vs Real Madrid - HẢI THANH
-https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789505642-0-0-152fb50192a26f9c4b779ff3f52da9b6
-#EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg" group-title="SocoLive",SPA D1: Deportivo Alavés vs Valencia CF - KENCHU
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789505642-0-0-94b9fa7e120bdb4bb802179f6203ec61
+https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789506242-0-0-1811ba60e672405c512fb20f32ba62a4
 #EXTINF:-1 tvg-id="room-9912129" tvg-logo="https://sta.vnres.co/file/common/20260915/edde8f865053412e4297a6f08d77569b.jpg" group-title="SocoLive",SPA D1: Elche CF vs Real Madrid - QUỐC KHÁNH
-https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=0d762560b359a6bb80f4f06819a55990&txTime=6aa9f6ba
+https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=435f2c2cbf05279455d3488d297900ff&txTime=6aa9f912
 #EXTINF:-1 tvg-id="room-9912133" tvg-logo="https://sta.vnres.co/file/common/20260411/c1490960e7f4b63fdc78206c576d2da8.png" group-title="SocoLive",ENG LC: Ipswich Town vs Arsenal - LOKA
-https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1789505642-0-0-de7ae4deb75a710b43037450758e28f8
+https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1789506242-0-0-954426f3b99f17b811e8efd02c79388f
 #EXTINF:-1 tvg-id="room-9912138" tvg-logo="https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg" group-title="SocoLive",ENG LC: Liverpool vs Tottenham Hotspur - TUẤN CÙI
-https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1789505642-0-0-665a829a570cf621f176488706864097
+https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1789506242-0-0-132c32266edc071032ecd9b04e31f2d2
 #EXTINF:-1 tvg-id="room-9912140" tvg-logo="https://sta.vnres.co/file/common/20260807/a76465a880a2789f42e440cf03e9db6b.jpg" group-title="SocoLive",SPA D1: Elche CF vs Real Madrid - SAO LA
-https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=c6542e53cd8692a336fb1c94ca68b9f2&txTime=6aa9f6ba
+https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=5bffa01f503d2f8368d8c7bfa5761f2d&txTime=6aa9f912
 #EXTINF:-1 tvg-id="room-9912141" tvg-logo="https://sta.vnres.co/file/common/20260909/1edb9c9016b6d011552439c71d3e5158.jpg" group-title="SocoLive",SPA D1: Elche CF vs Real Madrid - BLV MESSI
-https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789505642-0-0-bfae51a377fd4528223f1c1211fe07e1
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789506242-0-0-c0b8c7f2330575f82b250cf089a3cb45
 #EXTINF:-1 tvg-id="room-9912142" tvg-logo="https://sta.vnres.co/file/common/20260830/683bbb96de277e28f88b1d08678ac124.png" group-title="SocoLive",SPA D1: Elche CF vs Real Madrid - A BỆU
-https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789505642-0-0-241f31d21ad2ea0a8c29314b10fe397c
+https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789506242-0-0-6461aa6743c4d485cb8cbf3a267b8246
