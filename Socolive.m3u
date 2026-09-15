@@ -1,77 +1,79 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 36
-# Updated: 16/09/2026 05:10:05
+# Channels: 37
+# Updated: 16/09/2026 05:40:05
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260913/9125fa497b811bfc3aacba62c93b4229.png" group-title="Bóng đá",São Paulo - SP vs Boca Juniors (CON CSA)
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789491905-0-0-1042d716706edb69484fc62977578eb5
 #EXTINF:-1 tvg-id="room-283501" tvg-logo="https://sta.vnres.co/file/common/20260913/9fb3cc5bcde1707ccc38e3fadf2baa74.png" group-title="Bóng đá",Vasco da Gama Saf - RJ vs Independiente Santa Fe (CON CSA)
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=c7a1cb05d2e98163cfe4648a16182c4e&txTime=6aaa1532
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=9a9376353a53f316a6e37501b49f0d26&txTime=6aaa1c3a
 #EXTINF:-1 tvg-id="room-327159" tvg-logo="https://sta.vnres.co/file/common/20260913/3c4cbfb5819b00cc96b743a756d0a956.png" group-title="Bóng đá",CRB AL vs Sport Club do Recife (BRA D2)
 https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789444888-0-0-5d5a8261c41817db096cacaf8dc63e11
 #EXTINF:-1 tvg-id="room-372746" tvg-logo="https://sta.vnres.co/file/common/20260913/abb7589e70ee925f6c6cb371ea3f3459.png" group-title="Bóng đá",CA Platense vs Fluminense - RJ (LIB Cup)
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1789513442-0-0-d5c0e6e9b682220058f52f0e0b7f4fb9
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1789515242-0-0-eb45a668888c11c41c144cd99938968c
 #EXTINF:-1 tvg-id="room-387694" tvg-logo="https://sta.vnres.co/file/common/20260913/9125fa497b811bfc3aacba62c93b4229.png" group-title="Bóng đá",São Paulo - SP vs Boca Juniors (CON CSA)
 https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=cb34afebe7d290d5a15f0aa7dafb58d7&txTime=6aa9df48
 #EXTINF:-1 tvg-id="room-485739" tvg-logo="https://sta.vnres.co/file/common/20260913/abb7589e70ee925f6c6cb371ea3f3459.png" group-title="Bóng đá",CA Platense vs Fluminense - RJ (LIB Cup)
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=96082d9b448cacb2b8683f51c381c756&txTime=6aaa1532
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=980ada6e88b84026c3a78958530e95e7&txTime=6aaa1c3a
 #EXTINF:-1 tvg-id="room-491873" tvg-logo="https://sta.vnres.co/file/common/20260913/9fb3cc5bcde1707ccc38e3fadf2baa74.png" group-title="Bóng đá",Vasco da Gama Saf - RJ vs Independiente Santa Fe (CON CSA)
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=d4879443f9d10419cf5db670ec8340ae&txTime=6aaa1532
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=8fd3b95dfc441c045bdc18c497bb9ec3&txTime=6aaa1c3a
 #EXTINF:-1 tvg-id="room-527383" tvg-logo="https://sta.vnres.co/file/common/20260913/7433a4b60726a7b3c6aa62799ede7257.png" group-title="Bóng đá",Nautico (PE) vs Operario Ferroviario PR (BRA D2)
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789513442-0-0-a058b7e45c7d99e988b5059145c95fc7
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789515242-0-0-be96cd0c5fc7b7c58384160da726d75c
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260913/abb7589e70ee925f6c6cb371ea3f3459.png" group-title="Bóng đá",CA Platense vs Fluminense - RJ (LIB Cup)
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789513442-0-0-2385eb20163feeba6bb5068928dc2a8c
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789515242-0-0-298b53921ec00eb5df3f5cc6d999d370
 #EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260913/abb7589e70ee925f6c6cb371ea3f3459.png" group-title="Bóng đá",CA Platense vs Fluminense - RJ (LIB Cup)
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=6cfab0bddd6e1558f2b48a105c564b29&txTime=6aaa1532
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=99d4c5e0614f2d3b794342818d60bf38&txTime=6aaa1c3a
 #EXTINF:-1 tvg-id="room-582342" tvg-logo="https://sta.vnres.co/file/common/20260913/9125fa497b811bfc3aacba62c93b4229.png" group-title="Bóng đá",São Paulo - SP vs Boca Juniors (CON CSA)
 https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1789502447-0-0-7687504592c9a6e899458b326d6dd398
 #EXTINF:-1 tvg-id="room-603914" tvg-logo="https://sta.vnres.co/file/common/20260913/9fb3cc5bcde1707ccc38e3fadf2baa74.png" group-title="Bóng đá",Vasco da Gama Saf - RJ vs Independiente Santa Fe (CON CSA)
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789513442-0-0-0ad9e47f8701b91d686a1914bc6a0da0
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789515242-0-0-55e4c55808c38c908161e2e1fceabe5d
 #EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260913/abb7589e70ee925f6c6cb371ea3f3459.png" group-title="Bóng đá",CA Platense vs Fluminense - RJ (LIB Cup)
-https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=b354b43c3f8305bf41434333dbb6f7b7&txTime=6aaa1532
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=401930c0ec34e8cf406b1d23b53021c6&txTime=6aaa1d66
 #EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260913/abb7589e70ee925f6c6cb371ea3f3459.png" group-title="Bóng đá",CA Platense vs Fluminense - RJ (LIB Cup)
-https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789513742-0-0-9cf6f216fd6258d64bb86d6604a40d17
+https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789515542-0-0-3c06e01613964e283c47cab54ca85526
 #EXTINF:-1 tvg-id="room-620084" tvg-logo="https://sta.vnres.co/file/common/20260913/46b239488fd074564a084dfb3e0a0290.png" group-title="Bóng đá",Indy Eleven vs Brooklyn FC (USLC)
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789476904-0-0-d3e7b207a01455c61541a94740c43a81
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789515542-0-0-172fc211df1a3f9b8448af9a895604f6
 #EXTINF:-1 tvg-id="room-621887" tvg-logo="https://sta.vnres.co/file/common/20260913/9fb3cc5bcde1707ccc38e3fadf2baa74.png" group-title="Bóng đá",Vasco da Gama Saf - RJ vs Independiente Santa Fe (CON CSA)
-https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=7e9c05e13e9b6bd12398c89bea4126f2&txTime=6aaa165e
+https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=ba1966ce628fb310fcaa7e371a5578b4&txTime=6aaa1d66
 #EXTINF:-1 tvg-id="room-9912008" tvg-logo="https://sta.vnres.co/file/common/20260913/9125fa497b811bfc3aacba62c93b4229.png" group-title="Bóng đá",São Paulo - SP vs Boca Juniors (CON CSA)
 https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789490361-0-0-3b8c985210aed7f1148b5b561c25e820
 #EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260913/46b239488fd074564a084dfb3e0a0290.png" group-title="Bóng đá",Indy Eleven vs Brooklyn FC (USLC)
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=869ee262624fb1748b5c2eba214c24e6&txTime=6aa9bc57
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=f5d859e8be2b2334d137265a2b115a70&txTime=6aaa1d66
 #EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260913/d480527e61a305d85631905f41167e2e.png" group-title="Bóng đá",Londrina PR vs Ponte Preta (BRA D2)
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789513742-0-0-f04483d9bc9a0e7bab2e4a124f54b592
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789515542-0-0-6c056ff2cb1acd57b24ba556426507ec
 #EXTINF:-1 tvg-id="room-9912122" tvg-logo="https://sta.vnres.co/file/common/20260913/9125fa497b811bfc3aacba62c93b4229.png" group-title="Bóng đá",São Paulo - SP vs Boca Juniors (CON CSA)
 https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=7a8082b6ee91fedef8a0b9def9603c22&txTime=6aa9a84b
 #EXTINF:-1 tvg-id="room-9912130" tvg-logo="https://sta.vnres.co/file/common/20260913/7433a4b60726a7b3c6aa62799ede7257.png" group-title="Bóng đá",Nautico (PE) vs Operario Ferroviario PR (BRA D2)
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789513742-0-0-dace9a89dbbd88c5228405eb2dcbbcd3
+https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789515542-0-0-a05359996bd2e69b93353eef05e8c2f0
 #EXTINF:-1 tvg-id="room-9912139" tvg-logo="https://sta.vnres.co/file/common/20260913/d480527e61a305d85631905f41167e2e.png" group-title="Bóng đá",Londrina PR vs Ponte Preta (BRA D2)
-https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=7b1387acdc507c467e683bbb0c1f49dc&txTime=6aaa165e
+https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=a93ad391b03480ec0902f2e3ad84b19e&txTime=6aaa1d66
 #EXTINF:-1 tvg-id="room-283501" tvg-logo="https://sta.vnres.co/file/common/20260916/486ef504d3a82b3a707cfc5d49eda901.png" group-title="SocoLive",CON CSA: Vasco da Gama Saf - RJ vs Independiente Santa Fe - BLV KAN
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=c7a1cb05d2e98163cfe4648a16182c4e&txTime=6aaa1532
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=9a9376353a53f316a6e37501b49f0d26&txTime=6aaa1c3a
 #EXTINF:-1 tvg-id="room-372746" tvg-logo="https://sta.vnres.co/file/common/20260728/ba06eac3dc3ffeee0de25e8e0deaaceb.jpg" group-title="SocoLive",LIB Cup: CA Platense vs Fluminense - RJ - BLV YONE
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1789513442-0-0-d5c0e6e9b682220058f52f0e0b7f4fb9
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1789515242-0-0-eb45a668888c11c41c144cd99938968c
 #EXTINF:-1 tvg-id="room-485739" tvg-logo="https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg" group-title="SocoLive",LIB Cup: CA Platense vs Fluminense - RJ - BLV CHIVAS
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=96082d9b448cacb2b8683f51c381c756&txTime=6aaa1532
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=980ada6e88b84026c3a78958530e95e7&txTime=6aaa1c3a
 #EXTINF:-1 tvg-id="room-491873" tvg-logo="https://sta.vnres.co/file/common/20250723/6b83b847d8944b57cc13043bae9fa7a8.jpg" group-title="SocoLive",CON CSA: Vasco da Gama Saf - RJ vs Independiente Santa Fe - BLV VIP
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=d4879443f9d10419cf5db670ec8340ae&txTime=6aaa1532
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=8fd3b95dfc441c045bdc18c497bb9ec3&txTime=6aaa1c3a
 #EXTINF:-1 tvg-id="room-527383" tvg-logo="https://sta.vnres.co/file/common/20260626/fcd1d9373f93de7ff3ebfbee3f073c7c.jpg" group-title="SocoLive",BRA D2: Nautico (PE) vs Operario Ferroviario PR - BLV ROBBEN
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789513442-0-0-a058b7e45c7d99e988b5059145c95fc7
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789515242-0-0-be96cd0c5fc7b7c58384160da726d75c
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg" group-title="SocoLive",LIB Cup: CA Platense vs Fluminense - RJ - BLV ALEX
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789513442-0-0-2385eb20163feeba6bb5068928dc2a8c
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789515242-0-0-298b53921ec00eb5df3f5cc6d999d370
 #EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg" group-title="SocoLive",LIB Cup: CA Platense vs Fluminense - RJ - BLV RAMBO
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=6cfab0bddd6e1558f2b48a105c564b29&txTime=6aaa1532
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=99d4c5e0614f2d3b794342818d60bf38&txTime=6aaa1c3a
 #EXTINF:-1 tvg-id="room-603914" tvg-logo="https://sta.vnres.co/file/common/20260904/c08eebf8c66b882d5d57e203ae571c7a.jpg" group-title="SocoLive",CON CSA: Vasco da Gama Saf - RJ vs Independiente Santa Fe - TRÀ ĐÁ
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789513442-0-0-0ad9e47f8701b91d686a1914bc6a0da0
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789515242-0-0-55e4c55808c38c908161e2e1fceabe5d
 #EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg" group-title="SocoLive",LIB Cup: CA Platense vs Fluminense - RJ - HÀ DUY KIÊN
-https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=b354b43c3f8305bf41434333dbb6f7b7&txTime=6aaa1532
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=531cf62a879d4b54be12ee1a1bed733d&txTime=6aaa1c3a
 #EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg" group-title="SocoLive",LIB Cup: CA Platense vs Fluminense - RJ - CƠM NẾP
-https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789513442-0-0-91b01c8d0f31c04df1c010613328595c
+https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789515242-0-0-3553d74aaca6b4e4e2fc4cbd017c9f36
 #EXTINF:-1 tvg-id="room-621887" tvg-logo="https://sta.vnres.co/file/common/20260728/c2935ca02d759ee77531ff32719f1b21.png" group-title="SocoLive",CON CSA: Vasco da Gama Saf - RJ vs Independiente Santa Fe - CHAN ĐÊ
-https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=91ea83dc3b6465d5c6b36b172efd61cf&txTime=6aaa1532
+https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=a7aa668b467716f24692bc0d87b51faf&txTime=6aaa1c3a
+#EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg" group-title="SocoLive",USLC: Indy Eleven vs Brooklyn FC - BLV RÔSI
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=f5ce8b3f45950bc149ee395ada119f55&txTime=6aaa1c3a
 #EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151.png" group-title="SocoLive",BRA D2: Londrina PR vs Ponte Preta - BLV VOI
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789513442-0-0-c63e1c91cb18c4689cfc7c852a28c6e7
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789515242-0-0-bf72e901fb2a4345ef9b5682ab5c650b
 #EXTINF:-1 tvg-id="room-9912130" tvg-logo="https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png" group-title="SocoLive",BRA D2: Nautico (PE) vs Operario Ferroviario PR - BLV A TÚ
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789513442-0-0-df03c5478e0d95a9f80aab644b7460d4
+https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789515242-0-0-2c454e7539433a09ce47c79e712af555
 #EXTINF:-1 tvg-id="room-9912139" tvg-logo="https://sta.vnres.co/file/common/20260317/5be300857a15349a5324be170237948b.png" group-title="SocoLive",BRA D2: Londrina PR vs Ponte Preta - BLV A TINH
-https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=a9082e305c3c83f2c5c8687ae01f520d&txTime=6aaa1532
+https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=450d6e76f489b5836abb3e2e52780de1&txTime=6aaa1c3a
