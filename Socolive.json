@@ -14,7 +14,7 @@
     "name": "Liga Dep Universitaria Quito vs Palmeiras - SP (LIB Cup)",
     "logo": "https://sta.vnres.co/file/common/20260913/71b46d83afb341b91efbc521c5e48195.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1789529184-0-0-23e3bbc8809d5ee26c6ff4e6b8849fd2",
+    "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1789598342-0-0-055595e86a7950e64388aa0c7a07884a",
     "type": "hls"
   },
   {
@@ -32,7 +32,7 @@
     "name": "Atlético Mineiro - MG vs Santos FC - SP (CON CSA)",
     "logo": "https://sta.vnres.co/file/common/20260913/b8df7b77401ab486dea52419c35e0e8a.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=b6b38c02c6085ca11601e29d9722a1d1\u0026txTime=6aaa5af5",
+    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=b8610c5f3d082767b953fb52bb042468\u0026txTime=6aab60d6",
     "type": "hls"
   },
   {
@@ -41,7 +41,16 @@
     "name": "Atlético Mineiro - MG vs Santos FC - SP (CON CSA)",
     "logo": "https://sta.vnres.co/file/common/20260913/b8df7b77401ab486dea52419c35e0e8a.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=c96060e7d7802406cc321ffd20c0747e\u0026txTime=6aaadb19",
+    "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=7c66d3c99a5740e2c70378060a7a9e5f\u0026txTime=6aab60d6",
+    "type": "hls"
+  },
+  {
+    "id": "532081",
+    "tvg_id": "room-532081",
+    "name": "Corinthians - SP vs Estudiantes La Plata (LIB Cup)",
+    "logo": "https://sta.vnres.co/file/common/20260913/26451a6fb079e3b6e16cfc4eeb52cf71.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789583236-0-0-739b07ccbb4cabb65c33d915ad3d7464",
     "type": "hls"
   },
   {
@@ -86,7 +95,7 @@
     "name": "Liga Dep Universitaria Quito vs Palmeiras - SP (LIB Cup)",
     "logo": "https://sta.vnres.co/file/common/20260913/71b46d83afb341b91efbc521c5e48195.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=48f1688ab40cdb4c835994a14eb961e6\u0026txTime=6aab5c26",
+    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=87f1239e79173d3f1192a7227b27b3e6\u0026txTime=6aab60d6",
     "type": "hls"
   },
   {
@@ -95,7 +104,7 @@
     "name": "Atlético Mineiro - MG vs Santos FC - SP (CON CSA)",
     "logo": "https://sta.vnres.co/file/common/20260913/b8df7b77401ab486dea52419c35e0e8a.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789531218-0-0-2cab3fe194c50b2ecac5df0e806dcef1",
+    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789598342-0-0-349e5feacd492b3b50c9fff24f3253ab",
     "type": "hls"
   },
   {
@@ -104,25 +113,7 @@
     "name": "Liga Dep Universitaria Quito vs Palmeiras - SP (LIB Cup)",
     "logo": "https://sta.vnres.co/file/common/20260913/71b46d83afb341b91efbc521c5e48195.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=200442d771c0de80752b34e7cb52f1fa\u0026txTime=6aaa2fe5",
-    "type": "hls"
-  },
-  {
-    "id": "622240",
-    "tvg_id": "room-622240",
-    "name": "FC Barcelona vs Racing Santander (SPA D1)",
-    "logo": "https://sta.vnres.co/file/common/20260913/0218e2ddca126a585f6fedc52ce6f41b.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1789597142-0-0-13ff98a54a690fca6d95199b90c656d2",
-    "type": "hls"
-  },
-  {
-    "id": "991140",
-    "tvg_id": "room-991140",
-    "name": "FC Barcelona vs Racing Santander (SPA D1)",
-    "logo": "https://sta.vnres.co/file/common/20260913/0218e2ddca126a585f6fedc52ce6f41b.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1789597142-0-0-971bcf990aadeec1c378cd23931b8c2d",
+    "url": "https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=9115634914654172f5504c65501a262f\u0026txTime=6aab60d6",
     "type": "hls"
   },
   {
@@ -132,15 +123,6 @@
     "logo": "https://sta.vnres.co/file/common/20260913/63dace34b5c1edbda337995ad5bd3355.png",
     "group": "Bóng đá",
     "url": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789521563-0-0-f0223ce3740862d6fb5802dae68112c5",
-    "type": "hls"
-  },
-  {
-    "id": "9912119",
-    "tvg_id": "room-9912119",
-    "name": "FC Barcelona vs Racing Santander (SPA D1)",
-    "logo": "https://sta.vnres.co/file/common/20260913/0218e2ddca126a585f6fedc52ce6f41b.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789597142-0-0-9d927e5e17310adfc8fddfe10f2efaa4",
     "type": "hls"
   },
   {
@@ -171,39 +153,12 @@
     "type": "hls"
   },
   {
-    "id": "9912133",
-    "tvg_id": "room-9912133",
-    "name": "FC Barcelona vs Racing Santander (SPA D1)",
-    "logo": "https://sta.vnres.co/file/common/20260913/0218e2ddca126a585f6fedc52ce6f41b.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1789597142-0-0-ed9575e27fec8ee8204e83071d21cb56",
-    "type": "hls"
-  },
-  {
     "id": "9912139",
     "tvg_id": "room-9912139",
     "name": "Montreal Impact vs Vancouver Whitecaps (CAN CC)",
     "logo": "https://sta.vnres.co/file/common/20260913/63dace34b5c1edbda337995ad5bd3355.png",
     "group": "Bóng đá",
     "url": "https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=d1d3330d8656a256dc109228cdfcfd2d\u0026txTime=6aaa529c",
-    "type": "hls"
-  },
-  {
-    "id": "9912141",
-    "tvg_id": "room-9912141",
-    "name": "FC Barcelona vs Racing Santander (SPA D1)",
-    "logo": "https://sta.vnres.co/file/common/20260913/0218e2ddca126a585f6fedc52ce6f41b.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789597442-0-0-a348d7b3cbb65aabf836bf03d9939854",
-    "type": "hls"
-  },
-  {
-    "id": "9912142",
-    "tvg_id": "room-9912142",
-    "name": "FC Barcelona vs Racing Santander (SPA D1)",
-    "logo": "https://sta.vnres.co/file/common/20260913/0218e2ddca126a585f6fedc52ce6f41b.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789597442-0-0-bb37224139348c8bc4dc3494e7d3e1b8",
     "type": "hls"
   },
   {
@@ -216,12 +171,57 @@
     "type": "hls"
   },
   {
+    "id": "372746",
+    "tvg_id": "room-372746",
+    "name": "LIB Cup: Liga Dep Universitaria Quito vs Palmeiras - SP - BLV YONE",
+    "logo": "https://sta.vnres.co/file/common/20260728/ba06eac3dc3ffeee0de25e8e0deaaceb.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1789598342-0-0-055595e86a7950e64388aa0c7a07884a",
+    "type": "hls"
+  },
+  {
+    "id": "485739",
+    "tvg_id": "room-485739",
+    "name": "CON CSA: Atlético Mineiro - MG vs Santos FC - SP - BLV CHIVAS",
+    "logo": "https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=b8610c5f3d082767b953fb52bb042468\u0026txTime=6aab60d6",
+    "type": "hls"
+  },
+  {
+    "id": "491873",
+    "tvg_id": "room-491873",
+    "name": "CON CSA: Atlético Mineiro - MG vs Santos FC - SP - BLV VIP",
+    "logo": "https://sta.vnres.co/file/common/20250723/6b83b847d8944b57cc13043bae9fa7a8.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=7c66d3c99a5740e2c70378060a7a9e5f\u0026txTime=6aab60d6",
+    "type": "hls"
+  },
+  {
     "id": "607400",
     "tvg_id": "room-607400",
     "name": "LIB Cup: Liga Dep Universitaria Quito vs Palmeiras - SP - HÀ DUY KIÊN",
     "logo": "https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=48f1688ab40cdb4c835994a14eb961e6\u0026txTime=6aab5c26",
+    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=87f1239e79173d3f1192a7227b27b3e6\u0026txTime=6aab60d6",
+    "type": "hls"
+  },
+  {
+    "id": "618950",
+    "tvg_id": "room-618950",
+    "name": "CON CSA: Atlético Mineiro - MG vs Santos FC - SP - CƠM NẾP",
+    "logo": "https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789598342-0-0-349e5feacd492b3b50c9fff24f3253ab",
+    "type": "hls"
+  },
+  {
+    "id": "621887",
+    "tvg_id": "room-621887",
+    "name": "LIB Cup: Liga Dep Universitaria Quito vs Palmeiras - SP - CHAN ĐÊ",
+    "logo": "https://sta.vnres.co/file/common/20260728/c2935ca02d759ee77531ff32719f1b21.png",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=9115634914654172f5504c65501a262f\u0026txTime=6aab60d6",
     "type": "hls"
   },
   {
@@ -230,25 +230,7 @@
     "name": "SPA D1: FC Barcelona vs Racing Santander - CURRY",
     "logo": "https://sta.vnres.co/file/common/20260809/8d3ecd1339e9fe41608eb4b7f008436c.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1789597142-0-0-13ff98a54a690fca6d95199b90c656d2",
-    "type": "hls"
-  },
-  {
-    "id": "991140",
-    "tvg_id": "room-991140",
-    "name": "SPA D1: FC Barcelona vs Racing Santander - BLV FIREMAN",
-    "logo": "https://sta.vnres.co/file/common/20240614/d900dd8841b1223c7b58554cde34df75.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1789597142-0-0-971bcf990aadeec1c378cd23931b8c2d",
-    "type": "hls"
-  },
-  {
-    "id": "9912119",
-    "tvg_id": "room-9912119",
-    "name": "SPA D1: FC Barcelona vs Racing Santander - HẢI THANH",
-    "logo": "https://sta.vnres.co/file/common/20260829/f624027ec79ccc757bf8d5a663d63763.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789597142-0-0-9d927e5e17310adfc8fddfe10f2efaa4",
+    "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1789598342-0-0-5f9247da485e655077d63d432de9c4ec",
     "type": "hls"
   },
   {
@@ -257,7 +239,7 @@
     "name": "SPA D1: FC Barcelona vs Racing Santander - LOKA",
     "logo": "https://sta.vnres.co/file/common/20260411/c1490960e7f4b63fdc78206c576d2da8.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1789597142-0-0-ed9575e27fec8ee8204e83071d21cb56",
+    "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1789598382-0-0-e031ac374ac470b5069e7e50ec3bdecb",
     "type": "hls"
   },
   {
@@ -266,7 +248,7 @@
     "name": "SPA D1: FC Barcelona vs Racing Santander - BLV MESSI",
     "logo": "https://sta.vnres.co/file/common/20260909/1edb9c9016b6d011552439c71d3e5158.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789597142-0-0-6a3427462c2e6564c106d9e2a04e176a",
+    "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789598342-0-0-9923a6f2dc470109db749cff1c313719",
     "type": "hls"
   },
   {
@@ -275,7 +257,7 @@
     "name": "SPA D1: FC Barcelona vs Racing Santander - A BỆU",
     "logo": "https://sta.vnres.co/file/common/20260830/683bbb96de277e28f88b1d08678ac124.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789597142-0-0-5b8f9e989d63800dec7ddd7748ecece3",
+    "url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789598394-0-0-b921ba12347e961d6eeb6d8adbcd6c53",
     "type": "hls"
   }
 ]
