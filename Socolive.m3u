@@ -1,93 +1,95 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 44
-# Updated: 16/09/2026 19:50:07
+# Channels: 45
+# Updated: 16/09/2026 20:00:07
 
 #EXTINF:-1 tvg-id="room-291277" tvg-logo="https://sta.vnres.co/file/common/20260913/7ccb7fdbe44a7e0bd33b53a08d7cdd0c.png" group-title="Bóng đá",Port FC vs Vissel Kobe (ACL Elite)
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=cf2e9f4a4f774a5e1d19c0d685b9e74a&txTime=6aaae372
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=1fa841d9360ab34eb301756b0c3ff660&txTime=6aaae607
 #EXTINF:-1 tvg-id="room-380460" tvg-logo="https://sta.vnres.co/file/common/20260913/7ccb7fdbe44a7e0bd33b53a08d7cdd0c.png" group-title="Bóng đá",Port FC vs Vissel Kobe (ACL Elite)
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1789566242-0-0-75aa7592356ed1dbc9c4032e252e6669
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1789566903-0-0-be001f279216779e4f4fd72e7b2f9929
 #EXTINF:-1 tvg-id="room-387694" tvg-logo="https://sta.vnres.co/file/common/20260913/7ccb7fdbe44a7e0bd33b53a08d7cdd0c.png" group-title="Bóng đá",Port FC vs Vissel Kobe (ACL Elite)
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=63e1ffa67f509791ce29adfbf3163f63&txTime=6aaae372
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=bb1fe158c7aab1d71650badac9453d57&txTime=6aaae607
 #EXTINF:-1 tvg-id="room-619561" tvg-logo="https://sta.vnres.co/file/common/20260915/cc2226260155f59f0472f3199089b7e2.png" group-title="Bóng đá",Brazil U20 Women vs USA U20 Women (FIFA WU20)
-https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1789566242-0-0-689b487631ffe3f4c54ea3bc0c09fd8a
+https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1789567142-0-0-dbd7752d86ba43dcd015be67c6f48b2a
 #EXTINF:-1 tvg-id="room-621840" tvg-logo="https://sta.vnres.co/file/common/20260906/417d32a6452f0b2f4260b29d8f405f88.png" group-title="Bóng đá",Terengganu FC vs DPMM FC (MAS FAC)
-https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=157a82b23cc871e892cb76648c28b1fd&txTime=6aaae4da
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=87b4ae76a7a1aaef1cc228d5b37de30c&txTime=6aaae6f7
 #EXTINF:-1 tvg-id="room-627718" tvg-logo="https://sta.vnres.co/file/common/20260913/e16d52156cefb9d503330fee1b9d5e37.png" group-title="Bóng đá",Yenisey Krasnoyarsk vs Arsenal Tula (RUS D2)
-https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789566602-0-0-ea5c7ea96ce580757b8d3b3966da1e83
+https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789567143-0-0-f89445aab3590e2794f9055113d84f48
 #EXTINF:-1 tvg-id="room-9912008" tvg-logo="https://sta.vnres.co/file/common/20260913/7ccb7fdbe44a7e0bd33b53a08d7cdd0c.png" group-title="Bóng đá",Port FC vs Vissel Kobe (ACL Elite)
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789566602-0-0-55535097dc28cb4a4c8d33c54e3c9735
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789567142-0-0-090519090df524a1b93bf1f846573628
 #EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260913/ca73c09f60f0c25b1561160c3a54ccc3.png" group-title="Bóng đá",The Cong-Viettel vs Melbourne Victory (ACL2)
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=76a6d17c27955c28d3494c844a2a8bb1&txTime=6aaae4da
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=35a295e2cb12729d961103eb04d9a24a&txTime=6aaae6f6
 #EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260913/ca73c09f60f0c25b1561160c3a54ccc3.png" group-title="Bóng đá",The Cong-Viettel vs Melbourne Victory (ACL2)
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789566602-0-0-8520e15626b751641f5cda57b9d3446b
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789567142-0-0-ee55534c44db9d50ecaafc4e4e8de80a
 #EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260906/417d32a6452f0b2f4260b29d8f405f88.png" group-title="Bóng đá",Terengganu FC vs DPMM FC (MAS FAC)
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=09fe078686cd3e09ac583349c455f144&txTime=6aaae4da
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=e7391dc03bdc9a590298cd34397ef2b0&txTime=6aaae6f6
 #EXTINF:-1 tvg-id="room-9912119" tvg-logo="https://sta.vnres.co/file/common/20260913/ca73c09f60f0c25b1561160c3a54ccc3.png" group-title="Bóng đá",The Cong-Viettel vs Melbourne Victory (ACL2)
-https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789566602-0-0-bf9f6f1deb45a5a037411cbd0aa25e5e
+https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789567142-0-0-274f863bb444d26a6102fe312171daea
 #EXTINF:-1 tvg-id="room-9912122" tvg-logo="https://sta.vnres.co/file/common/20260913/7ccb7fdbe44a7e0bd33b53a08d7cdd0c.png" group-title="Bóng đá",Port FC vs Vissel Kobe (ACL Elite)
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=b0b1501c1a35f2e1658926b626f00dc4&txTime=6aaae4da
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=3259b11410adf15d86b07b4e71dc8636&txTime=6aaae6f6
 #EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260915/e5f6afc52551a05d3840f40a2281de08.png" group-title="Bóng đá",Argentina U20 Women vs South Korea U20 Women (FIFA WU20)
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789566602-0-0-5cad59fae24432fcd95e9cad6ce15cc7
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789567143-0-0-5b196a4e213dd7b62f8aa2bc0901c25d
 #EXTINF:-1 tvg-id="room-9912126" tvg-logo="https://sta.vnres.co/file/common/20260913/e16d52156cefb9d503330fee1b9d5e37.png" group-title="Bóng đá",Yenisey Krasnoyarsk vs Arsenal Tula (RUS D2)
-https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=898a1eeb3345fa5ad5908544a5e845e9&txTime=6aaae4da
+https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=3e8725eb89f35a52582cfef02238a021&txTime=6aaae6f6
 #EXTINF:-1 tvg-id="room-9912127" tvg-logo="https://sta.vnres.co/file/common/20260915/e5f6afc52551a05d3840f40a2281de08.png" group-title="Bóng đá",Argentina U20 Women vs South Korea U20 Women (FIFA WU20)
-https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=93970c00544f4e33baa8a27f7d3e1dc6&txTime=6aaae4da
+https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=916a528e6e7fd8ed07a2088a92f88d22&txTime=6aaae702
 #EXTINF:-1 tvg-id="room-9912132" tvg-logo="https://sta.vnres.co/file/common/20260915/cc2226260155f59f0472f3199089b7e2.png" group-title="Bóng đá",Brazil U20 Women vs USA U20 Women (FIFA WU20)
-https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=1d9fd2fb4046d22dfe3d717fe0f6cb77&txTime=6aaae4da
+https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=35e2ab6d2ca1578e0ea9b96801b6489f&txTime=6aaae6f6
 #EXTINF:-1 tvg-id="room-9912141" tvg-logo="https://sta.vnres.co/file/common/20260913/ca73c09f60f0c25b1561160c3a54ccc3.png" group-title="Bóng đá",The Cong-Viettel vs Melbourne Victory (ACL2)
-https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789566602-0-0-a16afe8bcc20cc4fe314021da0c6eca1
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789567142-0-0-998db31c42f0f78d106efd6059ded5a7
 #EXTINF:-1 tvg-id="room-9912142" tvg-logo="https://sta.vnres.co/file/common/20260913/ca73c09f60f0c25b1561160c3a54ccc3.png" group-title="Bóng đá",The Cong-Viettel vs Melbourne Victory (ACL2)
-https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789566602-0-0-bf1b0a8d28f717756eb4df56358f3f05
+https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789567142-0-0-76e7a365c20f19cabfeefdff804836d2
 #EXTINF:-1 tvg-id="room-9912143" tvg-logo="https://sta.vnres.co/file/common/20260913/7ccb7fdbe44a7e0bd33b53a08d7cdd0c.png" group-title="Bóng đá",Port FC vs Vissel Kobe (ACL Elite)
-https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789566602-0-0-24eb08f989e785f0ef221ebb75934b4e
+https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789567142-0-0-eb9e0a53c9286fc03740762f7939b829
 #EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260913/ca73c09f60f0c25b1561160c3a54ccc3.png" group-title="Bóng đá",The Cong-Viettel vs Melbourne Victory (ACL2)
-https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789566602-0-0-0f0ec2390c36b972121ee0472c18ffd8
+https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789567142-0-0-e332841981f972e1effa72fb02e5ba07
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260914/2da19a836204173d2ba5090a3b941d7c.png" group-title="Bóng rổ",Levice vs Salon Vilpas (BCL)
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=8c27b608914d06d1efc1215af4399770&txTime=6aaae372
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=6c584ca9c6349deb4a649734d0c168de&txTime=6aaae607
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260914/2da19a836204173d2ba5090a3b941d7c.png" group-title="Bóng rổ",Levice vs Salon Vilpas (BCL)
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789566602-0-0-a5e19db4067c74227a508c20f485a2fe
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789567142-0-0-6f18f0bddc4bd0f9799af79d0408877f
 #EXTINF:-1 tvg-id="room-291277" tvg-logo="https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg" group-title="SocoLive",ACL Elite: Port FC vs Vissel Kobe - CÔNG CHẤT
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=cf2e9f4a4f774a5e1d19c0d685b9e74a&txTime=6aaae372
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=1fa841d9360ab34eb301756b0c3ff660&txTime=6aaae607
 #EXTINF:-1 tvg-id="room-380460" tvg-logo="https://sta.vnres.co/file/common/20260827/1d4f9eca02a381435aaec138589dd9ef.jpg" group-title="SocoLive",ACL Elite: Port FC vs Vissel Kobe - BLV ENZO
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1789566242-0-0-75aa7592356ed1dbc9c4032e252e6669
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1789566903-0-0-be001f279216779e4f4fd72e7b2f9929
 #EXTINF:-1 tvg-id="room-387694" tvg-logo="https://sta.vnres.co/file/common/20260916/747801bbaea9ea22d77e783263ca5e2e.jpg" group-title="SocoLive",ACL Elite: Port FC vs Vissel Kobe - CR Bưởi
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=63e1ffa67f509791ce29adfbf3163f63&txTime=6aaae372
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=bb1fe158c7aab1d71650badac9453d57&txTime=6aaae607
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg" group-title="SocoLive",BCL: Levice vs Salon Vilpas - HUNTER
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=8c27b608914d06d1efc1215af4399770&txTime=6aaae372
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=6c584ca9c6349deb4a649734d0c168de&txTime=6aaae607
 #EXTINF:-1 tvg-id="room-619561" tvg-logo="https://sta.vnres.co/file/common/20260729/d06a0efe274bce28547238bec2a125b9.jpg" group-title="SocoLive",FIFA WU20: Brazil U20 Women vs USA U20 Women - BÚN ĐẬU
-https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1789566242-0-0-689b487631ffe3f4c54ea3bc0c09fd8a
+https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1789566903-0-0-0e1421ce8bd7a4817d94b8536253ad99
 #EXTINF:-1 tvg-id="room-621840" tvg-logo="https://sta.vnres.co/file/common/20260810/042a00493898027e5f644f6f24e88c53.png" group-title="SocoLive",MAS FAC: Terengganu FC vs DPMM FC - MP3
-https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=23e9208abf2788d7e3d076b5d672ba97&txTime=6aaae372
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=07faae3144d37c536a81c28a53977b8d&txTime=6aaae607
 #EXTINF:-1 tvg-id="room-627718" tvg-logo="https://sta.vnres.co/file/common/20260831/8c106fa0fe146cf7929663e53e921ba0.jpg" group-title="SocoLive",RUS D2: Yenisey Krasnoyarsk vs Arsenal Tula - A MÂN
-https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789566242-0-0-cf900f4dce549894db93db836fabc62f
+https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789566903-0-0-9200951d0900aadb5d14dc9e4df3ad77
 #EXTINF:-1 tvg-id="room-9912008" tvg-logo="https://sta.vnres.co/file/common/20260915/e860b360c576d0e840a1eee21c4c9eb1.png" group-title="SocoLive",ACL Elite: Port FC vs Vissel Kobe - BLV TOMIA
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789566242-0-0-963b8ce41a6baea1cd0038d3ee839837
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789566903-0-0-91b5762510861fb5df42e5809f98efa1
 #EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56.jpg" group-title="SocoLive",ACL2: The Cong-Viettel vs Melbourne Victory - BLV TAP
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=845a24333a3aa2c1c9beb7b9306248a3&txTime=6aaae372
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=cc183cff70420a789c3be1091be9753a&txTime=6aaae607
 #EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260916/b7372bec8d30ad92b7b1484e8b28add7.jpg" group-title="SocoLive",ACL2: The Cong-Viettel vs Melbourne Victory - BLV Củ Cải
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789566242-0-0-78b8760ae63ef32f174f0a43766770ef
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789566903-0-0-6ee9499846c8148b1d97f72e8055b287
 #EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg" group-title="SocoLive",MAS FAC: Terengganu FC vs DPMM FC - BLV RÔSI
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=0c53c2f4ff07c7b00d14a4a25117dc8c&txTime=6aaae372
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=ce19183dceb6dad7386ac3a671d6167a&txTime=6aaae607
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-title="SocoLive",BCL: Levice vs Salon Vilpas - BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789566242-0-0-fc974ccbbf1ffb2ea20da9eb35fe2278
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789566903-0-0-3886072e13b11e388c9e8e22f39b52a7
+#EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg" group-title="SocoLive",SNBL: SG Basketball vs IMG K-Star - BLV HENRY
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789566903-0-0-4c0e9185aa6a73749e3ce32fdaba0c64
 #EXTINF:-1 tvg-id="room-9912119" tvg-logo="https://sta.vnres.co/file/common/20260829/f624027ec79ccc757bf8d5a663d63763.jpg" group-title="SocoLive",ACL2: The Cong-Viettel vs Melbourne Victory - HẢI THANH
-https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789566242-0-0-c11b8b572bb54cf9bd7b8950f9fc5e32
+https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789566903-0-0-4e4fa4f9e6745ceb238dfb46540aa77e
 #EXTINF:-1 tvg-id="room-9912122" tvg-logo="https://sta.vnres.co/file/common/20260620/4cbae14a2d06d1635a160fc8c2beb182.jpg" group-title="SocoLive",ACL Elite: Port FC vs Vissel Kobe - RICKHANTER
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=e89a2d37570d959d49dab97cf8d850f3&txTime=6aaae372
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=6744c513a199cd9d37a647d697975cc9&txTime=6aaae607
 #EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg" group-title="SocoLive",FIFA WU20: Argentina U20 Women vs South Korea U20 Women - KENCHU
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789566242-0-0-08a97961b78a7892833e8c9f0ed2f0b8
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789566903-0-0-86e575b44dd97d5f382bd257275e93b8
 #EXTINF:-1 tvg-id="room-9912126" tvg-logo="https://sta.vnres.co/file/common/20260715/0e572fd7d0bfc5ce5cf538c09b8cace4.jpg" group-title="SocoLive",RUS D2: Yenisey Krasnoyarsk vs Arsenal Tula - SEVEN
-https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=14ded828408e2c00cf31241945fb0e6f&txTime=6aaae372
+https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=3e417f597e545f0d762a6aacf5019d06&txTime=6aaae607
 #EXTINF:-1 tvg-id="room-9912127" tvg-logo="https://sta.vnres.co/file/common/20250320/efe293015c817dee46ccc81fa5e934d7.jpg" group-title="SocoLive",FIFA WU20: Argentina U20 Women vs South Korea U20 Women - BLV PIRLO
-https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=0125c3e83711e6e75eebf2c23439bbcd&txTime=6aaae372
+https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=84bcd66bba12e3c316e393cec77f4c6a&txTime=6aaae607
 #EXTINF:-1 tvg-id="room-9912132" tvg-logo="https://sta.vnres.co/file/common/20260613/cc7eb6fb9d74dfa083a48c861b135ae8.jpg" group-title="SocoLive",FIFA WU20: Brazil U20 Women vs USA U20 Women - BLV XO
-https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=4829dfd616f552dfcc76b797d3fc7fb8&txTime=6aaae372
+https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=a85f3c1af26d6db820650ad83c0a01b7&txTime=6aaae607
 #EXTINF:-1 tvg-id="room-9912141" tvg-logo="https://sta.vnres.co/file/common/20260909/1edb9c9016b6d011552439c71d3e5158.jpg" group-title="SocoLive",ACL2: The Cong-Viettel vs Melbourne Victory - BLV MESSI
-https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789566242-0-0-945d12571eb494063fecfcae5654e134
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789566903-0-0-bcff46baf4eee07e34a623c47d1fb348
 #EXTINF:-1 tvg-id="room-9912142" tvg-logo="https://sta.vnres.co/file/common/20260830/683bbb96de277e28f88b1d08678ac124.png" group-title="SocoLive",ACL2: The Cong-Viettel vs Melbourne Victory - A BỆU
-https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789566242-0-0-c6cd4b4898e0026c9a9caf55a86f8cea
+https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789566903-0-0-4d5a6bfbe1485669d9b9d53a9011e623
 #EXTINF:-1 tvg-id="room-9912143" tvg-logo="https://sta.vnres.co/file/common/20260908/25a8cd45f3d227a96b46e77ba0d942c2.png" group-title="SocoLive",ACL Elite: Port FC vs Vissel Kobe - NGƯỜI CÁ
-https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789566242-0-0-3317f6f8212e2652e4be4316d7e4eecf
+https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789566903-0-0-1f4f202bdc3d8eb293f3f7280fbd3927
 #EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260829/f6903a1879b3c7cc22d27c658db14d94.png" group-title="SocoLive",ACL2: The Cong-Viettel vs Melbourne Victory - BLV CUỘI
-https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789566242-0-0-705b72981005432f8ca70350e60abd85
+https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789566903-0-0-5140496bd7c3f7821b0af8af7211a1c7
