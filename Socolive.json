@@ -1,29 +1,38 @@
 [
   {
-    "id": "291277",
-    "tvg_id": "room-291277",
-    "name": "Port FC vs Vissel Kobe (ACL Elite)",
-    "logo": "https://sta.vnres.co/file/common/20260913/7ccb7fdbe44a7e0bd33b53a08d7cdd0c.png",
+    "id": "501412",
+    "tvg_id": "room-501412",
+    "name": "El Gounah vs Petrojet (EGY D1)",
+    "logo": "https://sta.vnres.co/file/common/20260913/56cf1a0dce171d1e8325b57510af055f.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=cf6d7fb996f0e0c2499803b4b635fec8\u0026txTime=6aaaf8c6",
+    "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=e1169ed776cc83c0a19b96c21dfcb053\u0026txTime=6aaafae3",
     "type": "hls"
   },
   {
-    "id": "380460",
-    "tvg_id": "room-380460",
-    "name": "Port FC vs Vissel Kobe (ACL Elite)",
-    "logo": "https://sta.vnres.co/file/common/20260913/7ccb7fdbe44a7e0bd33b53a08d7cdd0c.png",
+    "id": "552832",
+    "tvg_id": "room-552832",
+    "name": "Rodina Moscow vs Rubin Kazan (RUS D1)",
+    "logo": "https://sta.vnres.co/file/common/20260913/14c17aa8070a962aa182551698bcb5b2.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1789571640-0-0-e1a5fd3d43e2ffc6fcedf7f89b8b2700",
+    "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=0315ca966bbed22619a2b5518f2cbff8\u0026txTime=6aaa9142",
     "type": "hls"
   },
   {
-    "id": "387694",
-    "tvg_id": "room-387694",
-    "name": "Port FC vs Vissel Kobe (ACL Elite)",
-    "logo": "https://sta.vnres.co/file/common/20260913/7ccb7fdbe44a7e0bd33b53a08d7cdd0c.png",
+    "id": "597929",
+    "tvg_id": "room-597929",
+    "name": "Rodina Moscow vs Rubin Kazan (RUS D1)",
+    "logo": "https://sta.vnres.co/file/common/20260913/14c17aa8070a962aa182551698bcb5b2.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=76c11a43d8d46536243b48842a26e715\u0026txTime=6aaaf876",
+    "url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1789439644-0-0-4c3f91ddbaa330bdddfebcb49b50ea6c",
+    "type": "hls"
+  },
+  {
+    "id": "603914",
+    "tvg_id": "room-603914",
+    "name": "El Gounah vs Petrojet (EGY D1)",
+    "logo": "https://sta.vnres.co/file/common/20260913/56cf1a0dce171d1e8325b57510af055f.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789572243-0-0-ff9335fc156f2ce5a822753042f8e69d",
     "type": "hls"
   },
   {
@@ -32,7 +41,16 @@
     "name": "Brazil U20 Women vs USA U20 Women (FIFA WU20)",
     "logo": "https://sta.vnres.co/file/common/20260915/cc2226260155f59f0472f3199089b7e2.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1789571702-0-0-b01d6766b9244d9b5d88cda7c718efcf",
+    "url": "https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1789572243-0-0-edcbe49fccb4007ec4dca7ea93fc87f0",
+    "type": "hls"
+  },
+  {
+    "id": "620797",
+    "tvg_id": "room-620797",
+    "name": "El Gounah vs Petrojet (EGY D1)",
+    "logo": "https://sta.vnres.co/file/common/20260913/56cf1a0dce171d1e8325b57510af055f.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niur.live/live/stream-620797_lhd.m3u8?txSecret=5e6bc17700580419077fa0aad9d90bac\u0026txTime=6aaafae3",
     "type": "hls"
   },
   {
@@ -41,7 +59,7 @@
     "name": "Terengganu FC vs DPMM FC (MAS FAC)",
     "logo": "https://sta.vnres.co/file/common/20260906/417d32a6452f0b2f4260b29d8f405f88.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=cc26aa450a396fbc0b7140cc53c94f97\u0026txTime=6aaaf8c6",
+    "url": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=3aea11270e38ccfe6328389b7ce46ae9\u0026txTime=6aaafae3",
     "type": "hls"
   },
   {
@@ -50,34 +68,7 @@
     "name": "Yenisey Krasnoyarsk vs Arsenal Tula (RUS D2)",
     "logo": "https://sta.vnres.co/file/common/20260913/e16d52156cefb9d503330fee1b9d5e37.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789571702-0-0-803b0f3ad27738b1863a7870ac22c3ef",
-    "type": "hls"
-  },
-  {
-    "id": "9912008",
-    "tvg_id": "room-9912008",
-    "name": "Port FC vs Vissel Kobe (ACL Elite)",
-    "logo": "https://sta.vnres.co/file/common/20260913/7ccb7fdbe44a7e0bd33b53a08d7cdd0c.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789571558-0-0-6fde0809498e3295457aed5d832d1d85",
-    "type": "hls"
-  },
-  {
-    "id": "9912041",
-    "tvg_id": "room-9912041",
-    "name": "The Cong-Viettel vs Melbourne Victory (ACL2)",
-    "logo": "https://sta.vnres.co/file/common/20260913/ca73c09f60f0c25b1561160c3a54ccc3.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=bd34b3e6c61ee06d6834604a5d5af042\u0026txTime=6aaaf820",
-    "type": "hls"
-  },
-  {
-    "id": "9912091",
-    "tvg_id": "room-9912091",
-    "name": "The Cong-Viettel vs Melbourne Victory (ACL2)",
-    "logo": "https://sta.vnres.co/file/common/20260913/ca73c09f60f0c25b1561160c3a54ccc3.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789571570-0-0-89f70327d236ba3e2e152e4e24292f25",
+    "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789572243-0-0-8cf5f9264daf7f2b1e1985173b2c0689",
     "type": "hls"
   },
   {
@@ -86,25 +77,7 @@
     "name": "Terengganu FC vs DPMM FC (MAS FAC)",
     "logo": "https://sta.vnres.co/file/common/20260906/417d32a6452f0b2f4260b29d8f405f88.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=a7497eceec66b4ebb947cca2f79ef529\u0026txTime=6aaaf9b6",
-    "type": "hls"
-  },
-  {
-    "id": "9912119",
-    "tvg_id": "room-9912119",
-    "name": "The Cong-Viettel vs Melbourne Victory (ACL2)",
-    "logo": "https://sta.vnres.co/file/common/20260913/ca73c09f60f0c25b1561160c3a54ccc3.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789571307-0-0-9df51b0bd97b146d96a3ba3ba3622631",
-    "type": "hls"
-  },
-  {
-    "id": "9912122",
-    "tvg_id": "room-9912122",
-    "name": "Port FC vs Vissel Kobe (ACL Elite)",
-    "logo": "https://sta.vnres.co/file/common/20260913/7ccb7fdbe44a7e0bd33b53a08d7cdd0c.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=399b20432eb4b3d79f80c2cbc04bce15\u0026txTime=6aaaf889",
+    "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=e8cdfcb875e93f2ec3aba4d7521c1914\u0026txTime=6aaafae3",
     "type": "hls"
   },
   {
@@ -113,7 +86,7 @@
     "name": "Argentina U20 Women vs South Korea U20 Women (FIFA WU20)",
     "logo": "https://sta.vnres.co/file/common/20260915/e5f6afc52551a05d3840f40a2281de08.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789571942-0-0-c9a2c351bf70c250b1ca74eafc994fe7",
+    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789572243-0-0-25923c5c227d18bab17a3caa4146297e",
     "type": "hls"
   },
   {
@@ -122,7 +95,7 @@
     "name": "Yenisey Krasnoyarsk vs Arsenal Tula (RUS D2)",
     "logo": "https://sta.vnres.co/file/common/20260913/e16d52156cefb9d503330fee1b9d5e37.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=2395c2692d2e44190346d935f7bdd50a\u0026txTime=6aaaf9b6",
+    "url": "https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=bb7dcc3d53c6b928ad59f192551e7ba5\u0026txTime=6aaafae3",
     "type": "hls"
   },
   {
@@ -131,7 +104,25 @@
     "name": "Argentina U20 Women vs South Korea U20 Women (FIFA WU20)",
     "logo": "https://sta.vnres.co/file/common/20260915/e5f6afc52551a05d3840f40a2281de08.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=0028881186cebdc4c0ed8084c115d1d6\u0026txTime=6aaaf9b6",
+    "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=35ec3973f169995a6301b64e3996e7f6\u0026txTime=6aaafc0e",
+    "type": "hls"
+  },
+  {
+    "id": "9912128",
+    "tvg_id": "room-9912128",
+    "name": "Rodina Moscow vs Rubin Kazan (RUS D1)",
+    "logo": "https://sta.vnres.co/file/common/20260913/14c17aa8070a962aa182551698bcb5b2.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789563346-0-0-d740f8ed09f8021e6e13304e06d8c8ac",
+    "type": "hls"
+  },
+  {
+    "id": "9912130",
+    "tvg_id": "room-9912130",
+    "name": "El Gounah vs Petrojet (EGY D1)",
+    "logo": "https://sta.vnres.co/file/common/20260913/56cf1a0dce171d1e8325b57510af055f.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789572542-0-0-d3c5b27a22691840d291d02dc390c841",
     "type": "hls"
   },
   {
@@ -140,43 +131,16 @@
     "name": "Brazil U20 Women vs USA U20 Women (FIFA WU20)",
     "logo": "https://sta.vnres.co/file/common/20260915/cc2226260155f59f0472f3199089b7e2.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=3e4614625a44e9e22ddbd004ea1f0324\u0026txTime=6aaaf9b6",
+    "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=43b4bdbb6cb22888662f9b11ac8eec8e\u0026txTime=6aaafc0e",
     "type": "hls"
   },
   {
-    "id": "9912141",
-    "tvg_id": "room-9912141",
-    "name": "The Cong-Viettel vs Melbourne Victory (ACL2)",
-    "logo": "https://sta.vnres.co/file/common/20260913/ca73c09f60f0c25b1561160c3a54ccc3.png",
+    "id": "9912136",
+    "tvg_id": "room-9912136",
+    "name": "Rodina Moscow vs Rubin Kazan (RUS D1)",
+    "logo": "https://sta.vnres.co/file/common/20260913/14c17aa8070a962aa182551698bcb5b2.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789571574-0-0-54ed2da40c7a78f5c2c443337de47237",
-    "type": "hls"
-  },
-  {
-    "id": "9912142",
-    "tvg_id": "room-9912142",
-    "name": "The Cong-Viettel vs Melbourne Victory (ACL2)",
-    "logo": "https://sta.vnres.co/file/common/20260913/ca73c09f60f0c25b1561160c3a54ccc3.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789571739-0-0-236a72c62af5dc430de424c19c17aad6",
-    "type": "hls"
-  },
-  {
-    "id": "9912143",
-    "tvg_id": "room-9912143",
-    "name": "Port FC vs Vissel Kobe (ACL Elite)",
-    "logo": "https://sta.vnres.co/file/common/20260913/7ccb7fdbe44a7e0bd33b53a08d7cdd0c.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789571551-0-0-e95a4de82cba2af3e51a833fbdf7db8a",
-    "type": "hls"
-  },
-  {
-    "id": "9912146",
-    "tvg_id": "room-9912146",
-    "name": "The Cong-Viettel vs Melbourne Victory (ACL2)",
-    "logo": "https://sta.vnres.co/file/common/20260913/ca73c09f60f0c25b1561160c3a54ccc3.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789571892-0-0-6f506bd643d37ae814df20e4fe73ffbb",
+    "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=170931068a0c2457750d7cbf3492c988\u0026txTime=6aaaded2",
     "type": "hls"
   },
   {
@@ -185,7 +149,7 @@
     "name": "Bakken Bears vs Zwolle (BCL)",
     "logo": "https://sta.vnres.co/file/common/20260914/8b809b4ff52b5a016856e21b5e9f2d6f.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789571702-0-0-f92a0acc66e51721c38b094391dda406",
+    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789572243-0-0-4f615a0c21fcdf7b42f26a6d6fc07843",
     "type": "hls"
   },
   {
@@ -194,16 +158,7 @@
     "name": "Bakken Bears vs Zwolle (BCL)",
     "logo": "https://sta.vnres.co/file/common/20260914/8b809b4ff52b5a016856e21b5e9f2d6f.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789571942-0-0-b36193edd119daa8232304c558456205",
-    "type": "hls"
-  },
-  {
-    "id": "291277",
-    "tvg_id": "room-291277",
-    "name": "ACL Elite: Port FC vs Vissel Kobe - CÔNG CHẤT",
-    "logo": "https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=cf6d7fb996f0e0c2499803b4b635fec8\u0026txTime=6aaaf8c6",
+    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789572243-0-0-5cc28190632ee6dadce2afc4a2dfbc72",
     "type": "hls"
   },
   {
@@ -212,7 +167,7 @@
     "name": "EGY D1: El Gounah vs Petrojet - XUÂN SON",
     "logo": "https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=e40db7c074bcd6beb37ec9da65a180fc\u0026txTime=6aaaf8c6",
+    "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=e1169ed776cc83c0a19b96c21dfcb053\u0026txTime=6aaafae3",
     "type": "hls"
   },
   {
@@ -221,7 +176,7 @@
     "name": "EGY D1: El Gounah vs Petrojet - TRÀ ĐÁ",
     "logo": "https://sta.vnres.co/file/common/20260904/c08eebf8c66b882d5d57e203ae571c7a.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789571702-0-0-44ba5a878283522e9b41db38d93aec5f",
+    "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789572243-0-0-ff9335fc156f2ce5a822753042f8e69d",
     "type": "hls"
   },
   {
@@ -230,7 +185,7 @@
     "name": "FIFA WU20: Brazil U20 Women vs USA U20 Women - BÚN ĐẬU",
     "logo": "https://sta.vnres.co/file/common/20260729/d06a0efe274bce28547238bec2a125b9.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1789571702-0-0-b01d6766b9244d9b5d88cda7c718efcf",
+    "url": "https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1789572243-0-0-edcbe49fccb4007ec4dca7ea93fc87f0",
     "type": "hls"
   },
   {
@@ -239,7 +194,7 @@
     "name": "EGY D1: El Gounah vs Petrojet - BÒ TƯƠI",
     "logo": "https://sta.vnres.co/file/common/20260721/eae172928facf755dbf2027ca230e55e.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-620797_lhd.m3u8?txSecret=c17703612678ab52286dc4a2bc15138c\u0026txTime=6aaaf8c6",
+    "url": "https://pull.niur.live/live/stream-620797_lhd.m3u8?txSecret=5e6bc17700580419077fa0aad9d90bac\u0026txTime=6aaafae3",
     "type": "hls"
   },
   {
@@ -248,7 +203,7 @@
     "name": "MAS FAC: Terengganu FC vs DPMM FC - MP3",
     "logo": "https://sta.vnres.co/file/common/20260810/042a00493898027e5f644f6f24e88c53.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=cc26aa450a396fbc0b7140cc53c94f97\u0026txTime=6aaaf8c6",
+    "url": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=3aea11270e38ccfe6328389b7ce46ae9\u0026txTime=6aaafae3",
     "type": "hls"
   },
   {
@@ -257,7 +212,7 @@
     "name": "RUS D2: Yenisey Krasnoyarsk vs Arsenal Tula - A MÂN",
     "logo": "https://sta.vnres.co/file/common/20260831/8c106fa0fe146cf7929663e53e921ba0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789571702-0-0-803b0f3ad27738b1863a7870ac22c3ef",
+    "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789572243-0-0-8cf5f9264daf7f2b1e1985173b2c0689",
     "type": "hls"
   },
   {
@@ -266,7 +221,7 @@
     "name": "BCL: Bakken Bears vs Zwolle - KING",
     "logo": "https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789571702-0-0-f92a0acc66e51721c38b094391dda406",
+    "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789572243-0-0-4f615a0c21fcdf7b42f26a6d6fc07843",
     "type": "hls"
   },
   {
@@ -275,7 +230,7 @@
     "name": "MAS FAC: Terengganu FC vs DPMM FC - BLV RÔSI",
     "logo": "https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=acd2cd614371ceb8ac90edb63d674930\u0026txTime=6aaaf8c6",
+    "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=e8cdfcb875e93f2ec3aba4d7521c1914\u0026txTime=6aaafae3",
     "type": "hls"
   },
   {
@@ -284,7 +239,7 @@
     "name": "BCL: Bakken Bears vs Zwolle - CHAN SENA",
     "logo": "https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789571702-0-0-2e2f8460a9ad04ad20a26926c674017d",
+    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789572243-0-0-5cc28190632ee6dadce2afc4a2dfbc72",
     "type": "hls"
   },
   {
@@ -293,7 +248,7 @@
     "name": "FIFA WU20: Argentina U20 Women vs South Korea U20 Women - KENCHU",
     "logo": "https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789571702-0-0-e5010f0baafca70a9c694255470d3925",
+    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789572243-0-0-25923c5c227d18bab17a3caa4146297e",
     "type": "hls"
   },
   {
@@ -302,7 +257,7 @@
     "name": "RUS D2: Yenisey Krasnoyarsk vs Arsenal Tula - SEVEN",
     "logo": "https://sta.vnres.co/file/common/20260715/0e572fd7d0bfc5ce5cf538c09b8cace4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=23f5454ad9aa21f0d9081665c87222d7\u0026txTime=6aaaf8c6",
+    "url": "https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=bb7dcc3d53c6b928ad59f192551e7ba5\u0026txTime=6aaafae3",
     "type": "hls"
   },
   {
@@ -311,7 +266,7 @@
     "name": "FIFA WU20: Argentina U20 Women vs South Korea U20 Women - BLV PIRLO",
     "logo": "https://sta.vnres.co/file/common/20250320/efe293015c817dee46ccc81fa5e934d7.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=1fae4ad972b78b595278f1d3cd04bee0\u0026txTime=6aaaf8c6",
+    "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=4887e97d9a283ffdf21b77fcae730b23\u0026txTime=6aaafae3",
     "type": "hls"
   },
   {
@@ -320,7 +275,7 @@
     "name": "EGY D1: El Gounah vs Petrojet - BLV A TÚ",
     "logo": "https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789571702-0-0-c7cb10ebe8b1273e02d5b65ffe214a22",
+    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789572243-0-0-df51ff35ca793371dd93eee0e8293f64",
     "type": "hls"
   },
   {
@@ -329,25 +284,7 @@
     "name": "FIFA WU20: Brazil U20 Women vs USA U20 Women - BLV XO",
     "logo": "https://sta.vnres.co/file/common/20260613/cc7eb6fb9d74dfa083a48c861b135ae8.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=7bd3b86a8d94dc739910ee2a11b104da\u0026txTime=6aaaf8c6",
-    "type": "hls"
-  },
-  {
-    "id": "9912142",
-    "tvg_id": "room-9912142",
-    "name": "ACL2: The Cong-Viettel vs Melbourne Victory - A BỆU",
-    "logo": "https://sta.vnres.co/file/common/20260830/683bbb96de277e28f88b1d08678ac124.png",
-    "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789571702-0-0-918d6421491e59fff628c64f164aaff6",
-    "type": "hls"
-  },
-  {
-    "id": "9912146",
-    "tvg_id": "room-9912146",
-    "name": "ACL2: The Cong-Viettel vs Melbourne Victory - BLV CUỘI",
-    "logo": "https://sta.vnres.co/file/common/20260829/f6903a1879b3c7cc22d27c658db14d94.png",
-    "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789571702-0-0-a0830cfe7e582a800b89038224dcc4e4",
+    "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=52c454fb1e75bb2e5322c6f05f7084a5\u0026txTime=6aaafae3",
     "type": "hls"
   }
 ]
