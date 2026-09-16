@@ -86,7 +86,7 @@
     "name": "Liga Dep Universitaria Quito vs Palmeiras - SP (LIB Cup)",
     "logo": "https://sta.vnres.co/file/common/20260913/71b46d83afb341b91efbc521c5e48195.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=6f979856fbf337b233e12ec27ea283bc\u0026txTime=6aab59ce",
+    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=48f1688ab40cdb4c835994a14eb961e6\u0026txTime=6aab5c26",
     "type": "hls"
   },
   {
@@ -113,7 +113,7 @@
     "name": "FC Barcelona vs Racing Santander (SPA D1)",
     "logo": "https://sta.vnres.co/file/common/20260913/0218e2ddca126a585f6fedc52ce6f41b.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1789596542-0-0-104ce6161275e931c307479f41cedf1f",
+    "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1789597142-0-0-13ff98a54a690fca6d95199b90c656d2",
     "type": "hls"
   },
   {
@@ -122,7 +122,7 @@
     "name": "FC Barcelona vs Racing Santander (SPA D1)",
     "logo": "https://sta.vnres.co/file/common/20260913/0218e2ddca126a585f6fedc52ce6f41b.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1789596542-0-0-d9e521772f47a08d1ac90276d3630500",
+    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1789597142-0-0-971bcf990aadeec1c378cd23931b8c2d",
     "type": "hls"
   },
   {
@@ -140,7 +140,7 @@
     "name": "FC Barcelona vs Racing Santander (SPA D1)",
     "logo": "https://sta.vnres.co/file/common/20260913/0218e2ddca126a585f6fedc52ce6f41b.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789596542-0-0-23c05fb0827c576a20c30e6678ca5d22",
+    "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789597142-0-0-9d927e5e17310adfc8fddfe10f2efaa4",
     "type": "hls"
   },
   {
@@ -158,7 +158,7 @@
     "name": "Columbus Crew vs Orlando City (USA Cup)",
     "logo": "https://sta.vnres.co/file/common/20260913/1265d4b84aa73f282059e472b9a1cf65.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789573993-0-0-7bf00fa782fb6bb59862b7480bb95dc1",
+    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789597134-0-0-03d221aa5d3595977239bec9a5a67330",
     "type": "hls"
   },
   {
@@ -176,7 +176,7 @@
     "name": "FC Barcelona vs Racing Santander (SPA D1)",
     "logo": "https://sta.vnres.co/file/common/20260913/0218e2ddca126a585f6fedc52ce6f41b.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1789596542-0-0-72e243db8ded90e5755023670205547f",
+    "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1789597142-0-0-ed9575e27fec8ee8204e83071d21cb56",
     "type": "hls"
   },
   {
@@ -194,7 +194,7 @@
     "name": "FC Barcelona vs Racing Santander (SPA D1)",
     "logo": "https://sta.vnres.co/file/common/20260913/0218e2ddca126a585f6fedc52ce6f41b.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789596842-0-0-38c36392e2eaae391c0d14b4358411f8",
+    "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789597442-0-0-a348d7b3cbb65aabf836bf03d9939854",
     "type": "hls"
   },
   {
@@ -203,7 +203,7 @@
     "name": "FC Barcelona vs Racing Santander (SPA D1)",
     "logo": "https://sta.vnres.co/file/common/20260913/0218e2ddca126a585f6fedc52ce6f41b.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789596842-0-0-a64f2d46f083d358f700a9912ea14d19",
+    "url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789597442-0-0-bb37224139348c8bc4dc3494e7d3e1b8",
     "type": "hls"
   },
   {
@@ -216,12 +216,21 @@
     "type": "hls"
   },
   {
+    "id": "607400",
+    "tvg_id": "room-607400",
+    "name": "LIB Cup: Liga Dep Universitaria Quito vs Palmeiras - SP - HÀ DUY KIÊN",
+    "logo": "https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=48f1688ab40cdb4c835994a14eb961e6\u0026txTime=6aab5c26",
+    "type": "hls"
+  },
+  {
     "id": "622240",
     "tvg_id": "room-622240",
     "name": "SPA D1: FC Barcelona vs Racing Santander - CURRY",
     "logo": "https://sta.vnres.co/file/common/20260809/8d3ecd1339e9fe41608eb4b7f008436c.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1789596542-0-0-104ce6161275e931c307479f41cedf1f",
+    "url": "https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1789597142-0-0-13ff98a54a690fca6d95199b90c656d2",
     "type": "hls"
   },
   {
@@ -230,7 +239,7 @@
     "name": "SPA D1: FC Barcelona vs Racing Santander - BLV FIREMAN",
     "logo": "https://sta.vnres.co/file/common/20240614/d900dd8841b1223c7b58554cde34df75.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1789596542-0-0-d9e521772f47a08d1ac90276d3630500",
+    "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1789597142-0-0-971bcf990aadeec1c378cd23931b8c2d",
     "type": "hls"
   },
   {
@@ -239,7 +248,7 @@
     "name": "SPA D1: FC Barcelona vs Racing Santander - HẢI THANH",
     "logo": "https://sta.vnres.co/file/common/20260829/f624027ec79ccc757bf8d5a663d63763.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789596542-0-0-23c05fb0827c576a20c30e6678ca5d22",
+    "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789597142-0-0-9d927e5e17310adfc8fddfe10f2efaa4",
     "type": "hls"
   },
   {
@@ -248,7 +257,7 @@
     "name": "SPA D1: FC Barcelona vs Racing Santander - LOKA",
     "logo": "https://sta.vnres.co/file/common/20260411/c1490960e7f4b63fdc78206c576d2da8.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1789596542-0-0-72e243db8ded90e5755023670205547f",
+    "url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1789597142-0-0-ed9575e27fec8ee8204e83071d21cb56",
     "type": "hls"
   },
   {
@@ -257,7 +266,7 @@
     "name": "SPA D1: FC Barcelona vs Racing Santander - BLV MESSI",
     "logo": "https://sta.vnres.co/file/common/20260909/1edb9c9016b6d011552439c71d3e5158.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789596542-0-0-f408d49e9b1ecbb8a6f9d8512ead10f1",
+    "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789597142-0-0-6a3427462c2e6564c106d9e2a04e176a",
     "type": "hls"
   },
   {
@@ -266,7 +275,7 @@
     "name": "SPA D1: FC Barcelona vs Racing Santander - A BỆU",
     "logo": "https://sta.vnres.co/file/common/20260830/683bbb96de277e28f88b1d08678ac124.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789596542-0-0-100ac8ec1d8464146bb569b7d53620f1",
+    "url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789597142-0-0-5b8f9e989d63800dec7ddd7748ecece3",
     "type": "hls"
   }
 ]
