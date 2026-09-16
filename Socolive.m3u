@@ -1,107 +1,123 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 51
-# Updated: 16/09/2026 23:30:07
+# Channels: 59
+# Updated: 16/09/2026 23:40:06
 
 #EXTINF:-1 tvg-id="room-321443" tvg-logo="https://sta.vnres.co/file/common/20260913/8b4f47f588bc63d3c88c9ae9cb10f2af.png" group-title="Bóng đá",Al Khaldiya vs Nasaf Qarshi (ACL2)
-https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=68f17f6f9a6e2469d460bed82d02e33a&txTime=6aab182e
+https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=090c3fff3cd5f0eeeb2854d3e24a6860&txTime=6aab1a87
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260913/5b3e209c9e18969e9ae8867f3a918513.png" group-title="Bóng đá",Spartak Moscow vs Fakel Voronezh (RUS D1)
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789579743-0-0-16d6caedd34d0ef11fbfd130fe4f2f73
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789580343-0-0-00aa66b48566f1fd2322a5829e8bd050
 #EXTINF:-1 tvg-id="room-536185" tvg-logo="https://sta.vnres.co/file/common/20260913/824ce08e395a492f7640348b0560f8fa.png" group-title="Bóng đá",Al-Hussein SC (Irbid) vs East Bengal FC (ACL2)
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1789579743-0-0-42191ffa4997e189babee424c0be1f09
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1789580343-0-0-48c86a9791eb3856d0f49a8344aed851
 #EXTINF:-1 tvg-id="room-552832" tvg-logo="https://sta.vnres.co/file/common/20260913/14c17aa8070a962aa182551698bcb5b2.png" group-title="Bóng đá",Rodina Moscow vs Rubin Kazan (RUS D1)
-https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=bc6efdf621419808fee9d7aa511f7544&txTime=6aab182f
+https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=924b3510effa8a51e5907a320ce855f2&txTime=6aab1a87
 #EXTINF:-1 tvg-id="room-597929" tvg-logo="https://sta.vnres.co/file/common/20260913/14c17aa8070a962aa182551698bcb5b2.png" group-title="Bóng đá",Rodina Moscow vs Rubin Kazan (RUS D1)
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1789579743-0-0-7f2ef72343b19ff486acace6df3655bc
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1789580343-0-0-a5ed0d6ca521d6f4c0a28997a9d1ffda
 #EXTINF:-1 tvg-id="room-607552" tvg-logo="https://sta.vnres.co/file/common/20260913/86daf2b53d406b4278f9806ce9884c01.png" group-title="Bóng đá",Al Wahda(UAE) vs Al Kuwait SC (ACL2)
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1789579743-0-0-3f87e86392f41b04292d79266f65dc9c
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1789580343-0-0-0073f2965376cc7e0262d5962ad67a26
 #EXTINF:-1 tvg-id="room-610518" tvg-logo="https://sta.vnres.co/file/common/20260913/86daf2b53d406b4278f9806ce9884c01.png" group-title="Bóng đá",Al Wahda(UAE) vs Al Kuwait SC (ACL2)
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=375212ed36475cfece092893f57a47f7&txTime=6aab182f
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=de0f5b177acd7c00ead92119e9912af4&txTime=6aab1a87
 #EXTINF:-1 tvg-id="room-620504" tvg-logo="https://sta.vnres.co/file/common/20260913/824ce08e395a492f7640348b0560f8fa.png" group-title="Bóng đá",Al-Hussein SC (Irbid) vs East Bengal FC (ACL2)
-https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1789579743-0-0-fe6a9b497077bc6a93280cd44f6eb355
+https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1789580343-0-0-27d3e6d95ab527179be9235115bb748e
 #EXTINF:-1 tvg-id="room-621843" tvg-logo="https://sta.vnres.co/file/common/20260913/5b3e209c9e18969e9ae8867f3a918513.png" group-title="Bóng đá",Spartak Moscow vs Fakel Voronezh (RUS D1)
-https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1789579803-0-0-58c4339acbd7d3293ccc3004a13a555e
+https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1789580343-0-0-4dabf38f5e0bb4afa5d4da8df7b62824
 #EXTINF:-1 tvg-id="room-622093" tvg-logo="https://sta.vnres.co/file/common/20260913/8b4f47f588bc63d3c88c9ae9cb10f2af.png" group-title="Bóng đá",Al Khaldiya vs Nasaf Qarshi (ACL2)
-https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=a4626a6e49e48bbcbb3acd0c74346a89&txTime=6aab186b
+https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=e33570253fecf6a00560472b9825aef2&txTime=6aab1a87
 #EXTINF:-1 tvg-id="room-627718" tvg-logo="https://sta.vnres.co/file/common/20260913/5b3e209c9e18969e9ae8867f3a918513.png" group-title="Bóng đá",Spartak Moscow vs Fakel Voronezh (RUS D1)
-https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789579803-0-0-45ac5aec7db96ee70c3480d757b02684
+https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789580343-0-0-14290b1e306ef9d1ba3c04ce42f6850a
 #EXTINF:-1 tvg-id="room-9912123" tvg-logo="https://sta.vnres.co/file/common/20260913/d000237e262264bc357a06224b172e4f.png" group-title="Bóng đá",Lokomotiv Sofia vs CSKA Sofia (BUL D1)
-https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1789579803-0-0-1f5393ab3869a4c462229972a91a48e8
+https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1789580343-0-0-1bd7783b82d4e97ba3ad7cc7b9127bed
 #EXTINF:-1 tvg-id="room-9912128" tvg-logo="https://sta.vnres.co/file/common/20260913/14c17aa8070a962aa182551698bcb5b2.png" group-title="Bóng đá",Rodina Moscow vs Rubin Kazan (RUS D1)
-https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789579803-0-0-096ba831e39c4a0d07bafd6e047d1218
+https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789580343-0-0-e7a66ef90079b39247e3cc8197e8d9ae
 #EXTINF:-1 tvg-id="room-9912136" tvg-logo="https://sta.vnres.co/file/common/20260913/14c17aa8070a962aa182551698bcb5b2.png" group-title="Bóng đá",Rodina Moscow vs Rubin Kazan (RUS D1)
-https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=b8453339437418d0a481092d753707c8&txTime=6aab186b
+https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=7abd0435bd21dff91e3cc97c2c1dbced&txTime=6aab1a87
 #EXTINF:-1 tvg-id="room-9912138" tvg-logo="https://sta.vnres.co/file/common/20260913/d000237e262264bc357a06224b172e4f.png" group-title="Bóng đá",Lokomotiv Sofia vs CSKA Sofia (BUL D1)
-https://pull.niur.live/live/stream-9912138_lhd.m3u8?txSecret=d843b9f3a0aabc43af536e4db643377e&txTime=6aab186b
+https://pull.niur.live/live/stream-9912138_lhd.m3u8?txSecret=602981d866af98bdc925bf2ebd39c864&txTime=6aab1a87
 #EXTINF:-1 tvg-id="room-9912145" tvg-logo="https://sta.vnres.co/file/common/20260913/5b3e209c9e18969e9ae8867f3a918513.png" group-title="Bóng đá",Spartak Moscow vs Fakel Voronezh (RUS D1)
-https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789579803-0-0-234941c10d5d2ddbab0e0c6afc64ad68
+https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789580403-0-0-86027b5f8f773eccde8f7c416d0f2750
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260914/74efbd1b9e92e64777afb576f3d6e4de.png" group-title="Bóng rổ",Fribourg Olympic vs Batumi (BCL)
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789579803-0-0-20f87096b8fb53debde19c44439eecfe
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789580343-0-0-5e978a49a1639d192daed9499aec529e
+#EXTINF:-1 tvg-id="room-291277" tvg-logo="https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg" group-title="SocoLive",SPA D1: Atletico Madrid vs CA Osasuna - CÔNG CHẤT
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=b5d3fa38bf6102b1f18d5333fdea3e9e&txTime=6aab195a
 #EXTINF:-1 tvg-id="room-304148" tvg-logo="https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg" group-title="SocoLive",UEFA EL: Ararat-Armenia FC vs AC Sparta Praha - BLV LUCAS
-https://pull.niur.live/live/stream-304148_lhd.m3u8?txSecret=38a2d445cc85cd4421c12080b96b2674&txTime=6aab1718
+https://pull.niur.live/live/stream-304148_lhd.m3u8?txSecret=bc86b33ee952607c5386b9bd557319d6&txTime=6aab195a
 #EXTINF:-1 tvg-id="room-321443" tvg-logo="https://sta.vnres.co/file/common/20260603/54289b9ef989aba74cff5bfdee1d4656.png" group-title="SocoLive",ACL2: Al Khaldiya vs Nasaf Qarshi - BLV GIÓ
-https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=219e87cb79505d1dfef3e29561a83b8d&txTime=6aab1702
+https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=09fff3c3ca3a6a9b71eda90ec8c33edd&txTime=6aab195b
 #EXTINF:-1 tvg-id="room-380460" tvg-logo="https://sta.vnres.co/file/common/20260827/1d4f9eca02a381435aaec138589dd9ef.jpg" group-title="SocoLive",UEFA EL: Omonia Nicosia FC vs RC Celta - BLV ENZO
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1789579442-0-0-313c74a2445734b1df5e418ca0206074
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1789580043-0-0-221e8ec9f84d7368b0315c6335361d12
+#EXTINF:-1 tvg-id="room-387694" tvg-logo="https://sta.vnres.co/file/common/20260917/53e0318d1ce280bcceaa16566ac7d0f9.png" group-title="SocoLive",SPA D1: Atletico Madrid vs CA Osasuna - CR Bưởi
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=645c867450bd39705556354a586f4adc&txTime=6aab195b
 #EXTINF:-1 tvg-id="room-406865" tvg-logo="https://sta.vnres.co/file/common/20241220/6200343fea7ece69d7d92ae718616478.jpg" group-title="SocoLive",ACL2: Al Nahda SC vs Al Taawoun - BLV ANH TÀI
-https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=57b893ea61079e41f786a406c3038b79&txTime=6aab1702
+https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=0d80ff68f29ae23098a5959e6bb84de1&txTime=6aab195b
 #EXTINF:-1 tvg-id="room-511367" tvg-logo="https://sta.vnres.co/file/common/20251121/6d691b0b9dfd9eeb599401a2499400f0.png" group-title="SocoLive",UEFA EL: Ararat-Armenia FC vs AC Sparta Praha - BLV WUKONG
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1789579443-0-0-99e0c4aa518ccaee498fa62c39d4589e
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1789580043-0-0-317861882cd23ab3f00fc3467e3621e3
+#EXTINF:-1 tvg-id="room-527383" tvg-logo="https://sta.vnres.co/file/common/20260626/fcd1d9373f93de7ff3ebfbee3f073c7c.jpg" group-title="SocoLive",SPA D1: RC Deportivo vs Sevilla FC - BLV ROBBEN
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789580043-0-0-d870fedff702f09f9c7eb8221e4c04da
 #EXTINF:-1 tvg-id="room-527384" tvg-logo="https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg" group-title="SocoLive",UEFA EL: Omonia Nicosia FC vs RC Celta - LÃO LÂM
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789579443-0-0-7539c4d35bc0247fb43d3dd4e6702257
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789580043-0-0-06ab75c873aa7595594ba7e21aa0e2b4
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg" group-title="SocoLive",RUS D1: Spartak Moscow vs Fakel Voronezh - BLV ALEX
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789579443-0-0-1fb94fcddc94055ae9004f0cef9420f9
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789580043-0-0-dfc1734c5d82cbad0aa9f94d6d8d8ff6
 #EXTINF:-1 tvg-id="room-536185" tvg-logo="https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg" group-title="SocoLive",ACL2: Al-Hussein SC (Irbid) vs East Bengal FC - BLV A WIN
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1789579443-0-0-6ad57eb58d3d6425fcf2256c14029be8
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1789580043-0-0-88a5d39e823c7eecb77a1007abd795ca
 #EXTINF:-1 tvg-id="room-552832" tvg-logo="https://sta.vnres.co/file/common/20251111/6a43978efb637082f6eb906c1e7f1621.jpg" group-title="SocoLive",RUS D1: Rodina Moscow vs Rubin Kazan - LOGAN
-https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=f3fde49e43e210f731f795522904799b&txTime=6aab1703
+https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=70f97151e491b2068da6de841e1ce103&txTime=6aab195b
 #EXTINF:-1 tvg-id="room-597929" tvg-logo="https://sta.vnres.co/file/common/20260312/cb002ebc914e9240a9242c43ec27aacb.jpg" group-title="SocoLive",RUS D1: Rodina Moscow vs Rubin Kazan - BLV CÁO
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1789579443-0-0-21ee518c317b590a2c871c27ecab5453
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1789580043-0-0-0e7d9aaa4c78e756268b2cd83d90aa89
 #EXTINF:-1 tvg-id="room-607552" tvg-logo="https://sta.vnres.co/file/common/20260522/f2b4ef051d1e02300d2d5bf24f3828f0.png" group-title="SocoLive",ACL2: Al Wahda(UAE) vs Al Kuwait SC - ĐỖ TÚ TÀI
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1789579443-0-0-eef153b7219345ecf4676d9711007d12
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1789580043-0-0-067021da45d2cc874b9520dd1f74b39c
 #EXTINF:-1 tvg-id="room-610518" tvg-logo="https://sta.vnres.co/file/common/20260628/336b2e008de11bb26c1d4e0e46bc9f95.jpg" group-title="SocoLive",ACL2: Al Wahda(UAE) vs Al Kuwait SC - XUÂN TÓC ĐỎ
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=486b0e18560d57cd9a931b957ae966d0&txTime=6aab1703
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=950d84a8182063e3fa0e1f32d29f2978&txTime=6aab195b
 #EXTINF:-1 tvg-id="room-617313" tvg-logo="https://sta.vnres.co/file/common/20260910/0b1046f9ea6e137597f737c5d46ef984.jpg" group-title="SocoLive",ACL2: Al Nahda SC vs Al Taawoun - VINFAST
-https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1789579443-0-0-2b12e0d4f77f830dde93fbdabea8addd
+https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1789580043-0-0-a2935fd03e2aba6d585e7672711f5b81
+#EXTINF:-1 tvg-id="room-619561" tvg-logo="https://sta.vnres.co/file/common/20260729/d06a0efe274bce28547238bec2a125b9.jpg" group-title="SocoLive",SPA D1: RC Deportivo vs Sevilla FC - BÚN ĐẬU
+https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1789580043-0-0-41f8ecdca95c09e5e86c0abf32a6591a
 #EXTINF:-1 tvg-id="room-620504" tvg-logo="https://sta.vnres.co/file/common/20260802/d0b756ac34b8f00d22a6d687f86fe8b2.jpg" group-title="SocoLive",ACL2: Al-Hussein SC (Irbid) vs East Bengal FC - BOSS
-https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1789579443-0-0-ca12d53e68f7ba0dc05c14123170c48c
+https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1789580043-0-0-d861c1e365db68079ed37ad2849e2351
 #EXTINF:-1 tvg-id="room-620797" tvg-logo="https://sta.vnres.co/file/common/20260721/eae172928facf755dbf2027ca230e55e.png" group-title="SocoLive",UEFA EL: Ararat-Armenia FC vs AC Sparta Praha - BÒ TƯƠI
-https://pull.niur.live/live/stream-620797_lhd.m3u8?txSecret=790d0d97f900f72c2941e1736c1df742&txTime=6aab1703
+https://pull.niur.live/live/stream-620797_lhd.m3u8?txSecret=6d5dcbe70aee186b50ad3364a29ae70c&txTime=6aab195b
+#EXTINF:-1 tvg-id="room-621840" tvg-logo="https://sta.vnres.co/file/common/20260810/042a00493898027e5f644f6f24e88c53.png" group-title="SocoLive",SPA D1: RC Deportivo vs Sevilla FC - MP3
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=0ff0035525daac42f1bedea9f07d0372&txTime=6aab195b
 #EXTINF:-1 tvg-id="room-621843" tvg-logo="https://sta.vnres.co/file/common/20260916/fc74508168b08d2af23518f767b4dad6.jpg" group-title="SocoLive",RUS D1: Spartak Moscow vs Fakel Voronezh - BLV BẢY
-https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1789579443-0-0-246fd12ac6f694750c127a0de0bcdc37
+https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1789580043-0-0-47ac9b77bc7233e6768d2422b8fbb1c3
 #EXTINF:-1 tvg-id="room-622093" tvg-logo="https://sta.vnres.co/file/common/20260703/fe517d18a8df723cee92683347d70be9.jpg" group-title="SocoLive",ACL2: Al Khaldiya vs Nasaf Qarshi - GRAP
-https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=72ddcd7f24b668da4011324f82c1e00e&txTime=6aab1703
+https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=96e4bda593bc03270a63fb87b36b445e&txTime=6aab195b
 #EXTINF:-1 tvg-id="room-622240" tvg-logo="https://sta.vnres.co/file/common/20260809/8d3ecd1339e9fe41608eb4b7f008436c.jpg" group-title="SocoLive",UEFA EL: Omonia Nicosia FC vs RC Celta - CURRY
-https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1789579443-0-0-cc0cb1c42ca2ebb85b5f95670ccdfc26
+https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1789580043-0-0-12783938e6104d13e3e6cb72708ecc70
 #EXTINF:-1 tvg-id="room-627718" tvg-logo="https://sta.vnres.co/file/common/20260831/8c106fa0fe146cf7929663e53e921ba0.jpg" group-title="SocoLive",RUS D1: Spartak Moscow vs Fakel Voronezh - A MÂN
-https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789579443-0-0-5c9b0a1c85ff0e8ef436fc013270a4be
+https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789580043-0-0-8d57c7adb15ad2553cf3b9beb0c6a50f
 #EXTINF:-1 tvg-id="room-991140" tvg-logo="https://sta.vnres.co/file/common/20240614/d900dd8841b1223c7b58554cde34df75.jpg" group-title="SocoLive",UEFA EL: Omonia Nicosia FC vs RC Celta - BLV FIREMAN
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1789579442-0-0-e6379535e9c757d71d1c9018b0b6ef6b
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1789580042-0-0-cbf4ec92d93c253b35554d5c6a007aa6
+#EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260916/ac6bdd83938a883b99d4decbb783faa9.jpg" group-title="SocoLive",SPA D1: Atletico Madrid vs CA Osasuna - BLV Củ Cải
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789580043-0-0-4c3723d7c6a585377504562600db3fd1
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-title="SocoLive",BCL: Fribourg Olympic vs Batumi - BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789579503-0-0-fe199746af0ad57074200b1c23e06b43
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789580042-0-0-c00c35c3331b4b0ce95a27ea8ae891a9
+#EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260914/4668dc4fe05d802b4fda3b6c5027b260.png" group-title="SocoLive",SPA D1: Atletico Madrid vs CA Osasuna - BLV ZOWIE
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789580343-0-0-aec47662b62a6886c4057116ef64f1da
+#EXTINF:-1 tvg-id="room-9912116" tvg-logo="https://sta.vnres.co/file/common/20260914/f04c175cdb83fc9fca5281ccb9f1a78e.jpg" group-title="SocoLive",SPA D1: RC Deportivo vs Sevilla FC - THẠCH TÚ
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=552bc44e62b1e465c8df09c0ae80ee5e&txTime=6aab1a87
 #EXTINF:-1 tvg-id="room-9912119" tvg-logo="https://sta.vnres.co/file/common/20260829/f624027ec79ccc757bf8d5a663d63763.jpg" group-title="SocoLive",SPA D1: Atletico Madrid vs CA Osasuna - HẢI THANH
-https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789579443-0-0-2a30abe79cd621a208d53d6050272483
+https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789580343-0-0-c413244601b7fdd291689b77d6aab693
 #EXTINF:-1 tvg-id="room-9912123" tvg-logo="https://sta.vnres.co/file/common/20260725/0eb3315ecb9cf5c7f5f9b102d38e52f9.jpg" group-title="SocoLive",BUL D1: Lokomotiv Sofia vs CSKA Sofia - RỒNG ĐẤT
-https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1789579443-0-0-989859b6889904826fd49939a344b333
+https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1789580343-0-0-1bd7783b82d4e97ba3ad7cc7b9127bed
 #EXTINF:-1 tvg-id="room-9912126" tvg-logo="https://sta.vnres.co/file/common/20260715/0e572fd7d0bfc5ce5cf538c09b8cace4.jpg" group-title="SocoLive",UEFA EL: Ararat-Armenia FC vs AC Sparta Praha - SEVEN
-https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=d6a172e452144ae2eeefc64827de693f&txTime=6aab1703
+https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=77b984638290b2e8c69cf00599786e4d&txTime=6aab1a87
 #EXTINF:-1 tvg-id="room-9912128" tvg-logo="https://sta.vnres.co/file/common/20260729/2cca708e4ee1d3e988c578ff79960d7b.jpg" group-title="SocoLive",RUS D1: Rodina Moscow vs Rubin Kazan - CACAO
-https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789579443-0-0-5534c88d181fc4747ad4c4324da3aa50
+https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789580343-0-0-e7a66ef90079b39247e3cc8197e8d9ae
 #EXTINF:-1 tvg-id="room-9912130" tvg-logo="https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png" group-title="SocoLive",SPA D1: RC Deportivo vs Sevilla FC - BLV A TÚ
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789579443-0-0-853881d49c591649606e1b03f44437cb
+https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789580343-0-0-7785a25b339e02a37e14a7958777f081
 #EXTINF:-1 tvg-id="room-9912132" tvg-logo="https://sta.vnres.co/file/common/20260613/cc7eb6fb9d74dfa083a48c861b135ae8.jpg" group-title="SocoLive",UEFA EL: Ararat-Armenia FC vs AC Sparta Praha - BLV XO
-https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=8e6a275e55873a20afbc3a39362847e5&txTime=6aab173f
+https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=6ecf4218bfbd2d1d9a10a0b314f50347&txTime=6aab1a87
 #EXTINF:-1 tvg-id="room-9912133" tvg-logo="https://sta.vnres.co/file/common/20260411/c1490960e7f4b63fdc78206c576d2da8.png" group-title="SocoLive",UEFA EL: Omonia Nicosia FC vs RC Celta - LOKA
-https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1789579743-0-0-0f819045757fe19a4cf58026abe7e2f4
+https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1789580343-0-0-da7ee3629de7e8608d412e835f725100
 #EXTINF:-1 tvg-id="room-9912136" tvg-logo="https://sta.vnres.co/file/common/20260810/b792b2c329f2ffe44037f2d5973945de.jpg" group-title="SocoLive",RUS D1: Rodina Moscow vs Rubin Kazan - BLV LONG
-https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=fda9facfedad3bb6780a543dc017aa6b&txTime=6aab182e
+https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=7abd0435bd21dff91e3cc97c2c1dbced&txTime=6aab1a87
 #EXTINF:-1 tvg-id="room-9912138" tvg-logo="https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg" group-title="SocoLive",BUL D1: Lokomotiv Sofia vs CSKA Sofia - TUẤN CÙI
-https://pull.niur.live/live/stream-9912138_lhd.m3u8?txSecret=baf04e913d2e660fd1ee0194e8ad0158&txTime=6aab182e
+https://pull.niur.live/live/stream-9912138_lhd.m3u8?txSecret=602981d866af98bdc925bf2ebd39c864&txTime=6aab1a87
 #EXTINF:-1 tvg-id="room-9912141" tvg-logo="https://sta.vnres.co/file/common/20260909/1edb9c9016b6d011552439c71d3e5158.jpg" group-title="SocoLive",UEFA EL: Ararat-Armenia FC vs AC Sparta Praha - BLV MESSI
-https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789579743-0-0-8475a87dac685a29b219b9dca3091570
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789580343-0-0-dd9c615d1438370ea796df22ce1e3fe0
 #EXTINF:-1 tvg-id="room-9912142" tvg-logo="https://sta.vnres.co/file/common/20260830/683bbb96de277e28f88b1d08678ac124.png" group-title="SocoLive",UEFA EL: Omonia Nicosia FC vs RC Celta - A BỆU
-https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789579754-0-0-c1a9a35e57a9b7be991948b124a2e50e
+https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789580343-0-0-4bba19bc304869fd0e95e0f00b1e4ecf
 #EXTINF:-1 tvg-id="room-9912143" tvg-logo="https://sta.vnres.co/file/common/20260908/25a8cd45f3d227a96b46e77ba0d942c2.png" group-title="SocoLive",SPA D1: Atletico Madrid vs CA Osasuna - NGƯỜI CÁ
-https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789579743-0-0-ac586184a18e46ddcea9cfedfe9e5340
+https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789580343-0-0-5b1dfe968226647d59a540d2a0e4744a
 #EXTINF:-1 tvg-id="room-9912145" tvg-logo="https://sta.vnres.co/file/common/20260916/38541c72a8c12d8baa1c120cd489d9a9.jpg" group-title="SocoLive",RUS D1: Spartak Moscow vs Fakel Voronezh - ZIDANE
-https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789579742-0-0-a2d9812e6fa8bafeaaf30f4fd246d4ba
+https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789580343-0-0-7ef0e71752bac604c9fc68a21d4b79c7
