@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 33
-# Updated: 16/09/2026 10:10:05
+# Channels: 31
+# Updated: 16/09/2026 10:20:05
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260913/9f83c98ae4d43c4dcf837cea65771bf6.png" group-title="Bóng đá",Thailand U23 vs Kyrgyzstan U23 (AGS)
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789529876-0-0-fb7b6e6757a3355b9c267e17301f2de2
@@ -42,30 +42,26 @@ https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789499332-0-0-806
 #EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260913/6de3aa57fd2cdbc29dca32f33324381f.png" group-title="Bóng đá",United Arab Emirates U23 vs Iran U23 (AGS)
 https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789499373-0-0-182255bf3b8b54c15a633d328bf1b45b
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260914/a6519a3abe4bffc30b29084e6e469dd7.png" group-title="Bóng rổ",Fuerza Regia vs Mineros (LNBP)
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=8f404f217ee4a242d20d4eb7306dd3a5&txTime=6aaa5b82
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=15874013a031cbadaf1f9c3a4c542907&txTime=6aaa5dda
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260914/a6519a3abe4bffc30b29084e6e469dd7.png" group-title="Bóng rổ",Fuerza Regia vs Mineros (LNBP)
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=8da6b6142d7812863fc8a792ad0dedf5&txTime=6aaa5b82
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=92cc23911e8010a83a1d38eab0e1878f&txTime=6aaa5dda
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260914/cb0773116a7c83d32ee1adaa812ab883.png" group-title="Bóng rổ",Dorados vs El Calor de Cancun (LNBP)
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789531442-0-0-ae7d60cba9fc8d1cdd40d2d8174250b7
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789532042-0-0-440720e8ce6ce653a91f34ee6c072ebe
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260914/a6519a3abe4bffc30b29084e6e469dd7.png" group-title="Bóng rổ",Fuerza Regia vs Mineros (LNBP)
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789531442-0-0-73e830e71901774d2a5b477a27df6a24
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789532042-0-0-8d4f4f7930a668efc85d3c2748c1e420
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260914/a6519a3abe4bffc30b29084e6e469dd7.png" group-title="Bóng rổ",Fuerza Regia vs Mineros (LNBP)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789531442-0-0-f6226c38a98b0d0c07bc5473322fff67
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789532102-0-0-c6e6e3aeb1f26050741be998f6c5a3ec
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260914/cb0773116a7c83d32ee1adaa812ab883.png" group-title="Bóng rổ",Dorados vs El Calor de Cancun (LNBP)
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789531502-0-0-2daf05385d9c72d701561595fa902f8e
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789532102-0-0-97f29f980d9e46a9a4998ca4e4ef70bf
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg" group-title="SocoLive",LNBP: Fuerza Regia vs Mineros - A CHÈ
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=8f404f217ee4a242d20d4eb7306dd3a5&txTime=6aaa5b82
-#EXTINF:-1 tvg-id="room-527384" tvg-logo="https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg" group-title="SocoLive",MEX D1: Puebla vs Toluca - LÃO LÂM
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789531328-0-0-d583d60bd576125e0000181d3b7d46fc
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=15874013a031cbadaf1f9c3a4c542907&txTime=6aaa5dda
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg" group-title="SocoLive",LNBP: Fuerza Regia vs Mineros - HUNTER
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=8da6b6142d7812863fc8a792ad0dedf5&txTime=6aaa5b82
-#EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56.jpg" group-title="SocoLive",MEX D1: Puebla vs Toluca - BLV TAP
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=1bb7fb16159b5b367c8a0410570b7068&txTime=6aaa5bb1
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=92cc23911e8010a83a1d38eab0e1878f&txTime=6aaa5dda
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-title="SocoLive",LNBP: Dorados vs El Calor de Cancun - KING
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789531442-0-0-ae7d60cba9fc8d1cdd40d2d8174250b7
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789532042-0-0-440720e8ce6ce653a91f34ee6c072ebe
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-title="SocoLive",LNBP: Fuerza Regia vs Mineros - BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789531442-0-0-73e830e71901774d2a5b477a27df6a24
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789532042-0-0-8d4f4f7930a668efc85d3c2748c1e420
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg" group-title="SocoLive",LNBP: Fuerza Regia vs Mineros - BLV HENRY
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789531442-0-0-f6226c38a98b0d0c07bc5473322fff67
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789532042-0-0-36435015a78c6dc357e9530e48c7acfb
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg" group-title="SocoLive",LNBP: Dorados vs El Calor de Cancun - CHAN SENA
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789531442-0-0-fbc945918efdfa6ae37086f689277a15
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789532042-0-0-ff89cc67fd896562accc3a55a18819e0
