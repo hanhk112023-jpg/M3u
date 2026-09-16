@@ -1,79 +1,71 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 37
-# Updated: 16/09/2026 09:50:05
+# Channels: 33
+# Updated: 16/09/2026 10:10:05
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260913/9f83c98ae4d43c4dcf837cea65771bf6.png" group-title="Bóng đá",Thailand U23 vs Kyrgyzstan U23 (AGS)
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789529876-0-0-fb7b6e6757a3355b9c267e17301f2de2
+#EXTINF:-1 tvg-id="room-387694" tvg-logo="https://sta.vnres.co/file/common/20260913/5acbda52bb0b494907901cb905566bed.png" group-title="Bóng đá",China U23 vs North Korea U23 (AGS)
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=6c574c1f9ef87c624c31d4632df41d80&txTime=6aaa54c1
 #EXTINF:-1 tvg-id="room-414317" tvg-logo="https://sta.vnres.co/file/common/20260913/9f83c98ae4d43c4dcf837cea65771bf6.png" group-title="Bóng đá",Thailand U23 vs Kyrgyzstan U23 (AGS)
 https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=4f4f290a52fb418fc299b9ddcedb6921&txTime=6aa97f8b
 #EXTINF:-1 tvg-id="room-459401" tvg-logo="https://sta.vnres.co/file/common/20260913/6de3aa57fd2cdbc29dca32f33324381f.png" group-title="Bóng đá",United Arab Emirates U23 vs Iran U23 (AGS)
 https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=3c883d72cdabffc0328a4c35b2877caa&txTime=6aa9f62b
-#EXTINF:-1 tvg-id="room-485739" tvg-logo="https://sta.vnres.co/file/common/20260913/138309e482c2e15561b9505ad32561cc.png" group-title="Bóng đá",Club Deportivo Dorados de Sinaloa vs Cancun FC (MEX D2)
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=626f4c57a40d221f38711b0ffb28009d&txTime=6aaa56d2
-#EXTINF:-1 tvg-id="room-491873" tvg-logo="https://sta.vnres.co/file/common/20260913/138309e482c2e15561b9505ad32561cc.png" group-title="Bóng đá",Club Deportivo Dorados de Sinaloa vs Cancun FC (MEX D2)
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=726873dd265a6e156a4a671aa9e1c5d7&txTime=6aaa56d2
-#EXTINF:-1 tvg-id="room-527384" tvg-logo="https://sta.vnres.co/file/common/20260913/07dfda3850b22ff9cf12cb234c3c248b.png" group-title="Bóng đá",Puebla vs Toluca (MEX D1)
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789530242-0-0-01e9cd0bd5f9ebb2634937e4bb5f88a7
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260913/6de3aa57fd2cdbc29dca32f33324381f.png" group-title="Bóng đá",United Arab Emirates U23 vs Iran U23 (AGS)
 https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789520163-0-0-7de734f96fb48407c0be217cd9e4f850
 #EXTINF:-1 tvg-id="room-552832" tvg-logo="https://sta.vnres.co/file/common/20260913/6de3aa57fd2cdbc29dca32f33324381f.png" group-title="Bóng đá",United Arab Emirates U23 vs Iran U23 (AGS)
 https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=006e4786ea01d82a10e0151a83fbfd51&txTime=6aa98d63
-#EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260913/138309e482c2e15561b9505ad32561cc.png" group-title="Bóng đá",Club Deportivo Dorados de Sinaloa vs Cancun FC (MEX D2)
-https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789530242-0-0-6ac53124469ab7c2676a98a9b6b3e3e3
 #EXTINF:-1 tvg-id="room-622241" tvg-logo="https://sta.vnres.co/file/common/20260913/6de3aa57fd2cdbc29dca32f33324381f.png" group-title="Bóng đá",United Arab Emirates U23 vs Iran U23 (AGS)
 https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789485445-0-0-49f285e0fb2f1f142ea4ecda4037d050
-#EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260913/07dfda3850b22ff9cf12cb234c3c248b.png" group-title="Bóng đá",Puebla vs Toluca (MEX D1)
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=ae5f87aed8394e43d7600fb935ce3168&txTime=6aaa56d2
-#EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260913/07dfda3850b22ff9cf12cb234c3c248b.png" group-title="Bóng đá",Puebla vs Toluca (MEX D1)
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789530542-0-0-1a946cfe4171fdaf50c30cb011c45e95
-#EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260913/07dfda3850b22ff9cf12cb234c3c248b.png" group-title="Bóng đá",Puebla vs Toluca (MEX D1)
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789530542-0-0-3df39308f61af5e18381783cbe5b5f1b
+#EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260913/fbdbde83e16f9add59d8ce7de354dbd7.png" group-title="Bóng đá",Borneo FC Samarinda vs Dewa United FC (IDN D1)
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=1bb7fb16159b5b367c8a0410570b7068&txTime=6aaa5bb1
+#EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260913/fbdbde83e16f9add59d8ce7de354dbd7.png" group-title="Bóng đá",Borneo FC Samarinda vs Dewa United FC (IDN D1)
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789531209-0-0-3250cbf9c78ef8b063ef437c675f3f98
+#EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260913/9f83c98ae4d43c4dcf837cea65771bf6.png" group-title="Bóng đá",Thailand U23 vs Kyrgyzstan U23 (AGS)
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789531187-0-0-cb17439edbee01e55c09553c0ced6c2a
+#EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260913/5acbda52bb0b494907901cb905566bed.png" group-title="Bóng đá",China U23 vs North Korea U23 (AGS)
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789521563-0-0-f0223ce3740862d6fb5802dae68112c5
+#EXTINF:-1 tvg-id="room-9912116" tvg-logo="https://sta.vnres.co/file/common/20260913/5acbda52bb0b494907901cb905566bed.png" group-title="Bóng đá",China U23 vs North Korea U23 (AGS)
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=bb456d38111d52de1545016c540062c1&txTime=6aa9f7d7
+#EXTINF:-1 tvg-id="room-9912122" tvg-logo="https://sta.vnres.co/file/common/20260913/fbdbde83e16f9add59d8ce7de354dbd7.png" group-title="Bóng đá",Borneo FC Samarinda vs Dewa United FC (IDN D1)
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=3225b5d885e634624a6c72057e43bc22&txTime=6aaa5471
+#EXTINF:-1 tvg-id="room-9912127" tvg-logo="https://sta.vnres.co/file/common/20260913/5acbda52bb0b494907901cb905566bed.png" group-title="Bóng đá",China U23 vs North Korea U23 (AGS)
+https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=468690fdba62630cfc1f09a7e40d57ec&txTime=6aa9eb06
 #EXTINF:-1 tvg-id="room-9912140" tvg-logo="https://sta.vnres.co/file/common/20260913/9f83c98ae4d43c4dcf837cea65771bf6.png" group-title="Bóng đá",Thailand U23 vs Kyrgyzstan U23 (AGS)
 https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=67ceaf178da294be66e8acee6c50ac4c&txTime=6aaa0d75
-#EXTINF:-1 tvg-id="room-9912143" tvg-logo="https://sta.vnres.co/file/common/20260913/07dfda3850b22ff9cf12cb234c3c248b.png" group-title="Bóng đá",Puebla vs Toluca (MEX D1)
-https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789530542-0-0-ad159a97104379a4ef202cfe5b917c4b
+#EXTINF:-1 tvg-id="room-9912143" tvg-logo="https://sta.vnres.co/file/common/20260913/fbdbde83e16f9add59d8ce7de354dbd7.png" group-title="Bóng đá",Borneo FC Samarinda vs Dewa United FC (IDN D1)
+https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789531211-0-0-f08f022407481bcd9f71e83129e24dfb
+#EXTINF:-1 tvg-id="room-9912144" tvg-logo="https://sta.vnres.co/file/common/20260913/fbdbde83e16f9add59d8ce7de354dbd7.png" group-title="Bóng đá",Borneo FC Samarinda vs Dewa United FC (IDN D1)
+https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1789499345-0-0-80dfba7ce83bf032cef4337c980a1b80
 #EXTINF:-1 tvg-id="room-9912145" tvg-logo="https://sta.vnres.co/file/common/20260913/6de3aa57fd2cdbc29dca32f33324381f.png" group-title="Bóng đá",United Arab Emirates U23 vs Iran U23 (AGS)
 https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789499332-0-0-806b58df010d39a6d268a7d4a77f37b8
 #EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260913/6de3aa57fd2cdbc29dca32f33324381f.png" group-title="Bóng đá",United Arab Emirates U23 vs Iran U23 (AGS)
 https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789499373-0-0-182255bf3b8b54c15a633d328bf1b45b
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260914/a6519a3abe4bffc30b29084e6e469dd7.png" group-title="Bóng rổ",Fuerza Regia vs Mineros (LNBP)
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=0f2f28f145c24f2d8cf699666b1dc0a4&txTime=6aaa56d2
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=8f404f217ee4a242d20d4eb7306dd3a5&txTime=6aaa5b82
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260914/a6519a3abe4bffc30b29084e6e469dd7.png" group-title="Bóng rổ",Fuerza Regia vs Mineros (LNBP)
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=491129f6a3ffa1f95d181d112a12b446&txTime=6aaa56d2
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=8da6b6142d7812863fc8a792ad0dedf5&txTime=6aaa5b82
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260914/cb0773116a7c83d32ee1adaa812ab883.png" group-title="Bóng rổ",Dorados vs El Calor de Cancun (LNBP)
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789530542-0-0-f13e26759d80cbfd384c5611b30f3944
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789531442-0-0-ae7d60cba9fc8d1cdd40d2d8174250b7
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260914/a6519a3abe4bffc30b29084e6e469dd7.png" group-title="Bóng rổ",Fuerza Regia vs Mineros (LNBP)
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789530542-0-0-f0f95faca7ffa34255c0c931a5986de9
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789531442-0-0-73e830e71901774d2a5b477a27df6a24
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260914/a6519a3abe4bffc30b29084e6e469dd7.png" group-title="Bóng rổ",Fuerza Regia vs Mineros (LNBP)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789530542-0-0-aa1cd886ec9f325136b53aabfbd8f775
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789531442-0-0-f6226c38a98b0d0c07bc5473322fff67
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260914/cb0773116a7c83d32ee1adaa812ab883.png" group-title="Bóng rổ",Dorados vs El Calor de Cancun (LNBP)
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789530542-0-0-768accda0308f06d9edde742a86f1e83
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789531502-0-0-2daf05385d9c72d701561595fa902f8e
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg" group-title="SocoLive",LNBP: Fuerza Regia vs Mineros - A CHÈ
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=0f2f28f145c24f2d8cf699666b1dc0a4&txTime=6aaa56d2
-#EXTINF:-1 tvg-id="room-485739" tvg-logo="https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg" group-title="SocoLive",MEX D2: Club Deportivo Dorados de Sinaloa vs Cancun FC - BLV CHIVAS
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=626f4c57a40d221f38711b0ffb28009d&txTime=6aaa56d2
-#EXTINF:-1 tvg-id="room-491873" tvg-logo="https://sta.vnres.co/file/common/20250723/6b83b847d8944b57cc13043bae9fa7a8.jpg" group-title="SocoLive",MEX D2: Club Deportivo Dorados de Sinaloa vs Cancun FC - BLV VIP
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=726873dd265a6e156a4a671aa9e1c5d7&txTime=6aaa56d2
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=8f404f217ee4a242d20d4eb7306dd3a5&txTime=6aaa5b82
 #EXTINF:-1 tvg-id="room-527384" tvg-logo="https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg" group-title="SocoLive",MEX D1: Puebla vs Toluca - LÃO LÂM
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789530242-0-0-01e9cd0bd5f9ebb2634937e4bb5f88a7
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789531328-0-0-d583d60bd576125e0000181d3b7d46fc
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg" group-title="SocoLive",LNBP: Fuerza Regia vs Mineros - HUNTER
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=491129f6a3ffa1f95d181d112a12b446&txTime=6aaa56d2
-#EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg" group-title="SocoLive",MEX D2: Club Deportivo Dorados de Sinaloa vs Cancun FC - CƠM NẾP
-https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789530242-0-0-6ac53124469ab7c2676a98a9b6b3e3e3
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=8da6b6142d7812863fc8a792ad0dedf5&txTime=6aaa5b82
 #EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56.jpg" group-title="SocoLive",MEX D1: Puebla vs Toluca - BLV TAP
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=ae5f87aed8394e43d7600fb935ce3168&txTime=6aaa56d2
-#EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260916/980badcf92ab5a1a5fb4e17957968baf.png" group-title="SocoLive",MEX D1: Puebla vs Toluca - BLV Củ Cải
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789530242-0-0-cd643764ec3ff32dae63fb0f36938089
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=1bb7fb16159b5b367c8a0410570b7068&txTime=6aaa5bb1
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-title="SocoLive",LNBP: Dorados vs El Calor de Cancun - KING
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789530242-0-0-d520b92db2f72921ae8ad805f3b673a2
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789531442-0-0-ae7d60cba9fc8d1cdd40d2d8174250b7
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-title="SocoLive",LNBP: Fuerza Regia vs Mineros - BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789530242-0-0-a6a9ab6c681d11e843e1c8fd6cbc7f87
-#EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260914/4668dc4fe05d802b4fda3b6c5027b260.png" group-title="SocoLive",MEX D1: Puebla vs Toluca - BLV ZOWIE
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789530242-0-0-9d90804b534c4fe3d31a1744ae130e8c
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789531442-0-0-73e830e71901774d2a5b477a27df6a24
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg" group-title="SocoLive",LNBP: Fuerza Regia vs Mineros - BLV HENRY
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789530242-0-0-0eb8759ae65353d6323d84042b97f1ab
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789531442-0-0-f6226c38a98b0d0c07bc5473322fff67
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg" group-title="SocoLive",LNBP: Dorados vs El Calor de Cancun - CHAN SENA
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789530242-0-0-c37e0b282a019c08ababab763d186387
-#EXTINF:-1 tvg-id="room-9912143" tvg-logo="https://sta.vnres.co/file/common/20260908/25a8cd45f3d227a96b46e77ba0d942c2.png" group-title="SocoLive",MEX D1: Puebla vs Toluca - NGƯỜI CÁ
-https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789530242-0-0-15cedd155deb7f3737e7f32824f8a778
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789531442-0-0-fbc945918efdfa6ae37086f689277a15
