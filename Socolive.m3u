@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 44
-# Updated: 16/09/2026 13:10:06
+# Channels: 42
+# Updated: 16/09/2026 13:20:05
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260913/9f83c98ae4d43c4dcf837cea65771bf6.png" group-title="Bóng đá",Thailand U23 vs Kyrgyzstan U23 (AGS)
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789529876-0-0-fb7b6e6757a3355b9c267e17301f2de2
@@ -16,7 +16,7 @@ https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=6c574c1f9ef87c624c31
 #EXTINF:-1 tvg-id="room-414317" tvg-logo="https://sta.vnres.co/file/common/20260913/9f83c98ae4d43c4dcf837cea65771bf6.png" group-title="Bóng đá",Thailand U23 vs Kyrgyzstan U23 (AGS)
 https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=5ba57af29a5ff527805cfb1302ce7dff&txTime=6aaa6bf2
 #EXTINF:-1 tvg-id="room-459401" tvg-logo="https://sta.vnres.co/file/common/20260913/6de3aa57fd2cdbc29dca32f33324381f.png" group-title="Bóng đá",United Arab Emirates U23 vs Iran U23 (AGS)
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=12ce4fc337db96d93adfa8f1decae388&txTime=6aaa85b2
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=1a3351156b2ed48f23dd37229edae96b&txTime=6aaa880a
 #EXTINF:-1 tvg-id="room-491873" tvg-logo="https://sta.vnres.co/file/common/20260913/f241af6d3ffb7a80e5707cbfbdd80c92.png" group-title="Bóng đá",FC Seoul vs Persib Bandung (ACL2)
 https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=aa9c69fa47f557ba4872889cb82b3547&txTime=6aaa5b1d
 #EXTINF:-1 tvg-id="room-527383" tvg-logo="https://sta.vnres.co/file/common/20260913/c2e9cc85c0a6deb8361b5db054173d8c.png" group-title="Bóng đá",Japan U23 vs Hong Kong U23 (AGS)
@@ -24,9 +24,9 @@ https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789522477-0-0-07dc
 #EXTINF:-1 tvg-id="room-527384" tvg-logo="https://sta.vnres.co/file/common/20260913/31b16ef3b52bcc11e2cca4c5bdcc6da5.png" group-title="Bóng đá",Jeonbuk Hyundai Motors vs Kashiwa Reysol (ACL Elite)
 https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789531328-0-0-d583d60bd576125e0000181d3b7d46fc
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260913/6de3aa57fd2cdbc29dca32f33324381f.png" group-title="Bóng đá",United Arab Emirates U23 vs Iran U23 (AGS)
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789542242-0-0-4a77d2106c78d0e793a9b117cfa3200b
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789542842-0-0-5021278d2af82c99152e39597fac25d6
 #EXTINF:-1 tvg-id="room-552832" tvg-logo="https://sta.vnres.co/file/common/20260913/6de3aa57fd2cdbc29dca32f33324381f.png" group-title="Bóng đá",United Arab Emirates U23 vs Iran U23 (AGS)
-https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=1a3b726777be9d4f0594b51b015fb8ab&txTime=6aaa85b2
+https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=e23af5ebd7847d4cb75af7d8cd556c08&txTime=6aaa880a
 #EXTINF:-1 tvg-id="room-582342" tvg-logo="https://sta.vnres.co/file/common/20260913/31b16ef3b52bcc11e2cca4c5bdcc6da5.png" group-title="Bóng đá",Jeonbuk Hyundai Motors vs Kashiwa Reysol (ACL Elite)
 https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1789529497-0-0-f9dd21a977c4d9c52c59a0f910a3e18b
 #EXTINF:-1 tvg-id="room-603914" tvg-logo="https://sta.vnres.co/file/common/20260913/f241af6d3ffb7a80e5707cbfbdd80c92.png" group-title="Bóng đá",FC Seoul vs Persib Bandung (ACL2)
@@ -34,7 +34,7 @@ https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789520214-0-0-1ef4
 #EXTINF:-1 tvg-id="room-620084" tvg-logo="https://sta.vnres.co/file/common/20260913/c2e9cc85c0a6deb8361b5db054173d8c.png" group-title="Bóng đá",Japan U23 vs Hong Kong U23 (AGS)
 https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789524151-0-0-a0e21becbd24e5f4ff32f121d31fcd9b
 #EXTINF:-1 tvg-id="room-622241" tvg-logo="https://sta.vnres.co/file/common/20260913/6de3aa57fd2cdbc29dca32f33324381f.png" group-title="Bóng đá",United Arab Emirates U23 vs Iran U23 (AGS)
-https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789542242-0-0-ac9efd1a30adc74c1dfb74e13f18dbaa
+https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789542842-0-0-1a4668f12b6e8672669d2638d9c80488
 #EXTINF:-1 tvg-id="room-9912008" tvg-logo="https://sta.vnres.co/file/common/20260913/f241af6d3ffb7a80e5707cbfbdd80c92.png" group-title="Bóng đá",FC Seoul vs Persib Bandung (ACL2)
 https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789529674-0-0-1adc98dfd7a0b6f00fe43fe7a46927d4
 #EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260913/fbdbde83e16f9add59d8ce7de354dbd7.png" group-title="Bóng đá",Borneo FC Samarinda vs Dewa United FC (IDN D1)
@@ -72,22 +72,18 @@ https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789531211-0-0-f08
 #EXTINF:-1 tvg-id="room-9912144" tvg-logo="https://sta.vnres.co/file/common/20260913/fbdbde83e16f9add59d8ce7de354dbd7.png" group-title="Bóng đá",Borneo FC Samarinda vs Dewa United FC (IDN D1)
 https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1789499345-0-0-80dfba7ce83bf032cef4337c980a1b80
 #EXTINF:-1 tvg-id="room-9912145" tvg-logo="https://sta.vnres.co/file/common/20260913/6de3aa57fd2cdbc29dca32f33324381f.png" group-title="Bóng đá",United Arab Emirates U23 vs Iran U23 (AGS)
-https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789542542-0-0-fe6cbf593c12e0e8402a2a530e98ba18
+https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789543142-0-0-dd9b17ff2f76e24f3a293e7e75575a06
 #EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260913/6de3aa57fd2cdbc29dca32f33324381f.png" group-title="Bóng đá",United Arab Emirates U23 vs Iran U23 (AGS)
-https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789542542-0-0-89b31bc543ebfb7cc588ea3467545208
+https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789543142-0-0-d35880881dd0c3ba8de815da52344bcb
 #EXTINF:-1 tvg-id="room-459401" tvg-logo="https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4.jpg" group-title="SocoLive",AGS: United Arab Emirates U23 vs Iran U23 - BLV BÉO
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=12ce4fc337db96d93adfa8f1decae388&txTime=6aaa85b2
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=1a3351156b2ed48f23dd37229edae96b&txTime=6aaa880a
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg" group-title="SocoLive",AGS: United Arab Emirates U23 vs Iran U23 - BLV ALEX
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789542242-0-0-4a77d2106c78d0e793a9b117cfa3200b
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789542842-0-0-5021278d2af82c99152e39597fac25d6
 #EXTINF:-1 tvg-id="room-552832" tvg-logo="https://sta.vnres.co/file/common/20251111/6a43978efb637082f6eb906c1e7f1621.jpg" group-title="SocoLive",AGS: United Arab Emirates U23 vs Iran U23 - LOGAN
-https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=1a3b726777be9d4f0594b51b015fb8ab&txTime=6aaa85b2
+https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=e23af5ebd7847d4cb75af7d8cd556c08&txTime=6aaa880a
 #EXTINF:-1 tvg-id="room-622241" tvg-logo="https://sta.vnres.co/file/common/20260914/76c0fe465e1b9b82a4586bfbd49cb618.jpg" group-title="SocoLive",AGS: United Arab Emirates U23 vs Iran U23 - BLV HEHE
-https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789542242-0-0-ac9efd1a30adc74c1dfb74e13f18dbaa
-#EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-title="SocoLive",AGB: Iran vs Bahrain - BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789541956-0-0-789d8a248278fc1fc61376e00029c0aa
-#EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg" group-title="SocoLive",AGB: Iran vs Bahrain - BLV HENRY
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789542174-0-0-6b7d6d8274b6bdf542c70f6ece7edd5f
+https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789542842-0-0-1a4668f12b6e8672669d2638d9c80488
 #EXTINF:-1 tvg-id="room-9912145" tvg-logo="https://sta.vnres.co/file/common/20260916/38541c72a8c12d8baa1c120cd489d9a9.jpg" group-title="SocoLive",AGS: United Arab Emirates U23 vs Iran U23 - ZIDANE
-https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789542242-0-0-49202331c19feebda785bbf2429534be
+https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789542842-0-0-9567943be1fc08e2420fd97330f3027b
 #EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260829/f6903a1879b3c7cc22d27c658db14d94.png" group-title="SocoLive",AGS: United Arab Emirates U23 vs Iran U23 - BLV CUỘI
-https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789542242-0-0-efc35346d0e155dce7478a1346f3e5a2
+https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789542842-0-0-502df708a3c01c52c9e7e0cdfa34b2b2
