@@ -1,71 +1,79 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 33
-# Updated: 17/09/2026 06:30:04
+# Channels: 37
+# Updated: 17/09/2026 06:40:05
 
 #EXTINF:-1 tvg-id="room-283501" tvg-logo="https://sta.vnres.co/file/common/20260913/a94dc1bad35bf5942ce235c49058517b.png" group-title="Bóng đá",Botafogo - RJ vs Grêmio - RS (BRA D1)
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=79b8fb0c4740930757d885093edb8a2d&txTime=6aab7972
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=77b5026008fccf936b68ef9abfad6f1b&txTime=6aab7bca
 #EXTINF:-1 tvg-id="room-372746" tvg-logo="https://sta.vnres.co/file/common/20260913/71b46d83afb341b91efbc521c5e48195.png" group-title="Bóng đá",Liga Dep Universitaria Quito vs Palmeiras - SP (LIB Cup)
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1789604642-0-0-15cda8665de32cecda8ab4c6c845d482
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1789605242-0-0-18538b8ea7104e62929a79c021381b7b
 #EXTINF:-1 tvg-id="room-459401" tvg-logo="https://sta.vnres.co/file/common/20260913/90ac6720f87cefb1935dbf2f12b59656.png" group-title="Bóng đá",Inter Miami CF vs Cruz Azul (Cam Cup)
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=4d3b92130ee84eb42a26e2cee7eba1e9&txTime=6aab7972
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=a340edd12174b70d0cdc8f8d90ec17b3&txTime=6aab7bca
 #EXTINF:-1 tvg-id="room-485739" tvg-logo="https://sta.vnres.co/file/common/20260913/b8df7b77401ab486dea52419c35e0e8a.png" group-title="Bóng đá",Atlético Mineiro - MG vs Santos FC - SP (CON CSA)
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=65c909a7a6bf027b0d918d12d9668755&txTime=6aab7972
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=0107932c84a9c5483ca0395b31a6a83c&txTime=6aab7bca
 #EXTINF:-1 tvg-id="room-491873" tvg-logo="https://sta.vnres.co/file/common/20260913/b8df7b77401ab486dea52419c35e0e8a.png" group-title="Bóng đá",Atlético Mineiro - MG vs Santos FC - SP (CON CSA)
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=82f355ced8fc07d610ab856729fc8424&txTime=6aab7972
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=aa341b28bc62e1a68b500386b0e01b02&txTime=6aab7bca
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260913/26451a6fb079e3b6e16cfc4eeb52cf71.png" group-title="Bóng đá",Corinthians - SP vs Estudiantes La Plata (LIB Cup)
 https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789583236-0-0-739b07ccbb4cabb65c33d915ad3d7464
 #EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260913/a94dc1bad35bf5942ce235c49058517b.png" group-title="Bóng đá",Botafogo - RJ vs Grêmio - RS (BRA D1)
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=5bf5eef1421ad6daee2a38dadda56bd6&txTime=6aab7972
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=9090b05d0b033f1c7292bcb2c85334ce&txTime=6aab7bca
 #EXTINF:-1 tvg-id="room-552832" tvg-logo="https://sta.vnres.co/file/common/20260913/90ac6720f87cefb1935dbf2f12b59656.png" group-title="Bóng đá",Inter Miami CF vs Cruz Azul (Cam Cup)
-https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=8c1d1ef4947c5487e258b24d235120fb&txTime=6aab2596
+https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=515c51688225814cc6aed3e238aece9c&txTime=6aab7bca
 #EXTINF:-1 tvg-id="room-582342" tvg-logo="https://sta.vnres.co/file/common/20260913/90ac6720f87cefb1935dbf2f12b59656.png" group-title="Bóng đá",Inter Miami CF vs Cruz Azul (Cam Cup)
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1789563269-0-0-7fabc8d981bfe23072beb80d4dc4a900
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1789605242-0-0-f85e9e52ca0e008d152a9e5a1db8eda9
 #EXTINF:-1 tvg-id="room-603914" tvg-logo="https://sta.vnres.co/file/common/20260913/1265d4b84aa73f282059e472b9a1cf65.png" group-title="Bóng đá",Columbus Crew vs Orlando City (USA Cup)
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789604642-0-0-ef7e66587f2259f716dbd08ee7553907
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789605542-0-0-e7bdfd6919c22bef395c57155532535d
 #EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260913/71b46d83afb341b91efbc521c5e48195.png" group-title="Bóng đá",Liga Dep Universitaria Quito vs Palmeiras - SP (LIB Cup)
-https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=17b042ed4f162115a0782aa53a92edb6&txTime=6aab7972
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=7c6ab0207ef7d959018c68ebd01cc61e&txTime=6aab7cf6
 #EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260913/b8df7b77401ab486dea52419c35e0e8a.png" group-title="Bóng đá",Atlético Mineiro - MG vs Santos FC - SP (CON CSA)
-https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789604642-0-0-cdb22272d4fb2c5f75cfd3c4ca72dba9
+https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789605542-0-0-0877348b349f09f30c35dd13b4994459
 #EXTINF:-1 tvg-id="room-621887" tvg-logo="https://sta.vnres.co/file/common/20260913/71b46d83afb341b91efbc521c5e48195.png" group-title="Bóng đá",Liga Dep Universitaria Quito vs Palmeiras - SP (LIB Cup)
-https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=a6d8e3fcb62664a43c0cb3bcde45a330&txTime=6aab7972
+https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=a195088e2544651019d285f31112c355&txTime=6aab7cf6
 #EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260913/63dace34b5c1edbda337995ad5bd3355.png" group-title="Bóng đá",Montreal Impact vs Vancouver Whitecaps (CAN CC)
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789604942-0-0-723bf69d8f6fe1ce473c5199208bc400
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789605542-0-0-6f90c01216e8f45015e881e36b055e83
 #EXTINF:-1 tvg-id="room-9912122" tvg-logo="https://sta.vnres.co/file/common/20260913/90ac6720f87cefb1935dbf2f12b59656.png" group-title="Bóng đá",Inter Miami CF vs Cruz Azul (Cam Cup)
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=1d4219de4ef537b0780346c2c53383e3&txTime=6aab7aa3
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=c2022a1d650e7de7d1991fdd52598631&txTime=6aab7d30
 #EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260913/1265d4b84aa73f282059e472b9a1cf65.png" group-title="Bóng đá",Columbus Crew vs Orlando City (USA Cup)
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789604942-0-0-23b47c12d11035c9705255d5d396116f
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789605542-0-0-cf190c27d8bceab1a93f3b4ca02cb296
 #EXTINF:-1 tvg-id="room-9912127" tvg-logo="https://sta.vnres.co/file/common/20260913/90ac6720f87cefb1935dbf2f12b59656.png" group-title="Bóng đá",Inter Miami CF vs Cruz Azul (Cam Cup)
-https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=1717cacb8ed16f96b92440855ac6d27a&txTime=6aab0204
+https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=d388f87a4a41cb6244a5a559df62bfa4&txTime=6aab7cf6
 #EXTINF:-1 tvg-id="room-9912139" tvg-logo="https://sta.vnres.co/file/common/20260913/63dace34b5c1edbda337995ad5bd3355.png" group-title="Bóng đá",Montreal Impact vs Vancouver Whitecaps (CAN CC)
-https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=e16c851a0f3e4d347410474acf61e93b&txTime=6aab7a9e
+https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=42626d1c4efc150e223287955426f168&txTime=6aab7cf6
 #EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260913/90ac6720f87cefb1935dbf2f12b59656.png" group-title="Bóng đá",Inter Miami CF vs Cruz Azul (Cam Cup)
-https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789604942-0-0-6b43ee37c2cfd20c7fc8929f9f170068
+https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789605542-0-0-58d8369fbf3df07814697311491a9987
 #EXTINF:-1 tvg-id="room-283501" tvg-logo="https://sta.vnres.co/file/common/20260917/6bf0fdf8de22f5c9c5c3d9eb5144d482.png" group-title="SocoLive",BRA D1: Botafogo - RJ vs Grêmio - RS - BLV KAN
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=79b8fb0c4740930757d885093edb8a2d&txTime=6aab7972
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=77b5026008fccf936b68ef9abfad6f1b&txTime=6aab7bca
 #EXTINF:-1 tvg-id="room-372746" tvg-logo="https://sta.vnres.co/file/common/20260728/ba06eac3dc3ffeee0de25e8e0deaaceb.jpg" group-title="SocoLive",LIB Cup: Liga Dep Universitaria Quito vs Palmeiras - SP - BLV YONE
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1789604642-0-0-15cda8665de32cecda8ab4c6c845d482
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1789605242-0-0-18538b8ea7104e62929a79c021381b7b
 #EXTINF:-1 tvg-id="room-459401" tvg-logo="https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4.jpg" group-title="SocoLive",Cam Cup: Inter Miami CF vs Cruz Azul - BLV BÉO
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=4d3b92130ee84eb42a26e2cee7eba1e9&txTime=6aab7972
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=a340edd12174b70d0cdc8f8d90ec17b3&txTime=6aab7bca
 #EXTINF:-1 tvg-id="room-485739" tvg-logo="https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg" group-title="SocoLive",CON CSA: Atlético Mineiro - MG vs Santos FC - SP - BLV CHIVAS
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=65c909a7a6bf027b0d918d12d9668755&txTime=6aab7972
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=0107932c84a9c5483ca0395b31a6a83c&txTime=6aab7bca
 #EXTINF:-1 tvg-id="room-491873" tvg-logo="https://sta.vnres.co/file/common/20250723/6b83b847d8944b57cc13043bae9fa7a8.jpg" group-title="SocoLive",CON CSA: Atlético Mineiro - MG vs Santos FC - SP - BLV VIP
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=82f355ced8fc07d610ab856729fc8424&txTime=6aab7972
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=aa341b28bc62e1a68b500386b0e01b02&txTime=6aab7bca
 #EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg" group-title="SocoLive",BRA D1: Botafogo - RJ vs Grêmio - RS - BLV RAMBO
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=5bf5eef1421ad6daee2a38dadda56bd6&txTime=6aab7972
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=9090b05d0b033f1c7292bcb2c85334ce&txTime=6aab7bca
+#EXTINF:-1 tvg-id="room-552832" tvg-logo="https://sta.vnres.co/file/common/20251111/6a43978efb637082f6eb906c1e7f1621.jpg" group-title="SocoLive",Cam Cup: Inter Miami CF vs Cruz Azul - LOGAN
+https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=515c51688225814cc6aed3e238aece9c&txTime=6aab7bca
+#EXTINF:-1 tvg-id="room-582342" tvg-logo="https://sta.vnres.co/file/common/20260911/5092224ec4c96a8b8625005b880ba090.jpg" group-title="SocoLive",Cam Cup: Inter Miami CF vs Cruz Azul - BLV CÒ
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1789605242-0-0-f85e9e52ca0e008d152a9e5a1db8eda9
 #EXTINF:-1 tvg-id="room-603914" tvg-logo="https://sta.vnres.co/file/common/20260904/c08eebf8c66b882d5d57e203ae571c7a.jpg" group-title="SocoLive",USA Cup: Columbus Crew vs Orlando City - TRÀ ĐÁ
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789604642-0-0-ef7e66587f2259f716dbd08ee7553907
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789605242-0-0-93f89f75197c0c07456b92303c760f8f
 #EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg" group-title="SocoLive",LIB Cup: Liga Dep Universitaria Quito vs Palmeiras - SP - HÀ DUY KIÊN
-https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=17b042ed4f162115a0782aa53a92edb6&txTime=6aab7972
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=6dc9b3fce929bf663ad21c338a840f53&txTime=6aab7bcb
 #EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg" group-title="SocoLive",CON CSA: Atlético Mineiro - MG vs Santos FC - SP - CƠM NẾP
-https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789604642-0-0-cdb22272d4fb2c5f75cfd3c4ca72dba9
+https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789605243-0-0-ad19dab9db88b45e9925241350092e81
 #EXTINF:-1 tvg-id="room-621887" tvg-logo="https://sta.vnres.co/file/common/20260728/c2935ca02d759ee77531ff32719f1b21.png" group-title="SocoLive",LIB Cup: Liga Dep Universitaria Quito vs Palmeiras - SP - CHAN ĐÊ
-https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=a6d8e3fcb62664a43c0cb3bcde45a330&txTime=6aab7972
+https://pull.niur.live/live/stream-621887_lhd.m3u8?txSecret=29aabf77be3c5962d81b3b0f1a63abc6&txTime=6aab7bcb
 #EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151.png" group-title="SocoLive",CAN CC: Montreal Impact vs Vancouver Whitecaps - BLV VOI
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789604642-0-0-9d21848c0d978135c320f79bcd993d58
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789605242-0-0-88e5b06e369c68df7f772911c936d73a
+#EXTINF:-1 tvg-id="room-9912122" tvg-logo="https://sta.vnres.co/file/common/20260620/4cbae14a2d06d1635a160fc8c2beb182.jpg" group-title="SocoLive",Cam Cup: Inter Miami CF vs Cruz Azul - RICKHANTER
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=406bdf6312ee5626b7121089e53625fa&txTime=6aab7bca
 #EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg" group-title="SocoLive",USA Cup: Columbus Crew vs Orlando City - KENCHU
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789604642-0-0-1421ec699e336e8d15edff3ecb3fe7ea
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789605243-0-0-7a437bea98b07e16943fe9ee3768bfb7
+#EXTINF:-1 tvg-id="room-9912127" tvg-logo="https://sta.vnres.co/file/common/20250320/efe293015c817dee46ccc81fa5e934d7.jpg" group-title="SocoLive",Cam Cup: Inter Miami CF vs Cruz Azul - BLV PIRLO
+https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=c9b872b74a83190a64dc1249c9bf6333&txTime=6aab7bca
 #EXTINF:-1 tvg-id="room-9912139" tvg-logo="https://sta.vnres.co/file/common/20260317/5be300857a15349a5324be170237948b.png" group-title="SocoLive",CAN CC: Montreal Impact vs Vancouver Whitecaps - BLV A TINH
-https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=43f230e0608f7daa84711a258d08ee1f&txTime=6aab7972
+https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=2b38ec5fe36e5f305900a5218e1ab576&txTime=6aab7bca
 #EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260829/f6903a1879b3c7cc22d27c658db14d94.png" group-title="SocoLive",Cam Cup: Inter Miami CF vs Cruz Azul - BLV CUỘI
-https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789604642-0-0-9142e945e2ac00a880dc5c0de9943aa5
+https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789605242-0-0-af60e987d5941996d4cf1a30be6b0c8a
