@@ -1,83 +1,91 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 39
-# Updated: 16/09/2026 07:30:05
+# Channels: 43
+# Updated: 16/09/2026 07:40:04
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260913/9125fa497b811bfc3aacba62c93b4229.png" group-title="Bóng đá",São Paulo - SP vs Boca Juniors (CON CSA)
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789521842-0-0-4804877a7ce4cdaa48043f32356d2d0d
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789522442-0-0-d38279688be2ddcf41dc80e66c031941
 #EXTINF:-1 tvg-id="room-327159" tvg-logo="https://sta.vnres.co/file/common/20260913/3c4cbfb5819b00cc96b743a756d0a956.png" group-title="Bóng đá",CRB AL vs Sport Club do Recife (BRA D2)
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789521842-0-0-4b2629a290063c5b0601769dcd3f610c
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789522442-0-0-2f554382999fb06553a42311ce8d65db
 #EXTINF:-1 tvg-id="room-372746" tvg-logo="https://sta.vnres.co/file/common/20260913/81a491a5ba285e813d517cf15e75ea45.png" group-title="Bóng đá",Boyaca Chico vs Alianza (COL D1)
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1789521842-0-0-6137be0deae549098eb92c3884e28d88
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1789522442-0-0-6d505649bf9340ce2e870de1161d00c5
 #EXTINF:-1 tvg-id="room-387694" tvg-logo="https://sta.vnres.co/file/common/20260913/9125fa497b811bfc3aacba62c93b4229.png" group-title="Bóng đá",São Paulo - SP vs Boca Juniors (CON CSA)
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=366acc890186aa920501121dec5ae811&txTime=6aaa3606
-#EXTINF:-1 tvg-id="room-527383" tvg-logo="https://sta.vnres.co/file/common/20260913/7433a4b60726a7b3c6aa62799ede7257.png" group-title="Bóng đá",Nautico (PE) vs Operario Ferroviario PR (BRA D2)
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789521842-0-0-0aa7e46d91d88f2430a60319cd7527b3
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=454ff77fab1d27be381d1ed3faeda5e9&txTime=6aaa385a
+#EXTINF:-1 tvg-id="room-485739" tvg-logo="https://sta.vnres.co/file/common/20260913/138309e482c2e15561b9505ad32561cc.png" group-title="Bóng đá",Club Deportivo Dorados de Sinaloa vs Cancun FC (MEX D2)
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=575d8cc1759b11acc9dfc90900c37ba7&txTime=6aaa385a
+#EXTINF:-1 tvg-id="room-491873" tvg-logo="https://sta.vnres.co/file/common/20260913/138309e482c2e15561b9505ad32561cc.png" group-title="Bóng đá",Club Deportivo Dorados de Sinaloa vs Cancun FC (MEX D2)
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=f5fd47e4a0a33d8dbb24903083f554bd&txTime=6aaa385a
 #EXTINF:-1 tvg-id="room-527384" tvg-logo="https://sta.vnres.co/file/common/20260913/07dfda3850b22ff9cf12cb234c3c248b.png" group-title="Bóng đá",Puebla vs Toluca (MEX D1)
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789521842-0-0-4b92ff61a61f679106306b332880fbf4
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789522442-0-0-b293f395cf551accade3ca0a353eefe5
 #EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260913/9125fa497b811bfc3aacba62c93b4229.png" group-title="Bóng đá",São Paulo - SP vs Boca Juniors (CON CSA)
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=591b4507ff1bee183fdce842c06d7026&txTime=6aaa3602
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=501d47c1194bd005a45a38fded7a6d07&txTime=6aaa385a
 #EXTINF:-1 tvg-id="room-582342" tvg-logo="https://sta.vnres.co/file/common/20260913/9125fa497b811bfc3aacba62c93b4229.png" group-title="Bóng đá",São Paulo - SP vs Boca Juniors (CON CSA)
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1789521842-0-0-383e74d36f3cd46b6414bb21cc92a1bb
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1789522742-0-0-335bde370db071c8a82b48260393b222
 #EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260913/81a491a5ba285e813d517cf15e75ea45.png" group-title="Bóng đá",Boyaca Chico vs Alianza (COL D1)
-https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=91c6061cbc8c90ccbc9c121f60c0540a&txTime=6aaa3602
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=92b8d26c4ce2fdddab5b57c6718c039e&txTime=6aaa3986
+#EXTINF:-1 tvg-id="room-610518" tvg-logo="https://sta.vnres.co/file/common/20260913/81a491a5ba285e813d517cf15e75ea45.png" group-title="Bóng đá",Boyaca Chico vs Alianza (COL D1)
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=dbe3a1c56f261483ed75d2f1bc7f76d9&txTime=6aaa3986
+#EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260913/138309e482c2e15561b9505ad32561cc.png" group-title="Bóng đá",Club Deportivo Dorados de Sinaloa vs Cancun FC (MEX D2)
+https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789522742-0-0-8a99195fdc795d47cd6333e08c2cf2fe
 #EXTINF:-1 tvg-id="room-620084" tvg-logo="https://sta.vnres.co/file/common/20260913/46b239488fd074564a084dfb3e0a0290.png" group-title="Bóng đá",Indy Eleven vs Brooklyn FC (USLC)
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789522142-0-0-03ea287954d3aac760896f7e5b73623a
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789522742-0-0-2fcf3ac5deb195e18170cc2fc8cb93d8
 #EXTINF:-1 tvg-id="room-9912008" tvg-logo="https://sta.vnres.co/file/common/20260913/9125fa497b811bfc3aacba62c93b4229.png" group-title="Bóng đá",São Paulo - SP vs Boca Juniors (CON CSA)
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789522142-0-0-4830e0c86e4c293bcbce0a8b8bb9fcd8
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789522742-0-0-039ba4d9d29bdfb70b58c28665eb9019
 #EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260913/07dfda3850b22ff9cf12cb234c3c248b.png" group-title="Bóng đá",Puebla vs Toluca (MEX D1)
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=b66ac6955fa2c816cd2fbc60280e9ba1&txTime=6aa9a7b8
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=af5a470f6c871c7036a077b252446fce&txTime=6aaa3986
 #EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260913/07dfda3850b22ff9cf12cb234c3c248b.png" group-title="Bóng đá",Puebla vs Toluca (MEX D1)
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789522142-0-0-e72505b523ad24514f735ddb18687859
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789522742-0-0-389e8b685267304a0b01e33269c60bcb
 #EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260913/46b239488fd074564a084dfb3e0a0290.png" group-title="Bóng đá",Indy Eleven vs Brooklyn FC (USLC)
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=24a4bfab5a83b3ae7bc2c02f437952e0&txTime=6aaa372e
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=ba2bbb78627e053911bf0b88ef3886ac&txTime=6aaa3986
 #EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260913/07dfda3850b22ff9cf12cb234c3c248b.png" group-title="Bóng đá",Puebla vs Toluca (MEX D1)
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789476985-0-0-ba382ce661760376a3e88b082d118364
-#EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260913/d480527e61a305d85631905f41167e2e.png" group-title="Bóng đá",Londrina PR vs Ponte Preta (BRA D2)
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789521563-0-0-f0223ce3740862d6fb5802dae68112c5
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789522742-0-0-b8daf253281bc2a7384ae796acbd60ce
 #EXTINF:-1 tvg-id="room-9912122" tvg-logo="https://sta.vnres.co/file/common/20260913/9125fa497b811bfc3aacba62c93b4229.png" group-title="Bóng đá",São Paulo - SP vs Boca Juniors (CON CSA)
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=7e50e3b9d654143427d339d3cbca892b&txTime=6aaa372e
-#EXTINF:-1 tvg-id="room-9912130" tvg-logo="https://sta.vnres.co/file/common/20260913/7433a4b60726a7b3c6aa62799ede7257.png" group-title="Bóng đá",Nautico (PE) vs Operario Ferroviario PR (BRA D2)
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789522142-0-0-3ccb8f9db0342b53fab887b68de5c3f3
-#EXTINF:-1 tvg-id="room-9912139" tvg-logo="https://sta.vnres.co/file/common/20260913/d480527e61a305d85631905f41167e2e.png" group-title="Bóng đá",Londrina PR vs Ponte Preta (BRA D2)
-https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=0bd43ac3f4ffb7c864f7534565f9dae0&txTime=6aaa372e
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=54856303399ec14a4bf31664f09b5193&txTime=6aaa3986
+#EXTINF:-1 tvg-id="room-9912139" tvg-logo="https://sta.vnres.co/file/common/20260913/81a491a5ba285e813d517cf15e75ea45.png" group-title="Bóng đá",Boyaca Chico vs Alianza (COL D1)
+https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=86e27e0b2f8683db56e1681a742d0e8e&txTime=6aaa3986
 #EXTINF:-1 tvg-id="room-9912143" tvg-logo="https://sta.vnres.co/file/common/20260913/07dfda3850b22ff9cf12cb234c3c248b.png" group-title="Bóng đá",Puebla vs Toluca (MEX D1)
-https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789522142-0-0-190d44a191887fe20bbdf28753e22bac
+https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789522742-0-0-3f419982a04442280d6cb9882347a756
 #EXTINF:-1 tvg-id="room-9912144" tvg-logo="https://sta.vnres.co/file/common/20260913/07dfda3850b22ff9cf12cb234c3c248b.png" group-title="Bóng đá",Puebla vs Toluca (MEX D1)
 https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1789499345-0-0-80dfba7ce83bf032cef4337c980a1b80
+#EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260914/cb0773116a7c83d32ee1adaa812ab883.png" group-title="Bóng rổ",Dorados vs El Calor de Cancun (LNBP)
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789490071-0-0-82bcc3b63460efc7b3261a9be5efe154
+#EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260914/cb0773116a7c83d32ee1adaa812ab883.png" group-title="Bóng rổ",Dorados vs El Calor de Cancun (LNBP)
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789450281-0-0-f9cec283ac1227f152b2552c1cccfbda
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260916/d8a7ca148cf576926c11e4ce60706201.jpg" group-title="SocoLive",CON CSA: São Paulo - SP vs Boca Juniors - A PÁO
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789521842-0-0-4804877a7ce4cdaa48043f32356d2d0d
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789522442-0-0-d38279688be2ddcf41dc80e66c031941
 #EXTINF:-1 tvg-id="room-327159" tvg-logo="https://sta.vnres.co/file/common/20260910/b74633428c7b7d75edf4a7dbb3d250cf.jpg" group-title="SocoLive",BRA D2: CRB AL vs Sport Club do Recife - BLV COCA
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789521842-0-0-4b2629a290063c5b0601769dcd3f610c
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789522442-0-0-2f554382999fb06553a42311ce8d65db
 #EXTINF:-1 tvg-id="room-372746" tvg-logo="https://sta.vnres.co/file/common/20260728/ba06eac3dc3ffeee0de25e8e0deaaceb.jpg" group-title="SocoLive",COL D1: Boyaca Chico vs Alianza - BLV YONE
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1789521842-0-0-6137be0deae549098eb92c3884e28d88
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1789522442-0-0-6d505649bf9340ce2e870de1161d00c5
+#EXTINF:-1 tvg-id="room-387694" tvg-logo="https://sta.vnres.co/file/common/20260916/39ff310d7591fd615e30214b4847816d.png" group-title="SocoLive",CON CSA: São Paulo - SP vs Boca Juniors - CR Bưởi
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=454ff77fab1d27be381d1ed3faeda5e9&txTime=6aaa385a
 #EXTINF:-1 tvg-id="room-485739" tvg-logo="https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b.jpg" group-title="SocoLive",MEX D2: Club Deportivo Dorados de Sinaloa vs Cancun FC - BLV CHIVAS
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=c0c75f4328c12e0e5eab865624f63f54&txTime=6aaa3602
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=575d8cc1759b11acc9dfc90900c37ba7&txTime=6aaa385a
 #EXTINF:-1 tvg-id="room-491873" tvg-logo="https://sta.vnres.co/file/common/20250723/6b83b847d8944b57cc13043bae9fa7a8.jpg" group-title="SocoLive",MEX D2: Club Deportivo Dorados de Sinaloa vs Cancun FC - BLV VIP
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=ad416cf605f6db2a004d77dd503f713e&txTime=6aaa3602
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=f5fd47e4a0a33d8dbb24903083f554bd&txTime=6aaa385a
 #EXTINF:-1 tvg-id="room-527383" tvg-logo="https://sta.vnres.co/file/common/20260626/fcd1d9373f93de7ff3ebfbee3f073c7c.jpg" group-title="SocoLive",BRA D2: Nautico (PE) vs Operario Ferroviario PR - BLV ROBBEN
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789521842-0-0-0aa7e46d91d88f2430a60319cd7527b3
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789522477-0-0-07dcf12312045447be433971e550eb64
 #EXTINF:-1 tvg-id="room-527384" tvg-logo="https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg" group-title="SocoLive",AGS: Vietnam U23 vs Kuwait U23 - LÃO LÂM
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789521842-0-0-4b92ff61a61f679106306b332880fbf4
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789522442-0-0-b293f395cf551accade3ca0a353eefe5
 #EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg" group-title="SocoLive",CON CSA: São Paulo - SP vs Boca Juniors - BLV RAMBO
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=591b4507ff1bee183fdce842c06d7026&txTime=6aaa3602
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=501d47c1194bd005a45a38fded7a6d07&txTime=6aaa385a
 #EXTINF:-1 tvg-id="room-582342" tvg-logo="https://sta.vnres.co/file/common/20260911/5092224ec4c96a8b8625005b880ba090.jpg" group-title="SocoLive",CON CSA: São Paulo - SP vs Boca Juniors - BLV CÒ
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1789521842-0-0-383e74d36f3cd46b6414bb21cc92a1bb
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1789522442-0-0-403275c73f9c0f12223d4456b1918951
 #EXTINF:-1 tvg-id="room-607400" tvg-logo="https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1.jpg" group-title="SocoLive",COL D1: Boyaca Chico vs Alianza - HÀ DUY KIÊN
-https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=91c6061cbc8c90ccbc9c121f60c0540a&txTime=6aaa3602
-#EXTINF:-1 tvg-id="room-618950" tvg-logo="https://sta.vnres.co/file/common/20260809/fc6e18cdf1c27d6d7bcc826893a988c4.jpg" group-title="SocoLive",MEX D2: Club Deportivo Dorados de Sinaloa vs Cancun FC - CƠM NẾP
-https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1789521842-0-0-3acf002698771fb83faebe5176c7e137
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=c3fe78045de74f1ac4f028aa3649bd4e&txTime=6aaa385a
 #EXTINF:-1 tvg-id="room-620084" tvg-logo="https://sta.vnres.co/file/common/20260713/cbd81ea71d49b5b5f074a5f56678a9b6.png" group-title="SocoLive",USLC: Indy Eleven vs Brooklyn FC - PEANUT
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789521842-0-0-40a16a6d193579078288efe8b3c4ab8f
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789522442-0-0-a39fc409377ede4667ee58ad9c39c162
 #EXTINF:-1 tvg-id="room-9912008" tvg-logo="https://sta.vnres.co/file/common/20260915/e860b360c576d0e840a1eee21c4c9eb1.png" group-title="SocoLive",CON CSA: São Paulo - SP vs Boca Juniors - BLV TOMIA
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789521842-0-0-10e47a861b1791f69216b1803241a91c
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789522442-0-0-f7014dee74251ab89d7afa1e0873d7eb
+#EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260916/980badcf92ab5a1a5fb4e17957968baf.png" group-title="SocoLive",MEX D1: Puebla vs Toluca - BLV Củ Cải
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789522442-0-0-d07d3684bf6a3fb33f66c2d05acaaabc
 #EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg" group-title="SocoLive",USLC: Indy Eleven vs Brooklyn FC - BLV RÔSI
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=ec6233ce7555e75b6f7cadce54de5912&txTime=6aaa3602
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=3dd242152355253f29d8a5c5b0cf7679&txTime=6aaa385a
+#EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260914/4668dc4fe05d802b4fda3b6c5027b260.png" group-title="SocoLive",MEX D1: Puebla vs Toluca - BLV ZOWIE
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789522442-0-0-2006c444a0472df2cd9dd94242192774
 #EXTINF:-1 tvg-id="room-9912122" tvg-logo="https://sta.vnres.co/file/common/20260620/4cbae14a2d06d1635a160fc8c2beb182.jpg" group-title="SocoLive",CON CSA: São Paulo - SP vs Boca Juniors - RICKHANTER
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=7a70140255bdb532ad4e7a7c02d08f5f&txTime=6aaa3602
-#EXTINF:-1 tvg-id="room-9912130" tvg-logo="https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png" group-title="SocoLive",BRA D2: Nautico (PE) vs Operario Ferroviario PR - BLV A TÚ
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789521842-0-0-04c3c601f67dde501b9ae85dbf620b01
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=f3665518f47b936eff73b54152e85b0f&txTime=6aaa385a
 #EXTINF:-1 tvg-id="room-9912139" tvg-logo="https://sta.vnres.co/file/common/20260317/5be300857a15349a5324be170237948b.png" group-title="SocoLive",COL D1: Boyaca Chico vs Alianza - BLV A TINH
-https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=44d60a6a58fe1ffc83951ac17fdf43e8&txTime=6aaa3602
+https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=5f364db7d4c55a1acdc10384bdc835f8&txTime=6aaa385a
 #EXTINF:-1 tvg-id="room-9912143" tvg-logo="https://sta.vnres.co/file/common/20260908/25a8cd45f3d227a96b46e77ba0d942c2.png" group-title="SocoLive",MEX D1: Puebla vs Toluca - NGƯỜI CÁ
-https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789521842-0-0-cc26883d0e4b270bee395eaa7dab29b2
+https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789522442-0-0-18cfd96229f36518ce370a409f6d2408
