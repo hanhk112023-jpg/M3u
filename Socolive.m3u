@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 31
-# Updated: 16/09/2026 10:20:05
+# Channels: 37
+# Updated: 16/09/2026 11:10:05
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260913/9f83c98ae4d43c4dcf837cea65771bf6.png" group-title="Bóng đá",Thailand U23 vs Kyrgyzstan U23 (AGS)
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789529876-0-0-fb7b6e6757a3355b9c267e17301f2de2
@@ -11,10 +11,14 @@ https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=6c574c1f9ef87c624c31
 https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=4f4f290a52fb418fc299b9ddcedb6921&txTime=6aa97f8b
 #EXTINF:-1 tvg-id="room-459401" tvg-logo="https://sta.vnres.co/file/common/20260913/6de3aa57fd2cdbc29dca32f33324381f.png" group-title="Bóng đá",United Arab Emirates U23 vs Iran U23 (AGS)
 https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=3c883d72cdabffc0328a4c35b2877caa&txTime=6aa9f62b
+#EXTINF:-1 tvg-id="room-527384" tvg-logo="https://sta.vnres.co/file/common/20260913/31b16ef3b52bcc11e2cca4c5bdcc6da5.png" group-title="Bóng đá",Jeonbuk Hyundai Motors vs Kashiwa Reysol (ACL Elite)
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789531328-0-0-d583d60bd576125e0000181d3b7d46fc
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260913/6de3aa57fd2cdbc29dca32f33324381f.png" group-title="Bóng đá",United Arab Emirates U23 vs Iran U23 (AGS)
 https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789520163-0-0-7de734f96fb48407c0be217cd9e4f850
 #EXTINF:-1 tvg-id="room-552832" tvg-logo="https://sta.vnres.co/file/common/20260913/6de3aa57fd2cdbc29dca32f33324381f.png" group-title="Bóng đá",United Arab Emirates U23 vs Iran U23 (AGS)
 https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=006e4786ea01d82a10e0151a83fbfd51&txTime=6aa98d63
+#EXTINF:-1 tvg-id="room-582342" tvg-logo="https://sta.vnres.co/file/common/20260913/31b16ef3b52bcc11e2cca4c5bdcc6da5.png" group-title="Bóng đá",Jeonbuk Hyundai Motors vs Kashiwa Reysol (ACL Elite)
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1789529497-0-0-f9dd21a977c4d9c52c59a0f910a3e18b
 #EXTINF:-1 tvg-id="room-622241" tvg-logo="https://sta.vnres.co/file/common/20260913/6de3aa57fd2cdbc29dca32f33324381f.png" group-title="Bóng đá",United Arab Emirates U23 vs Iran U23 (AGS)
 https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789485445-0-0-49f285e0fb2f1f142ea4ecda4037d050
 #EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260913/fbdbde83e16f9add59d8ce7de354dbd7.png" group-title="Bóng đá",Borneo FC Samarinda vs Dewa United FC (IDN D1)
@@ -31,6 +35,14 @@ https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=bb456d38111d52de154
 https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=3225b5d885e634624a6c72057e43bc22&txTime=6aaa5471
 #EXTINF:-1 tvg-id="room-9912127" tvg-logo="https://sta.vnres.co/file/common/20260913/5acbda52bb0b494907901cb905566bed.png" group-title="Bóng đá",China U23 vs North Korea U23 (AGS)
 https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=468690fdba62630cfc1f09a7e40d57ec&txTime=6aa9eb06
+#EXTINF:-1 tvg-id="room-9912128" tvg-logo="https://sta.vnres.co/file/common/20260913/31b16ef3b52bcc11e2cca4c5bdcc6da5.png" group-title="Bóng đá",Jeonbuk Hyundai Motors vs Kashiwa Reysol (ACL Elite)
+https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789502529-0-0-6635a69718eb4e1a0d1735dbc639927e
+#EXTINF:-1 tvg-id="room-9912129" tvg-logo="https://sta.vnres.co/file/common/20260913/31b16ef3b52bcc11e2cca4c5bdcc6da5.png" group-title="Bóng đá",Jeonbuk Hyundai Motors vs Kashiwa Reysol (ACL Elite)
+https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=1ec86f9238378fcb77cd3f3f151d6f57&txTime=6aaa0ee0
+#EXTINF:-1 tvg-id="room-9912130" tvg-logo="https://sta.vnres.co/file/common/20260913/31b16ef3b52bcc11e2cca4c5bdcc6da5.png" group-title="Bóng đá",Jeonbuk Hyundai Motors vs Kashiwa Reysol (ACL Elite)
+https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789522288-0-0-c22e6f754cf05f5b25a171eff8b0596c
+#EXTINF:-1 tvg-id="room-9912135" tvg-logo="https://sta.vnres.co/file/common/20260913/31b16ef3b52bcc11e2cca4c5bdcc6da5.png" group-title="Bóng đá",Jeonbuk Hyundai Motors vs Kashiwa Reysol (ACL Elite)
+https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1789502601-0-0-aec36b708b8ee7dce00d76bb1e2a2a04
 #EXTINF:-1 tvg-id="room-9912140" tvg-logo="https://sta.vnres.co/file/common/20260913/9f83c98ae4d43c4dcf837cea65771bf6.png" group-title="Bóng đá",Thailand U23 vs Kyrgyzstan U23 (AGS)
 https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=67ceaf178da294be66e8acee6c50ac4c&txTime=6aaa0d75
 #EXTINF:-1 tvg-id="room-9912143" tvg-logo="https://sta.vnres.co/file/common/20260913/fbdbde83e16f9add59d8ce7de354dbd7.png" group-title="Bóng đá",Borneo FC Samarinda vs Dewa United FC (IDN D1)
@@ -42,26 +54,26 @@ https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789499332-0-0-806
 #EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260913/6de3aa57fd2cdbc29dca32f33324381f.png" group-title="Bóng đá",United Arab Emirates U23 vs Iran U23 (AGS)
 https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789499373-0-0-182255bf3b8b54c15a633d328bf1b45b
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260914/a6519a3abe4bffc30b29084e6e469dd7.png" group-title="Bóng rổ",Fuerza Regia vs Mineros (LNBP)
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=15874013a031cbadaf1f9c3a4c542907&txTime=6aaa5dda
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=adb799db329388522b3a1a6c22a422d7&txTime=6aaa6992
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260914/a6519a3abe4bffc30b29084e6e469dd7.png" group-title="Bóng rổ",Fuerza Regia vs Mineros (LNBP)
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=92cc23911e8010a83a1d38eab0e1878f&txTime=6aaa5dda
-#EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260914/cb0773116a7c83d32ee1adaa812ab883.png" group-title="Bóng rổ",Dorados vs El Calor de Cancun (LNBP)
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789532042-0-0-440720e8ce6ce653a91f34ee6c072ebe
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=a8a2b54bda093e20a3d69996a3029f96&txTime=6aaa6992
+#EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260915/ea250d3bab5327bf5639d493bd31b4ea.png" group-title="Bóng rổ",Iran vs Bahrain (AGB)
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789535042-0-0-acfc6eee1d036438f17271fb570879c4
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260914/a6519a3abe4bffc30b29084e6e469dd7.png" group-title="Bóng rổ",Fuerza Regia vs Mineros (LNBP)
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789532042-0-0-8d4f4f7930a668efc85d3c2748c1e420
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789535042-0-0-a4056fb4366b353a6c793643fe410f3e
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260914/a6519a3abe4bffc30b29084e6e469dd7.png" group-title="Bóng rổ",Fuerza Regia vs Mineros (LNBP)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789532102-0-0-c6e6e3aeb1f26050741be998f6c5a3ec
-#EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260914/cb0773116a7c83d32ee1adaa812ab883.png" group-title="Bóng rổ",Dorados vs El Calor de Cancun (LNBP)
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789532102-0-0-97f29f980d9e46a9a4998ca4e4ef70bf
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789535042-0-0-cd46281493135c09c69832b397c81759
+#EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260915/ea250d3bab5327bf5639d493bd31b4ea.png" group-title="Bóng rổ",Iran vs Bahrain (AGB)
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789535042-0-0-0687659a72484d2729bcd47583016249
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg" group-title="SocoLive",LNBP: Fuerza Regia vs Mineros - A CHÈ
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=15874013a031cbadaf1f9c3a4c542907&txTime=6aaa5dda
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=adb799db329388522b3a1a6c22a422d7&txTime=6aaa6992
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg" group-title="SocoLive",LNBP: Fuerza Regia vs Mineros - HUNTER
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=92cc23911e8010a83a1d38eab0e1878f&txTime=6aaa5dda
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=a8a2b54bda093e20a3d69996a3029f96&txTime=6aaa6992
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-title="SocoLive",LNBP: Dorados vs El Calor de Cancun - KING
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789532042-0-0-440720e8ce6ce653a91f34ee6c072ebe
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789535042-0-0-acfc6eee1d036438f17271fb570879c4
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-title="SocoLive",LNBP: Fuerza Regia vs Mineros - BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789532042-0-0-8d4f4f7930a668efc85d3c2748c1e420
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789535042-0-0-a4056fb4366b353a6c793643fe410f3e
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg" group-title="SocoLive",LNBP: Fuerza Regia vs Mineros - BLV HENRY
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789532042-0-0-36435015a78c6dc357e9530e48c7acfb
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789535042-0-0-cd46281493135c09c69832b397c81759
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg" group-title="SocoLive",LNBP: Dorados vs El Calor de Cancun - CHAN SENA
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789532042-0-0-ff89cc67fd896562accc3a55a18819e0
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789535042-0-0-0687659a72484d2729bcd47583016249
