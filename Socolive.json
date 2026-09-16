@@ -5,7 +5,7 @@
     "name": "Thailand U23 vs Kyrgyzstan U23 (AGS)",
     "logo": "https://sta.vnres.co/file/common/20260913/9f83c98ae4d43c4dcf837cea65771bf6.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789545242-0-0-97fa4e37120991334d9f99d981e77a85",
+    "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789545902-0-0-bbfae2ba9ddb8172a5c19d54aaf7250c",
     "type": "hls"
   },
   {
@@ -50,16 +50,16 @@
     "name": "Thailand U23 vs Kyrgyzstan U23 (AGS)",
     "logo": "https://sta.vnres.co/file/common/20260913/9f83c98ae4d43c4dcf837cea65771bf6.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=8e8767e358b8756bf35e1dbc74e5c7fa\u0026txTime=6aaa916a",
+    "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=c816f222d956cee4238318e2f34c9b65\u0026txTime=6aaa93fe",
     "type": "hls"
   },
   {
     "id": "459401",
     "tvg_id": "room-459401",
-    "name": "United Arab Emirates U23 vs Iran U23 (AGS)",
-    "logo": "https://sta.vnres.co/file/common/20260913/6de3aa57fd2cdbc29dca32f33324381f.png",
+    "name": "Thailand U23 vs Kyrgyzstan U23 (AGS)",
+    "logo": "https://sta.vnres.co/file/common/20260913/9f83c98ae4d43c4dcf837cea65771bf6.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=d93a2a8dea4ded18f3550dfb7b59155d\u0026txTime=6aaa9189",
+    "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=5e441da0c377ec940d8625868580bab8\u0026txTime=6aaa93fe",
     "type": "hls"
   },
   {
@@ -87,24 +87,6 @@
     "logo": "https://sta.vnres.co/file/common/20260913/31b16ef3b52bcc11e2cca4c5bdcc6da5.png",
     "group": "Bóng đá",
     "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789531328-0-0-d583d60bd576125e0000181d3b7d46fc",
-    "type": "hls"
-  },
-  {
-    "id": "532081",
-    "tvg_id": "room-532081",
-    "name": "United Arab Emirates U23 vs Iran U23 (AGS)",
-    "logo": "https://sta.vnres.co/file/common/20260913/6de3aa57fd2cdbc29dca32f33324381f.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789545296-0-0-5d7fa1c01e59b5e13d22ae6ad982cc9b",
-    "type": "hls"
-  },
-  {
-    "id": "552832",
-    "tvg_id": "room-552832",
-    "name": "United Arab Emirates U23 vs Iran U23 (AGS)",
-    "logo": "https://sta.vnres.co/file/common/20260913/6de3aa57fd2cdbc29dca32f33324381f.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=0315ca966bbed22619a2b5518f2cbff8\u0026txTime=6aaa9142",
     "type": "hls"
   },
   {
@@ -137,10 +119,10 @@
   {
     "id": "622241",
     "tvg_id": "room-622241",
-    "name": "United Arab Emirates U23 vs Iran U23 (AGS)",
-    "logo": "https://sta.vnres.co/file/common/20260913/6de3aa57fd2cdbc29dca32f33324381f.png",
+    "name": "Thailand U23 vs Kyrgyzstan U23 (AGS)",
+    "logo": "https://sta.vnres.co/file/common/20260913/9f83c98ae4d43c4dcf837cea65771bf6.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789545242-0-0-d64986879d447ed7016cd45bc3f192ce",
+    "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789545902-0-0-64962d9fcb43e12fc9e8962a45f475fa",
     "type": "hls"
   },
   {
@@ -185,7 +167,7 @@
     "name": "Thailand U23 vs Kyrgyzstan U23 (AGS)",
     "logo": "https://sta.vnres.co/file/common/20260913/9f83c98ae4d43c4dcf837cea65771bf6.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789545542-0-0-e2d607192386464cf1647aca2aa8e879",
+    "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789545902-0-0-980b7487ca2ea2152d8b9c08ba39cd3a",
     "type": "hls"
   },
   {
@@ -279,12 +261,21 @@
     "type": "hls"
   },
   {
+    "id": "9912138",
+    "tvg_id": "room-9912138",
+    "name": "China U23 vs North Korea U23 (AGS)",
+    "logo": "https://sta.vnres.co/file/common/20260913/5acbda52bb0b494907901cb905566bed.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1789509448-0-0-5e97f24e18508c77c6af70fba8683939",
+    "type": "hls"
+  },
+  {
     "id": "9912140",
     "tvg_id": "room-9912140",
     "name": "Thailand U23 vs Kyrgyzstan U23 (AGS)",
     "logo": "https://sta.vnres.co/file/common/20260913/9f83c98ae4d43c4dcf837cea65771bf6.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=2242ec04b948ab3030378bab939f3069\u0026txTime=6aaa92d2",
+    "url": "https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=b6ec76a46cdf978efc892e6140e139e7\u0026txTime=6aaa952a",
     "type": "hls"
   },
   {
@@ -308,19 +299,37 @@
   {
     "id": "9912145",
     "tvg_id": "room-9912145",
-    "name": "United Arab Emirates U23 vs Iran U23 (AGS)",
-    "logo": "https://sta.vnres.co/file/common/20260913/6de3aa57fd2cdbc29dca32f33324381f.png",
+    "name": "Borneo FC Samarinda vs Dewa United FC (IDN D1)",
+    "logo": "https://sta.vnres.co/file/common/20260913/fbdbde83e16f9add59d8ce7de354dbd7.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789545602-0-0-39a4c24d241d6db7f1f10f80ab7a548a",
+    "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789545836-0-0-ef1fb0d73a49d1e08b67d996ea991d80",
     "type": "hls"
   },
   {
     "id": "9912146",
     "tvg_id": "room-9912146",
-    "name": "United Arab Emirates U23 vs Iran U23 (AGS)",
-    "logo": "https://sta.vnres.co/file/common/20260913/6de3aa57fd2cdbc29dca32f33324381f.png",
+    "name": "Japan U23 vs Hong Kong U23 (AGS)",
+    "logo": "https://sta.vnres.co/file/common/20260913/c2e9cc85c0a6deb8361b5db054173d8c.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789545583-0-0-578f8afc5cdda711de37f27e74b1efbd",
+    "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789545688-0-0-81d13955d4f5345199c43a39d0b5d543",
+    "type": "hls"
+  },
+  {
+    "id": "558264",
+    "tvg_id": "room-558264",
+    "name": "Levice vs Salon Vilpas (BCL)",
+    "logo": "https://sta.vnres.co/file/common/20260914/2da19a836204173d2ba5090a3b941d7c.png",
+    "group": "Bóng rổ",
+    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=0d84a3df84350926102673e5b3e754da\u0026txTime=6aaa83b8",
+    "type": "hls"
+  },
+  {
+    "id": "9912106",
+    "tvg_id": "room-9912106",
+    "name": "Levice vs Salon Vilpas (BCL)",
+    "logo": "https://sta.vnres.co/file/common/20260914/2da19a836204173d2ba5090a3b941d7c.png",
+    "group": "Bóng rổ",
+    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789541956-0-0-789d8a248278fc1fc61376e00029c0aa",
     "type": "hls"
   },
   {
@@ -329,7 +338,7 @@
     "name": "AGS: Thailand U23 vs Kyrgyzstan U23 - A PÁO",
     "logo": "https://sta.vnres.co/file/common/20260916/bb0207b769deb83dd0f6b6b34157206d.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789545242-0-0-97fa4e37120991334d9f99d981e77a85",
+    "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789545902-0-0-bbfae2ba9ddb8172a5c19d54aaf7250c",
     "type": "hls"
   },
   {
@@ -338,25 +347,25 @@
     "name": "AGS: Thailand U23 vs Kyrgyzstan U23 - THOMAS",
     "logo": "https://sta.vnres.co/file/common/20260806/4c726754b547e8d50d1f1dd3d1304c4f.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=8e8767e358b8756bf35e1dbc74e5c7fa\u0026txTime=6aaa916a",
+    "url": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=c816f222d956cee4238318e2f34c9b65\u0026txTime=6aaa93fe",
     "type": "hls"
   },
   {
     "id": "459401",
     "tvg_id": "room-459401",
-    "name": "AGS: United Arab Emirates U23 vs Iran U23 - BLV BÉO",
+    "name": "AGS: Thailand U23 vs Kyrgyzstan U23 - BLV BÉO",
     "logo": "https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=d93a2a8dea4ded18f3550dfb7b59155d\u0026txTime=6aaa9189",
+    "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=5e441da0c377ec940d8625868580bab8\u0026txTime=6aaa93fe",
     "type": "hls"
   },
   {
-    "id": "532081",
-    "tvg_id": "room-532081",
-    "name": "AGS: United Arab Emirates U23 vs Iran U23 - BLV ALEX",
-    "logo": "https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg",
+    "id": "622241",
+    "tvg_id": "room-622241",
+    "name": "AGS: Thailand U23 vs Kyrgyzstan U23 - BLV HEHE",
+    "logo": "https://sta.vnres.co/file/common/20260914/76c0fe465e1b9b82a4586bfbd49cb618.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789545296-0-0-5d7fa1c01e59b5e13d22ae6ad982cc9b",
+    "url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789545902-0-0-64962d9fcb43e12fc9e8962a45f475fa",
     "type": "hls"
   },
   {
@@ -365,7 +374,7 @@
     "name": "AGS: Thailand U23 vs Kyrgyzstan U23 - BLV ZOWIE",
     "logo": "https://sta.vnres.co/file/common/20260914/4668dc4fe05d802b4fda3b6c5027b260.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789545242-0-0-b748a2f61bebcb391fb6edf51063916e",
+    "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789545902-0-0-980b7487ca2ea2152d8b9c08ba39cd3a",
     "type": "hls"
   },
   {
@@ -374,25 +383,7 @@
     "name": "AGS: Thailand U23 vs Kyrgyzstan U23 - SAO LA",
     "logo": "https://sta.vnres.co/file/common/20260807/a76465a880a2789f42e440cf03e9db6b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=e0dfa49d8f43a44178e4b76dd48b6fb0\u0026txTime=6aaa916a",
-    "type": "hls"
-  },
-  {
-    "id": "9912145",
-    "tvg_id": "room-9912145",
-    "name": "AGS: United Arab Emirates U23 vs Iran U23 - ZIDANE",
-    "logo": "https://sta.vnres.co/file/common/20260916/38541c72a8c12d8baa1c120cd489d9a9.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789545242-0-0-01796b18d095cec45242238f9dbe4c3e",
-    "type": "hls"
-  },
-  {
-    "id": "9912146",
-    "tvg_id": "room-9912146",
-    "name": "AGS: United Arab Emirates U23 vs Iran U23 - BLV CUỘI",
-    "logo": "https://sta.vnres.co/file/common/20260829/f6903a1879b3c7cc22d27c658db14d94.png",
-    "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789545242-0-0-b73b1ebb1244c6871297701a0770729e",
+    "url": "https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=59adb03f74e1dff3b4253fabd5e6fccc\u0026txTime=6aaa93fe",
     "type": "hls"
   }
 ]
