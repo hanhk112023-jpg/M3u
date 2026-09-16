@@ -5,7 +5,7 @@
     "name": "El Gounah vs Petrojet (EGY D1)",
     "logo": "https://sta.vnres.co/file/common/20260913/56cf1a0dce171d1e8325b57510af055f.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=12b8b094b905e6b2bcd9dfbebf5a0b6d\u0026txTime=6aab0da2",
+    "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=58af79aeb3a50274299cb433238fa79e\u0026txTime=6aab0ffa",
     "type": "hls"
   },
   {
@@ -14,7 +14,7 @@
     "name": "Spartak Moscow vs Fakel Voronezh (RUS D1)",
     "logo": "https://sta.vnres.co/file/common/20260913/5b3e209c9e18969e9ae8867f3a918513.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789577342-0-0-1e6526878d34c33a440f2e66e038611d",
+    "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789577642-0-0-b6a18aa69a9be099294b13fa6db508a1",
     "type": "hls"
   },
   {
@@ -23,7 +23,7 @@
     "name": "Al-Hussein SC (Irbid) vs East Bengal FC (ACL2)",
     "logo": "https://sta.vnres.co/file/common/20260913/824ce08e395a492f7640348b0560f8fa.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1789577342-0-0-04de77fdb6f5cd997b6d2c90042d453c",
+    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1789577642-0-0-64d53598cddb705c0fd1353635cc8a0a",
     "type": "hls"
   },
   {
@@ -32,7 +32,7 @@
     "name": "Rodina Moscow vs Rubin Kazan (RUS D1)",
     "logo": "https://sta.vnres.co/file/common/20260913/14c17aa8070a962aa182551698bcb5b2.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=740c617caa6cd563acc58a3916be6cac\u0026txTime=6aab0ece",
+    "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=432818a6f87073787dcb7bb3f78ae783\u0026txTime=6aab0ffa",
     "type": "hls"
   },
   {
@@ -41,7 +41,7 @@
     "name": "Rodina Moscow vs Rubin Kazan (RUS D1)",
     "logo": "https://sta.vnres.co/file/common/20260913/14c17aa8070a962aa182551698bcb5b2.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1789577342-0-0-fdce644e4c1fce768843aec21c655eff",
+    "url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1789577942-0-0-a0d8e7f475be2d007c6ff8a2c27758fa",
     "type": "hls"
   },
   {
@@ -50,16 +50,25 @@
     "name": "El Gounah vs Petrojet (EGY D1)",
     "logo": "https://sta.vnres.co/file/common/20260913/56cf1a0dce171d1e8325b57510af055f.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789577342-0-0-f102bcdde2b0833b3bd2695b9c955f0b",
+    "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789577815-0-0-3f6ed74addbadeba664bb3346384d896",
     "type": "hls"
   },
   {
-    "id": "619561",
-    "tvg_id": "room-619561",
-    "name": "Brazil U20 Women vs USA U20 Women (FIFA WU20)",
-    "logo": "https://sta.vnres.co/file/common/20260915/cc2226260155f59f0472f3199089b7e2.png",
+    "id": "607552",
+    "tvg_id": "room-607552",
+    "name": "Al Wahda(UAE) vs Al Kuwait SC (ACL2)",
+    "logo": "https://sta.vnres.co/file/common/20260913/86daf2b53d406b4278f9806ce9884c01.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1789577286-0-0-423cb611bda08075545a91d453f4f231",
+    "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1789577942-0-0-b8479f596436d260e8e3d294fd39813b",
+    "type": "hls"
+  },
+  {
+    "id": "610518",
+    "tvg_id": "room-610518",
+    "name": "Al Wahda(UAE) vs Al Kuwait SC (ACL2)",
+    "logo": "https://sta.vnres.co/file/common/20260913/86daf2b53d406b4278f9806ce9884c01.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=e665fe6d44031ca556212ef249333b61\u0026txTime=6aab1126",
     "type": "hls"
   },
   {
@@ -68,7 +77,7 @@
     "name": "Al-Hussein SC (Irbid) vs East Bengal FC (ACL2)",
     "logo": "https://sta.vnres.co/file/common/20260913/824ce08e395a492f7640348b0560f8fa.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1789577342-0-0-f7e27cc7af5f065c84d2ed52db88e837",
+    "url": "https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1789577942-0-0-a34778547e60735cea6abd473780b2fd",
     "type": "hls"
   },
   {
@@ -77,7 +86,7 @@
     "name": "El Gounah vs Petrojet (EGY D1)",
     "logo": "https://sta.vnres.co/file/common/20260913/56cf1a0dce171d1e8325b57510af055f.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-620797_lhd.m3u8?txSecret=556ae4f78ae2d64efe7f42f4af38f71d\u0026txTime=6aab0ece",
+    "url": "https://pull.niur.live/live/stream-620797_lhd.m3u8?txSecret=2acd870db3659c1483304d66c4a4ea84\u0026txTime=6aab10c8",
     "type": "hls"
   },
   {
@@ -86,7 +95,7 @@
     "name": "Spartak Moscow vs Fakel Voronezh (RUS D1)",
     "logo": "https://sta.vnres.co/file/common/20260913/5b3e209c9e18969e9ae8867f3a918513.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1789577342-0-0-454d32942aed426bb84032f6e407d3aa",
+    "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1789578003-0-0-a511a62896dbdbf9277bfa73808ae522",
     "type": "hls"
   },
   {
@@ -95,7 +104,7 @@
     "name": "Spartak Moscow vs Fakel Voronezh (RUS D1)",
     "logo": "https://sta.vnres.co/file/common/20260913/5b3e209c9e18969e9ae8867f3a918513.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789577342-0-0-b246ca0a9692e6b0d93d653ed12c66a4",
+    "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789578003-0-0-c06d24d3c8ffa7b9a6ebe57f5569e521",
     "type": "hls"
   },
   {
@@ -104,7 +113,7 @@
     "name": "Lokomotiv Sofia vs CSKA Sofia (BUL D1)",
     "logo": "https://sta.vnres.co/file/common/20260913/d000237e262264bc357a06224b172e4f.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1789577342-0-0-49032df6e62b98c0753955ca80213ae3",
+    "url": "https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1789578003-0-0-a08a2035d3714c4c09669a1010c05dfc",
     "type": "hls"
   },
   {
@@ -113,7 +122,7 @@
     "name": "Rodina Moscow vs Rubin Kazan (RUS D1)",
     "logo": "https://sta.vnres.co/file/common/20260913/14c17aa8070a962aa182551698bcb5b2.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789577342-0-0-6287b1376505d879284e6d024ddcfa3b",
+    "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789578003-0-0-634697f3558362b24554153d9292359b",
     "type": "hls"
   },
   {
@@ -122,16 +131,7 @@
     "name": "El Gounah vs Petrojet (EGY D1)",
     "logo": "https://sta.vnres.co/file/common/20260913/56cf1a0dce171d1e8325b57510af055f.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789577342-0-0-1a2d63718d3a254f5b467dcdc2e1ab09",
-    "type": "hls"
-  },
-  {
-    "id": "9912132",
-    "tvg_id": "room-9912132",
-    "name": "Brazil U20 Women vs USA U20 Women (FIFA WU20)",
-    "logo": "https://sta.vnres.co/file/common/20260915/cc2226260155f59f0472f3199089b7e2.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=179508aea68f78a599e819742346eabb\u0026txTime=6aab0eca",
+    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789577848-0-0-be72ee2d81a7e4499232aebff6b037df",
     "type": "hls"
   },
   {
@@ -140,7 +140,7 @@
     "name": "Rodina Moscow vs Rubin Kazan (RUS D1)",
     "logo": "https://sta.vnres.co/file/common/20260913/14c17aa8070a962aa182551698bcb5b2.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=dc35cde127c4f6eb953e12ec4b4eaaa9\u0026txTime=6aab0ece",
+    "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=4c6c276c9e1b255c6083572647419208\u0026txTime=6aab1163",
     "type": "hls"
   },
   {
@@ -149,7 +149,7 @@
     "name": "Lokomotiv Sofia vs CSKA Sofia (BUL D1)",
     "logo": "https://sta.vnres.co/file/common/20260913/d000237e262264bc357a06224b172e4f.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-9912138_lhd.m3u8?txSecret=64c9d134bfacabb1784a1f47bfcd6740\u0026txTime=6aab0ece",
+    "url": "https://pull.niur.live/live/stream-9912138_lhd.m3u8?txSecret=2b805236adb5ab52fddb18c82209c3f9\u0026txTime=6aab1163",
     "type": "hls"
   },
   {
@@ -158,7 +158,7 @@
     "name": "Spartak Moscow vs Fakel Voronezh (RUS D1)",
     "logo": "https://sta.vnres.co/file/common/20260913/5b3e209c9e18969e9ae8867f3a918513.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789577342-0-0-49e4257921fa9c0c3c899b34bb19ceeb",
+    "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789578003-0-0-1dc141d39eec7959129d534d22c18fae",
     "type": "hls"
   },
   {
@@ -167,7 +167,7 @@
     "name": "Fribourg Olympic vs Batumi (BCL)",
     "logo": "https://sta.vnres.co/file/common/20260914/74efbd1b9e92e64777afb576f3d6e4de.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789577342-0-0-c189b64a2963ffec195ffcc6fa90d94a",
+    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789578003-0-0-34745195d7280848f3c30d133a3050bd",
     "type": "hls"
   },
   {
@@ -176,7 +176,7 @@
     "name": "ACL2: Al Khaldiya vs Nasaf Qarshi - BLV GIÓ",
     "logo": "https://sta.vnres.co/file/common/20260603/54289b9ef989aba74cff5bfdee1d4656.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=74d1b78663bac4473b6113c8a9fa06f9\u0026txTime=6aab0da2",
+    "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=88968221f6f0f90a1333935ac6cab76a\u0026txTime=6aab0ffa",
     "type": "hls"
   },
   {
@@ -185,7 +185,7 @@
     "name": "ACL2: Al Nahda SC vs Al Taawoun - BLV ANH TÀI",
     "logo": "https://sta.vnres.co/file/common/20241220/6200343fea7ece69d7d92ae718616478.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=ed7d4b175ebd77ec2b0da267583d5646\u0026txTime=6aab0da2",
+    "url": "https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=408336022354e37e15ad68a8e8549f90\u0026txTime=6aab0ffa",
     "type": "hls"
   },
   {
@@ -194,7 +194,7 @@
     "name": "EGY D1: El Gounah vs Petrojet - XUÂN SON",
     "logo": "https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=12b8b094b905e6b2bcd9dfbebf5a0b6d\u0026txTime=6aab0da2",
+    "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=58af79aeb3a50274299cb433238fa79e\u0026txTime=6aab0ffa",
     "type": "hls"
   },
   {
@@ -203,7 +203,7 @@
     "name": "RUS D1: Spartak Moscow vs Fakel Voronezh - BLV ALEX",
     "logo": "https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789577042-0-0-4f75f88353b65de753dc918dab12741e",
+    "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789577642-0-0-b6a18aa69a9be099294b13fa6db508a1",
     "type": "hls"
   },
   {
@@ -212,7 +212,7 @@
     "name": "ACL2: Al-Hussein SC (Irbid) vs East Bengal FC - BLV A WIN",
     "logo": "https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1789577042-0-0-ec5e6ffae34af253f8cd4e3d551a9bc9",
+    "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1789577642-0-0-64d53598cddb705c0fd1353635cc8a0a",
     "type": "hls"
   },
   {
@@ -221,7 +221,7 @@
     "name": "RUS D1: Rodina Moscow vs Rubin Kazan - LOGAN",
     "logo": "https://sta.vnres.co/file/common/20251111/6a43978efb637082f6eb906c1e7f1621.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=87614b84e07009a8905d17cd0465bd70\u0026txTime=6aab0da2",
+    "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=432818a6f87073787dcb7bb3f78ae783\u0026txTime=6aab0ffa",
     "type": "hls"
   },
   {
@@ -230,7 +230,7 @@
     "name": "RUS D1: Rodina Moscow vs Rubin Kazan - BLV CÁO",
     "logo": "https://sta.vnres.co/file/common/20260312/cb002ebc914e9240a9242c43ec27aacb.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1789577042-0-0-7bbbb0bd52167b98bdf8a402e9b0dbb9",
+    "url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1789577642-0-0-0126ce8960699af77a770f22a1a02c28",
     "type": "hls"
   },
   {
@@ -239,7 +239,7 @@
     "name": "EGY D1: El Gounah vs Petrojet - TRÀ ĐÁ",
     "logo": "https://sta.vnres.co/file/common/20260904/c08eebf8c66b882d5d57e203ae571c7a.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789577042-0-0-031baad77dd0738376443ba013540976",
+    "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789577642-0-0-4084d716c79ec177ea40d695341a1325",
     "type": "hls"
   },
   {
@@ -248,7 +248,7 @@
     "name": "ACL2: Al Wahda(UAE) vs Al Kuwait SC - ĐỖ TÚ TÀI",
     "logo": "https://sta.vnres.co/file/common/20260522/f2b4ef051d1e02300d2d5bf24f3828f0.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1789577042-0-0-d6a9e480576b2f00128f4bd0614b732e",
+    "url": "https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1789577642-0-0-a55c950ac0e8cbe37f06d02de780e770",
     "type": "hls"
   },
   {
@@ -257,7 +257,7 @@
     "name": "ACL2: Al Wahda(UAE) vs Al Kuwait SC - XUÂN TÓC ĐỎ",
     "logo": "https://sta.vnres.co/file/common/20260628/336b2e008de11bb26c1d4e0e46bc9f95.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=c8826d3fa659324ccf2c53f9c1d1e66b\u0026txTime=6aab0da2",
+    "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=e202d80487ac2a65ad300c9459cb0419\u0026txTime=6aab0ffa",
     "type": "hls"
   },
   {
@@ -266,16 +266,7 @@
     "name": "ACL2: Al Nahda SC vs Al Taawoun - VINFAST",
     "logo": "https://sta.vnres.co/file/common/20260910/0b1046f9ea6e137597f737c5d46ef984.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1789577042-0-0-497aeb91fc27ac702363f4f844ef8d5b",
-    "type": "hls"
-  },
-  {
-    "id": "619561",
-    "tvg_id": "room-619561",
-    "name": "FIFA WU20: Brazil U20 Women vs USA U20 Women - BÚN ĐẬU",
-    "logo": "https://sta.vnres.co/file/common/20260729/d06a0efe274bce28547238bec2a125b9.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1789577042-0-0-bce1f6b2521c11b7bbca7c309c56c3d9",
+    "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1789577642-0-0-1983e6e8825939fd99e24ddb9b23fd0b",
     "type": "hls"
   },
   {
@@ -284,7 +275,7 @@
     "name": "ACL2: Al-Hussein SC (Irbid) vs East Bengal FC - BOSS",
     "logo": "https://sta.vnres.co/file/common/20260802/d0b756ac34b8f00d22a6d687f86fe8b2.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1789577042-0-0-9297c60ea26098da6ab8561f1ee7ec7c",
+    "url": "https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1789577642-0-0-aa50ed24ef7c0cfd2bcab89d94c63d38",
     "type": "hls"
   },
   {
@@ -293,7 +284,7 @@
     "name": "EGY D1: El Gounah vs Petrojet - BÒ TƯƠI",
     "logo": "https://sta.vnres.co/file/common/20260721/eae172928facf755dbf2027ca230e55e.png",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-620797_lhd.m3u8?txSecret=31f2902b1adf50be1cdd9fdc8684d31f\u0026txTime=6aab0da2",
+    "url": "https://pull.niur.live/live/stream-620797_lhd.m3u8?txSecret=b4aae531c09faf38d1a7339671d6bea0\u0026txTime=6aab0ffa",
     "type": "hls"
   },
   {
@@ -302,7 +293,7 @@
     "name": "RUS D1: Spartak Moscow vs Fakel Voronezh - BLV BẢY",
     "logo": "https://sta.vnres.co/file/common/20260916/fc74508168b08d2af23518f767b4dad6.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1789577043-0-0-fe47e8d2627a4b212858bf4fa8435e67",
+    "url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1789577642-0-0-6f2ae9e51625287b82b943d933df2199",
     "type": "hls"
   },
   {
@@ -311,7 +302,7 @@
     "name": "ACL2: Al Khaldiya vs Nasaf Qarshi - GRAP",
     "logo": "https://sta.vnres.co/file/common/20260703/fe517d18a8df723cee92683347d70be9.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=f57aa782275d65e89db2693aad0656cd\u0026txTime=6aab0da3",
+    "url": "https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=6120a4c4074bc5b11d66bff9bbf9c090\u0026txTime=6aab0ffa",
     "type": "hls"
   },
   {
@@ -320,7 +311,7 @@
     "name": "RUS D1: Spartak Moscow vs Fakel Voronezh - A MÂN",
     "logo": "https://sta.vnres.co/file/common/20260831/8c106fa0fe146cf7929663e53e921ba0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789577043-0-0-1ff2017ff716d9b65d3a627e8bf195b5",
+    "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789577642-0-0-94a8b9728728d472473eaba23ecd91f1",
     "type": "hls"
   },
   {
@@ -329,16 +320,7 @@
     "name": "BCL: Fribourg Olympic vs Batumi - BRIAN",
     "logo": "https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789577042-0-0-8158a39fdfd201546b86cc7c77b3a1ef",
-    "type": "hls"
-  },
-  {
-    "id": "9912115",
-    "tvg_id": "room-9912115",
-    "name": "BCL: Bakken Bears vs Zwolle - CHAN SENA",
-    "logo": "https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789577042-0-0-1082a9a534154928b5150cfd17ac62ae",
+    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789577642-0-0-25938ddacdae60bea57734001ec4c4be",
     "type": "hls"
   },
   {
@@ -347,7 +329,7 @@
     "name": "BUL D1: Lokomotiv Sofia vs CSKA Sofia - RỒNG ĐẤT",
     "logo": "https://sta.vnres.co/file/common/20260725/0eb3315ecb9cf5c7f5f9b102d38e52f9.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1789577042-0-0-545c807d6ba7e4266b10111363607821",
+    "url": "https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1789577642-0-0-472574c15ecdd893fe3cd2be05f6385e",
     "type": "hls"
   },
   {
@@ -356,7 +338,7 @@
     "name": "RUS D1: Rodina Moscow vs Rubin Kazan - CACAO",
     "logo": "https://sta.vnres.co/file/common/20260729/2cca708e4ee1d3e988c578ff79960d7b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789577042-0-0-46cdf6218aadb5fec8bb82210c098b9d",
+    "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789577642-0-0-421a11a1d0d7aa81d6adadcdd4038a9e",
     "type": "hls"
   },
   {
@@ -365,16 +347,7 @@
     "name": "EGY D1: El Gounah vs Petrojet - BLV A TÚ",
     "logo": "https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789577042-0-0-8971b964e1816b78a89616d12f6ca667",
-    "type": "hls"
-  },
-  {
-    "id": "9912132",
-    "tvg_id": "room-9912132",
-    "name": "FIFA WU20: Brazil U20 Women vs USA U20 Women - BLV XO",
-    "logo": "https://sta.vnres.co/file/common/20260613/cc7eb6fb9d74dfa083a48c861b135ae8.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=40687453755ff8881c7cfc40398b94b7\u0026txTime=6aab0da2",
+    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789577642-0-0-9c908335388e011933b852e7d8ddf8fa",
     "type": "hls"
   },
   {
@@ -383,7 +356,7 @@
     "name": "RUS D1: Rodina Moscow vs Rubin Kazan - BLV LONG",
     "logo": "https://sta.vnres.co/file/common/20260810/b792b2c329f2ffe44037f2d5973945de.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=62b72ccc8d9ebb55720ab668d41ced73\u0026txTime=6aab0da2",
+    "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=ac34fc708e00f411a62f00f6f3bcd28c\u0026txTime=6aab0ffa",
     "type": "hls"
   },
   {
@@ -392,7 +365,7 @@
     "name": "BUL D1: Lokomotiv Sofia vs CSKA Sofia - TUẤN CÙI",
     "logo": "https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912138_lhd.m3u8?txSecret=dd4eb676372a1463b2484ee47e429da7\u0026txTime=6aab0da2",
+    "url": "https://pull.niur.live/live/stream-9912138_lhd.m3u8?txSecret=0a2979b57a690de84abe9c84ddcb0f27\u0026txTime=6aab0ffa",
     "type": "hls"
   },
   {
@@ -401,7 +374,7 @@
     "name": "RUS D1: Spartak Moscow vs Fakel Voronezh - ZIDANE",
     "logo": "https://sta.vnres.co/file/common/20260916/38541c72a8c12d8baa1c120cd489d9a9.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789577042-0-0-2102498921457979477fdc6f0c425d0c",
+    "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789577642-0-0-4f83ade2644cc37a128dd680ffd242d7",
     "type": "hls"
   }
 ]
