@@ -1,20 +1,11 @@
 [
   {
-    "id": "283501",
-    "tvg_id": "room-283501",
-    "name": "FC Seoul vs Persib Bandung (ACL2)",
-    "logo": "https://sta.vnres.co/file/common/20260913/f241af6d3ffb7a80e5707cbfbdd80c92.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=51ecf459dc903514a863db2c9127bb37\u0026txTime=6aaad7f6",
-    "type": "hls"
-  },
-  {
     "id": "291277",
     "tvg_id": "room-291277",
     "name": "Port FC vs Vissel Kobe (ACL Elite)",
     "logo": "https://sta.vnres.co/file/common/20260913/7ccb7fdbe44a7e0bd33b53a08d7cdd0c.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=6145ecf11f4b52c2f0530e088d19fe10\u0026txTime=6aaad7f6",
+    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=55b859d04719fbb70adbb97ff0c90b45\u0026txTime=6aaada4e",
     "type": "hls"
   },
   {
@@ -23,7 +14,7 @@
     "name": "Japan U23 vs Hong Kong U23 (AGS)",
     "logo": "https://sta.vnres.co/file/common/20260913/c2e9cc85c0a6deb8361b5db054173d8c.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-304148_lhd.m3u8?txSecret=2fd20c2e50ab041e948127331b0aeff5\u0026txTime=6aaad7f6",
+    "url": "https://pull.niur.live/live/stream-304148_lhd.m3u8?txSecret=53fbf6dd45d61c69748893f9f0fad35e\u0026txTime=6aaada4e",
     "type": "hls"
   },
   {
@@ -32,7 +23,7 @@
     "name": "Japan U23 vs Hong Kong U23 (AGS)",
     "logo": "https://sta.vnres.co/file/common/20260913/c2e9cc85c0a6deb8361b5db054173d8c.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789563302-0-0-880499c8e11a05f88d8f62fbfa2155be",
+    "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789563902-0-0-e10dbcf1a0ebe38fbea71377d1b33aec",
     "type": "hls"
   },
   {
@@ -41,25 +32,16 @@
     "name": "Port FC vs Vissel Kobe (ACL Elite)",
     "logo": "https://sta.vnres.co/file/common/20260913/7ccb7fdbe44a7e0bd33b53a08d7cdd0c.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1789563302-0-0-a3824bee02a363a00a92ebdb5afe7fb7",
+    "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1789563902-0-0-da8c8a23d82f250d0612b0af98165b66",
     "type": "hls"
   },
   {
     "id": "387694",
     "tvg_id": "room-387694",
-    "name": "China U23 vs North Korea U23 (AGS)",
-    "logo": "https://sta.vnres.co/file/common/20260913/5acbda52bb0b494907901cb905566bed.png",
+    "name": "Port FC vs Vissel Kobe (ACL Elite)",
+    "logo": "https://sta.vnres.co/file/common/20260913/7ccb7fdbe44a7e0bd33b53a08d7cdd0c.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=42ad5c00f5558c73129ca68824bbf53c\u0026txTime=6aaad7f6",
-    "type": "hls"
-  },
-  {
-    "id": "491873",
-    "tvg_id": "room-491873",
-    "name": "FC Seoul vs Persib Bandung (ACL2)",
-    "logo": "https://sta.vnres.co/file/common/20260913/f241af6d3ffb7a80e5707cbfbdd80c92.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=8b07b2d9b83dc65d843cc96e6c93aa38\u0026txTime=6aaad7f6",
+    "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=6885cb3f73c857d4b606f71c4f24a15a\u0026txTime=6aaada4e",
     "type": "hls"
   },
   {
@@ -68,34 +50,7 @@
     "name": "Japan U23 vs Hong Kong U23 (AGS)",
     "logo": "https://sta.vnres.co/file/common/20260913/c2e9cc85c0a6deb8361b5db054173d8c.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789563302-0-0-fb7e37467b6b4bc718bfa6df7f7f2d83",
-    "type": "hls"
-  },
-  {
-    "id": "527384",
-    "tvg_id": "room-527384",
-    "name": "Jeonbuk Hyundai Motors vs Kashiwa Reysol (ACL Elite)",
-    "logo": "https://sta.vnres.co/file/common/20260913/31b16ef3b52bcc11e2cca4c5bdcc6da5.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789563302-0-0-9ece297dcf98d756fed6aa3d02c7d114",
-    "type": "hls"
-  },
-  {
-    "id": "582342",
-    "tvg_id": "room-582342",
-    "name": "Jeonbuk Hyundai Motors vs Kashiwa Reysol (ACL Elite)",
-    "logo": "https://sta.vnres.co/file/common/20260913/31b16ef3b52bcc11e2cca4c5bdcc6da5.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1789563269-0-0-7fabc8d981bfe23072beb80d4dc4a900",
-    "type": "hls"
-  },
-  {
-    "id": "603914",
-    "tvg_id": "room-603914",
-    "name": "FC Seoul vs Persib Bandung (ACL2)",
-    "logo": "https://sta.vnres.co/file/common/20260913/f241af6d3ffb7a80e5707cbfbdd80c92.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789563288-0-0-ff70cfb8a96022d9b209375e4a3e8f4d",
+    "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789563902-0-0-30c475b3bbaa7b3e5ceb4db225f56f3c",
     "type": "hls"
   },
   {
@@ -104,25 +59,34 @@
     "name": "Japan U23 vs Hong Kong U23 (AGS)",
     "logo": "https://sta.vnres.co/file/common/20260913/c2e9cc85c0a6deb8361b5db054173d8c.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789563302-0-0-bed87a296a926b13b75f40efed36300a",
+    "url": "https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789564142-0-0-fed1f5b3328a6b170c59d510506074a0",
     "type": "hls"
   },
   {
-    "id": "622093",
-    "tvg_id": "room-622093",
-    "name": "China U23 vs North Korea U23 (AGS)",
-    "logo": "https://sta.vnres.co/file/common/20260913/5acbda52bb0b494907901cb905566bed.png",
+    "id": "621840",
+    "tvg_id": "room-621840",
+    "name": "Terengganu FC vs DPMM FC (MAS FAC)",
+    "logo": "https://sta.vnres.co/file/common/20260906/417d32a6452f0b2f4260b29d8f405f88.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=20987637a5034ead17b24a57f6ae01fe\u0026txTime=6aaad771",
+    "url": "https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=6da18d81c5e2d1d5d642467118216528\u0026txTime=6aaa01f5",
+    "type": "hls"
+  },
+  {
+    "id": "627718",
+    "tvg_id": "room-627718",
+    "name": "Yenisey Krasnoyarsk vs Arsenal Tula (RUS D2)",
+    "logo": "https://sta.vnres.co/file/common/20260913/e16d52156cefb9d503330fee1b9d5e37.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789564142-0-0-48cec9c885c8f8fbb38d548e67a7977c",
     "type": "hls"
   },
   {
     "id": "9912008",
     "tvg_id": "room-9912008",
-    "name": "FC Seoul vs Persib Bandung (ACL2)",
-    "logo": "https://sta.vnres.co/file/common/20260913/f241af6d3ffb7a80e5707cbfbdd80c92.png",
+    "name": "Port FC vs Vissel Kobe (ACL Elite)",
+    "logo": "https://sta.vnres.co/file/common/20260913/7ccb7fdbe44a7e0bd33b53a08d7cdd0c.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789563302-0-0-c533e7909a7380472f9bb0c5f7bc7fa4",
+    "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789564142-0-0-b2da58a837a680817a543c959584b34b",
     "type": "hls"
   },
   {
@@ -131,7 +95,7 @@
     "name": "The Cong-Viettel vs Melbourne Victory (ACL2)",
     "logo": "https://sta.vnres.co/file/common/20260913/ca73c09f60f0c25b1561160c3a54ccc3.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=6288d39a885d2ea5277726bf4aaed210\u0026txTime=6aaad7f6",
+    "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=468c7da2e17cd24ee2c794920c6acb3f\u0026txTime=6aaadb3e",
     "type": "hls"
   },
   {
@@ -140,43 +104,25 @@
     "name": "The Cong-Viettel vs Melbourne Victory (ACL2)",
     "logo": "https://sta.vnres.co/file/common/20260913/ca73c09f60f0c25b1561160c3a54ccc3.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789563302-0-0-0be861ca35260f5c79e90645851364cf",
+    "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789564142-0-0-d24f984b6b50ade974ee78992aa0fd4c",
     "type": "hls"
   },
   {
     "id": "9912102",
     "tvg_id": "room-9912102",
-    "name": "FC Seoul vs Persib Bandung (ACL2)",
-    "logo": "https://sta.vnres.co/file/common/20260913/f241af6d3ffb7a80e5707cbfbdd80c92.png",
+    "name": "Terengganu FC vs DPMM FC (MAS FAC)",
+    "logo": "https://sta.vnres.co/file/common/20260906/417d32a6452f0b2f4260b29d8f405f88.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=b71e2af3c5e401e384039fd11897b2fd\u0026txTime=6aaad7f6",
-    "type": "hls"
-  },
-  {
-    "id": "9912110",
-    "tvg_id": "room-9912110",
-    "name": "China U23 vs North Korea U23 (AGS)",
-    "logo": "https://sta.vnres.co/file/common/20260913/5acbda52bb0b494907901cb905566bed.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789563122-0-0-0355397b3f0e3075cfc11e8389500504",
-    "type": "hls"
-  },
-  {
-    "id": "9912116",
-    "tvg_id": "room-9912116",
-    "name": "China U23 vs North Korea U23 (AGS)",
-    "logo": "https://sta.vnres.co/file/common/20260913/5acbda52bb0b494907901cb905566bed.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=c4290b466717a910bbe55c7fb90f0344\u0026txTime=6aaad7f6",
+    "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=f957febaf3824b05a23fbfb4bbb9ba64\u0026txTime=6aaada22",
     "type": "hls"
   },
   {
     "id": "9912119",
     "tvg_id": "room-9912119",
-    "name": "FC Seoul vs Persib Bandung (ACL2)",
-    "logo": "https://sta.vnres.co/file/common/20260913/f241af6d3ffb7a80e5707cbfbdd80c92.png",
+    "name": "The Cong-Viettel vs Melbourne Victory (ACL2)",
+    "logo": "https://sta.vnres.co/file/common/20260913/ca73c09f60f0c25b1561160c3a54ccc3.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789563302-0-0-0932b074ec73cbb72c58c219f3aa1969",
+    "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789564142-0-0-4d077906b8eaf9b8fd913b45895809f5",
     "type": "hls"
   },
   {
@@ -185,52 +131,34 @@
     "name": "Port FC vs Vissel Kobe (ACL Elite)",
     "logo": "https://sta.vnres.co/file/common/20260913/7ccb7fdbe44a7e0bd33b53a08d7cdd0c.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=4e23bff309af1484096ee6800644b353\u0026txTime=6aaad7f6",
+    "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=9d426926476aa1d1660d6431eafbf969\u0026txTime=6aaadb3e",
+    "type": "hls"
+  },
+  {
+    "id": "9912124",
+    "tvg_id": "room-9912124",
+    "name": "Argentina U20 Women vs South Korea U20 Women (FIFA WU20)",
+    "logo": "https://sta.vnres.co/file/common/20260915/e5f6afc52551a05d3840f40a2281de08.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789506123-0-0-d69578320e132204dcbd158e7f5fa561",
+    "type": "hls"
+  },
+  {
+    "id": "9912126",
+    "tvg_id": "room-9912126",
+    "name": "Yenisey Krasnoyarsk vs Arsenal Tula (RUS D2)",
+    "logo": "https://sta.vnres.co/file/common/20260913/e16d52156cefb9d503330fee1b9d5e37.png",
+    "group": "Bóng đá",
+    "url": "https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=388bfe92e33867efeb6e9e62e3d3747a\u0026txTime=6aaadb3e",
     "type": "hls"
   },
   {
     "id": "9912127",
     "tvg_id": "room-9912127",
-    "name": "China U23 vs North Korea U23 (AGS)",
-    "logo": "https://sta.vnres.co/file/common/20260913/5acbda52bb0b494907901cb905566bed.png",
+    "name": "Argentina U20 Women vs South Korea U20 Women (FIFA WU20)",
+    "logo": "https://sta.vnres.co/file/common/20260915/e5f6afc52551a05d3840f40a2281de08.png",
     "group": "Bóng đá",
     "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=d5c598e4b768374af1d5cdc63d296fd3\u0026txTime=6aaad7a2",
-    "type": "hls"
-  },
-  {
-    "id": "9912128",
-    "tvg_id": "room-9912128",
-    "name": "Jeonbuk Hyundai Motors vs Kashiwa Reysol (ACL Elite)",
-    "logo": "https://sta.vnres.co/file/common/20260913/31b16ef3b52bcc11e2cca4c5bdcc6da5.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789563302-0-0-ebb1cc8e39de2216d75a5df9d685debf",
-    "type": "hls"
-  },
-  {
-    "id": "9912129",
-    "tvg_id": "room-9912129",
-    "name": "Jeonbuk Hyundai Motors vs Kashiwa Reysol (ACL Elite)",
-    "logo": "https://sta.vnres.co/file/common/20260913/31b16ef3b52bcc11e2cca4c5bdcc6da5.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=64ecc2679abcee57ae80c55c79476f98\u0026txTime=6aaad7f6",
-    "type": "hls"
-  },
-  {
-    "id": "9912130",
-    "tvg_id": "room-9912130",
-    "name": "Jeonbuk Hyundai Motors vs Kashiwa Reysol (ACL Elite)",
-    "logo": "https://sta.vnres.co/file/common/20260913/31b16ef3b52bcc11e2cca4c5bdcc6da5.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789563276-0-0-5bf31a6019b4bd1207ae5e095e40cbe5",
-    "type": "hls"
-  },
-  {
-    "id": "9912135",
-    "tvg_id": "room-9912135",
-    "name": "Jeonbuk Hyundai Motors vs Kashiwa Reysol (ACL Elite)",
-    "logo": "https://sta.vnres.co/file/common/20260913/31b16ef3b52bcc11e2cca4c5bdcc6da5.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1789563302-0-0-ab0f9f9824007bfc498b5fecaa0ae8f5",
     "type": "hls"
   },
   {
@@ -239,16 +167,7 @@
     "name": "Japan U23 vs Hong Kong U23 (AGS)",
     "logo": "https://sta.vnres.co/file/common/20260913/c2e9cc85c0a6deb8361b5db054173d8c.png",
     "group": "Bóng đá",
-    "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=8ef734b8a5602643378e8c0375787556\u0026txTime=6aaad7f6",
-    "type": "hls"
-  },
-  {
-    "id": "9912138",
-    "tvg_id": "room-9912138",
-    "name": "China U23 vs North Korea U23 (AGS)",
-    "logo": "https://sta.vnres.co/file/common/20260913/5acbda52bb0b494907901cb905566bed.png",
-    "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1789563249-0-0-81233f2acb0412097180c31d7a0bce21",
+    "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=0168a25dc09723c26f9ba31348c8daff\u0026txTime=6aaadb3e",
     "type": "hls"
   },
   {
@@ -257,7 +176,7 @@
     "name": "The Cong-Viettel vs Melbourne Victory (ACL2)",
     "logo": "https://sta.vnres.co/file/common/20260913/ca73c09f60f0c25b1561160c3a54ccc3.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789563542-0-0-2931557c7a6c30cd7d67a549f404c614",
+    "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789564142-0-0-218cf4eb592fa77f64d13045dd44f5f3",
     "type": "hls"
   },
   {
@@ -266,7 +185,7 @@
     "name": "The Cong-Viettel vs Melbourne Victory (ACL2)",
     "logo": "https://sta.vnres.co/file/common/20260913/ca73c09f60f0c25b1561160c3a54ccc3.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789511554-0-0-c1e50526b655c88ddecb986e7994afb0",
+    "url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789564153-0-0-06ee04bba5f99040279be7fe9d170bf2",
     "type": "hls"
   },
   {
@@ -275,7 +194,7 @@
     "name": "Port FC vs Vissel Kobe (ACL Elite)",
     "logo": "https://sta.vnres.co/file/common/20260913/7ccb7fdbe44a7e0bd33b53a08d7cdd0c.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789563542-0-0-be08e8b852f7cd1860b3cfc80aeff9e7",
+    "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789564142-0-0-4f78b6f0c4551c6d2a91ec046f69794a",
     "type": "hls"
   },
   {
@@ -284,7 +203,7 @@
     "name": "Japan U23 vs Hong Kong U23 (AGS)",
     "logo": "https://sta.vnres.co/file/common/20260913/c2e9cc85c0a6deb8361b5db054173d8c.png",
     "group": "Bóng đá",
-    "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789563602-0-0-1e84e28ae82c8a967e89d7f9355ec78b",
+    "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789564142-0-0-73c49474c83b1078e7f8abbdadc855dc",
     "type": "hls"
   },
   {
@@ -293,7 +212,7 @@
     "name": "Levice vs Salon Vilpas (BCL)",
     "logo": "https://sta.vnres.co/file/common/20260914/2da19a836204173d2ba5090a3b941d7c.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=4190fd167ab3a2a5033c285a94351cb5\u0026txTime=6aaad7f6",
+    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=44c2f4c29adc9dd06e293dfab44693cc\u0026txTime=6aaadb3e",
     "type": "hls"
   },
   {
@@ -302,16 +221,7 @@
     "name": "Levice vs Salon Vilpas (BCL)",
     "logo": "https://sta.vnres.co/file/common/20260914/2da19a836204173d2ba5090a3b941d7c.png",
     "group": "Bóng rổ",
-    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789563302-0-0-0d91b931080c26d6aac7857984934317",
-    "type": "hls"
-  },
-  {
-    "id": "283501",
-    "tvg_id": "room-283501",
-    "name": "ACL2: FC Seoul vs Persib Bandung - BLV KAN",
-    "logo": "https://sta.vnres.co/file/common/20260916/96624db1650be5e08a2e8e2ccdc7fc3d.png",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=584b4729e52b6748ba0c3f20bb1b2245\u0026txTime=6aaad6ca",
+    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789564142-0-0-926e34f31fb6b9e0677ef4b254831e2a",
     "type": "hls"
   },
   {
@@ -320,7 +230,7 @@
     "name": "ACL Elite: Port FC vs Vissel Kobe - CÔNG CHẤT",
     "logo": "https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=65d88f9b3f541560effbab2dd219fac0\u0026txTime=6aaad6ca",
+    "url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=55b859d04719fbb70adbb97ff0c90b45\u0026txTime=6aaada4e",
     "type": "hls"
   },
   {
@@ -329,7 +239,7 @@
     "name": "AGS: Japan U23 vs Hong Kong U23 - BLV LUCAS",
     "logo": "https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-304148_lhd.m3u8?txSecret=48b607e408bb394c2a4604131a02e9b9\u0026txTime=6aaad6ca",
+    "url": "https://pull.niur.live/live/stream-304148_lhd.m3u8?txSecret=53fbf6dd45d61c69748893f9f0fad35e\u0026txTime=6aaada4e",
     "type": "hls"
   },
   {
@@ -338,25 +248,25 @@
     "name": "AGS: Japan U23 vs Hong Kong U23 - BLV COCA",
     "logo": "https://sta.vnres.co/file/common/20260910/b74633428c7b7d75edf4a7dbb3d250cf.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789563002-0-0-197572e412c441443388db13543c8762",
+    "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789563902-0-0-e10dbcf1a0ebe38fbea71377d1b33aec",
+    "type": "hls"
+  },
+  {
+    "id": "380460",
+    "tvg_id": "room-380460",
+    "name": "ACL Elite: Port FC vs Vissel Kobe - BLV ENZO",
+    "logo": "https://sta.vnres.co/file/common/20260827/1d4f9eca02a381435aaec138589dd9ef.jpg",
+    "group": "SocoLive",
+    "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1789563902-0-0-da8c8a23d82f250d0612b0af98165b66",
     "type": "hls"
   },
   {
     "id": "387694",
     "tvg_id": "room-387694",
-    "name": "AGS: China U23 vs North Korea U23 - CR Bưởi",
+    "name": "ACL Elite: Port FC vs Vissel Kobe - CR Bưởi",
     "logo": "https://sta.vnres.co/file/common/20260916/747801bbaea9ea22d77e783263ca5e2e.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=1ebf984f2c910b6d45625f55f2bcbb26\u0026txTime=6aaad6ca",
-    "type": "hls"
-  },
-  {
-    "id": "491873",
-    "tvg_id": "room-491873",
-    "name": "ACL2: FC Seoul vs Persib Bandung - BLV VIP",
-    "logo": "https://sta.vnres.co/file/common/20250723/6b83b847d8944b57cc13043bae9fa7a8.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=3e95e6f847a84cd9f8e964672d54007c\u0026txTime=6aaad6ca",
+    "url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=6885cb3f73c857d4b606f71c4f24a15a\u0026txTime=6aaada4e",
     "type": "hls"
   },
   {
@@ -365,16 +275,7 @@
     "name": "AGS: Japan U23 vs Hong Kong U23 - BLV ROBBEN",
     "logo": "https://sta.vnres.co/file/common/20260626/fcd1d9373f93de7ff3ebfbee3f073c7c.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789563002-0-0-ba0043cce34c110b2bca4be451eb047d",
-    "type": "hls"
-  },
-  {
-    "id": "527384",
-    "tvg_id": "room-527384",
-    "name": "ACL Elite: Jeonbuk Hyundai Motors vs Kashiwa Reysol - LÃO LÂM",
-    "logo": "https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789563002-0-0-f584a62883d9ebcd23e7f06b4e5fe103",
+    "url": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789563902-0-0-30c475b3bbaa7b3e5ceb4db225f56f3c",
     "type": "hls"
   },
   {
@@ -383,25 +284,7 @@
     "name": "BCL: Levice vs Salon Vilpas - HUNTER",
     "logo": "https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=757ecfb3c839af1b5f55f391d6ef5c3f\u0026txTime=6aaad6ca",
-    "type": "hls"
-  },
-  {
-    "id": "582342",
-    "tvg_id": "room-582342",
-    "name": "ACL Elite: Jeonbuk Hyundai Motors vs Kashiwa Reysol - BLV CÒ",
-    "logo": "https://sta.vnres.co/file/common/20260911/5092224ec4c96a8b8625005b880ba090.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1789563002-0-0-c7f5b3650e17e463b6b154bd3e840997",
-    "type": "hls"
-  },
-  {
-    "id": "603914",
-    "tvg_id": "room-603914",
-    "name": "ACL2: FC Seoul vs Persib Bandung - TRÀ ĐÁ",
-    "logo": "https://sta.vnres.co/file/common/20260904/c08eebf8c66b882d5d57e203ae571c7a.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789563003-0-0-db005ceb880d1e75a081782d6b1bac7f",
+    "url": "https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=5e7bec0161f89b2ced1389ac4c0d5bdd\u0026txTime=6aaada4e",
     "type": "hls"
   },
   {
@@ -410,16 +293,7 @@
     "name": "AGS: Japan U23 vs Hong Kong U23 - PEANUT",
     "logo": "https://sta.vnres.co/file/common/20260713/cbd81ea71d49b5b5f074a5f56678a9b6.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789563003-0-0-ae59741dd4e95cc8352831c3492870ab",
-    "type": "hls"
-  },
-  {
-    "id": "622093",
-    "tvg_id": "room-622093",
-    "name": "AGS: China U23 vs North Korea U23 - GRAP",
-    "logo": "https://sta.vnres.co/file/common/20260703/fe517d18a8df723cee92683347d70be9.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=2b57386cc53981a7fa03df7588005437\u0026txTime=6aaad6cb",
+    "url": "https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789563902-0-0-f34373183682329555bead169a97bd22",
     "type": "hls"
   },
   {
@@ -428,16 +302,16 @@
     "name": "RUS D2: Yenisey Krasnoyarsk vs Arsenal Tula - A MÂN",
     "logo": "https://sta.vnres.co/file/common/20260831/8c106fa0fe146cf7929663e53e921ba0.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789563003-0-0-a8952a3480597ad3d479ab4253f93cf8",
+    "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789563902-0-0-f767e1243c0fc6591a33f4340a7d7bc8",
     "type": "hls"
   },
   {
     "id": "9912008",
     "tvg_id": "room-9912008",
-    "name": "ACL2: FC Seoul vs Persib Bandung - BLV TOMIA",
+    "name": "ACL Elite: Port FC vs Vissel Kobe - BLV TOMIA",
     "logo": "https://sta.vnres.co/file/common/20260915/e860b360c576d0e840a1eee21c4c9eb1.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789563002-0-0-17bd33d951d88f2f56c8d202b348c082",
+    "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789563902-0-0-3363a548ac7a039ed4da768b2cf6d320",
     "type": "hls"
   },
   {
@@ -446,7 +320,7 @@
     "name": "ACL2: The Cong-Viettel vs Melbourne Victory - BLV TAP",
     "logo": "https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=6526a13e3f1da5a7252e18fd25748dd1\u0026txTime=6aaad6ca",
+    "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=73007eace9d10ddcdd6afa21b54365e9\u0026txTime=6aaada4e",
     "type": "hls"
   },
   {
@@ -455,16 +329,7 @@
     "name": "ACL2: The Cong-Viettel vs Melbourne Victory - BLV Củ Cải",
     "logo": "https://sta.vnres.co/file/common/20260916/b7372bec8d30ad92b7b1484e8b28add7.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789563002-0-0-ef2d3410834baed86bb11a757090ce67",
-    "type": "hls"
-  },
-  {
-    "id": "9912102",
-    "tvg_id": "room-9912102",
-    "name": "ACL2: FC Seoul vs Persib Bandung - BLV RÔSI",
-    "logo": "https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=18b033dcb176dcc94b0851d9f8daeaaa\u0026txTime=6aaad6ca",
+    "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789563902-0-0-c732db96feb11eddea65aaf51b8eea73",
     "type": "hls"
   },
   {
@@ -473,34 +338,16 @@
     "name": "BCL: Levice vs Salon Vilpas - BRIAN",
     "logo": "https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789563002-0-0-b50ff7baed9067d51262e13bca185e5e",
-    "type": "hls"
-  },
-  {
-    "id": "9912110",
-    "tvg_id": "room-9912110",
-    "name": "AGS: China U23 vs North Korea U23 - BLV ZOWIE",
-    "logo": "https://sta.vnres.co/file/common/20260914/4668dc4fe05d802b4fda3b6c5027b260.png",
-    "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789563002-0-0-c6f6e893cfd2174754fa235e0d22e328",
-    "type": "hls"
-  },
-  {
-    "id": "9912116",
-    "tvg_id": "room-9912116",
-    "name": "AGS: China U23 vs North Korea U23 - THẠCH TÚ",
-    "logo": "https://sta.vnres.co/file/common/20260914/f04c175cdb83fc9fca5281ccb9f1a78e.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=38996ab14eca08bf498217588a35ffbd\u0026txTime=6aaad6ca",
+    "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789563902-0-0-03be5daf7db1c6a4c5e844fede9eb0e6",
     "type": "hls"
   },
   {
     "id": "9912119",
     "tvg_id": "room-9912119",
-    "name": "ACL2: FC Seoul vs Persib Bandung - HẢI THANH",
+    "name": "ACL2: The Cong-Viettel vs Melbourne Victory - HẢI THANH",
     "logo": "https://sta.vnres.co/file/common/20260829/f624027ec79ccc757bf8d5a663d63763.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789563002-0-0-82e0f7fac8e9ee5c415afebb3120515d",
+    "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789563902-0-0-7d483ea8111b4c48c5cf519fa206178b",
     "type": "hls"
   },
   {
@@ -509,25 +356,16 @@
     "name": "ACL Elite: Port FC vs Vissel Kobe - RICKHANTER",
     "logo": "https://sta.vnres.co/file/common/20260620/4cbae14a2d06d1635a160fc8c2beb182.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=2c382dcd80f45fc351695cda2deb6cba\u0026txTime=6aaad6ca",
+    "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=c3d41166856489db5125f85070382a47\u0026txTime=6aaada4e",
     "type": "hls"
   },
   {
-    "id": "9912127",
-    "tvg_id": "room-9912127",
-    "name": "AGS: China U23 vs North Korea U23 - BLV PIRLO",
-    "logo": "https://sta.vnres.co/file/common/20250320/efe293015c817dee46ccc81fa5e934d7.jpg",
+    "id": "9912126",
+    "tvg_id": "room-9912126",
+    "name": "RUS D2: Yenisey Krasnoyarsk vs Arsenal Tula - SEVEN",
+    "logo": "https://sta.vnres.co/file/common/20260715/0e572fd7d0bfc5ce5cf538c09b8cace4.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=386eac01d0959a83d7da7968b53eab49\u0026txTime=6aaad6ca",
-    "type": "hls"
-  },
-  {
-    "id": "9912128",
-    "tvg_id": "room-9912128",
-    "name": "ACL Elite: Jeonbuk Hyundai Motors vs Kashiwa Reysol - CACAO",
-    "logo": "https://sta.vnres.co/file/common/20260729/2cca708e4ee1d3e988c578ff79960d7b.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789563003-0-0-5c8f19798b60a9536172409d2315026a",
+    "url": "https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=7fefa56fd9b8c4122f483de6a99d9349\u0026txTime=6aaada4e",
     "type": "hls"
   },
   {
@@ -536,25 +374,7 @@
     "name": "ACL Elite: Jeonbuk Hyundai Motors vs Kashiwa Reysol - QUỐC KHÁNH",
     "logo": "https://sta.vnres.co/file/common/20260915/edde8f865053412e4297a6f08d77569b.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=bb5248bafd78f1cbebae507db0729ca5\u0026txTime=6aaad6cb",
-    "type": "hls"
-  },
-  {
-    "id": "9912130",
-    "tvg_id": "room-9912130",
-    "name": "ACL Elite: Jeonbuk Hyundai Motors vs Kashiwa Reysol - BLV A TÚ",
-    "logo": "https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png",
-    "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789563002-0-0-b01a656213e94dca04e9044c40564f02",
-    "type": "hls"
-  },
-  {
-    "id": "9912135",
-    "tvg_id": "room-9912135",
-    "name": "ACL Elite: Jeonbuk Hyundai Motors vs Kashiwa Reysol - BLV PEWPEW",
-    "logo": "https://sta.vnres.co/file/common/20260801/16b69ccb9ccf1f371806a3f19e7dc683.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1789563302-0-0-ab0f9f9824007bfc498b5fecaa0ae8f5",
+    "url": "https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=86abe5c55affbd44b893c5a77c3c2beb\u0026txTime=6aaada4e",
     "type": "hls"
   },
   {
@@ -563,16 +383,7 @@
     "name": "AGS: Japan U23 vs Hong Kong U23 - BLV LONG",
     "logo": "https://sta.vnres.co/file/common/20260810/b792b2c329f2ffe44037f2d5973945de.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=8ef734b8a5602643378e8c0375787556\u0026txTime=6aaad7f6",
-    "type": "hls"
-  },
-  {
-    "id": "9912138",
-    "tvg_id": "room-9912138",
-    "name": "AGS: China U23 vs North Korea U23 - TUẤN CÙI",
-    "logo": "https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73.jpg",
-    "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1789563249-0-0-81233f2acb0412097180c31d7a0bce21",
+    "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=8dac5209cef4c023bec4b2bdabd2503f\u0026txTime=6aaada4e",
     "type": "hls"
   },
   {
@@ -581,7 +392,7 @@
     "name": "ACL2: The Cong-Viettel vs Melbourne Victory - BLV MESSI",
     "logo": "https://sta.vnres.co/file/common/20260909/1edb9c9016b6d011552439c71d3e5158.jpg",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789563302-0-0-b60a09fa237de941edda52236c389db6",
+    "url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789563902-0-0-8743b0b9066423fdd6d102007d163551",
     "type": "hls"
   },
   {
@@ -590,7 +401,7 @@
     "name": "ACL Elite: Port FC vs Vissel Kobe - NGƯỜI CÁ",
     "logo": "https://sta.vnres.co/file/common/20260908/25a8cd45f3d227a96b46e77ba0d942c2.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789563302-0-0-2d9c21512ebbb0e41e2e0c4956245ab5",
+    "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789563902-0-0-8af7f949ad2e04a3fcdbe3b406e7808d",
     "type": "hls"
   },
   {
@@ -599,7 +410,7 @@
     "name": "AGS: Japan U23 vs Hong Kong U23 - BLV CUỘI",
     "logo": "https://sta.vnres.co/file/common/20260829/f6903a1879b3c7cc22d27c658db14d94.png",
     "group": "SocoLive",
-    "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789563302-0-0-e4978553111f50a09250f5a5e55f0318",
+    "url": "https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789563902-0-0-a4367baa7d041e7cbfb815d1a243cad6",
     "type": "hls"
   }
 ]
