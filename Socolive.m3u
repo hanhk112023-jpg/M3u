@@ -1,51 +1,47 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 44
-# Updated: 17/09/2026 12:20:05
+# Channels: 42
+# Updated: 17/09/2026 12:30:05
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260913/f168443155f8f1a4426d355c681a2a62.png" group-title="Bóng đá",Thailand Women vs Chinese Taipei Women (AGSW)
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789619935-0-0-c5df8ec0c52ca8796006acd837cea3f3
 #EXTINF:-1 tvg-id="room-304148" tvg-logo="https://sta.vnres.co/file/common/20260913/f168443155f8f1a4426d355c681a2a62.png" group-title="Bóng đá",Thailand Women vs Chinese Taipei Women (AGSW)
 https://pull.niur.live/live/stream-304148_lhd.m3u8?txSecret=0479a1d834915e2524b874fd1c9f9eb5&txTime=6aab57a2
-#EXTINF:-1 tvg-id="room-327159" tvg-logo="https://sta.vnres.co/file/common/20260913/8c90a8a2319f3ac638fb6b10ad55634f.png" group-title="Bóng đá",Alianza San Salvador vs CD Motagua (CNCF CACup)
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789625156-0-0-2ac746d7a05443021e57c07ecc8d80a2
-#EXTINF:-1 tvg-id="room-380460" tvg-logo="https://sta.vnres.co/file/common/20260913/8c90a8a2319f3ac638fb6b10ad55634f.png" group-title="Bóng đá",Alianza San Salvador vs CD Motagua (CNCF CACup)
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1789625460-0-0-06a763e13d7236dfdf9bd27c07259a96
-#EXTINF:-1 tvg-id="room-414317" tvg-logo="https://sta.vnres.co/file/common/20260913/f168443155f8f1a4426d355c681a2a62.png" group-title="Bóng đá",Thailand Women vs Chinese Taipei Women (AGSW)
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=564f973ed4a9c00a3e027d29c8bc6db0&txTime=6aaaad6d
 #EXTINF:-1 tvg-id="room-459401" tvg-logo="https://sta.vnres.co/file/common/20260913/f168443155f8f1a4426d355c681a2a62.png" group-title="Bóng đá",Thailand Women vs Chinese Taipei Women (AGSW)
 https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=c44dc5a0bc95254a7e36ba4f3f057986&txTime=6aab9e8c
 #EXTINF:-1 tvg-id="room-501412" tvg-logo="https://sta.vnres.co/file/common/20260913/a17784bdffc74e22f229c87512d82e46.png" group-title="Bóng đá",Bangladesh Women vs South Korea Women (AGSW)
 https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=185563349d18c4edad3c0b9a36206b50&txTime=6aab3b35
-#EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260913/8c90a8a2319f3ac638fb6b10ad55634f.png" group-title="Bóng đá",Alianza San Salvador vs CD Motagua (CNCF CACup)
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789625293-0-0-d8c5d66d33355e638c2510e83adb557c
+#EXTINF:-1 tvg-id="room-527383" tvg-logo="https://sta.vnres.co/file/common/20260913/65c17151b018822e8aca691460be284a.png" group-title="Bóng đá",Lion City Sailors vs BG Pathum United (ACL2)
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789588808-0-0-a073d9d70e2839e91676f8e2594e3c03
 #EXTINF:-1 tvg-id="room-552832" tvg-logo="https://sta.vnres.co/file/common/20260913/c63161cb2678fec6dcc44a35437ee8d3.png" group-title="Bóng đá",Uzbekistan Women vs China Women (AGSW)
-https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=e091452e63f1b5598207ca3148bf6a08&txTime=6aabcb7a
+https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=28e5b53a257ac1c7156cd721a519ed3a&txTime=6aabcdd2
 #EXTINF:-1 tvg-id="room-597929" tvg-logo="https://sta.vnres.co/file/common/20260913/ca05a41c7e06c0687f8371e5ba137661.png" group-title="Bóng đá",Adelaide United vs Tai Po (ACL2)
 https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1789583131-0-0-1387b102a4276e632bb58c4438b24504
-#EXTINF:-1 tvg-id="room-603255" tvg-logo="https://sta.vnres.co/file/common/20260913/8c90a8a2319f3ac638fb6b10ad55634f.png" group-title="Bóng đá",Alianza San Salvador vs CD Motagua (CNCF CACup)
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1789625133-0-0-d1665f758ccc90a7b0311d4f8565725f
-#EXTINF:-1 tvg-id="room-610518" tvg-logo="https://sta.vnres.co/file/common/20260913/8c90a8a2319f3ac638fb6b10ad55634f.png" group-title="Bóng đá",Alianza San Salvador vs CD Motagua (CNCF CACup)
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=cc2a16c1478bdcabd0682fd0eef8d43c&txTime=6aabc99d
+#EXTINF:-1 tvg-id="room-619561" tvg-logo="https://sta.vnres.co/file/common/20260913/65c17151b018822e8aca691460be284a.png" group-title="Bóng đá",Lion City Sailors vs BG Pathum United (ACL2)
+https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1789588893-0-0-f8856f7abc7f7052a7bce7cfcd65221c
 #EXTINF:-1 tvg-id="room-620084" tvg-logo="https://sta.vnres.co/file/common/20260913/ca05a41c7e06c0687f8371e5ba137661.png" group-title="Bóng đá",Adelaide United vs Tai Po (ACL2)
 https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789565079-0-0-db313fd8be8b6632506775fb829d0e03
+#EXTINF:-1 tvg-id="room-622093" tvg-logo="https://sta.vnres.co/file/common/20260913/65c17151b018822e8aca691460be284a.png" group-title="Bóng đá",Lion City Sailors vs BG Pathum United (ACL2)
+https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=39344f38d0ee6b07f4449541a21f94f8&txTime=6aab561f
 #EXTINF:-1 tvg-id="room-622241" tvg-logo="https://sta.vnres.co/file/common/20260913/c63161cb2678fec6dcc44a35437ee8d3.png" group-title="Bóng đá",Uzbekistan Women vs China Women (AGSW)
-https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789625942-0-0-51c1de2823a10b46c2a1d83565b0eb23
+https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789626242-0-0-44dfdc19a5c09edfbe0846d290197da1
 #EXTINF:-1 tvg-id="room-991140" tvg-logo="https://sta.vnres.co/file/common/20260913/a17784bdffc74e22f229c87512d82e46.png" group-title="Bóng đá",Bangladesh Women vs South Korea Women (AGSW)
 https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1789598266-0-0-d6df01ad3d464c6842c7235ad3383fd9
 #EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260913/c63161cb2678fec6dcc44a35437ee8d3.png" group-title="Bóng đá",Uzbekistan Women vs China Women (AGSW)
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=dda4fd5202364f52d0a000ab70df982e&txTime=6aabcca6
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=ee3926bc199c8da8a30f58513f4c5dda&txTime=6aabcefe
+#EXTINF:-1 tvg-id="room-9912122" tvg-logo="https://sta.vnres.co/file/common/20260913/65c17151b018822e8aca691460be284a.png" group-title="Bóng đá",Lion City Sailors vs BG Pathum United (ACL2)
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=d6352f0ddbeb36e8add88c1c970a1b10&txTime=6aaba1a9
 #EXTINF:-1 tvg-id="room-9912127" tvg-logo="https://sta.vnres.co/file/common/20260913/c63161cb2678fec6dcc44a35437ee8d3.png" group-title="Bóng đá",Uzbekistan Women vs China Women (AGSW)
-https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=0282ac7eb056c15073572e72209154d1&txTime=6aabcca6
+https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=2c2595dfbffe5d03880a1004d97e3017&txTime=6aabcefe
 #EXTINF:-1 tvg-id="room-9912128" tvg-logo="https://sta.vnres.co/file/common/20260913/ca05a41c7e06c0687f8371e5ba137661.png" group-title="Bóng đá",Adelaide United vs Tai Po (ACL2)
 https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789595803-0-0-379ac7f18e25875811182d3daa940d8a
 #EXTINF:-1 tvg-id="room-9912129" tvg-logo="https://sta.vnres.co/file/common/20260913/c63161cb2678fec6dcc44a35437ee8d3.png" group-title="Bóng đá",Uzbekistan Women vs China Women (AGSW)
-https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=013d49cb55d2f5ae9e12468e2e1ba8ba&txTime=6aabcca6
+https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=ea50a73cbb3ccdb4f5cd7c26df1b6e90&txTime=6aabcefe
 #EXTINF:-1 tvg-id="room-9912130" tvg-logo="https://sta.vnres.co/file/common/20260913/c63161cb2678fec6dcc44a35437ee8d3.png" group-title="Bóng đá",Uzbekistan Women vs China Women (AGSW)
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789625942-0-0-b0f48c490314945f929ac8e3558808f0
+https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789626542-0-0-37dff4ebaa2bac490b62d40c19326c78
 #EXTINF:-1 tvg-id="room-9912133" tvg-logo="https://sta.vnres.co/file/common/20260913/f168443155f8f1a4426d355c681a2a62.png" group-title="Bóng đá",Thailand Women vs Chinese Taipei Women (AGSW)
 https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1789598382-0-0-e031ac374ac470b5069e7e50ec3bdecb
-#EXTINF:-1 tvg-id="room-9912135" tvg-logo="https://sta.vnres.co/file/common/20260913/8c90a8a2319f3ac638fb6b10ad55634f.png" group-title="Bóng đá",Alianza San Salvador vs CD Motagua (CNCF CACup)
+#EXTINF:-1 tvg-id="room-9912135" tvg-logo="https://sta.vnres.co/file/common/20260913/a17784bdffc74e22f229c87512d82e46.png" group-title="Bóng đá",Bangladesh Women vs South Korea Women (AGSW)
 https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1789625334-0-0-b76bbb566bcb0335609f96c63c4367aa
 #EXTINF:-1 tvg-id="room-9912136" tvg-logo="https://sta.vnres.co/file/common/20260913/ca05a41c7e06c0687f8371e5ba137661.png" group-title="Bóng đá",Adelaide United vs Tai Po (ACL2)
 https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=c76ef7ffdb5de72a479a9896d3ee5fd9&txTime=6aabb5ef
@@ -56,38 +52,38 @@ https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1789558431-0-0-6e2
 #EXTINF:-1 tvg-id="room-9912145" tvg-logo="https://sta.vnres.co/file/common/20260913/a17784bdffc74e22f229c87512d82e46.png" group-title="Bóng đá",Bangladesh Women vs South Korea Women (AGSW)
 https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789583213-0-0-a2abfc7024da26dbc915fca3f767848e
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260915/3f479c0d4ad61a14224140835ba20e8c.png" group-title="Bóng rổ",Indonesia Women vs Thailand Women (AGBW)
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=8fe0b82cca1dd449b1b99cf079abb699&txTime=6aabcb7a
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=6f61863ffaccb009f0d0e4b71ffa2970&txTime=6aabcdd2
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260915/3f479c0d4ad61a14224140835ba20e8c.png" group-title="Bóng rổ",Indonesia Women vs Thailand Women (AGBW)
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=b3535cac4f3eaccf27c7c929755e59c2&txTime=6aabcb7a
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=c2c24023e2b063cb5757ffadb236d983&txTime=6aabcdd2
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260915/3f479c0d4ad61a14224140835ba20e8c.png" group-title="Bóng rổ",Indonesia Women vs Thailand Women (AGBW)
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789625942-0-0-0f745236f5e0e612c64addc899524b3c
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789626242-0-0-52b2beb012e68c14a2911257c2ba5094
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260915/3f479c0d4ad61a14224140835ba20e8c.png" group-title="Bóng rổ",Indonesia Women vs Thailand Women (AGBW)
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789625942-0-0-af034af1036f14522383cc523cb652c0
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789626542-0-0-b7e3dd3eb94cb115cd6c65a3646778ef
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260915/3f479c0d4ad61a14224140835ba20e8c.png" group-title="Bóng rổ",Indonesia Women vs Thailand Women (AGBW)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789625942-0-0-2ebf2030486e497b48e38f27e07d5a11
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789626542-0-0-79abdde1e086899a68481dfd1838fbfb
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260915/3f479c0d4ad61a14224140835ba20e8c.png" group-title="Bóng rổ",Indonesia Women vs Thailand Women (AGBW)
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789625942-0-0-4d938923d4bac15a831ec78f4e356b48
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789626542-0-0-b1e9be769eef510bb89443955dc422dd
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg" group-title="SocoLive",AGBW: Indonesia Women vs Thailand Women - A CHÈ
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=8fe0b82cca1dd449b1b99cf079abb699&txTime=6aabcb7a
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=6f61863ffaccb009f0d0e4b71ffa2970&txTime=6aabcdd2
 #EXTINF:-1 tvg-id="room-552832" tvg-logo="https://sta.vnres.co/file/common/20251111/6a43978efb637082f6eb906c1e7f1621.jpg" group-title="SocoLive",AGSW: Uzbekistan Women vs China Women - LOGAN
-https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=e091452e63f1b5598207ca3148bf6a08&txTime=6aabcb7a
+https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=28e5b53a257ac1c7156cd721a519ed3a&txTime=6aabcdd2
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg" group-title="SocoLive",AGBW: Indonesia Women vs Thailand Women - HUNTER
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=b3535cac4f3eaccf27c7c929755e59c2&txTime=6aabcb7a
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=c2c24023e2b063cb5757ffadb236d983&txTime=6aabcdd2
 #EXTINF:-1 tvg-id="room-622241" tvg-logo="https://sta.vnres.co/file/common/20260914/76c0fe465e1b9b82a4586bfbd49cb618.jpg" group-title="SocoLive",AGSW: Uzbekistan Women vs China Women - BLV HEHE
-https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789625642-0-0-bda3140e5e64d4ffc1299837dfc35de5
+https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789626242-0-0-44dfdc19a5c09edfbe0846d290197da1
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-title="SocoLive",AGBW: Indonesia Women vs Thailand Women - KING
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789625642-0-0-2ceaa103f32135e1a65f1bd937751673
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789626242-0-0-52b2beb012e68c14a2911257c2ba5094
 #EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg" group-title="SocoLive",AGSW: Uzbekistan Women vs China Women - BLV RÔSI
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=be1491ab0e96774a2eb7f2a9c11761fe&txTime=6aabcb7a
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=8ab37c43ef0a6082c488643bbbaa320d&txTime=6aabcdd2
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-title="SocoLive",AGBW: Indonesia Women vs Thailand Women - BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789625642-0-0-dc3a19e1b908da86b6743b1eee0e7ac8
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789626242-0-0-7ea9bbfd654df2ca0ea74565af175b53
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg" group-title="SocoLive",AGBW: Indonesia Women vs Thailand Women - BLV HENRY
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789625642-0-0-79c05a566c3ae0e7573fa534ebbbda21
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789626242-0-0-5f06aa25137f101801152d4ac4617522
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg" group-title="SocoLive",AGBW: Indonesia Women vs Thailand Women - CHAN SENA
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789625642-0-0-1ac318da356420604ecea75d932297a0
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789626242-0-0-f840aec9a8b8b618775892349895fd8c
 #EXTINF:-1 tvg-id="room-9912127" tvg-logo="https://sta.vnres.co/file/common/20250320/efe293015c817dee46ccc81fa5e934d7.jpg" group-title="SocoLive",AGSW: Uzbekistan Women vs China Women - BLV PIRLO
-https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=ee3985dc6ad6a90c2f05ca3f12baaf49&txTime=6aabcb7a
+https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=19257e6ece7ec90728b13c2e68b9a0cb&txTime=6aabcdd2
 #EXTINF:-1 tvg-id="room-9912129" tvg-logo="https://sta.vnres.co/file/common/20260915/edde8f865053412e4297a6f08d77569b.jpg" group-title="SocoLive",AGSW: Uzbekistan Women vs China Women - QUỐC KHÁNH
-https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=d503f37fc58fd307942645b33000830d&txTime=6aabcb7a
+https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=ea259ed5b1e3848398cabd3aa0ac8b8d&txTime=6aabcdd2
 #EXTINF:-1 tvg-id="room-9912130" tvg-logo="https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28.png" group-title="SocoLive",AGSW: Uzbekistan Women vs China Women - BLV A TÚ
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789625642-0-0-c440a4cab3c99c15fe473f7c78a46775
+https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789626242-0-0-66b53642f216fac22df3f5791da40cd6
