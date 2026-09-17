@@ -1,16 +1,16 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 40
-# Updated: 17/09/2026 11:00:05
+# Channels: 44
+# Updated: 17/09/2026 11:10:05
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260913/f168443155f8f1a4426d355c681a2a62.png" group-title="Bóng đá",Thailand Women vs Chinese Taipei Women (AGSW)
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789619935-0-0-c5df8ec0c52ca8796006acd837cea3f3
 #EXTINF:-1 tvg-id="room-304148" tvg-logo="https://sta.vnres.co/file/common/20260913/f168443155f8f1a4426d355c681a2a62.png" group-title="Bóng đá",Thailand Women vs Chinese Taipei Women (AGSW)
 https://pull.niur.live/live/stream-304148_lhd.m3u8?txSecret=0479a1d834915e2524b874fd1c9f9eb5&txTime=6aab57a2
 #EXTINF:-1 tvg-id="room-327159" tvg-logo="https://sta.vnres.co/file/common/20260913/8c90a8a2319f3ac638fb6b10ad55634f.png" group-title="Bóng đá",Alianza San Salvador vs CD Motagua (CNCF CACup)
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789620842-0-0-68f73748b94158beed71513b1cdd3f40
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789621442-0-0-d76e60c02ad64e6fad2ce74daac8d704
 #EXTINF:-1 tvg-id="room-380460" tvg-logo="https://sta.vnres.co/file/common/20260913/8c90a8a2319f3ac638fb6b10ad55634f.png" group-title="Bóng đá",Alianza San Salvador vs CD Motagua (CNCF CACup)
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1789620842-0-0-c368de7c41b4637848e1845d98af3339
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1789621442-0-0-482201d6b5af520a428c85bb017afe46
 #EXTINF:-1 tvg-id="room-414317" tvg-logo="https://sta.vnres.co/file/common/20260913/f168443155f8f1a4426d355c681a2a62.png" group-title="Bóng đá",Thailand Women vs Chinese Taipei Women (AGSW)
 https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=564f973ed4a9c00a3e027d29c8bc6db0&txTime=6aaaad6d
 #EXTINF:-1 tvg-id="room-459401" tvg-logo="https://sta.vnres.co/file/common/20260913/f168443155f8f1a4426d355c681a2a62.png" group-title="Bóng đá",Thailand Women vs Chinese Taipei Women (AGSW)
@@ -18,68 +18,76 @@ https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=c44dc5a0bc95254a7e36
 #EXTINF:-1 tvg-id="room-501412" tvg-logo="https://sta.vnres.co/file/common/20260913/a17784bdffc74e22f229c87512d82e46.png" group-title="Bóng đá",Bangladesh Women vs South Korea Women (AGSW)
 https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=185563349d18c4edad3c0b9a36206b50&txTime=6aab3b35
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260913/8c90a8a2319f3ac638fb6b10ad55634f.png" group-title="Bóng đá",Alianza San Salvador vs CD Motagua (CNCF CACup)
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789620842-0-0-355489e1e1eaf5a19776aff4b9d23aa5
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789621442-0-0-2450602924d55d107459a2d65f46d496
 #EXTINF:-1 tvg-id="room-552832" tvg-logo="https://sta.vnres.co/file/common/20260913/c63161cb2678fec6dcc44a35437ee8d3.png" group-title="Bóng đá",Uzbekistan Women vs China Women (AGSW)
 https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=969b1035838c1a5453a32e26e4f3fec2&txTime=6aab9dc0
+#EXTINF:-1 tvg-id="room-597929" tvg-logo="https://sta.vnres.co/file/common/20260913/ca05a41c7e06c0687f8371e5ba137661.png" group-title="Bóng đá",Adelaide United vs Tai Po (ACL2)
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1789583131-0-0-1387b102a4276e632bb58c4438b24504
 #EXTINF:-1 tvg-id="room-603255" tvg-logo="https://sta.vnres.co/file/common/20260913/8c90a8a2319f3ac638fb6b10ad55634f.png" group-title="Bóng đá",Alianza San Salvador vs CD Motagua (CNCF CACup)
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1789620842-0-0-30303f9c05b43d2a4dfeaf6c813df6f0
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1789621442-0-0-84f15c4e9b55e617e735f2a9e0dad216
 #EXTINF:-1 tvg-id="room-610518" tvg-logo="https://sta.vnres.co/file/common/20260913/8c90a8a2319f3ac638fb6b10ad55634f.png" group-title="Bóng đá",Alianza San Salvador vs CD Motagua (CNCF CACup)
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=a6a6bff5ee0785c2db9155a222ad0bd6&txTime=6aabb8ba
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=ce593776e432e8f73ce7d2b2c8c4658a&txTime=6aabbb12
+#EXTINF:-1 tvg-id="room-620084" tvg-logo="https://sta.vnres.co/file/common/20260913/ca05a41c7e06c0687f8371e5ba137661.png" group-title="Bóng đá",Adelaide United vs Tai Po (ACL2)
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789565079-0-0-db313fd8be8b6632506775fb829d0e03
 #EXTINF:-1 tvg-id="room-622241" tvg-logo="https://sta.vnres.co/file/common/20260913/c63161cb2678fec6dcc44a35437ee8d3.png" group-title="Bóng đá",Uzbekistan Women vs China Women (AGSW)
 https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789552401-0-0-07d1c7a447985d53e8515efd4d43cac6
 #EXTINF:-1 tvg-id="room-991140" tvg-logo="https://sta.vnres.co/file/common/20260913/a17784bdffc74e22f229c87512d82e46.png" group-title="Bóng đá",Bangladesh Women vs South Korea Women (AGSW)
 https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1789598266-0-0-d6df01ad3d464c6842c7235ad3383fd9
 #EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260913/c63161cb2678fec6dcc44a35437ee8d3.png" group-title="Bóng đá",Uzbekistan Women vs China Women (AGSW)
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=18495bcf2391d33671084408cb6e30c7&txTime=6aabb5a2
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=81462f98e54a28b3b139260e712f4505&txTime=6aabbabe
 #EXTINF:-1 tvg-id="room-9912127" tvg-logo="https://sta.vnres.co/file/common/20260913/c63161cb2678fec6dcc44a35437ee8d3.png" group-title="Bóng đá",Uzbekistan Women vs China Women (AGSW)
 https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=ad900d2f0c350dbdc2a8f25b4d2de85c&txTime=6aab9e8c
+#EXTINF:-1 tvg-id="room-9912128" tvg-logo="https://sta.vnres.co/file/common/20260913/ca05a41c7e06c0687f8371e5ba137661.png" group-title="Bóng đá",Adelaide United vs Tai Po (ACL2)
+https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789595803-0-0-379ac7f18e25875811182d3daa940d8a
 #EXTINF:-1 tvg-id="room-9912129" tvg-logo="https://sta.vnres.co/file/common/20260913/c63161cb2678fec6dcc44a35437ee8d3.png" group-title="Bóng đá",Uzbekistan Women vs China Women (AGSW)
 https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=79631bc41c1ff56bc7d6ae9775c94e02&txTime=6aaae2e6
 #EXTINF:-1 tvg-id="room-9912130" tvg-logo="https://sta.vnres.co/file/common/20260913/c63161cb2678fec6dcc44a35437ee8d3.png" group-title="Bóng đá",Uzbekistan Women vs China Women (AGSW)
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789588659-0-0-5e8f8ff253b17f4c9aaf1922e524204c
+https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789621742-0-0-86fafb12e3b8b79d895728de55589106
 #EXTINF:-1 tvg-id="room-9912133" tvg-logo="https://sta.vnres.co/file/common/20260913/f168443155f8f1a4426d355c681a2a62.png" group-title="Bóng đá",Thailand Women vs Chinese Taipei Women (AGSW)
 https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1789598382-0-0-e031ac374ac470b5069e7e50ec3bdecb
 #EXTINF:-1 tvg-id="room-9912135" tvg-logo="https://sta.vnres.co/file/common/20260913/8c90a8a2319f3ac638fb6b10ad55634f.png" group-title="Bóng đá",Alianza San Salvador vs CD Motagua (CNCF CACup)
-https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1789621142-0-0-192bd05c6bff59ca325fe1ac47ec111c
+https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1789621742-0-0-cc76eb321f7ff6ef0201ee5dbd8b96ec
+#EXTINF:-1 tvg-id="room-9912136" tvg-logo="https://sta.vnres.co/file/common/20260913/ca05a41c7e06c0687f8371e5ba137661.png" group-title="Bóng đá",Adelaide United vs Tai Po (ACL2)
+https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=c76ef7ffdb5de72a479a9896d3ee5fd9&txTime=6aabb5ef
 #EXTINF:-1 tvg-id="room-9912142" tvg-logo="https://sta.vnres.co/file/common/20260913/a17784bdffc74e22f229c87512d82e46.png" group-title="Bóng đá",Bangladesh Women vs South Korea Women (AGSW)
 https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789598394-0-0-b921ba12347e961d6eeb6d8adbcd6c53
 #EXTINF:-1 tvg-id="room-9912144" tvg-logo="https://sta.vnres.co/file/common/20260913/a17784bdffc74e22f229c87512d82e46.png" group-title="Bóng đá",Bangladesh Women vs South Korea Women (AGSW)
 https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1789558431-0-0-6e2c9260cd587dbd6488222274bf00e1
 #EXTINF:-1 tvg-id="room-9912145" tvg-logo="https://sta.vnres.co/file/common/20260913/a17784bdffc74e22f229c87512d82e46.png" group-title="Bóng đá",Bangladesh Women vs South Korea Women (AGSW)
 https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789583213-0-0-a2abfc7024da26dbc915fca3f767848e
-#EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260915/4bbf4949a20e0ea8dad485be453a3ecf.png" group-title="Bóng rổ",Gambusinos de Fresnillo vs Santos del Potosí (LNBP)
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=a63889edcbc1e2d3659952b4001c6066&txTime=6aabb8e4
+#EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260915/3f479c0d4ad61a14224140835ba20e8c.png" group-title="Bóng rổ",Indonesia Women vs Thailand Women (AGBW)
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=faf197a021a6543016ba04473cdfcc97&txTime=6aabbb12
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260915/3f479c0d4ad61a14224140835ba20e8c.png" group-title="Bóng rổ",Indonesia Women vs Thailand Women (AGBW)
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=fb611cfbb6888be8a4ef7b6cbbb26b58&txTime=6aabb8ba
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=5d00298a3289e1b71c21a4d1b0c3e23e&txTime=6aabbb12
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260915/3f479c0d4ad61a14224140835ba20e8c.png" group-title="Bóng rổ",Indonesia Women vs Thailand Women (AGBW)
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789621142-0-0-33b7e71982346140c81b8773fa29b53e
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789621742-0-0-af2e1d0b676c26bf61189ea6d72cf112
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260915/3f479c0d4ad61a14224140835ba20e8c.png" group-title="Bóng rổ",Indonesia Women vs Thailand Women (AGBW)
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789621142-0-0-6f531fc1f15b4a7fe7737e9a98362b9c
-#EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260915/4bbf4949a20e0ea8dad485be453a3ecf.png" group-title="Bóng rổ",Gambusinos de Fresnillo vs Santos del Potosí (LNBP)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789621142-0-0-dde8e53ac931cd26dd0a95ad68b32cb7
-#EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260915/29f05a731bcb53eecf69c6d7af5db604.png" group-title="Bóng rổ",Dorados vs El Calor de Cancún (LNBP)
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789621142-0-0-db832706ae85ae43807cee27fa4eefa1
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789621742-0-0-25ed66e212e408656ab308c30a012f7e
+#EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260915/3f479c0d4ad61a14224140835ba20e8c.png" group-title="Bóng rổ",Indonesia Women vs Thailand Women (AGBW)
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789621742-0-0-aa70203d74d9a1bb44a08d4b4dd4fd40
+#EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260915/3f479c0d4ad61a14224140835ba20e8c.png" group-title="Bóng rổ",Indonesia Women vs Thailand Women (AGBW)
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789621742-0-0-b10f87a1b0bab282094332eb214dfdf2
 #EXTINF:-1 tvg-id="room-327159" tvg-logo="https://sta.vnres.co/file/common/20260910/b74633428c7b7d75edf4a7dbb3d250cf.jpg" group-title="SocoLive",CNCF CACup: Alianza San Salvador vs CD Motagua - BLV COCA
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789620842-0-0-68f73748b94158beed71513b1cdd3f40
-#EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg" group-title="SocoLive",LNBP: Gambusinos de Fresnillo vs Santos del Potosí - A CHÈ
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=a63889edcbc1e2d3659952b4001c6066&txTime=6aabb8e4
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789621442-0-0-d76e60c02ad64e6fad2ce74daac8d704
+#EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg" group-title="SocoLive",AGBW: Indonesia Women vs Thailand Women - A CHÈ
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=faf197a021a6543016ba04473cdfcc97&txTime=6aabbb12
 #EXTINF:-1 tvg-id="room-380460" tvg-logo="https://sta.vnres.co/file/common/20260827/1d4f9eca02a381435aaec138589dd9ef.jpg" group-title="SocoLive",CNCF CACup: Alianza San Salvador vs CD Motagua - BLV ENZO
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1789620842-0-0-c368de7c41b4637848e1845d98af3339
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1789621442-0-0-482201d6b5af520a428c85bb017afe46
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg" group-title="SocoLive",CNCF CACup: Alianza San Salvador vs CD Motagua - BLV ALEX
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789620842-0-0-355489e1e1eaf5a19776aff4b9d23aa5
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789621442-0-0-2450602924d55d107459a2d65f46d496
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg" group-title="SocoLive",AGBW: Indonesia Women vs Thailand Women - HUNTER
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=fb611cfbb6888be8a4ef7b6cbbb26b58&txTime=6aabb8ba
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=5d00298a3289e1b71c21a4d1b0c3e23e&txTime=6aabbb12
 #EXTINF:-1 tvg-id="room-603255" tvg-logo="https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7.png" group-title="SocoLive",CNCF CACup: Alianza San Salvador vs CD Motagua - BLV LION
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1789620842-0-0-30303f9c05b43d2a4dfeaf6c813df6f0
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1789621442-0-0-84f15c4e9b55e617e735f2a9e0dad216
 #EXTINF:-1 tvg-id="room-610518" tvg-logo="https://sta.vnres.co/file/common/20260628/336b2e008de11bb26c1d4e0e46bc9f95.jpg" group-title="SocoLive",CNCF CACup: Alianza San Salvador vs CD Motagua - XUÂN TÓC ĐỎ
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=a6a6bff5ee0785c2db9155a222ad0bd6&txTime=6aabb8ba
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=ce593776e432e8f73ce7d2b2c8c4658a&txTime=6aabbb12
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-title="SocoLive",AGBW: Indonesia Women vs Thailand Women - KING
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789620842-0-0-76d1ec5dcd549156e9c34964805e3d92
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789621442-0-0-8582ff9dcf9c684cd97f72e5d02e4d09
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-title="SocoLive",AGBW: Indonesia Women vs Thailand Women - BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789620842-0-0-14939cb8dcfd1998ce0d671f7b0dbb22
-#EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg" group-title="SocoLive",LNBP: Gambusinos de Fresnillo vs Santos del Potosí - BLV HENRY
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789620842-0-0-81dc284f29aa787a6f4aadb56b9b74de
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789621442-0-0-f9d68dd30902a3217f3083802543d825
+#EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg" group-title="SocoLive",AGBW: Indonesia Women vs Thailand Women - BLV HENRY
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789621442-0-0-a5a47c886a482dc6e0abe6d5138e354b
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg" group-title="SocoLive",LNBP: Dorados vs El Calor de Cancún - CHAN SENA
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789620842-0-0-5acd6a2da9853041ca3fa4b9181e5087
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789621442-0-0-a3b0c5e4c5105325f004bfe7029d41a9
 #EXTINF:-1 tvg-id="room-9912135" tvg-logo="https://sta.vnres.co/file/common/20260801/16b69ccb9ccf1f371806a3f19e7dc683.jpg" group-title="SocoLive",CNCF CACup: Alianza San Salvador vs CD Motagua - BLV PEWPEW
-https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1789620842-0-0-3e30519b932f375add6375a48efa867a
+https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1789621442-0-0-601747cb5bd266e3811c0f8bd7a194d8
