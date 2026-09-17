@@ -1,42 +1,36 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 50
-# Updated: 17/09/2026 10:00:06
+# Channels: 44
+# Updated: 17/09/2026 10:30:05
 
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260913/f5222e500542366cf582b69c7a4a86bf.png" group-title="Bóng đá",Colorado Rapids vs St. Louis City SC (USA Cup)
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789617242-0-0-0f573be9611ce0178e01322eb8bb0e79
-#EXTINF:-1 tvg-id="room-283501" tvg-logo="https://sta.vnres.co/file/common/20260913/2cf9b6a240d20f2d81a1dec2c3e532c6.png" group-title="Bóng đá",Internacional de Bogota vs Atletico Nacional Medellin (COL D1)
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=5b5f19a74dead2b31dfa76a7c90e785a&txTime=6aabaaaa
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789619042-0-0-19761cea9d5a5e2d6ad27081164d0f24
 #EXTINF:-1 tvg-id="room-327159" tvg-logo="https://sta.vnres.co/file/common/20260913/8c90a8a2319f3ac638fb6b10ad55634f.png" group-title="Bóng đá",Alianza San Salvador vs CD Motagua (CNCF CACup)
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789617242-0-0-53d89ed28e4c9e6c8edcd756e1b5c7fd
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789619042-0-0-29eddd619f9d19e3e182bad7a39c8224
 #EXTINF:-1 tvg-id="room-380460" tvg-logo="https://sta.vnres.co/file/common/20260913/8c90a8a2319f3ac638fb6b10ad55634f.png" group-title="Bóng đá",Alianza San Salvador vs CD Motagua (CNCF CACup)
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1789617242-0-0-61fc5c46160004da8b166f0d69b7987a
-#EXTINF:-1 tvg-id="room-491873" tvg-logo="https://sta.vnres.co/file/common/20260913/2cf9b6a240d20f2d81a1dec2c3e532c6.png" group-title="Bóng đá",Internacional de Bogota vs Atletico Nacional Medellin (COL D1)
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=1dd14a8fd7cc1413f26b5d29558155c8&txTime=6aabaaaa
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1789619042-0-0-d7bdc3da58202dae1b73dcbddee81472
+#EXTINF:-1 tvg-id="room-501412" tvg-logo="https://sta.vnres.co/file/common/20260913/a17784bdffc74e22f229c87512d82e46.png" group-title="Bóng đá",Bangladesh Women vs South Korea Women (AGSW)
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=185563349d18c4edad3c0b9a36206b50&txTime=6aab3b35
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260913/8c90a8a2319f3ac638fb6b10ad55634f.png" group-title="Bóng đá",Alianza San Salvador vs CD Motagua (CNCF CACup)
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789617542-0-0-ef68af121ec26b1ce5474c0965bca81f
-#EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260913/2cf9b6a240d20f2d81a1dec2c3e532c6.png" group-title="Bóng đá",Internacional de Bogota vs Atletico Nacional Medellin (COL D1)
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=0cd9b9eac351376c2b8dcd3e1d8d4ac6&txTime=6aababd7
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789619042-0-0-c4c4e5ec2a911b0bd88b3911b546d51e
 #EXTINF:-1 tvg-id="room-552832" tvg-logo="https://sta.vnres.co/file/common/20260913/c63161cb2678fec6dcc44a35437ee8d3.png" group-title="Bóng đá",Uzbekistan Women vs China Women (AGSW)
 https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=969b1035838c1a5453a32e26e4f3fec2&txTime=6aab9dc0
 #EXTINF:-1 tvg-id="room-603255" tvg-logo="https://sta.vnres.co/file/common/20260913/8c90a8a2319f3ac638fb6b10ad55634f.png" group-title="Bóng đá",Alianza San Salvador vs CD Motagua (CNCF CACup)
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1789617543-0-0-4ac627e899f97444159e579442579410
-#EXTINF:-1 tvg-id="room-603914" tvg-logo="https://sta.vnres.co/file/common/20260913/2cf9b6a240d20f2d81a1dec2c3e532c6.png" group-title="Bóng đá",Internacional de Bogota vs Atletico Nacional Medellin (COL D1)
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789617543-0-0-644b6703b2748dafdac18a375c8b1608
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1789619042-0-0-1f40cd81d663b91d43410b71036f6c14
 #EXTINF:-1 tvg-id="room-610518" tvg-logo="https://sta.vnres.co/file/common/20260913/8c90a8a2319f3ac638fb6b10ad55634f.png" group-title="Bóng đá",Alianza San Salvador vs CD Motagua (CNCF CACup)
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=188e2448604f831544c57ecb0fad2cee&txTime=6aababd7
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=d762f9e115113dc404a8e3ad038caa75&txTime=6aabb1b2
 #EXTINF:-1 tvg-id="room-622241" tvg-logo="https://sta.vnres.co/file/common/20260913/c63161cb2678fec6dcc44a35437ee8d3.png" group-title="Bóng đá",Uzbekistan Women vs China Women (AGSW)
 https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789552401-0-0-07d1c7a447985d53e8515efd4d43cac6
+#EXTINF:-1 tvg-id="room-991140" tvg-logo="https://sta.vnres.co/file/common/20260913/a17784bdffc74e22f229c87512d82e46.png" group-title="Bóng đá",Bangladesh Women vs South Korea Women (AGSW)
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1789598266-0-0-d6df01ad3d464c6842c7235ad3383fd9
 #EXTINF:-1 tvg-id="room-9912008" tvg-logo="https://sta.vnres.co/file/common/20260913/f5222e500542366cf582b69c7a4a86bf.png" group-title="Bóng đá",Colorado Rapids vs St. Louis City SC (USA Cup)
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789617542-0-0-e34c50afdabce6ccbe012a9f5c6241e1
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789619342-0-0-a9c653d933c6f9968de5480a628765b2
 #EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260913/f5222e500542366cf582b69c7a4a86bf.png" group-title="Bóng đá",Colorado Rapids vs St. Louis City SC (USA Cup)
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=8bac8bda7af5816b678bc1d984f8b464&txTime=6aababd6
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=d2111679a2f71f1a7a31688f57186b3c&txTime=6aabb2de
 #EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260913/f5222e500542366cf582b69c7a4a86bf.png" group-title="Bóng đá",Colorado Rapids vs St. Louis City SC (USA Cup)
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=07f95d0c54221f8f641063928fea561d&txTime=6aababd6
-#EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260913/2cf9b6a240d20f2d81a1dec2c3e532c6.png" group-title="Bóng đá",Internacional de Bogota vs Atletico Nacional Medellin (COL D1)
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789617543-0-0-fef15da0314072b45686dff42bd4af05
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=6d72cbe874b00deaa80bb8b5d8abda7d&txTime=6aabb2de
 #EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260913/f5222e500542366cf582b69c7a4a86bf.png" group-title="Bóng đá",Colorado Rapids vs St. Louis City SC (USA Cup)
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789617543-0-0-55a4733e41dd40a4103ef5d9625cd22c
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789619342-0-0-767308a710d688aaf911ffbb7922d739
 #EXTINF:-1 tvg-id="room-9912127" tvg-logo="https://sta.vnres.co/file/common/20260913/c63161cb2678fec6dcc44a35437ee8d3.png" group-title="Bóng đá",Uzbekistan Women vs China Women (AGSW)
 https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=ad900d2f0c350dbdc2a8f25b4d2de85c&txTime=6aab9e8c
 #EXTINF:-1 tvg-id="room-9912129" tvg-logo="https://sta.vnres.co/file/common/20260913/c63161cb2678fec6dcc44a35437ee8d3.png" group-title="Bóng đá",Uzbekistan Women vs China Women (AGSW)
@@ -44,13 +38,17 @@ https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=79631bc41c1ff56bc7d
 #EXTINF:-1 tvg-id="room-9912130" tvg-logo="https://sta.vnres.co/file/common/20260913/c63161cb2678fec6dcc44a35437ee8d3.png" group-title="Bóng đá",Uzbekistan Women vs China Women (AGSW)
 https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789588659-0-0-5e8f8ff253b17f4c9aaf1922e524204c
 #EXTINF:-1 tvg-id="room-9912135" tvg-logo="https://sta.vnres.co/file/common/20260913/8c90a8a2319f3ac638fb6b10ad55634f.png" group-title="Bóng đá",Alianza San Salvador vs CD Motagua (CNCF CACup)
-https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1789617542-0-0-d80f84c934ea73b480df7942290f181c
+https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1789619342-0-0-32870b18ad02f0945aa064f290e6901d
 #EXTINF:-1 tvg-id="room-9912136" tvg-logo="https://sta.vnres.co/file/common/20260913/f5222e500542366cf582b69c7a4a86bf.png" group-title="Bóng đá",Colorado Rapids vs St. Louis City SC (USA Cup)
-https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=96734213ac33d23ec3654aa6b1cb4870&txTime=6aababd6
-#EXTINF:-1 tvg-id="room-9912139" tvg-logo="https://sta.vnres.co/file/common/20260913/2cf9b6a240d20f2d81a1dec2c3e532c6.png" group-title="Bóng đá",Internacional de Bogota vs Atletico Nacional Medellin (COL D1)
-https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=819f5b7c0e456af6e01a3258c597a1a4&txTime=6aababd7
+https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=726aac1f66e34462dfe19c1bc615d4ca&txTime=6aabb2de
+#EXTINF:-1 tvg-id="room-9912142" tvg-logo="https://sta.vnres.co/file/common/20260913/a17784bdffc74e22f229c87512d82e46.png" group-title="Bóng đá",Bangladesh Women vs South Korea Women (AGSW)
+https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1789598394-0-0-b921ba12347e961d6eeb6d8adbcd6c53
+#EXTINF:-1 tvg-id="room-9912144" tvg-logo="https://sta.vnres.co/file/common/20260913/a17784bdffc74e22f229c87512d82e46.png" group-title="Bóng đá",Bangladesh Women vs South Korea Women (AGSW)
+https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1789558431-0-0-6e2c9260cd587dbd6488222274bf00e1
+#EXTINF:-1 tvg-id="room-9912145" tvg-logo="https://sta.vnres.co/file/common/20260913/a17784bdffc74e22f229c87512d82e46.png" group-title="Bóng đá",Bangladesh Women vs South Korea Women (AGSW)
+https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789583213-0-0-a2abfc7024da26dbc915fca3f767848e
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260915/4bbf4949a20e0ea8dad485be453a3ecf.png" group-title="Bóng rổ",Gambusinos de Fresnillo vs Santos del Potosí (LNBP)
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=d27bd4f762e99ff8e1d5aae771f2d6cd&txTime=6aabaaaa
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=3815bf9ba28f1cd0e659aa0ccc3086b3&txTime=6aabb1b2
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260915/3f479c0d4ad61a14224140835ba20e8c.png" group-title="Bóng rổ",Indonesia Women vs Thailand Women (AGBW)
 https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=f9a6ef3a5a61d1cdf40b3e85aca12f20&txTime=6aaafdbc
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260915/3f479c0d4ad61a14224140835ba20e8c.png" group-title="Bóng rổ",Indonesia Women vs Thailand Women (AGBW)
@@ -58,48 +56,38 @@ https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789577143-0-0-884
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260915/3f479c0d4ad61a14224140835ba20e8c.png" group-title="Bóng rổ",Indonesia Women vs Thailand Women (AGBW)
 https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789585306-0-0-b71a9c9003563f03b1171563864bb01e
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260915/4bbf4949a20e0ea8dad485be453a3ecf.png" group-title="Bóng rổ",Gambusinos de Fresnillo vs Santos del Potosí (LNBP)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789617542-0-0-27fe06f2d8157034ab550b3e60c264e3
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789619342-0-0-8876ae9eb6e57ed44834f8c504ee722d
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20260915/29f05a731bcb53eecf69c6d7af5db604.png" group-title="Bóng rổ",Dorados vs El Calor de Cancún (LNBP)
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789617542-0-0-1a9b7ebb5f6fce44f63e3283e816ac0a
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789619342-0-0-44f02ea78e71956f77fbb27d33d856b9
 #EXTINF:-1 tvg-id="room-235232" tvg-logo="https://sta.vnres.co/file/common/20260917/5612049511f4e701c7771365c1504780.jpg" group-title="SocoLive",USA Cup: Colorado Rapids vs St. Louis City SC - A PÁO
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789617242-0-0-0f573be9611ce0178e01322eb8bb0e79
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1789619042-0-0-19761cea9d5a5e2d6ad27081164d0f24
 #EXTINF:-1 tvg-id="room-283501" tvg-logo="https://sta.vnres.co/file/common/20260917/c527b727f0aabef767f97331334bdce1.png" group-title="SocoLive",COL D1: Internacional de Bogota vs Atletico Nacional Medellin - BLV KAN
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=5b5f19a74dead2b31dfa76a7c90e785a&txTime=6aabaaaa
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=d883bfa7e644e30bd3a7bc577010fd90&txTime=6aabb1db
 #EXTINF:-1 tvg-id="room-327159" tvg-logo="https://sta.vnres.co/file/common/20260910/b74633428c7b7d75edf4a7dbb3d250cf.jpg" group-title="SocoLive",CNCF CACup: Alianza San Salvador vs CD Motagua - BLV COCA
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789617242-0-0-53d89ed28e4c9e6c8edcd756e1b5c7fd
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1789619042-0-0-29eddd619f9d19e3e182bad7a39c8224
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg" group-title="SocoLive",LNBP: Gambusinos de Fresnillo vs Santos del Potosí - A CHÈ
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=d27bd4f762e99ff8e1d5aae771f2d6cd&txTime=6aabaaaa
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=3815bf9ba28f1cd0e659aa0ccc3086b3&txTime=6aabb1b2
 #EXTINF:-1 tvg-id="room-380460" tvg-logo="https://sta.vnres.co/file/common/20260827/1d4f9eca02a381435aaec138589dd9ef.jpg" group-title="SocoLive",CNCF CACup: Alianza San Salvador vs CD Motagua - BLV ENZO
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1789617242-0-0-61fc5c46160004da8b166f0d69b7987a
-#EXTINF:-1 tvg-id="room-491873" tvg-logo="https://sta.vnres.co/file/common/20250723/6b83b847d8944b57cc13043bae9fa7a8.jpg" group-title="SocoLive",COL D1: Internacional de Bogota vs Atletico Nacional Medellin - BLV VIP
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=1dd14a8fd7cc1413f26b5d29558155c8&txTime=6aabaaaa
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1789619042-0-0-d7bdc3da58202dae1b73dcbddee81472
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg" group-title="SocoLive",CNCF CACup: Alianza San Salvador vs CD Motagua - BLV ALEX
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789617242-0-0-abe48156a639c0b11c894f2f79f43923
-#EXTINF:-1 tvg-id="room-534055" tvg-logo="https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722.jpg" group-title="SocoLive",COL D1: Internacional de Bogota vs Atletico Nacional Medellin - BLV RAMBO
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=ec02f796d236f8c4c377471f491d141a&txTime=6aabaaaa
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789619042-0-0-c4c4e5ec2a911b0bd88b3911b546d51e
 #EXTINF:-1 tvg-id="room-603255" tvg-logo="https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7.png" group-title="SocoLive",CNCF CACup: Alianza San Salvador vs CD Motagua - BLV LION
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1789617243-0-0-7e7f703d4b582d801684b43c8641509e
-#EXTINF:-1 tvg-id="room-603914" tvg-logo="https://sta.vnres.co/file/common/20260904/c08eebf8c66b882d5d57e203ae571c7a.jpg" group-title="SocoLive",COL D1: Internacional de Bogota vs Atletico Nacional Medellin - TRÀ ĐÁ
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789617243-0-0-7291d09c617d79ee5064291aadeb0b06
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1789619042-0-0-1f40cd81d663b91d43410b71036f6c14
 #EXTINF:-1 tvg-id="room-610518" tvg-logo="https://sta.vnres.co/file/common/20260628/336b2e008de11bb26c1d4e0e46bc9f95.jpg" group-title="SocoLive",CNCF CACup: Alianza San Salvador vs CD Motagua - XUÂN TÓC ĐỎ
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=4df12d9a68d3a659cdc3ba1108757a74&txTime=6aabaaab
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=d762f9e115113dc404a8e3ad038caa75&txTime=6aabb1b2
 #EXTINF:-1 tvg-id="room-9912008" tvg-logo="https://sta.vnres.co/file/common/20260915/e860b360c576d0e840a1eee21c4c9eb1.png" group-title="SocoLive",USA Cup: Colorado Rapids vs St. Louis City SC - BLV TOMIA
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789617242-0-0-091c605e9092d5f2fb5c5f3921194000
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789619042-0-0-6cb69be977e44391ddd8d89b41c94a4a
 #EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56.jpg" group-title="SocoLive",USA Cup: Colorado Rapids vs St. Louis City SC - BLV TAP
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=a506266ad05440709f13706b23cbc931&txTime=6aabaaaa
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=7566b2892a0d1143776b5cb5c32ee235&txTime=6aabb1b2
 #EXTINF:-1 tvg-id="room-9912102" tvg-logo="https://sta.vnres.co/file/common/20260729/d292f50748708d6c5531fc4adc41b139.jpg" group-title="SocoLive",USA Cup: Colorado Rapids vs St. Louis City SC - BLV RÔSI
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=7ca091ccea1513238130d6557f4901da&txTime=6aabaaaa
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=ecb19905b8c544f4d3f5a3ecc3ca9ec0&txTime=6aabb1b2
 #EXTINF:-1 tvg-id="room-9912112" tvg-logo="https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d.jpeg" group-title="SocoLive",LNBP: Gambusinos de Fresnillo vs Santos del Potosí - BLV HENRY
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789617242-0-0-663bd2452f5512b57983ab3277d58b31
-#EXTINF:-1 tvg-id="room-9912114" tvg-logo="https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151.png" group-title="SocoLive",COL D1: Internacional de Bogota vs Atletico Nacional Medellin - BLV VOI
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789617242-0-0-0a836f68346cb458fe65c24a0fbb0db5
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1789619042-0-0-2322d5abcd9773d1cdea88d88223e522
 #EXTINF:-1 tvg-id="room-9912115" tvg-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472.jpg" group-title="SocoLive",LNBP: Dorados vs El Calor de Cancún - CHAN SENA
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789617242-0-0-3268c5b3fa993cff47ca0cd57836a8a7
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1789619042-0-0-0aab6d9612594040ab6c26b802b1e817
 #EXTINF:-1 tvg-id="room-9912124" tvg-logo="https://sta.vnres.co/file/common/20260817/eeaf8e9a562009c633db883c389eb16b.jpg" group-title="SocoLive",USA Cup: Colorado Rapids vs St. Louis City SC - KENCHU
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789617243-0-0-417997c4e3a2440f1ba4ae720ce8be30
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789619042-0-0-356bc28cbda0d78895a81f5cbc8effd1
 #EXTINF:-1 tvg-id="room-9912135" tvg-logo="https://sta.vnres.co/file/common/20260801/16b69ccb9ccf1f371806a3f19e7dc683.jpg" group-title="SocoLive",CNCF CACup: Alianza San Salvador vs CD Motagua - BLV PEWPEW
-https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1789617242-0-0-d6dc3161037a79952da10f15f86a36b8
+https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1789619042-0-0-bdd08d690ddf2fcae82876eb252fd6bd
 #EXTINF:-1 tvg-id="room-9912136" tvg-logo="https://sta.vnres.co/file/common/20260810/b792b2c329f2ffe44037f2d5973945de.jpg" group-title="SocoLive",USA Cup: Colorado Rapids vs St. Louis City SC - BLV LONG
-https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=010b207309a747cb212e21d551ed6673&txTime=6aabaaaa
-#EXTINF:-1 tvg-id="room-9912139" tvg-logo="https://sta.vnres.co/file/common/20260317/5be300857a15349a5324be170237948b.png" group-title="SocoLive",COL D1: Internacional de Bogota vs Atletico Nacional Medellin - BLV A TINH
-https://pull.niur.live/live/stream-9912139_lhd.m3u8?txSecret=cb0fec0b40e5feefb8850a58287372e2&txTime=6aabaaaa
+https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=64fbba466318f489682e313a1df38129&txTime=6aabb1b2
