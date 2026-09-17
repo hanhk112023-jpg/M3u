@@ -1,125 +1,59 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 # SOCOLIVE LIVE PLAYLIST
-# Channels: 60
-# Updated: 17/09/2026 17:50:05
+# Channels: 27
+# Updated: 17/09/2026 19:56:02
 
-#EXTINF:-1 tvg-id="room-511367" tvg-logo="https://sta.vnres.co/file/common/20260913/6fe6039fe4d2ead3b005a2a2f0286cee.png" group-title="Bóng đá",Myanmar Women vs North Korea Women (AGSW)
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1789645743-0-0-33e7c9ed2aed218beb6acc5e77001150
-#EXTINF:-1 tvg-id="room-527383" tvg-logo="https://sta.vnres.co/file/common/20260913/65c17151b018822e8aca691460be284a.png" group-title="Bóng đá",Lion City Sailors vs BG Pathum United (ACL2)
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789645743-0-0-f5841b0d6814275e46238f30fc01938a
-#EXTINF:-1 tvg-id="room-527384" tvg-logo="https://sta.vnres.co/file/common/20260913/e5ef2ebc2cfc7cff26a4ae5842a6e41c.png" group-title="Bóng đá",Vietnam Women vs Japan Women (AGSW)
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789645743-0-0-52516080e8ef989040c8abf9ab96bf5a
-#EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260913/4e449e5fa9a1f3dd4aa85394018d6dc1.png" group-title="Bóng đá",Machida Zelvia vs Preah Khan Reach Svay Rieng FC (ACL2)
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789645743-0-0-404142e2ec3a7676c95fa9dbde12ee0e
-#EXTINF:-1 tvg-id="room-597929" tvg-logo="https://sta.vnres.co/file/common/20260913/ca05a41c7e06c0687f8371e5ba137661.png" group-title="Bóng đá",Adelaide United vs Tai Po (ACL2)
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1789645743-0-0-d8e2a6fc06dbc381d028f316ccf22846
-#EXTINF:-1 tvg-id="room-603255" tvg-logo="https://sta.vnres.co/file/common/20260913/012a124d356fb5b987c81f643fae0e7e.png" group-title="Bóng đá",Hong Kong Women vs Philippines Women (AGSW)
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1789645743-0-0-8c999f7c6acbc7b8d4f1813b4c4dfeff
-#EXTINF:-1 tvg-id="room-619561" tvg-logo="https://sta.vnres.co/file/common/20260913/65c17151b018822e8aca691460be284a.png" group-title="Bóng đá",Lion City Sailors vs BG Pathum United (ACL2)
-https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1789645743-0-0-a0bc49ca852f4fdf343c9e48ac458341
-#EXTINF:-1 tvg-id="room-620084" tvg-logo="https://sta.vnres.co/file/common/20260913/ca05a41c7e06c0687f8371e5ba137661.png" group-title="Bóng đá",Adelaide United vs Tai Po (ACL2)
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789645743-0-0-e79957ee67e4985f517d809c05242b33
-#EXTINF:-1 tvg-id="room-620504" tvg-logo="https://sta.vnres.co/file/common/20260913/012a124d356fb5b987c81f643fae0e7e.png" group-title="Bóng đá",Hong Kong Women vs Philippines Women (AGSW)
-https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1789645743-0-0-d2840e45efd21d0de3891fdc8cf127c3
-#EXTINF:-1 tvg-id="room-9912008" tvg-logo="https://sta.vnres.co/file/common/20260913/e5ef2ebc2cfc7cff26a4ae5842a6e41c.png" group-title="Bóng đá",Vietnam Women vs Japan Women (AGSW)
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789645743-0-0-45ad16586c108f51b03a2320206c883f
-#EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260913/e5ef2ebc2cfc7cff26a4ae5842a6e41c.png" group-title="Bóng đá",Vietnam Women vs Japan Women (AGSW)
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=77b09bc6ee9bddb02020657c3f7dfa5e&txTime=6aac19ff
-#EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260913/4e449e5fa9a1f3dd4aa85394018d6dc1.png" group-title="Bóng đá",Machida Zelvia vs Preah Khan Reach Svay Rieng FC (ACL2)
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789645743-0-0-d69b605b7d3c5d175fec0f6d303aee7e
-#EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260913/e5ef2ebc2cfc7cff26a4ae5842a6e41c.png" group-title="Bóng đá",Vietnam Women vs Japan Women (AGSW)
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789645743-0-0-33609f04be2d15768d153375e003148e
-#EXTINF:-1 tvg-id="room-9912119" tvg-logo="https://sta.vnres.co/file/common/20260913/4e449e5fa9a1f3dd4aa85394018d6dc1.png" group-title="Bóng đá",Machida Zelvia vs Preah Khan Reach Svay Rieng FC (ACL2)
-https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789645743-0-0-e49e55cb2c76bb3a33aadc1b0e31afcb
-#EXTINF:-1 tvg-id="room-9912122" tvg-logo="https://sta.vnres.co/file/common/20260913/65c17151b018822e8aca691460be284a.png" group-title="Bóng đá",Lion City Sailors vs BG Pathum United (ACL2)
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=8a7e29a96ff246d66a61961178e893d2&txTime=6aac19ff
-#EXTINF:-1 tvg-id="room-9912126" tvg-logo="https://sta.vnres.co/file/common/20260913/6fe6039fe4d2ead3b005a2a2f0286cee.png" group-title="Bóng đá",Myanmar Women vs North Korea Women (AGSW)
-https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=6323098cf600d2208813fbd01ad10bb3&txTime=6aac19ff
-#EXTINF:-1 tvg-id="room-9912128" tvg-logo="https://sta.vnres.co/file/common/20260913/ca05a41c7e06c0687f8371e5ba137661.png" group-title="Bóng đá",Adelaide United vs Tai Po (ACL2)
-https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789645743-0-0-9ed1fe1b34df71419a5e93a511fd2c91
-#EXTINF:-1 tvg-id="room-9912132" tvg-logo="https://sta.vnres.co/file/common/20260913/65c17151b018822e8aca691460be284a.png" group-title="Bóng đá",Lion City Sailors vs BG Pathum United (ACL2)
-https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=c39715a358eec1d3088caf1d99c05425&txTime=6aac19ff
-#EXTINF:-1 tvg-id="room-9912136" tvg-logo="https://sta.vnres.co/file/common/20260913/ca05a41c7e06c0687f8371e5ba137661.png" group-title="Bóng đá",Adelaide United vs Tai Po (ACL2)
-https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=9ca16866643b413135dadad6186f985e&txTime=6aac19ff
-#EXTINF:-1 tvg-id="room-9912140" tvg-logo="https://sta.vnres.co/file/common/20260913/4e449e5fa9a1f3dd4aa85394018d6dc1.png" group-title="Bóng đá",Machida Zelvia vs Preah Khan Reach Svay Rieng FC (ACL2)
-https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=c7fde3633b00afcf86a1d384dfe4414c&txTime=6aac19ff
-#EXTINF:-1 tvg-id="room-9912143" tvg-logo="https://sta.vnres.co/file/common/20260913/e5ef2ebc2cfc7cff26a4ae5842a6e41c.png" group-title="Bóng đá",Vietnam Women vs Japan Women (AGSW)
-https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789645743-0-0-d29e97807babb699edfc284f0f758187
-#EXTINF:-1 tvg-id="room-9912144" tvg-logo="https://sta.vnres.co/file/common/20260913/e5ef2ebc2cfc7cff26a4ae5842a6e41c.png" group-title="Bóng đá",Vietnam Women vs Japan Women (AGSW)
-https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1789645743-0-0-fee0e9cb64ce2a0dad094857dd31b6d3
-#EXTINF:-1 tvg-id="room-9912145" tvg-logo="https://sta.vnres.co/file/common/20260913/4e449e5fa9a1f3dd4aa85394018d6dc1.png" group-title="Bóng đá",Machida Zelvia vs Preah Khan Reach Svay Rieng FC (ACL2)
-https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789645743-0-0-d8a371536b6e023656be7656f9d8879c
-#EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260913/4e449e5fa9a1f3dd4aa85394018d6dc1.png" group-title="Bóng đá",Machida Zelvia vs Preah Khan Reach Svay Rieng FC (ACL2)
-https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789645743-0-0-80eca7f647bece5d9a3f2f44b9dc3c15
-#EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260915/ad406d41dd125442c1e7c465c75931e3.png" group-title="Bóng rổ",Japan Women vs Hong Kong China Women (AGBW)
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=08996e0d91ff59d140c72c28fcca8041&txTime=6aac19ff
-#EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260915/ad406d41dd125442c1e7c465c75931e3.png" group-title="Bóng rổ",Japan Women vs Hong Kong China Women (AGBW)
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789645743-0-0-156adbfdab0cc3a80a803ef11ff7f397
 #EXTINF:-1 tvg-id="room-133277" tvg-logo="https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4.jpg" group-title="SocoLive",Tường thuật: SPA D1 - FC Barcelona vs Racing Santander - Gà xào sả ớt
-https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=02abe9b56ef1031171b2fd56a87ad896&txTime=6aac18d3
+https://pull.niur.live/live/stream-133277_lhd.m3u8?txSecret=729c38e59c2b44760b60156a01d56fce&txTime=6aac248b
 #EXTINF:-1 tvg-id="room-133824" tvg-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0.jpg" group-title="SocoLive",Tường thuật: ENG LC - Manchester United vs Brighton Hove Albion - Bò leo rào
-https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=1aac95b93939c94fa5f55bbd6426ebb4&txTime=6aac18d3
+https://pull.niur.live/live/stream-133824_lhd.m3u8?txSecret=13811e093686e91d76420f3e2c1e0788&txTime=6aac248b
 #EXTINF:-1 tvg-id="room-152898" tvg-logo="https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2.png" group-title="SocoLive",Tường thuật: SPA D1 - RC Deportivo vs Sevilla FC - Thỏ giang hồ
-https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=41c7187023839fe58e2e3bce04113b82&txTime=6aac18d3
+https://pull.niur.live/live/stream-152898_lhd.m3u8?txSecret=b5963b4066e906f3843dbe1a76b088e3&txTime=6aac248b
 #EXTINF:-1 tvg-id="room-179093" tvg-logo="https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86.jpg" group-title="SocoLive",Tường thuật: SPA D1 - Atletico Madrid vs CA Osasuna - Hươu đau cổ
-https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=66caadd3efcd9ba9d0ca818e0134f0b3&txTime=6aac18d3
+https://pull.niur.live/live/stream-179093_lhd.m3u8?txSecret=525338efcf9f008bb831bb3a73a1568c&txTime=6aac248b
 #EXTINF:-1 tvg-id="room-343500" tvg-logo="https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14.jpg" group-title="SocoLive",Tường thuật: USA Cup - Colorado Rapids vs St. Louis City SC - Mèo méo meo
-https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=366a027b09c1d700e1a972d0b372ada4&txTime=6aac18d3
+https://pull.niur.live/live/stream-343500_lhd.m3u8?txSecret=4cf819825f688ca13e9910e6a9daaf8f&txTime=6aac248b
 #EXTINF:-1 tvg-id="room-356042" tvg-logo="https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b.jpg" group-title="SocoLive",BCL: VEF Riga vs Dziki Warszawa - A CHÈ
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=6f6ede8da1214a99af5ec4552534a6a3&txTime=6aac190c
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=b7ea9f45990dabb1afecefe585228b8a&txTime=6aac248b
 #EXTINF:-1 tvg-id="room-511367" tvg-logo="https://sta.vnres.co/file/common/20251121/6d691b0b9dfd9eeb599401a2499400f0.png" group-title="SocoLive",AGSW: Myanmar Women vs North Korea Women - BLV WUKONG
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1789645443-0-0-291914fe5c5da835ef69417f1a2ee8be
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1789648443-0-0-d43578f858f307fb6e1124d36af3bfb8
 #EXTINF:-1 tvg-id="room-527383" tvg-logo="https://sta.vnres.co/file/common/20260626/fcd1d9373f93de7ff3ebfbee3f073c7c.jpg" group-title="SocoLive",ACL2: Lion City Sailors vs BG Pathum United - BLV ROBBEN
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789645443-0-0-0be438bd5ee44f39582534415094610c
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789648443-0-0-861fd6fe49d932832c0a6fc87fcfb75b
 #EXTINF:-1 tvg-id="room-527384" tvg-logo="https://sta.vnres.co/file/common/20250723/92e3a983ca9ebf07e2630a12672018ca.jpg" group-title="SocoLive",AGSW: Vietnam Women vs Japan Women - LÃO LÂM
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789645443-0-0-88adb2c5b943dc1e58ba0638f5d2cc32
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789648443-0-0-a5a2a588a0f6a9db250f5d7e2e5b6f79
 #EXTINF:-1 tvg-id="room-532081" tvg-logo="https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671.jpg" group-title="SocoLive",ACL2: Machida Zelvia vs Preah Khan Reach Svay Rieng FC - BLV ALEX
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789645443-0-0-2b33d3e91ca1e594cd5a52fa9f7ae437
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789648443-0-0-55f329eb5474963d28f5f7b7d458bf10
 #EXTINF:-1 tvg-id="room-558264" tvg-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191.jpg" group-title="SocoLive",AGBW: Japan Women vs Hong Kong China Women - HUNTER
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=4b7d06506861ef2ba2c933a80461fcb1&txTime=6aac18d3
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=1de7f37fed9089dcb98aee701ceb9f11&txTime=6aac248b
 #EXTINF:-1 tvg-id="room-597929" tvg-logo="https://sta.vnres.co/file/common/20260312/cb002ebc914e9240a9242c43ec27aacb.jpg" group-title="SocoLive",ACL2: Adelaide United vs Tai Po - BLV CÁO
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1789645443-0-0-c1386f9367476395ca581c9fc8b5ad95
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1789648443-0-0-3c8e9127d56ed17865764f6e0ab687f4
 #EXTINF:-1 tvg-id="room-603255" tvg-logo="https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7.png" group-title="SocoLive",AGSW: Hong Kong Women vs Philippines Women - BLV LION
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1789645443-0-0-ce5a924dca1a92f70d5744a9c2ac4a94
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1789648443-0-0-b899e23ddc36762126eb5697056c0f89
 #EXTINF:-1 tvg-id="room-619561" tvg-logo="https://sta.vnres.co/file/common/20260729/d06a0efe274bce28547238bec2a125b9.jpg" group-title="SocoLive",ACL2: Lion City Sailors vs BG Pathum United - BÚN ĐẬU
-https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1789645443-0-0-d0d42bc845dca6bcdf9d65b91c9ae725
+https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1789648443-0-0-1417281ab61d11b27d85a68bcbb575e6
 #EXTINF:-1 tvg-id="room-620084" tvg-logo="https://sta.vnres.co/file/common/20260713/cbd81ea71d49b5b5f074a5f56678a9b6.png" group-title="SocoLive",ACL2: Adelaide United vs Tai Po - PEANUT
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789645443-0-0-d5b55f70a396ce53ec89fbe958ac688f
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789648443-0-0-0a4e4a99435071856f29cc8cec173578
 #EXTINF:-1 tvg-id="room-620504" tvg-logo="https://sta.vnres.co/file/common/20260802/d0b756ac34b8f00d22a6d687f86fe8b2.jpg" group-title="SocoLive",AGSW: Hong Kong Women vs Philippines Women - BOSS
-https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1789645443-0-0-d76c84daf3563bf0ebae4dea63557d1d
+https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1789648443-0-0-f7d52157093a1d734a0c419e069d06f3
 #EXTINF:-1 tvg-id="room-9912008" tvg-logo="https://sta.vnres.co/file/common/20260915/e860b360c576d0e840a1eee21c4c9eb1.png" group-title="SocoLive",AGSW: Vietnam Women vs Japan Women - BLV TOMIA
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789645443-0-0-259d4bb98e06f3b113f3abd6be83af01
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789648496-0-0-c6c86f0aa383df6c41b2d4261808d4b4
 #EXTINF:-1 tvg-id="room-9912041" tvg-logo="https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56.jpg" group-title="SocoLive",AGSW: Vietnam Women vs Japan Women - BLV TAP
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=cd9117c6fa71b25955221179372a125f&txTime=6aac18d3
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=db089c9f008135daa09709b1a5fe0c40&txTime=6aac248b
 #EXTINF:-1 tvg-id="room-9912079" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b.jpg" group-title="SocoLive",Tường thuật: ACL2 - The Cong-Viettel vs Melbourne Victory - Rắn ở đáy sông
-https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=3f113ab05bb6a7ea35c17aa6e58f0da9&txTime=6aac18d3
+https://pull.niur.live/live/stream-9912079_lhd.m3u8?txSecret=1acf7aeeacf03f6cbd3d8c312d1f54a3&txTime=6aac248b
 #EXTINF:-1 tvg-id="room-9912091" tvg-logo="https://sta.vnres.co/file/common/20260917/c31618842f17ba6618dfd601bdee2d7d.png" group-title="SocoLive",ACL2: Machida Zelvia vs Preah Khan Reach Svay Rieng FC - BLV Củ Cải
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789645443-0-0-1cbceab16d2aea0ec2140d2ac73d77ac
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789648443-0-0-64efc95bfc0bbddad22ed70859098a86
 #EXTINF:-1 tvg-id="room-9912099" tvg-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b.jpg" group-title="SocoLive",BCL: VEF Riga vs Dziki Warszawa - KING
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789645443-0-0-ccc1c103a6518ca75d2175e011b6251b
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1789648443-0-0-eaa0a7dc1259d1537d0a7e4029bc8ac1
 #EXTINF:-1 tvg-id="room-9912106" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d.jpg" group-title="SocoLive",AGBW: Japan Women vs Hong Kong China Women - BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789645443-0-0-b96b031f5a13effc6e66517148eb4b55
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1789648443-0-0-758e60779fe7f225626e9048a13a2fa6
 #EXTINF:-1 tvg-id="room-9912110" tvg-logo="https://sta.vnres.co/file/common/20260914/4668dc4fe05d802b4fda3b6c5027b260.png" group-title="SocoLive",AGSW: Vietnam Women vs Japan Women - BLV ĐỐM
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789645443-0-0-b52b1f38cb6a490d4cc47491579b3770
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789648443-0-0-3edfbcd6ebc8deea56e330c16fe0a7d1
 #EXTINF:-1 tvg-id="room-9912119" tvg-logo="https://sta.vnres.co/file/common/20260829/f624027ec79ccc757bf8d5a663d63763.jpg" group-title="SocoLive",ACL2: Machida Zelvia vs Preah Khan Reach Svay Rieng FC - HẢI THANH
-https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789645443-0-0-cb5b9968223a71c73496eff553d4956e
+https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789648443-0-0-180f5810a405230236a564b75fc7a4fc
 #EXTINF:-1 tvg-id="room-9912122" tvg-logo="https://sta.vnres.co/file/common/20260620/4cbae14a2d06d1635a160fc8c2beb182.jpg" group-title="SocoLive",ACL2: Lion City Sailors vs BG Pathum United - RICKHANTER
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=76a194674651b00ec3dcec322bd907e3&txTime=6aac18d3
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=88b413664da0f28d9c22fefa70728412&txTime=6aac248b
 #EXTINF:-1 tvg-id="room-9912126" tvg-logo="https://sta.vnres.co/file/common/20260715/0e572fd7d0bfc5ce5cf538c09b8cace4.jpg" group-title="SocoLive",AGSW: Myanmar Women vs North Korea Women - SEVEN
-https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=7c518c8a9df5f4817f944bc536f3a839&txTime=6aac18d3
+https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=932f8721ccf98196b5d8346e1dbe4a31&txTime=6aac248b
 #EXTINF:-1 tvg-id="room-9912128" tvg-logo="https://sta.vnres.co/file/common/20260729/2cca708e4ee1d3e988c578ff79960d7b.jpg" group-title="SocoLive",ACL2: Adelaide United vs Tai Po - CACAO
-https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789645443-0-0-6b2a666475791f2f8ed12144c4fbcfdc
-#EXTINF:-1 tvg-id="room-9912132" tvg-logo="https://sta.vnres.co/file/common/20260613/cc7eb6fb9d74dfa083a48c861b135ae8.jpg" group-title="SocoLive",ACL2: Lion City Sailors vs BG Pathum United - BLV XO
-https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=c39715a358eec1d3088caf1d99c05425&txTime=6aac19ff
-#EXTINF:-1 tvg-id="room-9912136" tvg-logo="https://sta.vnres.co/file/common/20260810/b792b2c329f2ffe44037f2d5973945de.jpg" group-title="SocoLive",ACL2: Adelaide United vs Tai Po - BLV LONG
-https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=9ca16866643b413135dadad6186f985e&txTime=6aac19ff
-#EXTINF:-1 tvg-id="room-9912140" tvg-logo="https://sta.vnres.co/file/common/20260807/a76465a880a2789f42e440cf03e9db6b.jpg" group-title="SocoLive",ACL2: Machida Zelvia vs Preah Khan Reach Svay Rieng FC - SAO LA
-https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=c7fde3633b00afcf86a1d384dfe4414c&txTime=6aac19ff
-#EXTINF:-1 tvg-id="room-9912143" tvg-logo="https://sta.vnres.co/file/common/20260908/25a8cd45f3d227a96b46e77ba0d942c2.png" group-title="SocoLive",AGSW: Vietnam Women vs Japan Women - NGƯỜI CÁ
-https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789645743-0-0-d29e97807babb699edfc284f0f758187
-#EXTINF:-1 tvg-id="room-9912144" tvg-logo="https://sta.vnres.co/file/common/20260917/a0e2c539e402282b04b29a06d1aeeb11.png" group-title="SocoLive",AGSW: Vietnam Women vs Japan Women - TẠ BIÊN GIỚI
-https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1789645743-0-0-fee0e9cb64ce2a0dad094857dd31b6d3
-#EXTINF:-1 tvg-id="room-9912145" tvg-logo="https://sta.vnres.co/file/common/20260916/38541c72a8c12d8baa1c120cd489d9a9.jpg" group-title="SocoLive",ACL2: Machida Zelvia vs Preah Khan Reach Svay Rieng FC - ZIDANE
-https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789645743-0-0-d8a371536b6e023656be7656f9d8879c
-#EXTINF:-1 tvg-id="room-9912146" tvg-logo="https://sta.vnres.co/file/common/20260829/f6903a1879b3c7cc22d27c658db14d94.png" group-title="SocoLive",ACL2: Machida Zelvia vs Preah Khan Reach Svay Rieng FC - BLV CUỘI
-https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789645743-0-0-80eca7f647bece5d9a3f2f44b9dc3c15
+https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789648443-0-0-e01d3974afb50bd862434bceea425de9
