@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>SoCoLive — Lượt truy cập</title>
+<style>
+:root{
+  --bg:#0a0a0e;--card:#13141b;--card2:#1a1b24;--line:#22ffffff;--txt:#fff;--muted:#8e95a5;
+  --brand:#00e676;--live:#ff334b;--cyan:#00e5ff;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--txt);font-family:-apple-system,'Segoe UI',Roboto,sans-serif;min-height:100vh;padding:24px}
+.wrap{max-width:720px;margin:0 auto}
+h1{font-size:22px;font-weight:700;margin-bottom:4px}
+.sub{color:var(--muted);font-size:13px;margin-bottom:20px}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-bottom:20px}
+.tile{background:var(--card);border:1px solid var(--line);border-radius:16dp;padding:18px}
+.tile .label{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.5px}
+.tile .val{font-size:30px;font-weight:700;margin-top:6px}
+.tile .val.green{color:var(--brand)}
+.tile .val.cyan{color:var(--cyan)}
+.panel{background:var(--card2);border:1px solid var(--line);border-radius:16px;padding:20px}
+.panel h2{font-size:14px;color:var(--muted);margin-bottom:14px;font-weight:600}
+.bars{display:flex;align-items:flex-end;gap:8px;height:120px}
+.bar-col{flex:1;display:flex;flex-direction:column;align-items:center;gap:6px}
+.bar{width:100%;max-width:48px;background:var(--brand);border-radius:6px 6px 0 0;min-height:4px;transition:height .3s}
+.bar-col .day{font-size:11px;color:var(--muted)}
+.bar-col .cnt{font-size:11px;font-weight:600;color:var(--txt)}
+.foot{margin-top:16px;font-size:11px;color:var(--muted);text-align:center}
+.live-dot{display:inline-block;width:8px;height:8px;background:var(--live);border-radius:50%;margin-right:6px;animation:pulse 1.5s infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.4}}
+.spinner{display:flex;justify-content:center;padding:60px;color:var(--muted);font-size:14px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1><span class="live-dot"></span>SoCoLive — Thống kê truy cập</h1>
+  <div class="sub">Số lượt tải M3U / JSON playlist theo thời gian thực</div>
+  <div id="main"><div class="spinner">Đang tải dữ liệu…</div></div>
+</div>
+<script>
+const STATS_URL = 'https://socolive-scanner.htuananh153.workers.dev/stats';
+
+function fmt(n){ return n>=1000 ? n.toLocaleString('en-US') : String(n); }
+
+function render(data){
+  const days = Object.entries(data.by_day||{});
+  const maxVal = Math.max(...days.map(d=>d[1]), 1);
+  const barsHtml = days.map(([day,cnt])=>{
+    const h = Math.max(4, Math.round((cnt/maxVal)*100));
+    const label = day.slice(5).replace('-','/');
+    return `<div class="bar-col"><div class="cnt">${fmt(cnt)}</div><div class="bar" style="height:${h}px"></div><div class="day">${label}</div></div>`;
+  }).join('');
+
+  const lastTxt = data.last ? new Date(data.last).toLocaleString('vi-VN',{timeZone:'Asia/Ho_Chi_Minh',day:'2-digit',month:'2-digit',hour:'2-digit',minute:'2-digit'}) : 'chưa có dữ liệu';
+
+  document.getElementById('main').innerHTML = `
+    <div class="grid">
+      <div class="tile"><div class="label">Tổng truy cập</div><div class="val green">${fmt(data.total)}</div></div>
+      <div class="tile"><div class="label">Hôm nay</div><div class="val cyan">${fmt(data.today)}</div></div>
+      <div class="tile"><div class="label">Lần cuối</div><div class="val" style="font-size:16px;margin-top:12px">${lastTxt}</div></div>
+    </div>
+    <div class="panel">
+      <h2>7 NGÀY VỪA QUA</h2>
+      <div class="bars">${barsHtml}</div>
+    </div>
+    <div class="foot">Tự động cập nhật mỗi 30s &middot; ${STATS_URL.replace('https://','')}</div>
+  `;
+}
+
+async function load(){
+  try{
+    const r = await fetch(STATS_URL,{cache:'no-store'});
+    if(!r.ok) throw new Error('HTTP '+r.status);
+    const data = await r.json();
+    render(data);
+  }catch(e){
+    document.getElementById('main').innerHTML =
+      `<div class="spinner" style="color:var(--live)">Không kết nối được stats: ${e.message}</div>`;
+  }
+}
+load();
+setInterval(load, 30000);
+</script>
+</body>
+</html>
